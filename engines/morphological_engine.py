@@ -484,212 +484,99 @@ class _AjwafYaaConjugator(_AjwafWawConjugator):
 # الناقص اليائي — رَمَى / يَرْمِي / اِرْمِ
 # ══════════════════════════════════════════════════════════════════════
 
-class _NaqisYaaConjugator(_SahihConjugator):
-    """ر٣ = ياء. الإعلال: الياء المتحركة → ألف مقصورة في الماضي."""
+class _NaqisConjugator(_SahihConjugator):
+    """الناقص (لامه واو أو ياء) بحسب حركة عين الماضي والمضارع — إعادة كتابة 2026-11-06 (تغلق D-M05/D-M06/D-M07
+    وعيب الناقص على فَعِلَ). السند: الشذا (باب الناقص)، وشرح الرضي على الشافية (الإعلال بالقلب والحذف).
+      الماضي:  فَعَلَ رَمَى/دَعَا، رَمَيْتُ/دَعَوْتُ، رَمَوْا · فَعِلَ بَقِيَ/رَضِيَ، بَقُوا · فَعُلَ سَرُوَ، سَرُوا
+      المجهول: رُمِيَ/دُعِيَ، رُمُوا · المضارع: كسر يَرْمِي، ضمّ يَدْعُو، فتح يَبْقَى/يَسْعَى (والمجهول يُرْمَى/يُدْعَى)
+      الجزم بحذف حرف العلّة: يَرْمِ، يَدْعُ، يَبْقَ · الأمر: اِرْمِ، اُدْعُ، اِبْقَ"""
+    R = Y
 
-    def past_active(self) -> list[tuple]:
-        r1, r2 = self.r1, self.r2
-        vp = self.vp
-        # هو: رَمَى (ألف مقصورة)
-        base_huw = r1 + F + r2 + vp + "ى"
-        # هي: رَمَتْ
-        base_hi  = r1 + F + r2 + vp + Y
-        # هما م: رَمَيَا
-        # هم: رَمَوْا ← رَمَيُوا (الياء قلبت واواً)
-        # هن: رَمَيْنَ
-        results = []
+    def _past(self, b, v):
+        """b = ر١+فتحة/ضمة+ر٢ ، v = حركة العين"""
+        R = self.R
+        res = []
         for pgn, sfx in PAST_ACT_SFX.items():
-            if pgn == ("غائب", "مفرد", "مذكر"):
-                form = base_huw
-            elif pgn == ("غائب", "مفرد", "مؤنث"):
-                form = r1 + F + r2 + vp + "تْ"            # رَمَتْ (حذف الياء)
-            elif pgn == ("غائب", "مثنى", "مذكر"):
-                form = r1 + F + r2 + vp + Y + F + A       # رَمَيَا
-            elif pgn == ("غائب", "مثنى", "مؤنث"):
-                form = r1 + F + r2 + vp + "تَا"           # رَمَتَا
-            elif pgn == ("غائب", "جمع", "مذكر"):
-                form = r1 + F + r2 + vp + W + S + A       # رَمَوْا
-            elif pgn == ("غائب", "جمع", "مؤنث"):
-                form = r1 + F + r2 + vp + Y + S + "نَ"   # رَمَيْنَ
+            if v == F:                                   # رَمَى، دَعَا
+                if pgn == ("غائب", "مفرد", "مذكر"):
+                    f = b + F + ("ى" if R == Y else A)
+                elif pgn in (("غائب", "مفرد", "مؤنث"), ("غائب", "مثنى", "مؤنث")):
+                    f = b + F + sfx[1:]                  # رَمَتْ، رَمَتَا
+                elif pgn == ("غائب", "جمع", "مذكر"):
+                    f = b + F + W + S + A                # رَمَوْا
+                elif pgn == ("غائب", "مثنى", "مذكر"):
+                    f = b + F + R + F + A                # رَمَيَا، دَعَوَا
+                else:
+                    f = b + F + R + sfx                  # رَمَيْتَ، دَعَوْنَ
             else:
-                # خطاب/متكلم: رَمَيْتَ
-                base_d = r1 + F + r2 + vp + Y
-                form = base_d + sfx
-            results.append((form, pgn))
-        return results
+                L = Y if v == K else W                   # بَقِيَ/رَضِيَ ، سَرُوَ
+                if pgn == ("غائب", "جمع", "مذكر"):
+                    f = b + D + W + A                    # بَقُوا، سَرُوا، رُمُوا
+                elif sfx.startswith(S):
+                    f = b + v + L + sfx                  # بَقِيتَ، بَقِينَ
+                else:
+                    f = b + v + L + sfx                  # بَقِيَ، بَقِيَتْ، بَقِيَا
+            res.append((f, pgn))
+        return res
 
-    def past_passive(self) -> list[tuple]:
-        r1, r2 = self.r1, self.r2
-        # رُمِيَ
-        results = []
-        for pgn, sfx in PAST_PASS_SFX.items():
-            if pgn == ("غائب", "مفرد", "مذكر"):
-                form = r1 + D + r2 + K + Y + F
-            elif pgn == ("غائب", "مفرد", "مؤنث"):
-                form = r1 + D + r2 + K + F + "تْ"
-            elif pgn == ("غائب", "مثنى", "مذكر"):
-                form = r1 + D + r2 + K + Y + F + A
-            elif pgn == ("غائب", "مثنى", "مؤنث"):
-                form = r1 + D + r2 + K + F + "تَا"
-            elif pgn == ("غائب", "جمع", "مذكر"):
-                form = r1 + D + r2 + K + Y + D + W + A
-            elif pgn == ("غائب", "جمع", "مؤنث"):
-                form = r1 + D + r2 + K + Y + S + "نَ"
+    def past_active(self):
+        return self._past(self.r1 + F + self.r2, self.vp)
+
+    def past_passive(self):
+        return self._past(self.r1 + D + self.r2, K)
+
+    def _present(self, pre_v, v, tbl):
+        """pre_v حركة حرف المضارعة، v حركة العين في المضارع، tbl جدول اللواحق (يُعرف المزاج منه)."""
+        st = self.r1 + S + self.r2
+        res = []
+        for pgn, sfx in tbl.items():
+            p = PRES_PREFIX[pgn][0] + pre_v
+            if v == F:                                   # يَبْقَى، يُرْمَى
+                m = {D: "ى", F: "ى", S: "", F + A + "نِ": Y + F + A + "نِ", F + A: Y + F + A,
+                     D + W + "نَ": W + S + "نَ", D + W + A: W + S + A, S + "نَ": Y + S + "نَ",
+                     K + Y + "نَ": Y + S + "نَ", K + Y: Y + S}[sfx]
+                f = p + st + F + m
+            elif v == K:                                 # يَرْمِي
+                m = {D: K + Y, F: K + Y + F, S: K, F + A + "نِ": K + Y + F + A + "نِ", F + A: K + Y + F + A,
+                     D + W + "نَ": D + W + "نَ", D + W + A: D + W + A, S + "نَ": K + Y + "نَ",
+                     K + Y + "نَ": K + Y + "نَ", K + Y: K + Y}[sfx]
+                f = p + st + m
+            else:                                        # يَدْعُو
+                m = {D: D + W, F: D + W + F, S: D, F + A + "نِ": D + W + F + A + "نِ", F + A: D + W + F + A,
+                     D + W + "نَ": D + W + "نَ", D + W + A: D + W + A, S + "نَ": D + W + "نَ",
+                     K + Y + "نَ": K + Y + "نَ", K + Y: K + Y}[sfx]
+                f = p + st + m
+            res.append((f, pgn))
+        return res
+
+    def present_active(self, sfx_tbl, mood):
+        return self._present(F, self.vm, sfx_tbl)
+
+    def present_passive(self, sfx_tbl):
+        return self._present(D, F, sfx_tbl)
+
+    def imperative(self):
+        v = self.vm
+        hw = "اُ" if v == D else "اِ"
+        st = hw + self.r1 + S + self.r2
+        res = []
+        for pgn, sfx in IMP_SFX.items():
+            if v == F:
+                m = {S: F, K + Y: F + Y + S, F + A: F + Y + F + A, D + W + A: F + W + S + A, S + "نَ": F + Y + S + "نَ"}[sfx]
+            elif v == K:
+                m = {S: K, K + Y: K + Y, F + A: K + Y + F + A, D + W + A: D + W + A, S + "نَ": K + Y + "نَ"}[sfx]
             else:
-                base_d = r1 + D + r2 + K + Y
-                form = base_d + sfx
-            results.append((form, pgn))
-        return results
-
-    def _present_stem(self) -> str:
-        # يَرْمِي: ر١ + سكون + ر٢ + كسرة + ياء
-        return self.r1 + S + self.r2 + K + Y
-
-    def present_active(self, sfx_tbl: dict, mood: str) -> list[tuple]:
-        r1, r2 = self.r1, self.r2
-        results = []
-        for pgn, sfx in sfx_tbl.items():
-            if sfx == S:
-                # مجزوم: حذف الياء ← يَرْمِ
-                stem = r1 + S + r2 + K
-            else:
-                stem = r1 + S + r2 + K + Y
-            form = PRES_PREFIX[pgn] + stem + sfx
-            results.append((form, pgn))
-        return results
-
-    def present_passive(self, sfx_tbl: dict) -> list[tuple]:
-        r1, r2 = self.r1, self.r2
-        results = []
-        for pgn, sfx in sfx_tbl.items():
-            pre = PRES_PREFIX[pgn]
-            if sfx == S:
-                stem = r1 + S + r2 + F
-            else:
-                stem = r1 + S + r2 + F + "ى"
-            form = pre[0] + D + stem + sfx
-            results.append((form, pgn))
-        return results
-
-    def imperative(self) -> list[tuple]:
-        r1, r2 = self.r1, self.r2
-        # ناقص يائي: الأمر يُفرَّق حسب الضمير
-        results = []
-        for pgn in IMP_SFX.keys():
-            if pgn == ("مخاطب", "مفرد", "مذكر"):
-                form = "اِ" + r1 + S + r2 + K          # اِرْمِ (حذف الياء)
-            elif pgn == ("مخاطب", "مفرد", "مؤنث"):
-                form = "اِ" + r1 + S + r2 + K + Y       # اِرْمِي (الياء هي علامة المؤنث)
-            elif pgn[1] == "مثنى":
-                form = "اِ" + r1 + S + r2 + K + Y + F + A  # اِرْمِيَا
-            elif pgn == ("مخاطب", "جمع", "مذكر"):
-                form = "اِ" + r1 + S + r2 + D + W + A   # اِرْمُوا (الياء → واو)
-            else:
-                form = "اِ" + r1 + S + r2 + K + Y + S + "نَ"  # اِرْمِيْنَ
-            results.append((form, pgn))
-        return results
+                m = {S: D, K + Y: K + Y, F + A: D + W + F + A, D + W + A: D + W + A, S + "نَ": D + W + "نَ"}[sfx]
+            res.append((st + m, pgn))
+        return res
 
 
-# ══════════════════════════════════════════════════════════════════════
-# الناقص الواوي — دَعَا / يَدْعُو / اُدْعُ
-# ══════════════════════════════════════════════════════════════════════
+class _NaqisYaaConjugator(_NaqisConjugator):
+    R = Y
 
-class _NaqisWawConjugator(_SahihConjugator):
-    """ر٣ = واو. الماضي: دَعَا (ألف). المضارع: يَدْعُو."""
 
-    def past_active(self) -> list[tuple]:
-        r1, r2 = self.r1, self.r2
-        vp = self.vp
-        results = []
-        for pgn, sfx in PAST_ACT_SFX.items():
-            if pgn == ("غائب", "مفرد", "مذكر"):
-                form = r1 + F + r2 + vp + A                   # دَعَا
-            elif pgn == ("غائب", "مفرد", "مؤنث"):
-                form = r1 + F + r2 + vp + "تْ"                 # دَعَتْ
-            elif pgn == ("غائب", "مثنى", "مذكر"):
-                form = r1 + F + r2 + vp + W + F + A             # دَعَوَا
-            elif pgn == ("غائب", "مثنى", "مؤنث"):
-                form = r1 + F + r2 + vp + "تَا"                # دَعَتَا
-            elif pgn == ("غائب", "جمع", "مذكر"):
-                form = r1 + F + r2 + vp + W + S + A             # دَعَوْا
-            elif pgn == ("غائب", "جمع", "مؤنث"):
-                form = r1 + F + r2 + vp + W + S + "نَ"        # دَعَوْنَ
-            else:
-                base_d = r1 + F + r2 + vp + W
-                form = base_d + sfx
-            results.append((form, pgn))
-        return results
-
-    def past_passive(self) -> list[tuple]:
-        r1, r2 = self.r1, self.r2
-        # دُعِيَ (واو → ياء في المجهول)
-        results = []
-        for pgn, sfx in PAST_PASS_SFX.items():
-            if pgn == ("غائب", "مفرد", "مذكر"):
-                form = r1 + D + r2 + K + Y + F
-            elif pgn == ("غائب", "مفرد", "مؤنث"):
-                form = r1 + D + r2 + K + F + "تْ"
-            elif pgn == ("غائب", "مثنى", "مذكر"):
-                form = r1 + D + r2 + K + Y + F + A
-            elif pgn == ("غائب", "مثنى", "مؤنث"):
-                form = r1 + D + r2 + K + F + "تَا"
-            elif pgn == ("غائب", "جمع", "مذكر"):
-                form = r1 + D + r2 + K + Y + D + W + A
-            elif pgn == ("غائب", "جمع", "مؤنث"):
-                form = r1 + D + r2 + K + Y + S + "نَ"
-            else:
-                base_d = r1 + D + r2 + K + Y
-                form = base_d + sfx
-            results.append((form, pgn))
-        return results
-
-    def _present_stem(self) -> str:
-        # يَدْعُو: ر١ + سكون + ر٢ + ضمة + واو
-        return self.r1 + S + self.r2 + D + W
-
-    def present_active(self, sfx_tbl: dict, mood: str) -> list[tuple]:
-        r1, r2 = self.r1, self.r2
-        results = []
-        for pgn, sfx in sfx_tbl.items():
-            if sfx == S:
-                # مجزوم: حذف الواو ← يَدْعُ
-                stem = r1 + S + r2 + D
-            else:
-                stem = r1 + S + r2 + D + W
-            form = PRES_PREFIX[pgn] + stem + sfx
-            results.append((form, pgn))
-        return results
-
-    def present_passive(self, sfx_tbl: dict) -> list[tuple]:
-        r1, r2 = self.r1, self.r2
-        results = []
-        for pgn, sfx in sfx_tbl.items():
-            pre = PRES_PREFIX[pgn]
-            if sfx == S:
-                stem = r1 + S + r2 + F
-            else:
-                stem = r1 + S + r2 + F + A
-            form = pre[0] + D + stem + sfx
-            results.append((form, pgn))
-        return results
-
-    def imperative(self) -> list[tuple]:
-        r1, r2 = self.r1, self.r2
-        # ناقص واوي: الأمر يُفرَّق حسب الضمير
-        results = []
-        for pgn in IMP_SFX.keys():
-            if pgn == ("مخاطب", "مفرد", "مذكر"):
-                form = "اُ" + r1 + S + r2 + D           # اُدْعُ (حذف الواو)
-            elif pgn == ("مخاطب", "مفرد", "مؤنث"):
-                form = "اُ" + r1 + S + r2 + K + Y       # اُدْعِي (واو → ياء + كسرة)
-            elif pgn[1] == "مثنى":
-                form = "اُ" + r1 + S + r2 + D + W + F + A  # اُدْعُوَا
-            elif pgn == ("مخاطب", "جمع", "مذكر"):
-                form = "اُ" + r1 + S + r2 + D + W + A   # اُدْعُوا
-            else:
-                form = "اُ" + r1 + S + r2 + D + W + S + "نَ"  # اُدْعُوْنَ
-            results.append((form, pgn))
-        return results
+class _NaqisWawConjugator(_NaqisConjugator):
+    R = W
 
 
 # ══════════════════════════════════════════════════════════════════════

@@ -13,7 +13,7 @@ from core.support import Unsupported, check_supported
 from engines.morphological_engine import conjugate
 
 EV = os.path.expanduser("~/arabic-net/HusseinFrameNet/release/release_v36/events.csv")
-OUT = os.path.join(H, "evidence", "classifier_auto_v2.tsv")   # v2: قاعدة فَعُلَ الواوي
+OUT = os.path.join(H, "evidence", "classifier_auto_v3.tsv")   # v3: الناقص بحسب حركة العين
 HU = ("غائب", "مفرد", "مذكر")
 
 

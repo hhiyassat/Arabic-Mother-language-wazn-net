@@ -571,6 +571,128 @@ class _NaqisConjugator(_SahihConjugator):
         return res
 
 
+class _MudaafConjugator2(_SahihConjugator):
+    """المضعّف — إعادة كتابة 2026-11-06 (تغلق D-M01/D-M02). يُدغم ما تحرّك ثانيه، ويُفكّ قبل ضمير رفع متحرّك
+    أو نون النسوة (رَدَدْتُ، يَرْدُدْنَ)؛ الجزم والأمر للمفرد بالإدغام مفتوحاً (يَرُدَّ، رُدَّ) والفكّ جائز (C5).
+    السند: سيبويه (باب ما يُدغم في مثله)، الشذا (المضعّف)."""
+
+    def _past(self, b1, v):
+        X = self.r2
+        m, s = b1 + X + SH, b1 + X + v + X
+        res = []
+        for g, sfx in PAST_ACT_SFX.items():
+            if g == ("غائب", "جمع", "مذكر"):
+                res.append((m + D + W + A, g))
+            elif sfx.startswith(S):
+                res.append((s + sfx, g))
+            else:
+                res.append((m + sfx, g))
+        return res
+
+    def past_active(self):
+        return self._past(self.r1 + F, self.vp)
+
+    def past_passive(self):
+        return self._past(self.r1 + D, K)
+
+    def _pres(self, pv, v, tbl, jazm=False):
+        X, r1 = self.r2, self.r1
+        m, s = r1 + v + X + SH, r1 + S + X + v + X
+        res = []
+        for g, sfx in tbl.items():
+            p = PRES_PREFIX[g][0] + pv
+            if sfx == S + "نَ":
+                res.append((p + s + sfx, g))
+            elif jazm and sfx == S:
+                res.append((p + m + F, g))                 # يَرُدَّ
+            else:
+                res.append((p + m + sfx, g))
+        return res
+
+    def present_active(self, tbl, mood):
+        return self._pres(F, self.vm, tbl, jazm=(mood == "مجزوم"))
+
+    def present_passive(self, tbl):
+        return self._pres(D, F, tbl)
+
+    def imperative(self):
+        X, r1, v = self.r2, self.r1, self.vm
+        m = r1 + v + X + SH
+        hw = "اُ" if v == D else "اِ"
+        res = []
+        for g, sfx in IMP_SFX.items():
+            if sfx == S:
+                res.append((m + F, g))                     # رُدَّ
+            elif sfx == S + "نَ":
+                res.append((hw + r1 + S + X + v + X + sfx, g))   # اُرْدُدْنَ
+            else:
+                res.append((m + sfx, g))                   # رُدِّي، رُدَّا، رُدُّوا
+        return res
+
+
+class _AjwafConjugator2(_SahihConjugator):
+    """الأجوف — إعادة كتابة 2026-11-06 (تغلق D-M04). الماضي والمجهول كما في المصرّفين السابقين؛
+    المضارع والأمر: حرف المدّ يُحذف لالتقاء الساكنين (يَقُلْ، يَقُلْنَ، قُلْ، قُلْنَ) ويبقى قبل المتحرّك (قُولِي، يَقُولُوا).
+    السند: الشذا (الأجوف)، شرح الرضي (الحذف لالتقاء الساكنين)."""
+    _BASE = None
+
+    def __init__(self, r1, r2, r3, baab):
+        super().__init__(r1, r2, r3, baab)
+        self._old = self._BASE(r1, r2, r3, baab)
+
+    def past_active(self):
+        return self._old.past_active()
+
+    def past_passive(self):
+        return self._old.past_passive()
+
+    def _madd(self, v):
+        return {D: W, K: Y, F: A}[v]
+
+    def _pres(self, pv, v, tbl, jazm=False):
+        r1, r3 = self.r1, self.r3
+        long, short = r1 + v + self._madd(v) + r3, r1 + v + r3
+        res = []
+        for g, sfx in tbl.items():
+            p = PRES_PREFIX[g][0] + pv
+            if sfx == S + "نَ" or (jazm and sfx == S):
+                res.append((p + short + sfx, g))
+            else:
+                res.append((p + long + sfx, g))
+        return res
+
+    def present_active(self, tbl, mood):
+        return self._pres(F, self.vm, tbl, jazm=(mood == "مجزوم"))
+
+    def present_passive(self, tbl):
+        return self._pres(D, F, tbl)
+
+    def imperative(self):
+        r1, r3, v = self.r1, self.r3, self.vm
+        res = []
+        for g, sfx in IMP_SFX.items():
+            if sfx in (S, S + "نَ"):
+                res.append((r1 + v + r3 + sfx, g))         # قُلْ، قُلْنَ
+            else:
+                res.append((r1 + v + self._madd(v) + r3 + sfx, g))
+        return res
+
+
+class _AjwafWawConjugator2(_AjwafConjugator2):
+    _BASE = _AjwafWawConjugator
+
+
+class _AjwafYaaConjugator2(_AjwafConjugator2):
+    _BASE = _AjwafYaaConjugator
+
+
+class _MithalWawConjugator2(_MithalWawConjugator):
+    """المضارع المجهول يردّ الواو: يُوصَلُ (تغلق D-M03)."""
+
+    def present_passive(self, tbl):
+        return [(PRES_PREFIX[g][0] + D + W + self.r2 + F + self.r3 + sfx, g) for g, sfx in tbl.items()]
+
+
 class _NaqisYaaConjugator(_NaqisConjugator):
     R = Y
 
@@ -591,10 +713,10 @@ def _get_conjugator(letters: str, root_type: RootType, baab: Baab):
     r1, r2, r3 = chars[0], chars[1], chars[2]
 
     dispatch = {
-        RootType.MUDAAF:      _MudaafConjugator,
-        RootType.MITHAL_WAW:  _MithalWawConjugator,
-        RootType.AJWAF_WAW:   _AjwafWawConjugator,
-        RootType.AJWAF_YAA:   _AjwafYaaConjugator,
+        RootType.MUDAAF:      _MudaafConjugator2,
+        RootType.MITHAL_WAW:  _MithalWawConjugator2,
+        RootType.AJWAF_WAW:   _AjwafWawConjugator2,
+        RootType.AJWAF_YAA:   _AjwafYaaConjugator2,
         RootType.NAQIS_YAA:   _NaqisYaaConjugator,
         RootType.NAQIS_WAW:   _NaqisWawConjugator,
     }

@@ -9,6 +9,7 @@ from typing import Optional
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 from core.types import RootType, Baab
+from core.support import check_supported
 
 
 # ══════════════════════════════════════════════════════════════════════
@@ -63,13 +64,13 @@ Y  = "ي"   # ياء
 
 
 def _r2_past_v(baab: Baab) -> str:
-    if baab == Baab.FAI_YAF_A: return K
+    if baab in (Baab.FAI_YAF_A, Baab.FAI_YAF_I): return K
     if baab == Baab.FAU_YAF_U: return D
     return F
 
 def _r2_pres_v(baab: Baab) -> str:
     if baab in (Baab.FAA_YAF_U, Baab.FAU_YAF_U): return D
-    if baab == Baab.FAA_YAF_I:                     return K
+    if baab in (Baab.FAA_YAF_I, Baab.FAI_YAF_I):   return K
     return F
 
 
@@ -695,17 +696,11 @@ class _NaqisWawConjugator(_SahihConjugator):
 # اختيار المُصرِّف
 # ══════════════════════════════════════════════════════════════════════
 
-# fail-closed (D-M08): أنواع بلا مُصرِّف — لا تُعامَل بصمت كالصحيح
-_UNSUPPORTED_ROOT_TYPES = (RootType.LAFIF_MAQRUN, RootType.LAFIF_MAFRUQ)
-
 
 def _get_conjugator(letters: str, root_type: RootType, baab: Baab):
     chars = list(letters)
-    if len(chars) != 3:
-        # fail-closed (D-D09): لا مُشتِّق للرباعي، فلا يُقطع إلى ثلاثة أحرف بصمت
-        raise NotImplementedError(f"الجذر يجب أن يكون ثلاثياً، والرباعي غير مدعوم: {letters}")
-    if root_type in _UNSUPPORTED_ROOT_TYPES:
-        raise NotImplementedError(f"لا مُصرِّف لنوع الجذر {root_type.value}: {letters}")
+    # fail-closed (D-D09 الرباعي، D-M08 اللفيف، والمهموز): core/support.py
+    check_supported(letters, root_type)
     r1, r2, r3 = chars[0], chars[1], chars[2]
 
     dispatch = {

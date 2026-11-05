@@ -104,3 +104,4 @@ class Baab(str, Enum):
     FAA_YAF_A = "فَعَلَ يَفْعَلُ"   # فتح يفتَح — فتح-فتح (r2past=a, r2pres=a)
     FAI_YAF_A = "فَعِلَ يَفْعَلُ"   # علم يعلَم — كسر-فتح (r2past=i, r2pres=a)
     FAU_YAF_U = "فَعُلَ يَفْعُلُ"   # كرم يكرُم — ضم-ضم  (r2past=u, r2pres=u)
+    FAI_YAF_I = "فَعِلَ يَفْعِلُ"   # حسب يحسِب، ورث يرِث — كسر-كسر (r2past=i, r2pres=i)

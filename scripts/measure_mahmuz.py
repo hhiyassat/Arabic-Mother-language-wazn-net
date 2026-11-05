@@ -1,0 +1,41 @@
+#!/usr/bin/env python3
+"""measure_mahmuz.py — مقابلة اسمَي الفاعل والمفعول للمهموز السالم (derive_names) بمداخل HFN v36 (lexical_units: اسم فاعل/اسم مفعول).
+المقارنة مرّتين: بعد توحيد كرسي الهمزة (لأن HFN يكتبها على السطر أحياناً)، وحرفاً بحرف (الرسم). قراءة فقط.
+المخرَج: evidence/mahmuz_vs_hfn_v1.tsv (يرفض الكتابة فوقه)."""
+import csv, os, sys, unicodedata, collections as C
+H = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); sys.path.insert(0, H)
+from core.classify import classify
+from core.support import Unsupported
+from core.types import RootType
+from engines.names_engine import derive_names
+REL = os.path.expanduser("~/arabic-net/HusseinFrameNet/release/release_v36/")
+OUT = os.path.join(H, "evidence", "mahmuz_vs_hfn_v1.tsv")
+def n0(s): return unicodedata.normalize("NFC", s).replace("ْ", "").replace("ٌ", "").replace("ٍ", "").strip()
+def seat(s):
+    s = n0(s)
+    for a in "أإؤئ": s = s.replace(a, "ء")
+    return s.replace("آ", "ءا")
+if os.path.exists(OUT): sys.exit(OUT + " exists")
+E = {e["event_id"]: e for e in csv.DictReader(open(REL + "events.csv", encoding="utf-8")) if e["layer"] in ("الثلاثي", "المجرد")}
+rows, st = [], C.Counter()
+for lu in csv.DictReader(open(REL + "lexical_units.csv", encoding="utf-8")):
+    if lu["pos_ar"] not in ("اسم فاعل", "اسم مفعول") or lu["event_id"] not in E: continue
+    e = E[lu["event_id"]]
+    try:
+        k = classify(e["root_K"], e["verb"])
+    except Unsupported:
+        continue
+    if not k.mahmuz: continue
+    n = derive_names(e["root_K"], RootType.SAHIH, "I", "متعدي")
+    got = n.ism_faail if lu["pos_ar"] == "اسم فاعل" else n.ism_mafuul
+    alts = [got] + (["مَ" + got[2:].replace("ؤ", "ئ")] if "ؤ" in got else [])
+    same_seat = any(seat(a) == seat(lu["lemma"]) for a in alts)
+    exact = any(n0(a) == n0(lu["lemma"]) for a in alts)
+    s = "EXACT" if exact else ("RASM_ONLY" if same_seat else "DIFF")
+    st[(lu["pos_ar"], s)] += 1
+    rows.append(dict(event_id=e["event_id"], root=e["root_K"], verb=e["verb"], pos=lu["pos_ar"], hfn=lu["lemma"], engine=got, status=s, basis=lu["basis"]))
+with open(OUT, "w", encoding="utf-8") as f:
+    w = csv.DictWriter(f, list(rows[0]), delimiter="\t", lineterminator="\n"); w.writeheader(); w.writerows(rows)
+print(len(rows), dict(st))
+for r in rows:
+    if r["status"] == "DIFF": print(" DIFF", r["root"], r["verb"], r["pos"], r["hfn"], "←→", r["engine"])

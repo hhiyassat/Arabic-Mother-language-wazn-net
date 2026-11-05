@@ -9,6 +9,7 @@ from typing import Optional
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 from core.types import RootType, Baab
+from core.support import check_supported
 
 # حركات مختصرة
 F  = "َ"   # فتحة
@@ -138,14 +139,16 @@ def _gen_ism_makan_zaman_I(r1: str, r2: str, r3: str, baab: Baab) -> str:
     """
     اسم المكان والزمان — قياس: مَفْعَل أو مَفْعِل
     الباب فَعَلَ يَفْعِلُ  → مَفْعِل (مَجلِس)
+    الباب فَعِلَ يَفْعِلُ  → مَفْعِل (مَوْرِث) — المضارع مكسور العين
     غير ذلك               → مَفْعَل (مَكتَب)
+    الناقص في فَعِلَ يَفْعِلُ → مَفْعَل (لا يُمدّ عيب D-D06 إلى الباب الجديد)
     الناقص: r3 ∈ {ي,و} → ينتهي بألف مقصورة (ى)
     """
     if r3 in (Y, W):
         if baab == Baab.FAA_YAF_I:
             return "مَ" + r1 + S + r2 + K + "ى"
         return "مَ" + r1 + S + r2 + F + "ى"
-    if baab == Baab.FAA_YAF_I:
+    if baab in (Baab.FAA_YAF_I, Baab.FAI_YAF_I):
         return "مَ" + r1 + S + r2 + K + r3
     return "مَ" + r1 + S + r2 + F + r3
 
@@ -338,12 +341,8 @@ def derive(
         DerivationSet — مجموعة المشتقات الكاملة
     """
     chars = list(letters)
-    if len(chars) != 3:
-        # fail-closed (D-D09): لا مُشتِّق للرباعي، فلا يُقطع إلى ثلاثة أحرف بصمت
-        raise NotImplementedError(f"الجذر يجب أن يكون ثلاثياً، والرباعي غير مدعوم: {letters}")
-    if root_type in (RootType.LAFIF_MAQRUN, RootType.LAFIF_MAFRUQ):
-        # fail-closed (D-M08): لا اشتقاق للفيف — لا يُعامَل بصمت كالصحيح
-        raise NotImplementedError(f"لا مُشتِّق لنوع الجذر {root_type.value}: {letters}")
+    # fail-closed (D-D09 الرباعي، D-M08 اللفيف، والمهموز): core/support.py
+    check_supported(letters, root_type)
     r1, r2, r3 = chars[0], chars[1], chars[2]
 
     ds = DerivationSet(root=letters, root_type=root_type, baab=baab)

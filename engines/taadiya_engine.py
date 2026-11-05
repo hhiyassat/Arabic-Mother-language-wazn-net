@@ -6,8 +6,9 @@ taadiya_engine.py — الحقل الثالث: صلة التعدية (لازم �
 
 المصدر: ~/arabic-net/Arabic-Mother-language-net/ahdath/taadiya_<route>.tsv (قراءة فقط؛ تبنيه الجلسة الأخرى وتقيسه).
 لا يُعرض إلا مسلك قُبل بالقياس (ويلسون الأدنى ≥ 0.78). المسالك المقبولة في ACCEPTED_ROUTES، وتُحدَّث بعد كل قياس.
-  2026-11-06: T (taadiya_T_pool) — 33/53، ويلسون 0.488 → BLOCK؛ T_JAL — لا قياس بعد → غير مقبول.
-فما دام ACCEPTED_ROUTES فارغاً تُرفض كل الطلبات بـ RouteNotAccepted، صراحةً لا تخميناً. CANDIDATE.
+  2026-11-06: T (taadiya_T_pool، الصيغة وحدها) — 33/53، ويلسون 0.488 → BLOCK، لا يُبنى عليه؛
+              T_JAL (نصّ الوسيط «جعله <اللازم>»، 25 زوجاً) — 25/25، ويلسون 0.867 → ACCEPT.
+طلب مسلك غير مقبول يُرفض بـ RouteNotAccepted، صراحةً لا تخميناً. CANDIDATE.
 """
 from __future__ import annotations
 import csv, os, unicodedata
@@ -15,7 +16,7 @@ from dataclasses import dataclass
 
 AHDATH = os.path.expanduser("~/arabic-net/Arabic-Mother-language-net/ahdath")
 ROUTE_FILES = {"T": "taadiya_T_pool.tsv", "T_JAL": "taadiya_T_JAL.tsv"}
-ACCEPTED_ROUTES: dict = {}          # {"T_JAL": "45/50 wilson 0.82"} بعد قياسٍ يجتاز العتبة
+ACCEPTED_ROUTES: dict = {"T_JAL": "25/25 wilson 0.867 (ahdath، نصّ الوسيط «جعله <اللازم>»، 2026-11-06)"}
 
 
 class RouteNotAccepted(LookupError):

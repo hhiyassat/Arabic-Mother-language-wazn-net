@@ -9,13 +9,15 @@ mutawaa_engine.py — الحقل الثاني: صلة الفعل بمطاوعه�
   R1_QABILIYYAT  0.964 (gold_R1_MUTAWAA، qabiliyyat)
   LEX_FORMULA    56/59 = 0.949، ويلسون الأدنى 0.861 (عيّنة 60 ببذرة 20261105، قارئ مستقل من Claude)؛
                  الأخطاء الثلاثة (شدّة فَعَّلَ) أُصلحت في البناء.
+  R1W_WASIT      «X: مطاوع Yه» في الوسيط (ahdath): 0.898، ويلسون 0.795 (2026-11-06). الأصل يُقبل إذا وافق وزنُه وزنَ المطاوع؛
+                 وإلا base فارغ وbase_status=BASE_UNRESOLVED (يُعرف من base_of بنصّ الوسيط في evidence، ولا يظهر في mutawaa_of).
 كل مخرَج CANDIDATE حتى يحكم DR_HUSSEIN.
 """
 from __future__ import annotations
 import csv, os, re, unicodedata
 from dataclasses import dataclass
 
-TABLE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "mutawaa.tsv")
+TABLE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "mutawaa_v2.tsv")   # v2: + R1W_WASIT
 _SUKUN = re.compile("ْ")
 
 
@@ -53,7 +55,8 @@ def _load():
     for r in csv.DictReader(open(TABLE, encoding="utf-8"), delimiter="\t"):
         m = Mutawaa(r["root"], r["base"], r["base_form"], r["mutawaa"], r["mutawaa_form"], r["athar"],
                     r["route"], int(r["n_lex"] or 0), r["lexicons"], r["evidence"], r["rank"])
-        _by_base.setdefault(_key(m.base), []).append(m)
+        if m.base:
+            _by_base.setdefault(_key(m.base), []).append(m)
         _by_mut.setdefault(_key(m.mutawaa), []).append(m)
 
 

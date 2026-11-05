@@ -19,3 +19,14 @@ def test_accepted_route_lookup(monkeypatch):
     assert got and got[0].mutaaddi == rows[0]["verb"] and got[0].rank == "CANDIDATE"
     with pytest.raises(T.NoSamaa):
         T.taadiya_of("لا-فعل", routes=["T_JAL"])
+
+
+def test_t_jal_accepted_and_t_blocked():
+    assert "T_JAL" in T.ACCEPTED_ROUTES and "T" not in T.ACCEPTED_ROUTES
+    rows = T._rows("T_JAL")
+    if not rows:
+        pytest.skip("جدول ahdath غير موجود في هذه البيئة")
+    got = T.taadiya_of(rows[0]["base"])
+    assert all(g.route == "T_JAL" for g in got)
+    with pytest.raises(T.RouteNotAccepted):
+        T.taadiya_of(rows[0]["base"], routes=["T"])

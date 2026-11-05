@@ -1,0 +1,446 @@
+root	base	base_form	mutawaa	mutawaa_form	athar	athar_src	route	n_lex	lexicons	evidence	gold_R1	base_event	mutawaa_event	rank	base_status
+ءخر	أَخَّرَ	فَعَّلَ	تَأَخَّرَ	تَفَعَّلَ	تَأَخُّر	HFN_MASDAR	LEX_FORMULA	1	sihah	sihah: أَخَّرْتُهُ فَتَأَخَّرَ		HFN-E-6f7a14da99	HFN-E-ccb184ac05	CANDIDATE	OK
+بتر	بَتَرَ	فَعَلَ	انْبَتَرَ	انْفَعَلَ	انْبِتَار	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·taj	wasit:انقطع		HFN-E-df975f808b	HFN-E-b143f586c4	CANDIDATE	OK
+بتل	بَتَلَ	فَعَلَ	انْبَتَلَ	انْفَعَلَ	انْبِتَال	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·lisan·qamus	wasit:انقطعَ . و- الفسيلة من أُمِّها : انفصلت عنها		HFN-E-9d34a00c91	HFN-E-deec805cc1	CANDIDATE	OK
+بثق	بَثَقَ	فَعَلَ	انْبَثَقَ	انْفَعَلَ	انْبِثَاق	HFN_MASDAR	R1_QABILIYYAT	3	qamus·asas·misbah	wasit:انثقب وانْشَقَّ . و - السيلُ : عليهم : أَقبل فجْأَة . و - فلانٌ عليهم بالكلام: اندفع . و - الأَرضُ : أَخْصَبَتْ		HFN-E-05e07933b6	HFN-E-dc712fe4d7	CANDIDATE	OK
+بجس	بَجَسَ	فَعَلَ	انْبَجَسَ	انْفَعَلَ	انْبِجَاس	HFN_MASDAR	R1_QABILIYYAT	7	ayn·maqayis·lisan·qamus·taj·asas·misbah	wasit:انفجر. وفى التنزيل العزيز: (فَانْبَجَسَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْناً)		HFN-E-b3ec4ec861	HFN-E-d5c02dc322	CANDIDATE	OK
+بزخ	بَزَخَ	فَعَلَ	انْبَزَخَ	انْفَعَلَ	انْبِزَاخ	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·taj	wasit:ظهرُ الفرس : بَزَخَ		HFN-E-b16ba2e9ca	HFN-E-15f5b675da	CANDIDATE	OK
+بزل	بَزَلَ	فَعَلَ	انْبَزَلَ	انْفَعَلَ	انْبِزَال	HFN_MASDAR	R1_QABILIYYAT	2	maqayis·qamus	wasit:انشقَّ		HFN-E-c59201c443	HFN-E-efd485077c	CANDIDATE	OK
+بسط	بَسَطَ	فَعَلَ	انْبَسَطَ	انْفَعَلَ	انْبِسَاط	HFN_MASDAR	R1_QABILIYYAT	3	sihah·muhkam·qamus	wasit:الشيءُ : انتشر . و - يدُه: متَدَّتْ . و - لسانُه : انْطَلَقَ . و - فلانٌ : سُرَّ . و - تركَ الاحتشامَ . و - النّهارُ : طال		HFN-E-f501d6cbd9	HFN-E-c68876411d	CANDIDATE	OK
+بشر	بَشَرَ	فَعَلَ	أَبْشَرَ	أَفْعَلَ	إِبْشَار	HFN_MASDAR	LEX_FORMULA	1	lisan	lisan: بَشَرْتُهُ فَأَبْشَرَ | lisan: بَشَرْتُهُ فَأَبْشَرَ		HFN-E-c88fdd6530	HFN-E-ae0b6f1a90	CANDIDATE	OK
+بشر	بَشَّرَ	فَعَّلَ	أَبْشَرَ	أَفْعَلَ	إِبْشَار	HFN_MASDAR	LEX_FORMULA	1	taj	taj: بَشَّرْتُه فأَبْشَرَ | taj: بَشَّرْتُه فأَبْشَرَ		HFN-E-15e7d07d2b	HFN-E-ae0b6f1a90	CANDIDATE	OK
+بعث	بَعَثَ	فَعَلَ	انْبَعَثَ	انْفَعَلَ	انْبِعَاث	HFN_MASDAR	R1_QABILIYYAT	5	sihah·muhkam·lisan·qamus·taj	wasit:هَبَ واندفَع . و - فى السَّير : أسرعَ . و - لحاجته : نهض لها		HFN-E-787f0294d0	HFN-E-9dc197627e	CANDIDATE	OK
+بعج	بَعَجَ	فَعَلَ	انْبَعَجَ	انْفَعَلَ	انْبِعَاج	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·taj·asas	wasit:اتسع وانْفَرَجَتْ جَوَانبُهُ ،. و - السحاب : انبثق بمطر غزير. و - فلانٌ بالحديث : تَدَفَّق		HFN-E-b55773a284	HFN-E-33afdfde1e	CANDIDATE	OK
+بعد	أَبْعَدَ	أَفْعَلَ	بَعُدَ	فَعُلَ	بُعْد	HFN_MASDAR	LEX_FORMULA	1	lisan	lisan: أَبْعَدْتُهُ فَبَعُدَ | lisan: أَبْعَدْتُهُ فَبَعُدَ		HFN-E-68146ea09c	HFN-E-ec72bd9ec5	CANDIDATE	OK
+بعق	بَعَقَ	فَعَلَ	انْبَعَقَ	انْفَعَلَ	انْبِعَاق	HFN_MASDAR	R1_QABILIYYAT	4	sihah·muhkam·lisan·asas	wasit:انشَقّ. يقال : انبعق السحابُ بالمطر . و - فى الكلام : ابتَعَق . و - عليه الشءُ : فاجأه		HFN-E-68e871f8ba	HFN-E-7bce890511	CANDIDATE	OK
+بقر	بَقَرَ	فَعَلَ	انْبَقَرَ	انْفَعَلَ	انْبِقَار	HFN_MASDAR	R1_QABILIYYAT	2	lisan·taj	wasit:انشَقَّ		HFN-E-1a1342f23a	HFN-E-c9aac2701d	CANDIDATE	OK
+بكي	اسْتَبْكَى	اسْتَفْعَى (استفعل ناقص)	بَكَى	فَعَلَ	بُكّى	HFN_MASDAR	LEX_FORMULA	1	asas	asas: واستَبْكَيْتُه فبَكَى، | asas: واستَبْكَيْتُه فبَكَى،		HFN-E-c05320f16f	HFN-E-ba47ea035b	CANDIDATE	OK
+بلت	بَلَتَ	فَعَلَ	انْبَلَتَ	انْفَعَلَ	انْبِلَات	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·lisan·taj			HFN-E-1960f0e8da	HFN-E-7185e5e71a	CANDIDATE	OK
+بلج	بَلَجَ		انْبَلَجَ	انْفَعَلَ	انْبِلَاج	HFN_MASDAR	R1_QABILIYYAT	4	sihah·lisan·qamus·taj				HFN-E-2e3c97ed1c	CANDIDATE	OK
+بلق	بَلَقَ	فَعَلَ	انْبَلَقَ	انْفَعَلَ	انْبِلَاق	HFN_MASDAR	R1_QABILIYYAT	2	ayn·qamus	wasit:البابُ : انفَتَح		HFN-E-ddba902ba7	HFN-E-080b6aa47c	CANDIDATE	OK
+بهر	بَهَرَ	فَعَلَ	انْبَهَرَ	انْفَعَلَ	انْبِهَار	HFN_MASDAR	R1_QABILIYYAT	6	sihah·muhkam·lisan·qamus·taj·asas			HFN-E-8b919e5739	HFN-E-208b334bd1	CANDIDATE	OK
+بيض	بَيَّضَ	فَعَّلَ (أجوف)	ابْيَضَّ	افْعَلَّ	ابْيِضَاض	HFN_MASDAR	LEX_FORMULA	1	sihah	sihah: بيَّضته فابيضَّ | sihah: بيَّضته فابيضَّ		HFN-E-c60b0a2aca	HFN-E-de3f4e22a6	CANDIDATE	OK
+ثرم	أَثْرَمَ	أَفْعَلَ	ثَرِمَ	فَعِلَ	ثَرَم	HFN_MASDAR	LEX_FORMULA	1	asas	asas: وأثْرَمْتُه فثَرِم،		HFN-E-166b1343c8	HFN-E-1c3a93660b	CANDIDATE	OK
+ثرم	ثَرَمَ	فَعَلَ	انْثَرَمَ	انْفَعَلَ	انْثِرَام	HFN_MASDAR	R1_QABILIYYAT	3	ayn·muhkam·asas	wasit:صار أَثْرَمَ . و - ثَنِيَّتُه : انكسر بعضها فصارت ثرماء	PHYS	HFN-E-a097c15e03	HFN-E-76b5e3fc20	CANDIDATE	OK
+ثعب	ثَعَبَ	فَعَلَ	انْثَعَبَ	انْفَعَلَ	انْثِعَاب	HFN_MASDAR	R1_QABILIYYAT	3	maqayis·sihah·muhkam			HFN-E-9ce58e2414	HFN-E-18b2eb4940	CANDIDATE	OK
+ثلم	ثَلَمَ	فَعَلَ	انْثَلَمَ	انْفَعَلَ	انْثِلَام	HFN_MASDAR	R1_QABILIYYAT	2	lisan·qamus			HFN-E-fa844e5f89	HFN-E-f416ae98e4	CANDIDATE	OK
+ثني	ثَنَى	فَعَلَ	انْثَنَى	انْفَعَى (انفعل ناقص)	انْثِنَاء	HFN_MASDAR	LEX_FORMULA	2	sihah·taj	sihah: ثَنَيْتُهُ فانْثَنَى | sihah: ثَنَيْتُهُ فانْثَنَى		HFN-E-39c3d96724	HFN-E-b4c4545e71	CANDIDATE	OK
+جءف	جَأَفَ	فَعَلَ	انْجَءَفَ	انْفَعَلَ	انْجِءَاف	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·lisan·qamus			HFN-E-20d10f4242	HFN-E-e32e630f04	CANDIDATE	OK
+جحر	جَحَرَ	فَعَلَ	انْجَحَرَ	انْفَعَلَ	انْجِحَار	HFN_MASDAR	R1_QABILIYYAT	3	ayn·muhkam·lisan	wasit:دخل الجُحْرَ ‖ misbah:الضَّبُ وَغِيرُهُمَا فَتَكُونُ الجَبْهَةُ بَيْنَ جَبِينَيْنِ وجَمْعُهُ	PHYS	HFN-E-7c57db236f	HFN-E-5697620714	CANDIDATE	OK
+جدل	جَدَلَ	فَعَلَ	انْجَدَلَ	انْفَعَلَ	انْجِدَال	HFN_MASDAR	R1_QABILIYYAT	3	ayn·sihah·lisan	wasit:انْصَرَعَ		HFN-E-73745e43ce	HFN-E-6668c9c670	CANDIDATE	OK
+جذب	جَذَبَ	فَعَلَ	انْجَذَبَ	انْفَعَلَ	انْجِذَاب	HFN_MASDAR	R1_QABILIYYAT	5	ayn·muhkam·lisan·taj·asas		PHYS	HFN-E-27001f50ac	HFN-E-8003f132dc	CANDIDATE	OK
+جذم	جَذَمَ	فَعَلَ	انْجَذَمَ	انْفَعَلَ	انْجِذَام	HFN_MASDAR	R1_QABILIYYAT	2	sihah·asas			HFN-E-f6991c7f61	HFN-E-57b7f21356	CANDIDATE	OK
+جرد	جَرَدَ	فَعَلَ	انْجَرَدَ	انْفَعَلَ	انْجِرَاد	HFN_MASDAR	R1_QABILIYYAT	5	sihah·lisan·qamus·taj·asas	wasit:من ثوبه : تَعَرَّى . و - الإِبلُ من أَوبارها : سقطت عنها . و - السُّنبلةُ خرجت من لفائفها . و - الثوبُ : أخلق . و - شعرُ الفرس : كان قصيرًا . و - فى سيره : جدَّ		HFN-E-2f62c3178e	HFN-E-75af63e450	CANDIDATE	OK
+جزر	جَزَرَ	فَعَلَ	انْجَزَرَ	انْفَعَلَ	انْجِزَار	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·taj	wasit:البحرُ والنَّهرُ : جَزَرَ		HFN-E-bc8e9e155f	HFN-E-c04bf292aa	CANDIDATE	OK
+جزع	جَزَعَ	فَعَلَ	انْجَزَعَ	انْفَعَلَ	انْجِزَاع	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·qamus	wasit:انقطع من وسَطِه . يقال : انجزع الحبلُ ، وانجزعَتِ العصا		HFN-E-828bb5e936	HFN-E-f63066ec84	CANDIDATE	OK
+جعب	جَعَبَ	فَعَلَ	انْجَعَبَ	انْفَعَلَ	انْجِعَاب	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·qamus·taj	wasit:مطاوع جَعَبه	PHYS	HFN-E-3a6215d03a	HFN-E-3e363abb62	CANDIDATE	OK
+جعف	جَعَفَ	فَعَلَ	انْجَعَفَ	انْفَعَلَ	انْجِعَاف	HFN_MASDAR	R1_QABILIYYAT	3	maqayis·muhkam·qamus	wasit:مطاوع جَعَفَهُ	PHYS	HFN-E-5b7c6be852	HFN-E-db17ffe696	CANDIDATE	OK
+جفل	جَفَلَ	فَعَلَ	انْجَفَلَ	انْفَعَلَ	انْجِفَال	HFN_MASDAR	R1_QABILIYYAT	4	maqayis·sihah·lisan·asas	wasit:مطاوع جَفلَه		HFN-E-d319730e45	HFN-E-a21ffa84ba	CANDIDATE	OK
+جلب	جَلَبَ	فَعَلَ	انْجَلَبَ	انْفَعَلَ	انْجِلَاب	HFN_MASDAR	R1_QABILIYYAT	3	lisan·qamus·taj	wasit:مطاوع جلبه		HFN-E-68356cf071	HFN-E-dda1a007d5	CANDIDATE	OK
+جلع	جَلِعَ	فَعِلَ	انْجَلَعَ	انْفَعَلَ	انْجِلَاع	HFN_MASDAR	R1_QABILIYYAT	3	sihah·lisan·qamus	wasit:مطاوع جَلَعَهُ		HFN-E-3bf7a58b31	HFN-E-05d281e701	CANDIDATE	OK
+حبس	حَبَسَ	فَعَلَ	احْتَبَسَ	افْتَعَلَ	احْتِبَاس	HFN_MASDAR	LEX_FORMULA	1	lisan	lisan: وَحَبَستُهُ فاحْتَبَسَ | lisan: وَحَبَستُهُ فاحْتَبَسَ		HFN-E-fd8d2e0dfc	HFN-E-406970a935	CANDIDATE	OK
+حجز	حَجَزَ	فَعَلَ	انْحَجَزَ	انْفَعَلَ	انْحِجَاز	HFN_MASDAR	R1_QABILIYYAT	2	sihah·qamus		PHYS	HFN-E-a0ff9dfe76	HFN-E-c93fe4afa5	CANDIDATE	OK
+حدر	حَدَرَ	فَعَلَ	انْحَدَرَ	انْفَعَلَ	انْحِدَار	HFN_MASDAR	R1_QABILIYYAT	5	ayn·sihah·muhkam·qamus·taj	wasit:انْحطَّ من عُلو إِلى سُفل . و - جلده : حَدّرَ		HFN-E-3773179fde	HFN-E-afe3856dda	CANDIDATE	OK
+حذق	حَذَقَ	فَعَلَ	انْحَذَقَ	انْفَعَلَ	انْحِذَاق	HFN_MASDAR	R1_QABILIYYAT	4	ayn·muhkam·lisan·qamus	wasit:انْقطع		HFN-E-92b937867c	HFN-E-d96d866d96	CANDIDATE	OK
+حرف	حَرَفَ	فَعَلَ	انْحَرَفَ	انْفَعَلَ	انْحِرَاف	HFN_MASDAR	R1_QABILIYYAT	6	ayn·sihah·muhkam·qamus·asas·misbah	wasit:مال . ويُقال : انحرف مِزاجُه : مال عن الاعتِدال. و - إلى فلان : مال إليه . و - عن فلان : انصرف		HFN-E-50a70a3537	HFN-E-c8abf96761	CANDIDATE	OK
+حرق	حَرَّقَ	فَعَّلَ	احْتَرَقَ	افْتَعَلَ	احْتِرَاق	HFN_MASDAR	LEX_FORMULA	2	lisan·muhkam	lisan: وحَرَّقَتْهُ فَاحْترَقَ | muhkam: وحَرَّقَتْه فاحترَقَ		HFN-E-ba9386112f	HFN-E-6ce8d1510f	CANDIDATE	OK
+حرك	حَرَّكَ	فَعَّلَ	تَحَرَّكَ	تَفَعَّلَ	تَحَرُّك	HFN_MASDAR	LEX_FORMULA	3	lisan·qamus·sihah	lisan: حَرَّكْتُهُ فَتْحَرَّكَ | lisan: حَرَّكْتُهُ فَتْحَرَّكَ		HFN-E-acc7761914	HFN-E-c6aafe264e	CANDIDATE	OK
+حسر	حَسَرَ	فَعَلَ	انْحَسَرَ	انْفَعَلَ	انْحِسَار	HFN_MASDAR	R1_QABILIYYAT	3	ayn·asas·misbah	wasit:انكشف و - الماءُ عن السَّاحل : ارتدَّ حتَّى بدَت الأَرضُ و - الطيرُ : سقَط ريشُه العتيق ونبتَ ريشُه الحديث	PHYS	HFN-E-c4df44a8b6	HFN-E-db92cb5e5f	CANDIDATE	OK
+حسم	حَسَمَ	فَعَلَ	انْحَسَمَ	انْفَعَلَ	انْحِسَام	HFN_MASDAR	R1_QABILIYYAT	3	sihah·muhkam·misbah		PHYS	HFN-E-2d2137b14e	HFN-E-253e6414c2	CANDIDATE	OK
+حصم	حَصَمَ	فَعَلَ	انْحَصَمَ	انْفَعَلَ	انْحِصَام	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·qamus	wasit:العُودُ : انكَسَرَ	PHYS	HFN-E-c8906d58a6	HFN-E-7dacc509f0	CANDIDATE	OK
+حضج	حَضَجَ	فَعَلَ	انْحَضَجَ	انْفَعَلَ	انْحِضَاج	HFN_MASDAR	R1_QABILIYYAT	5	ayn·sihah·muhkam·lisan·taj	wasit:البعيرُ وغيره : وقع لجنبه . و - برك . و - الرجلُ : اضطجع . و - انبسط على الشَّىء . و - ضرب بنفسه الأرضَ غيظًا		HFN-E-b744d4c1eb	HFN-E-b33e1fafda	CANDIDATE	OK
+حطم	حَطَمَ	فَعَلَ	انْحَطَمَ	انْفَعَلَ	انْحِطَام	HFN_MASDAR	R1_QABILIYYAT	5	ayn·muhkam·lisan·asas·misbah	wasit:مطاوع حَطَمه . و - الناس عليه : تزاحموا		HFN-E-723ee56cea	HFN-E-9c2ac57770	CANDIDATE	OK
+حفظ	أَحْفَظَ	أَفْعَلَ	احْتَفَظَ	افْتَعَلَ	احْتِفَاظ	HFN_MASDAR	LEX_FORMULA	1	sihah	sihah: أَحْفَظْتُهُ فاحْتَفْظَ | sihah: أَحْفَظْتُهُ فاحْتَفْظَ		HFN-E-d3f0b533c3	HFN-E-c8af3d0dfd	CANDIDATE	OK
+حلب	حَلَبَ	فَعَلَ	انْحَلَبَ	انْفَعَلَ	انْحِلَاب	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·qamus·taj			HFN-E-e6fd865ef0	HFN-E-70c93c715a	CANDIDATE	OK
+حير	حَيَّرَ	فَعَّلَ (أجوف)	تَحَيَّرَ	تَفَعَّلَ (أجوف)	تَحَيُّر	HFN_MASDAR	LEX_FORMULA	1	taj	taj: حَيَّرتُه فتحَيَّرَ | taj: حَيَّرتُه فتحَيَّرَ		HFN-E-105626487f	HFN-E-84fd4258f8	CANDIDATE	OK
+خبز	خَبَزَ	فَعَلَ	انْخَبَزَ	انْفَعَلَ	انْخِبَاز	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·qamus·taj	wasit:المكانُ : انْخَفض واطمأَنَ		HFN-E-9c7a318a89	HFN-E-385ef975e0	CANDIDATE	OK
+خدع	خَدَعَ	فَعَلَ	انْخَدَعَ	انْفَعَلَ	انْخِدَاع	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	4	sihah·muhkam·lisan·qamus	wasit:خُدِعَ . و - أَظهر أَنه ممخدوع وليس بهِ . و - الشيءُ : توارى واستتر . يقال : انخدع الضَّبُّ . و- السوقُ : كَسَدتْ | lisan: وخَدَعتُهُ فَانْخَدَعَ | lisan: وخَدَعتُهُ فَانْخَدَعَ		HFN-E-eec58db671	HFN-E-2041cfca5d	CANDIDATE	OK
+خرط	خَرَطَ	فَعَلَ	انْخَرَطَ	انْفَعَلَ	انْخِرَاط	HFN_MASDAR	R1_QABILIYYAT	5	ayn·sihah·muhkam·lisan·qamus			HFN-E-dc3efc3aa5	HFN-E-2331f96067	CANDIDATE	OK
+خرع	خَرَعَ	فَعَلَ	انْخَرَعَ	انْفَعَلَ	انْخِرَاع	HFN_MASDAR	R1_QABILIYYAT	5	ayn·sihah·muhkam·lisan·qamus	wasit:انْشَقَّ . و - لان واستَرْخى . و - الرَّجُلُ : ذلَّ وضَعُفَ . ويقال : انْخَرَع له : و - العُذْموُ : زال عن موضعه فى الجسم	PHYS	HFN-E-f29efb2e2e	HFN-E-a0a91a0575	CANDIDATE	OK
+خرق	خَرَقَ	فَعَلَ	انْخَرَقَ	انْفَعَلَ	انْخِرَاق	HFN_MASDAR	R1_QABILIYYAT	5	ayn·sihah·muhkam·lisan·asas	wasit:الشءُ : انْشَقَّ . و - الرِّيحُ فى الأرضِ : هَبّتْ على غيرِ استقامة . و - اشتدّ هُبوبُها وتَخلُّلُها المواضِع		HFN-E-25bb6a6bd7	HFN-E-901182f484	CANDIDATE	OK
+خرم	خَرَمَ	فَعَلَ	انْخَرَمَ	انْفَعَلَ	انْخِرَام	HFN_MASDAR	R1_QABILIYYAT	2	sihah·misbah	wasit:انشق ٠ و - أنقَطع . و- العامُ ونحوه : ذهب وانقضى. و- القوم: فَنُوا وذهبوا . وفى الحديث		HFN-E-af53117e60	HFN-E-5f85a92f65	CANDIDATE	OK
+خزع	خَزَعَ	فَعَلَ	انْخَزَعَ	انْفَعَلَ	انْخِزَاع	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·qamus·asas	wasit:الشءُ : انقطع . و - الحَبْلُ : انقطع من نصْفِه . و - مَنْنُ الرجُلِ : انْحَنَى من كِبَر وضَعْفٍ: ون العودُ : انكَسر قطعتين		HFN-E-4d14e8001b	HFN-E-00d1beaf46	CANDIDATE	OK
+خزق	خَزَقَ	فَعَلَ	انْخَزَقَ	انْفَعَلَ	انْخِزَاق	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·lisan	wasit:الشءُ : انغَرز فى الأرض . ويقال : انْخَرق الشءُ الحادَّ فى الشىء		HFN-E-1ca9537284	HFN-E-174a91c12d	CANDIDATE	OK
+خزل	خَزَلَ	فَعَلَ	انْخَزَلَ	انْفَعَلَ	انْخِزَال	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	4	maqayis·sihah·lisan·qamus	wasit:انْقَطع . وفى حديث أُحُدٍ : « انخزَلَ عبد اللّٰه بن أُبَيٍّ من ذلك المكان » . ويقال : انخزل فى كلامه . و- المرأَةَ فى مِشيتها : خَزِلَتْ . و - فلانٌ عن الأمر :  | lisan: خَزَلْتُهُ فَانْخَزَلَ | lisan: خَزَلْتُهُ فَانْخَزَلَ	PHYS	HFN-E-4408d6cdd0	HFN-E-ac1888a855	CANDIDATE	OK
+خسء	خَسَأَ	فَعَلَ	انْخَسَءَ	انْفَعَلَ	انْخِسَاء	HFN_MASDAR	R1_QABILIYYAT	4	muhkam·lisan·qamus·taj		NAFS	HFN-E-0b4891ca1c	HFN-E-7db8ac9e49	CANDIDATE	OK
+خسف	خَسَفَ	فَعَلَ	انْخَسَفَ	انْفَعَلَ	انْخِسَاف	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	4	ayn·lisan·qamus·asas	 | lisan: خَسَفْتُهُ فَانْخَسَفَ | lisan: خَسَفْتُهُ فَانْخَسَفَ		HFN-E-812b16a945	HFN-E-d084089154	CANDIDATE	OK
+خضد	خَضَدَ	فَعَلَ	انْخَضَدَ	انْفَعَلَ	انْخِضَاد	HFN_MASDAR	R1_QABILIYYAT	5	ayn·lisan·qamus·taj·asas	wasit:انكَسَر . و - انثَنَى . و - الثمر : تشدّخ		HFN-E-cac83e33dc	HFN-E-9b022f9873	CANDIDATE	OK
+خفع	خَفَعَ	فَعَلَ	انْخَفَعَ	انْفَعَلَ	انْخِفَاع	HFN_MASDAR	R1_QABILIYYAT	4	ayn·maqayis·muhkam·qamus			HFN-E-bd58144d5d	HFN-E-9dbc2394d1	CANDIDATE	OK
+خنس	خَنَسَ	فَعَلَ	انْخَنَسَ	انْفَعَلَ	انْخِنَاس	HFN_MASDAR	R1_QABILIYYAT	5	muhkam·lisan·qamus·taj·misbah	wasit:اختنَس . و - رَجَع	PHYS	HFN-E-f4114e294b	HFN-E-92325a03a2	CANDIDATE	OK
+خنق	خَنَقَ	فَعَلَ	انْخَنَقَ	انْفَعَلَ	انْخِنَاق	HFN_MASDAR	R1_QABILIYYAT	3	sihah·muhkam·asas		PHYS	HFN-E-36bad36049	HFN-E-0d42a84b62	CANDIDATE	OK
+دبغ	دَبَغَ	فَعَلَ	انْدَبَغَ	انْفَعَلَ	انْدِبَاغ	HFN_MASDAR	R1_QABILIYYAT	2	sihah·lisan	wasit:مطاوع دَبَمه ‖ misbah:الْجِلدُ فِى الْمُطَاوَعَةِ والْفَاعِلُ		HFN-E-5202ea3cef	HFN-E-b9e4128d37	CANDIDATE	OK
+دحق	دَحَقَ	فَعَلَ	انْدَحَقَ	انْفَعَلَ	انْدِحَاق	HFN_MASDAR	R1_QABILIYYAT	2	sihah·lisan	wasit:انْدَلَقَ . و - بَطْنُهُ : اتَّسَع		HFN-E-1e6cfec5eb	HFN-E-95faae2c89	CANDIDATE	OK
+دخل	أَدْخَلَ	أَفْعَلَ	دَخَلَ	فَعَلَ	دَخْل	HFN_MASDAR	LEX_FORMULA	1	taj	taj: أَدْخَلْتُه فدَخَلَ | taj: أَدْخَلْتُه فدَخَلَ		HFN-E-a6b1c62388	HFN-E-10b2a114e3	CANDIDATE	OK
+دخل	دَخَلَ	فَعَلَ	انْدَخَلَ	انْفَعَلَ	انْدِخَال	HFN_MASDAR	R1_QABILIYYAT	3	sihah·lisan·qamus		DEFER	HFN-E-10b2a114e3	HFN-E-e34b10a09b	CANDIDATE	OK
+درء	دَرَأَ	فَعَلَ	انْدَرَءَ	انْفَعَلَ	انْدِرَاء	HFN_MASDAR	R1_QABILIYYAT	4	muhkam·lisan·qamus·taj			HFN-E-a60a5d216a	HFN-E-fd0f92127d	CANDIDATE	OK
+درج	دَرَجَ	فَعَلَ	انْدَرَجَ	انْفَعَلَ	انْدِرَاج	HFN_MASDAR	R1_QABILIYYAT	2	qamus·taj	wasit:مطاوع درَجَه . و - عليهِ : انطوى . ويتمال : اندَرح تحته كذا ، أَو فيه كذا : دخل فيه وكان مما انطوى عليه		HFN-E-f7796c5d02	HFN-E-12868df6c7	CANDIDATE	OK
+درس	دَرَسَ		انْدَرَسَ	انْفَعَلَ	انْدِرَاس	HFN_MASDAR	R1_QABILIYYAT	2	qamus·taj	wasit:مطاوع درس			HFN-E-f8ff86a37d	CANDIDATE	OK
+درع	دَرَعَ	فَعَلَ	انْدَرَعَ	انْفَعَلَ	انْدِرَاع	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·lisan·qamus	wasit:البطْنُ : امتلاً . و - العظْمُ من اللحم : انخلع . و - القمر من السحاب : خرج . و - فلانٌ فى الدَّيْرِ : تقدَّم . ويقال : اندرع يفعل كذا : اندفع		HFN-E-72c9c8198c	HFN-E-6ee9a5386b	CANDIDATE	OK
+دري	أَدْرَى	أَفْعَى (أفعل ناقص)	دَرَى	فَعَلَ	دِرَايَة	HFN_MASDAR	LEX_FORMULA	3	lisan·sihah·taj	lisan: أَدْرَيْتُهُ فَدَرَى | lisan: أَدْرَيْتُهُ فَدَرَى		HFN-E-a8b667994a	HFN-E-1445fd19a4	CANDIDATE	OK
+دفع	دَفَعَ	فَعَلَ	انْدَفَعَ	انْفَعَلَ	انْدِفَاع	HFN_MASDAR	R1_QABILIYYAT	4	sihah·lisan·asas·misbah	wasit:مطاوع دفعه. و - فى الأَمرِ : مَضى. ويقال: اندفع فى الحديث: أَفاض.. و - الفرسُ: أَسرَعَ فى سَمَيْرِه. و- السَّيْلُ : دفع بعضُه بعضاً	PHYS	HFN-E-df2b62ea28	HFN-E-85f3088b0a	CANDIDATE	OK
+دفق	دَفَقَ	فَعَلَ	انْدَفَقَ	انْفَعَلَ	انْدِفَاق	HFN_MASDAR	R1_QABILIYYAT	3	ayn·maqayis·qamus	wasit:الماءُ ونحوه : مطاوع دفَقَه		HFN-E-ebb4bfe1fd	HFN-E-0bf8dc7560	CANDIDATE	OK
+دفن	دَفَنَ	فَعَلَ	انْدَفَنَ	انْفَعَلَ	انْدِفَان	HFN_MASDAR	R1_QABILIYYAT	5	ayn·sihah·muhkam·lisan·qamus	wasit:مطاوع دفنه		HFN-E-636e4d7b1f	HFN-E-6f602dd8e4	CANDIDATE	OK
+دقم	دَقَمَ	فَعَلَ	انْدَقَمَ	انْفَعَلَ	انْدِقَام	HFN_MASDAR	R1_QABILIYYAT	3	ayn·muhkam·lisan			HFN-E-0b7e705a58	HFN-E-fed60cd2dd	CANDIDATE	OK
+دكم	دَكَمَ	فَعَلَ	انْدَكَمَ	انْفَعَلَ	انْدِكَام	HFN_MASDAR	R1_QABILIYYAT	2	lisan·qamus			HFN-E-4cc0857cf0	HFN-E-ef04d5b6e7	CANDIDATE	OK
+دلص	دَلَصَ	فَعَلَ	انْدَلَصَ	انْفَعَلَ	انْدِلَاص	HFN_MASDAR	R1_QABILIYYAT	3	maqayis·muhkam·lisan	wasit:الشئُرَ من يده : انْمَلَصَ وسقط . و - الشئُ عن الشيء : انفصل	PHYS	HFN-E-ea55bed051	HFN-E-9e037649ae	CANDIDATE	OK
+دلظ	دَلَظَ	فَعَلَ	انْدَلَظَ	انْفَعَلَ	انْدِلَاظ	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·lisan	wasit:الماءُ : اندفع	PHYS	HFN-E-eaef979841	HFN-E-9970dbac01	CANDIDATE	OK
+دلق	دَلَقَ	فَعَلَ	انْدَلَقَ	انْفَعَلَ	انْدِلَاق	HFN_MASDAR	R1_QABILIYYAT	6	ayn·maqayis·muhkam·lisan·asas·misbah	wasit:الشءُ : اندفع: من مكانه . يقال : طعنه فاندلقَت أحشاءُ بطنه . و_ السيلُ : اندفع وهَجَمَ . ويقال : اندلقت الخيل . و - البابُ : كلما فُتِح عاد كما كان . ( تَدَلَّق ‖ misbah:السَّيْفُ مِنْ غِمْدِهِ خَرَجَ مِن غَيْرِ أَنْ يُسَلَّ و		HFN-E-8c44a02ac1	HFN-E-66ffdfffbe	CANDIDATE	OK
+دمج	دَمَجَ	فَعَلَ	انْدَمَجَ	انْفَعَلَ	انْدِمَاج	HFN_MASDAR	R1_QABILIYYAT	5	lisan·qamus·taj·asas·misbah	wasit:الشءُ فى الشءِ : دَمَجَ	PHYS	HFN-E-83e7d78edc	HFN-E-229d5f181b	CANDIDATE	OK
+دمق	دَمَقَ	فَعَلَ	انْدَمَقَ	انْفَعَلَ	انْدِمَاق	HFN_MASDAR	R1_QABILIYYAT	5	maqayis·sihah·muhkam·lisan·qamus	wasit:رأَسُ الفخذ : زالَ عن مكانه . و - فيه ، ومنه : خرج		HFN-E-42368ea5a2	HFN-E-1996a226ae	CANDIDATE	OK
+دمل	دَمَلَ	فَعَلَ	انْدَمَلَ	انْفَعَلَ	انْدِمَال	HFN_MASDAR	R1_QABILIYYAT	5	maqayis·sihah·muhkam·lisan·qamus	wasit:الجرح : أخذ فى البرء . ويقال: اندمل المريض: قارب الشفاء من مرضه أَو من جرحه		HFN-E-f06706e26c	HFN-E-3834f18f3f	CANDIDATE	OK
+ذءج	ذَئِجَ	فَعِلَ	انْذَءَجَ	انْفَعَلَ	انْذِءَاج	HFN_MASDAR	R1_QABILIYYAT	2	qamus·taj			HFN-E-313175aa06	HFN-E-cf0e1b3f04	CANDIDATE	OK
+ذعر	ذَعَرَ	فَعَلَ	انْذَعَرَ	انْفَعَلَ	انْذِعَار	HFN_MASDAR	R1_QABILIYYAT	3	ayn·muhkam·lisan	wasit:خاف وفزع		HFN-E-6ab051d1d3	HFN-E-cc567dae77	CANDIDATE	OK
+رزق	رَزَقَ	فَعَلَ	ارْتَزَقَ	افْتَعَلَ	ارْتِزَاق	HFN_MASDAR	LEX_FORMULA	4	asas·lisan·sihah·taj	asas: رزقتُه فارتزق، | asas: رزقتُه فارتزق،		HFN-E-1039991fb3	HFN-E-03ef88c07a	CANDIDATE	OK
+رضم	رَضَمَ	فَعَلَ	ارْتَضَمَ	افْتَعَلَ	ارْتِضَام	HFN_MASDAR	LEX_FORMULA	1	lisan	lisan: ورَضَمْتُهُ فَارْتَضَمَ | lisan: ورَضَمْتُهُ فَارْتَضَمَ		HFN-E-345db69fb5	HFN-E-336263d128	CANDIDATE	OK
+رفع	رَفَعَ	فَعَلَ	ارْتَفَعَ	افْتَعَلَ	ارْتِفَاع	HFN_MASDAR	LEX_FORMULA	1	sihah	sihah: رَفَعْتُهُ فارْتَفَعَ | sihah: رَفَعْتُهُ فارْتَفَعَ		HFN-E-14bd46a421	HFN-E-4e629475af	CANDIDATE	OK
+ركب	رَكَّبَ	فَعَّلَ	تَرَكَّبَ	تَفَعَّلَ	تَرَكُّب	HFN_MASDAR	LEX_FORMULA	1	taj	taj: رَكَّبْتُه فَتَرَكَّبَ | taj: رَكَّبْتُه فَتَرَكَّبَ		HFN-E-eb82e91749	HFN-E-7a834cc503	CANDIDATE	OK
+روج	رَوَّجَ	فَعَّلَ (أجوف)	رَاجَ	فَعَلَ	رَوَاج	HFN_MASDAR	LEX_FORMULA	1	lisan	lisan: رَوَّجْتَهُ فَراجَ | lisan: رَوَّجْتَهُ فَراجَ		HFN-E-15c2cc02f1	HFN-E-09af20dc3e	CANDIDATE	OK
+روع	رَوَّعَ	فَعَّلَ (أجوف)	ارْتَاعَ	افْتَالَ (افتعل أجوف)	ارْتِيَاع	HFN_MASDAR	LEX_FORMULA	2	lisan·sihah	lisan: ورَوَّعْتُهُ فَارْتاعَ | lisan: ورَوَّعْتُهُ فَارْتاعَ		HFN-E-b56141103a	HFN-E-0992f41994	CANDIDATE	OK
+زبق	زَبَقَ	فَعَلَ	انْزَبَقَ	انْفَعَلَ	انْزِبَاق	HFN_MASDAR	R1_QABILIYYAT	4	maqayis·muhkam·lisan·qamus			HFN-E-6a2a9befda	HFN-E-34ca5e96a8	CANDIDATE	OK
+زجر	ازْدَجَرَ	افْتَعَلَ	انْزَجَرَ	انْفَعَلَ	انْزِجَار	HFN_MASDAR	LEX_FORMULA	1	asas	asas: وازدجرته فانزجر | asas: وازدجرته فانزجر		HFN-E-a35b5ce579	HFN-E-a36b613bee	CANDIDATE	OK
+زجر	زَجَرَ	فَعَلَ	انْزَجَرَ	انْفَعَلَ	انْزِجَار	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	6	ayn·maqayis·sihah·qamus·taj·misbah	wasit:يقال انزجر له : انتقاد | sihah: زَجَرْتُهُ فانْزَجَرَ | sihah: زَجَرْتُهُ فانْزَجَرَ		HFN-E-fd77de4c2d	HFN-E-a36b613bee	CANDIDATE	OK
+زرب	زَرَبَ	فَعَلَ	انْزَرَبَ	انْفَعَلَ	انْزِرَاب	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·taj	wasit:) : دخَلَ فى الزّرِيبَةِ . يقال : انزربت الغنم . وانزربَ الصائدُ : دخل فى حُفْرَته		HFN-E-cd59e9fa94	HFN-E-cf957481aa	CANDIDATE	OK
+زعج	أَزْعَجَ	أَفْعَلَ	انْزَعَجَ	انْفَعَلَ	انْزِعَاج	HFN_MASDAR	LEX_FORMULA	1	lisan	lisan: أَزْعَجْتُهُ فانُزَعَجَ | lisan: أَزْعَجْتُهُ فانُزَعَجَ		HFN-E-b0c314319a	HFN-E-a5274b7787	CANDIDATE	OK
+زعج	أَزْعَجَ	أَفْعَلَ	زَعَجَ	فَعَلَ		MISSING	LEX_FORMULA	2	lisan·taj	lisan: أَزْعَجَتُهُ فَزَعَجَ | lisan: أَزْعَجَتُهُ فَزَعَجَ		HFN-E-b0c314319a	HFN-E-4be7a39cbc	CANDIDATE	OK
+زعج	زَعَجَ	فَعَلَ	انْزَعَجَ	انْفَعَلَ	انْزِعَاج	HFN_MASDAR	R1_QABILIYYAT	4	maqayis·muhkam·qamus·taj	wasit:زُعِجَ		HFN-E-4be7a39cbc	HFN-E-a5274b7787	CANDIDATE	OK
+زعق	زَعَقَ	فَعَلَ	انْزَعَقَ	انْفَعَلَ	انْزِعَاق	HFN_MASDAR	R1_QABILIYYAT	3	maqayis·sihah·qamus	wasit:فَزِعَ . و - الدَواب : أَسرعت		HFN-E-d46607fdeb	HFN-E-524ae4d2f1	CANDIDATE	OK
+زقب	زَقَبَ	فَعَلَ	انْزَقَبَ	انْفَعَلَ	انْزِقَاب	HFN_MASDAR	R1_QABILIYYAT	4	muhkam·lisan·qamus·taj	wasit:الجُرَذُ : زَقَب		HFN-E-d71989993e	HFN-E-74b296484e	CANDIDATE	OK
+زيل	زَيَّلَ	فَعَّلَ (أجوف)	تَزَيَّلَ	تَفَعَّلَ (أجوف)	تَزَيُّل	HFN_MASDAR	LEX_FORMULA	1	sihah	sihah: وزَيَّلْتُهُ فَتَزَيَّلَ		HFN-E-3dd43eb5ab	HFN-E-0beb65a509	CANDIDATE	OK
+سبء	سَبَأَ	فَعَلَ	انْسَبَءَ	انْفَعَلَ	انْسِبَاء	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·taj		PHYS	HFN-E-91901e6393	HFN-E-ee8e2620ab	CANDIDATE	OK
+سبت	سَبَتَ	فَعَلَ	انْسَبَتَ	انْفَعَلَ	انْسِبَات	HFN_MASDAR	R1_QABILIYYAT	4	muhkam·lisan·qamus·taj			HFN-E-40f0a53d45	HFN-E-581c2b2b47	CANDIDATE	OK
+سبك	سَبَكَ	فَعَلَ	انْسَبَكَ	انْفَعَلَ	انْسِبَاك	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·lisan	wasit:سُبِكَ	PHYS	HFN-E-0ea6f52071	HFN-E-f35bbcea1c	CANDIDATE	OK
+ستر	سَتَرَ	فَعَلَ	انْسَتَرَ	انْفَعَلَ	انْسِتَار	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·lisan·taj	wasit:استتر		HFN-E-536893ab5d	HFN-E-431cf3b6e4	CANDIDATE	OK
+سجر	سَجَرَ	فَعَلَ	انْسَجَرَ	انْفَعَلَ	انْسِجَار	HFN_MASDAR	R1_QABILIYYAT	3	sihah·lisan·taj	wasit:امتلأ . و - الشعرُ وغيره : سترْسل .و - فى السيرِ : تتابَعَ	PHYS	HFN-E-8ea5408367	HFN-E-0d32adc31b	CANDIDATE	OK
+سجل	سَجَلَ	فَعَلَ	انْسَجَلَ	انْفَعَلَ	انْسِجَال	HFN_MASDAR	R1_QABILIYYAT	4	maqayis·sihah·lisan·qamus	wasit:يقال : انسَجَلَ الماءُ والدمعُ : انصَب	PHYS	HFN-E-a559ba7a4d	HFN-E-4ff8fb25d8	CANDIDATE	OK
+سجم	سَجَمَ	فَعَلَ	انْسَجَمَ	انْفَعَلَ	انْسِجَام	HFN_MASDAR	R1_QABILIYYAT	2	sihah·lisan	wasit:انصَّبَ		HFN-E-96a365dc19	HFN-E-00857dd20b	CANDIDATE	OK
+سحب	سَحَبَ	فَعَلَ	انْسَحَبَ	انْفَعَلَ	انْسِحَاب	HFN_MASDAR	R1_QABILIYYAT	5	muhkam·lisan·qamus·taj·misbah	wasit:انجرَّ على وجه الأرض . و - فلان من المجلس : خرج منه لسببٍ ما. (محدثة). ويقال : انسحب الجيش من الميدان		HFN-E-329f445b20	HFN-E-ccb5bc6193	CANDIDATE	OK
+سحج	سَحَجَ	فَعَلَ	انْسَحَجَ	انْفَعَلَ	انْسِحَاج	HFN_MASDAR	R1_QABILIYYAT	4	maqayis·lisan·qamus·taj	wasit:انْفَشَرَ	PHYS	HFN-E-13efb8ccd9	HFN-E-f4304098ef	CANDIDATE	OK
+سحط	سَحَطَ	فَعَلَ	انْسَحَطَ	انْفَعَلَ	انْسِحَاط	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·lisan·qamus	wasit:الشءُ من يده: أَفلت فسقط. و - فلانٌ عن النخلة : تدلى عنها حتى ينزل وهو لا يمسكها بيده		HFN-E-b7ef845a0c	HFN-E-de454f9e7d	CANDIDATE	OK
+سحق	سَحَقَ	فَعَلَ	انْسَحَقَ	انْفَعَلَ	انْسِحَاق	HFN_MASDAR	R1_QABILIYYAT	5	sihah·muhkam·lisan·qamus·asas	wasit:الدواءُ : أندقَّ . و - الثوبُ : بلِيَ . و - فلانْ : بَعُدَ . و - الدمْعُ : انحدر و - الشيء : اتسع		HFN-E-4b0544dcc5	HFN-E-de5aabccc2	CANDIDATE	OK
+سحل	سَحَلَ	فَعَلَ	انْسَحَلَ	انْفَعَلَ	انْسِحَال	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·qamus	wasit:انقشر . و - أسرع ومضى. يقال : انسحلت الناقة : وانسحلَ الخطيب : مضى فى خطبته مُسرعاً	PHYS	HFN-E-2f64c31baf	HFN-E-c7ed603f5d	CANDIDATE	OK
+سدح	سَدَحَ	فَعَلَ	انْسَدَحَ	انْفَعَلَ	انْسِدَاح	HFN_MASDAR	R1_QABILIYYAT	4	sihah·muhkam·lisan·taj			HFN-E-6a82e0ee78	HFN-E-8c522a47a7	CANDIDATE	OK
+سرب	سَرَبَ	فَعَلَ	انْسَرَبَ	انْفَعَلَ	انْسِرَاب	HFN_MASDAR	R1_QABILIYYAT	7	ayn·sihah·muhkam·lisan·qamus·taj·misbah	misbah:الْوَحْشُ فِى		HFN-E-f00cf37a95	HFN-E-830a6850df	CANDIDATE	OK
+سرح	سَرَحَ	فَعَلَ	انْسَرَحَ	انْفَعَلَ	انْسِرَاح	HFN_MASDAR	R1_QABILIYYAT	3	sihah·lisan·taj	wasit:فلانٌ : تجرّدَ من ثيابه . و - أَسْرعَ		HFN-E-f52ba066eb	HFN-E-b315d9c767	CANDIDATE	OK
+سرط	سَرَطَ	فَعَلَ	انْسَرَطَ	انْفَعَلَ	انْسِرَاط	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·lisan	wasit:الطعامُ فى حَلْقِهِ : سارَ فيه سيْرًا سَهْلًا		HFN-E-7568336ba5	HFN-E-3c538ede92	CANDIDATE	OK
+سرق	سَرَقَ	فَعَلَ	انْسَرَقَ	انْفَعَلَ	انْسِرَاق	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·lisan	wasit:فتَرَ وضعُف. يقال : انْسَرَقَ صوتُه ، وانَّسَرَقَتْ مفاصلُه ، وانسرقت قُوّتُه و - عن القوم : تأخَر واختَفَى ليذهب		HFN-E-a09e070666	HFN-E-e57e9c6d1b	CANDIDATE	OK
+سطح	سَطَحَ	فَعَلَ	انْسَطَحَ	انْفَعَلَ	انْسِطَاح	HFN_MASDAR	R1_QABILIYYAT	6	maqayis·sihah·muhkam·lisan·taj·misbah	wasit:انْبَسَطَ . و - امتَدَّ على قفاه ولم يتحرَّك ‖ misbah:الرَّجُلُ مِنْ بَابِ نَفَعَ بَسَطَّتُهُ و		HFN-E-0ccb4da9e6	HFN-E-d38a75dc76	CANDIDATE	OK
+سفر	سَفَرَ		انْسَفَرَ	انْفَعَلَ	انْسِفَار	HFN_MASDAR	R1_QABILIYYAT	5	ayn·muhkam·lisan·qamus·taj	wasit:الشءُ : انحسَرَ وانكشف . ويقال: انسفَر مقدَّم رأُسهِ من الشعرِ : صار أَصْلَع			HFN-E-df41ca9ba9	CANDIDATE	OK
+سفك	سَفَكَ		انْسَفَكَ	انْفَعَلَ	انْسِفَاك	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·lisan	wasit:انْصَبَّ وأْريق	PHYS		HFN-E-7f29732b36	CANDIDATE	OK
+سكب	سَكَبَ	فَعَلَ	انْسَكَبَ	انْفَعَلَ	انْسِكَاب	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	3	sihah·qamus·taj	wasit:انْصَبَّ | sihah: سكَبته فانسكب | sihah: سكَبته فانسكب	PHYS	HFN-E-0eff9e8843	HFN-E-4a393fd980	CANDIDATE	OK
+سلب	سَلَبَ	فَعَلَ	انْسَلَبَ	انْفَعَلَ	انْسِلَاب	HFN_MASDAR	R1_QABILIYYAT	3	sihah·lisan·taj			HFN-E-afa3eb3ed2	HFN-E-a2c26906fe	CANDIDATE	OK
+سلت	سَلَتَ	فَعَلَ	انْسَلَتَ	انْفَعَلَ	انْسِلَات	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·lisan·taj	wasit:انْسَلَّ		HFN-E-42630af078	HFN-E-3c740bd5ef	CANDIDATE	OK
+سلخ	سَلَخَ	فَعَلَ	انْسَلَخَ	انْفَعَلَ	انْسِلَاخ	HFN_MASDAR	R1_QABILIYYAT	7	ayn·sihah·lisan·qamus·taj·asas·misbah	wasit:انْكَشَفَ		HFN-E-8f18c62557	HFN-E-04a69af6b1	CANDIDATE	OK
+سلع	سَلَعَ	فَعَلَ	انْسَلَعَ	انْفَعَلَ	انْسِلَاع	HFN_MASDAR	R1_QABILIYYAT	4	sihah·muhkam·lisan·qamus	wasit:جِلْدُهُ : تَشَقَّقْ		HFN-E-b96a2a74b8	HFN-E-bebe66051a	CANDIDATE	OK
+سلق	سَلَقَ	فَعَلَ	انْسَلَقَ	انْفَعَلَ	انْسِلَاق	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·lisan	wasit:مطاوعُ سَلَقَهُ . و- اللسانَ : أَصابَهُ تَقَشَّر .و الجُفُونُ: اعتتْه فَتَسَلَّخَتْ وتقشَّرَت	PHYS	HFN-E-31c1fff26f	HFN-E-cafc36f55d	CANDIDATE	OK
+سوء	سَاءَ	فَعَلَ	اسْتَاءَ	افْتَالَ (افتعل أجوف)	اسْتِيَاء	HFN_MASDAR	LEX_FORMULA	1	taj	taj: ساءَتْه فاستاءَ | taj: ساءَتْه فاستاءَ		HFN-E-722e72e0c7	HFN-E-df8e4cfd69	CANDIDATE	OK
+سوي	سَوَّى	فَعَّى (فعّل ناقص)	اسْتَوَى	افْتَعَى (افتعل ناقص)	اسْتِوَاء	HFN_MASDAR	LEX_FORMULA	2	lisan·misbah	lisan: سوَّيْتُهُ فَاسْتَوى | lisan: سوَّيْتُهُ فَاسْتَوى		HFN-E-cffc78f70c	HFN-E-99d004f309	CANDIDATE	OK
+شتر	شَتَرَ	فَعَلَ	انْشَتَرَ	انْفَعَلَ	انْشِتَار	HFN_MASDAR	R1_QABILIYYAT	3	sihah·qamus·taj			HFN-E-f09e6181d7	HFN-E-4ee2015739	CANDIDATE	OK
+شجر	شَجَرَ	فَعَلَ	انْشَجَرَ	انْفَعَلَ	انْشِجَار	HFN_MASDAR	R1_QABILIYYAT	2	lisan·taj			HFN-E-019b39b933	HFN-E-049464c8a6	CANDIDATE	OK
+شخب	شَخَبَ	فَعَلَ	انْشَخَبَ	انْفَعَلَ	انْشِخَاب	HFN_MASDAR	R1_QABILIYYAT	4	ayn·lisan·qamus·taj			HFN-E-858f808169	HFN-E-fd7b504dbc	CANDIDATE	OK
+شدخ	شَدَخَ	فَعَلَ	انْشَدَخَ	انْفَعَلَ	انْشِدَاخ	HFN_MASDAR	R1_QABILIYYAT	4	lisan·qamus·taj·misbah	wasit:انْشَجّ		HFN-E-28c772fde8	HFN-E-59a6d700ce	CANDIDATE	OK
+شرج	شَرَجَ	فَعَلَ	انْشَرَجَ	انْفَعَلَ	انْشِرَاج	HFN_MASDAR	R1_QABILIYYAT	6	ayn·sihah·muhkam·lisan·qamus·taj	wasit:انشقَّ قَسْمين		HFN-E-323ae3d13d	HFN-E-81bd4bb4e5	CANDIDATE	OK
+شرح	شَرَحَ	فَعَلَ	انْشَرَحَ	انْفَعَلَ	انْشِرَاح	HFN_MASDAR	R1_QABILIYYAT	2	sihah·lisan	wasit:مطاوع شرحه . ويقال : أنشرَحَ صدره لكذا : سُرَّ به وأَقبل عليه		HFN-E-af30f61575	HFN-E-5f447055a8	CANDIDATE	OK
+شرم	شَرَمَ	فَعَلَ	انْشَرَمَ	انْفَعَلَ	انْشِرَام	HFN_MASDAR	R1_QABILIYYAT	3	sihah·muhkam·lisan	wasit:انشقَّ		HFN-E-a8e3c784cd	HFN-E-5f18eeae5f	CANDIDATE	OK
+شري	أَشْرَى	أَفْعَى (أفعل ناقص)	شَرِيَ	فَعِلَ	شَرًى	HFN_MASDAR	LEX_FORMULA	1	lisan	lisan: وَأَشْرَيْتُهُ فَشَرِىَ | lisan: وَأَشْرَيْتُهُ فَشَرِىَ		HFN-E-bc00386abd	HFN-E-091297b89b	CANDIDATE	OK
+شعب	شَعَبَ	فَعَلَ	انْشَعَبَ	انْفَعَلَ	انْشِعَاب	HFN_MASDAR	R1_QABILIYYAT	5	muhkam·lisan·qamus·taj·asas	wasit:انتشر وتفسرق . يقال : انشعبَتْ أَغصانُ الشجرة . و - صار ذا شُعَبٍ . يقال ، انْشعَبَ النهرُ . وانشعب الطريقُ . و - عنه :: تباعَدَ . ويقال : انشعب القولُ بصاحبه . ‖ misbah:الطَّرِيقُ اقْتَرقَ وَكُلُّ مَسْلَكٍ وطَرِيقٍ		HFN-E-565d3302a2	HFN-E-e8410fb129	CANDIDATE	OK
+شعر	أَشْعَرَ	أَفْعَلَ	شَعَرَ	فَعَلَ	شَعْر	HFN_MASDAR	LEX_FORMULA	3	lisan·sihah·taj	lisan: وَأَشْعَرْتُهُ فَشَعَرَ | sihah: وأَشْعَرْتُهُ فَشَعَرَ		HFN-E-43d6896a4b	HFN-E-76c1cf8a36	CANDIDATE	OK
+شقق	شَقَّ	فَعَلَ	انْشَقَّ	انْفَعَلَ	انْشِقَاق	HFN_MASDAR	R1_QABILIYYAT	5	sihah·muhkam·lisan·qamus·misbah	wasit:انْصَدَعَ . و - الفَجْرُ : طَلَعَ ظَهَرَ . و - البَرْقُ : لَمَعَ . و - الرأْىُ : تبَدَّدَ اختلافًا ويقال: انشقَّت عَصَا الجماعَةِ : تفرَّقوا ‖ misbah:الشَّىء إِذَا انْفَرَجَ فِيهِ فُرْجَةٌ و	PHYS	HFN-E-28f469396d	HFN-E-a5d666efcb	CANDIDATE	OK
+شمر	شَمَرَ	فَعَلَ	انْشَمَرَ	انْفَعَلَ	انْشِمَار	HFN_MASDAR	R1_QABILIYYAT	4	sihah·muhkam·qamus·taj	wasit:مطاوع شَمَرَهُ	PHYS	HFN-E-e59d6231d0	HFN-E-092e0268a8	CANDIDATE	OK
+شمل	شَمَلَ	فَعَلَ	انْشَمَلَ	انْفَعَلَ	انْشِمَال	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·lisan·qamus			HFN-E-9ee05eb3ae	HFN-E-d924136674	CANDIDATE	OK
+صدر	أَصْدَرَ	أَفْعَلَ	صَدَرَ	فَعَلَ	صَدْر	HFN_MASDAR	LEX_FORMULA	1	sihah	sihah: وأَصْدَرْتُهُ فصَدَرَ		HFN-E-58676499fe	HFN-E-739f1f6003	CANDIDATE	OK
+صدع	صَدَعَ	فَعَلَ	انْصَدَعَ	انْفَعَلَ	انْصِدَاع	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	5	maqayis·muhkam·lisan·asas·misbah	wasit:انشقَّ . و - الصَّبحُ : أَسنَرَ | sihah: صَدَعْتُهُ فانْصَدَعَ | sihah: صَدَعْتُهُ فانْصَدَعَ		HFN-E-83ccb54979	HFN-E-79d0185c4d	CANDIDATE	OK
+صرف	صَرَفَ	فَعَلَ	انْصَرَفَ	انْفَعَلَ	انْصِرَاف	HFN_MASDAR	R1_QABILIYYAT	3	sihah·muhkam·lisan	wasit:عنه : تحوّل عنه وتركه . وفى التنزيل العزيز : (ثُمَّ انْصَرَفُوا صَرَفَ اللهُ قُلُوبَهُم)		HFN-E-942a2794b0	HFN-E-b297cd3123	CANDIDATE	OK
+صرم	صَرَمَ	فَعَلَ	انْصَرَمَ	انْفَعَلَ	انْصِرَام	HFN_MASDAR	R1_QABILIYYAT	5	ayn·muhkam·qamus·asas·misbah	wasit:انقَطَعَ . ويقال : انصرم الليلُ : ذَهَبَ . وانصرم الشتاءُ : انقضى ‖ misbah:اللَّيْلُ و	PHYS	HFN-E-a67ee84c6f	HFN-E-1903679a31	CANDIDATE	OK
+صفق	صَفَقَ	فَعَلَ	انْصَفَقَ	انْفَعَلَ	انْصِفَاق	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	5	ayn·sihah·muhkam·lisan·qamus	wasit:مطاوِعُ صَفَقَهُ . و - القومُ : أَقِبلوا وأَطبقُوا | lisan: صَفَقْتُهُ فَانْصَفَقَ | lisan: صَفَقْتُهُ فَانْصَفَقَ		HFN-E-2698c51500	HFN-E-c213620e1d	CANDIDATE	OK
+صلت	صَلَتَ	فَعَلَ	انْصَلَتَ	انْفَعَلَ	انْصِلَات	HFN_MASDAR	R1_QABILIYYAT	4	sihah·lisan·qamus·taj	wasit:بَرَزَ وظَهَرَ . و - فى سَيْرِهِ ، أَو أَمِرِه : جَدِّ وسَبَقَ		HFN-E-3549dec17e	HFN-E-0cac144b1e	CANDIDATE	OK
+صهر	صَهَرَ	فَعَلَ	انْصَهَرَ	انْفَعَلَ	انْصِهَار	HFN_MASDAR	R1_QABILIYYAT	3	sihah·muhkam·taj	wasit:ذابَ		HFN-E-7a756569a9	HFN-E-dd97de7489	CANDIDATE	OK
+ضبح	ضَبَحَ	فَعَلَ	انْضَبَحَ	انْفَعَلَ	انْضِبَاح	HFN_MASDAR	R1_QABILIYYAT	3	sihah·muhkam·taj		PHYS	HFN-E-5a212c0234	HFN-E-72b6eb8ab5	CANDIDATE	OK
+ضرج	ضَرَجَ	فَعَلَ	انْضَرَجَ	انْفَعَلَ	انْضِرَاج	HFN_MASDAR	R1_QABILIYYAT	4	sihah·qamus·taj·asas	wasit:انْشَقّ . ويقال : انضرج النَّوْرُ : تَفَتَّحَ. وانضرَج الشجرُ : تفتحت عيونُ ورَقِه وبَدَتْ أَطْرافُهُ . و - الطريقُ : اتَّسَع . ويقال : انضرج ما بينهُمْ : تباعَ		HFN-E-88d6b4e689	HFN-E-8566518d96	CANDIDATE	OK
+ضرح	ضَرَحَ		انْضَرَحَ	انْفَعَلَ	انْضِرَاح	HFN_MASDAR	R1_QABILIYYAT	3	sihah·lisan·taj	wasit:مطاوعُ ضَرَحَهُ			HFN-E-104a8fecb0	CANDIDATE	OK
+ضفر	ضَفَرَ	فَعَلَ	انْضَفَرَ	انْفَعَلَ	انْضِفَار	HFN_MASDAR	R1_QABILIYYAT	3	sihah·lisan·taj		PHYS	HFN-E-529d015f08	HFN-E-61ee63ad81	CANDIDATE	OK
+ضيح	ضَيَّحَ	فَعَّلَ (أجوف)	تَضَيَّحَ	تَفَعَّلَ (أجوف)	تَضَيُّح	HFN_MASDAR	LEX_FORMULA	1	lisan	lisan: ضَيَّحَتُهُ فتَضَيَّحَ | lisan: ضَيَّحَتُهُ فتَضَيَّحَ		HFN-E-1e56ccbd5f	HFN-E-18b8ef6b84	CANDIDATE	OK
+طبخ	طَبَخَ	فَعَلَ	انْطَبَخَ	انْفَعَلَ	انْطِبَاخ	HFN_MASDAR	R1_QABILIYYAT	4	sihah·muhkam·lisan·qamus	wasit:طُبِخَ		HFN-E-07c7cf22e9	HFN-E-52626d8e30	CANDIDATE	OK
+طعم	أَطْعَمَ	أَفْعَلَ	طَعِمَ	فَعِلَ	طَعْم	HFN_MASDAR	LEX_FORMULA	1	lisan	lisan: أَطْعَمْتُهُ فَطَعمَ | lisan: أَطْعَمْتُهُ فَطَعمَ		HFN-E-52710881e3	HFN-E-71c5d66466	CANDIDATE	OK
+طلس	طَلَسَ	فَعَلَ	انْطَلَسَ	انْفَعَلَ	انْطِلَاس	HFN_MASDAR	R1_QABILIYYAT	2	qamus·taj	wasit:أمَّحَى أَو خفِيّ	PHYS	HFN-E-c6cfc1c9e6	HFN-E-9963413767	CANDIDATE	OK
+طلق	أَطْلَقَ	أَفْعَلَ	انْطَلَقَ	انْفَعَلَ	انْطِلَاق	HFN_MASDAR	LEX_FORMULA	1	lisan	lisan: وأَطْلَقْتُه فانْطَلَقَ | lisan: وأَطْلَقْتُه فانْطَلَقَ		HFN-E-872d31eba6	HFN-E-3b215f5e9d	CANDIDATE	OK
+طلق	طَلَقَ	فَعَلَ	انْطَلَقَ	انْفَعَلَ	انْطِلَاق	HFN_MASDAR	R1_QABILIYYAT	5	maqayis·muhkam·lisan·qamus·asas	wasit:انْحَلَّ . و - ذهب ومرَّ . ويقال : انْطلقَ يفعل كذا : أَخذ : و - الوجه أَو اللِّسانُ : صار طَلْقاً		HFN-E-6eb95ac2ce	HFN-E-3b215f5e9d	CANDIDATE	OK
+طمس	طَمَسَ	فَعَلَ	انْطَمَسَ	انْفَعَلَ	انْطِمَاس	HFN_MASDAR	R1_QABILIYYAT	4	sihah·lisan·qamus·taj			HFN-E-43cfb7fe32	HFN-E-15a7325ec8	CANDIDATE	OK
+طمل	طَمَلَ	فَعَلَ	انْطَمَلَ	انْفَعَلَ	انْطِمَال	HFN_MASDAR	R1_QABILIYYAT	2	lisan·qamus	wasit:فلان : شارَكَ الدُّصوص	DEFER	HFN-E-d1bfa9be67	HFN-E-80781524b9	CANDIDATE	OK
+طوق	طَوَّقَ	فَعَّلَ (أجوف)	تَطَوَّقَ	تَفَعَّلَ (أجوف)	تَطَوُّق	HFN_MASDAR	LEX_FORMULA	1	sihah	sihah: طَوَّقْتُهُ فتَطَوَّق | sihah: طَوَّقْتُهُ فتَطَوَّق		HFN-E-d96e5c9119	HFN-E-2f38e70067	CANDIDATE	OK
+ظلم	ظَلَمَ	فَعَلَ	انْظَلَمَ	انْفَعَلَ	انْظِلَام	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·lisan·qamus	wasit:اظَّلَمَ		HFN-E-652edf8898	HFN-E-7c33fe0fcd	CANDIDATE	OK
+عتل	عَتَلَ	فَعَلَ	انْعَتَلَ	انْفَعَلَ	انْعِتَال	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·qamus	wasit:مطاوع عَتَلَهُ. ويقال : لا أَنْعَنِلُ مَعَكَ : لا أَبرح مكانى	PHYS	HFN-E-903a4cf114	HFN-E-a852834740	CANDIDATE	OK
+عجل	عَجَّلَ	فَعَّلَ	تَعَجَّلَ	تَفَعَّلَ	تَعَجُّل	HFN_MASDAR	LEX_FORMULA	1	qamus	qamus: عَجَّلْتُهُ فَتَعَجَّلَ | qamus: عَجَّلْتُهُ فَتَعَجَّلَ		HFN-E-c2b19a3f9d	HFN-E-99ee739091	CANDIDATE	OK
+عدل	عَدَلَ	فَعَلَ	انْعَدَلَ	انْفَعَلَ	انْعِدَال	HFN_MASDAR	R1_QABILIYYAT	4	sihah·muhkam·lisan·qamus			HFN-E-02963a40f8	HFN-E-9182cc7fe0	CANDIDATE	OK
+عدل	عَدَّلَ	فَعَّلَ	اعْتَدَلَ	افْتَعَلَ	اعْتِدَال	HFN_MASDAR	LEX_FORMULA	1	sihah	sihah: عَدَّلْتُهُ فاعْتَدَلَ | sihah: عَدَّلْتُهُ فاعْتَدَلَ		HFN-E-ddb5ad8897	HFN-E-94c008454e	CANDIDATE	OK
+عدو	عَدَّى	فَعَّى (فعّل ناقص)	تَعَدَّى	تَفَعَّى (تفعّل ناقص)	تَعَدِّي	HFN_MASDAR	LEX_FORMULA	1	sihah	sihah: عَدَّيْتُهُ فَتَعَدَّى | sihah: عَدَّيْتُهُ فَتَعَدَّى		HFN-E-027a049bb4	HFN-E-adb711bd91	CANDIDATE	OK
+عرض	عَرَضَ	فَعَلَ	أَعْرَضَ	أَفْعَلَ	إِعْرَاض	HFN_MASDAR	LEX_FORMULA	1	taj	taj: عَرَضْتُه فأَعرَضَ | taj: عَرَضْتُه فأَعرَضَ		HFN-E-7ee2413098	HFN-E-6f93c178af	CANDIDATE	OK
+عزل	عَزَلَ	فَعَلَ	انْعَزَلَ	انْفَعَلَ	انْعِزَال	HFN_MASDAR	R1_QABILIYYAT	4	muhkam·lisan·qamus·misbah	wasit:عنه : تنحَّى وبَعُدَ ‖ misbah:عَنِ النَّاسِ إِذَا تَنَحَّى عَنْهُمْ جَانِباً وفُلَانٌ عَنِ الحَقِّ	NAFS	HFN-E-fd787f1e20	HFN-E-78194c9830	CANDIDATE	OK
+عصب	عَصَبَ	فَعَلَ	انْعَصَبَ	انْفَعَلَ	انْعِصَاب	HFN_MASDAR	R1_QABILIYYAT	3	sihah·lisan·qamus	wasit:اشتَدَّ	PHYS	HFN-E-db26612462	HFN-E-a389a28435	CANDIDATE	OK
+عصر	عَصَرَ	فَعَلَ	انْعَصَرَ	انْفَعَلَ	انْعِصَار	HFN_MASDAR	R1_QABILIYYAT	2	sihah·qamus	wasit:عْصِرَ		HFN-E-6925487009	HFN-E-19d22cbeb4	CANDIDATE	OK
+عضب	عَضَبَ	فَعَلَ	انْعَضَبَ	انْفَعَلَ	انْعِضَاب	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·lisan·taj	wasit:القرنُ : انكسَرَ .: نصيرَ له . و - من لا أَخَ له . (ج) عُضْب		HFN-E-280d186fe4	HFN-E-b7d17cf81f	CANDIDATE	OK
+عطف	عَطَفَ	فَعَلَ	انْعَطَفَ	انْفَعَلَ	انْعِطَاف	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	5	maqayis·muhkam·lisan·qamus·misbah	wasit:مال وانحنى | lisan: عَطَفْتُهُ فانْعَطَفَ | lisan: عَطَفْتُهُ فانْعَطَفَ		HFN-E-23118fdcf2	HFN-E-8a81c19e86	CANDIDATE	OK
+عطف	عَطَّفَ	فَعَّلَ	تَعَطَّفَ	تَفَعَّلَ	تَعَطُّف	HFN_MASDAR	LEX_FORMULA	1	lisan	lisan: عَطَّفْتُه فتَعَطَّفَ | lisan: عَطَّفْتُه فتَعَطَّفَ		HFN-E-5f5b9a5d45	HFN-E-fb82adcd36	CANDIDATE	OK
+عطن	عَطَنَ	فَعَلَ	انْعَطَنَ	انْفَعَلَ	انْعِطَان	HFN_MASDAR	R1_QABILIYYAT	3	sihah·muhkam·lisan	wasit:الجلْدُ : عَطِنَ	PHYS	HFN-E-fa51568db5	HFN-E-ad9ae336b1	CANDIDATE	OK
+عفر	عَفَرَ	فَعَلَ	انْعَفَرَ	انْفَعَلَ	انْعِفَار	HFN_MASDAR	R1_QABILIYYAT	6	sihah·muhkam·lisan·qamus·taj·misbah	wasit:تمرَّغَ فى العَفَرِ. و-الشءُ : تَتَرَّبَ	PHYS	HFN-E-318a752747	HFN-E-f618be62c7	CANDIDATE	OK
+عفر	عَفَّرَ	فَعَّلَ	اعْتَفَرَ	افْتَعَلَ	اعْتِفَار	HFN_MASDAR	LEX_FORMULA	1	lisan	lisan: عَفَّرْتُهُ فاعْتَفَرَ | lisan: عَفَّرْتُهُ فاعْتَفَرَ		HFN-E-d1673f77d7	HFN-E-3810063adb	CANDIDATE	OK
+عفس	عَفَسَ	فَعَلَ	انْعَفَسَ	انْفَعَلَ	انْعِفَاس	HFN_MASDAR	R1_QABILIYYAT	4	muhkam·lisan·qamus·taj			HFN-E-72a87d3b25	HFN-E-07317679cd	CANDIDATE	OK
+عفق	عَفَقَ	فَعَلَ	انْعَفَقَ	انْفَعَلَ	انْعِفَاق	HFN_MASDAR	R1_QABILIYYAT	3	sihah·lisan·qamus	wasit:فى: حاجته : مضى فيها وأَسرع		HFN-E-4cd002a4fa	HFN-E-d1195dcc21	CANDIDATE	OK
+عقد	عَقَدَ	فَعَلَ	انْعَقَدَ	انْفَعَلَ	انْعِقَاد	HFN_MASDAR	R1_QABILIYYAT	3	ayn·muhkam·asas	wasit:مطاوع عَقَدَهُ . يقال : انْعَقَدَ الحَبْلُ ، أَو البناءُ ، أَو اليمينُ	PHYS	HFN-E-431b4b8dfb	HFN-E-da3e226b72	CANDIDATE	OK
+عقر	عَقَرَ	فَعَلَ	انْعَقَرَ	انْفَعَلَ	انْعِقَار	HFN_MASDAR	R1_QABILIYYAT	4	ayn·sihah·muhkam·lisan	wasit:ظهرُ الدَّابةِ : جُرِحَ . و- البعيرُ والفَرَسُ : ضُرِبَتْ قوائمهُ بالسَّيْفِ		HFN-E-0c6c85cc8b	HFN-E-9c99905be3	CANDIDATE	OK
+عقف	عَقَفَ	فَعَلَ	انْعَقَفَ	انْفَعَلَ	انْعِقَاف	HFN_MASDAR	R1_QABILIYYAT	5	sihah·muhkam·lisan·qamus·misbah	wasit:الشءُ : انحدى والتوى		HFN-E-78b5442499	HFN-E-94c0cf1329	CANDIDATE	OK
+عكس	عَكَسَ	فَعَلَ	انْعَكَسَ	انْفَعَلَ	انْعِكَاس	HFN_MASDAR	R1_QABILIYYAT	3	lisan·qamus·taj	wasit:الشءُ : ارتدّ آخرُه على أَوّله . و - انْقَلَبَ	PHYS	HFN-E-8d8d3c0eb5	HFN-E-565e076e60	CANDIDATE	OK
+عمد	عَمَدَ	فَعَلَ	انْعَمَدَ	انْفَعَلَ	انْعِمَاد	HFN_MASDAR	R1_QABILIYYAT	2	sihah·lisan	wasit:مطاوع عمدَه . و - قام على عمادٍ يعتمد عليه		HFN-E-92ca258bcb	HFN-E-0299e6e2be	CANDIDATE	OK
+غرف	غَرَفَ	فَعَلَ	انْغَرَفَ	انْفَعَلَ	انْغِرَاف	HFN_MASDAR	R1_QABILIYYAT	2	lisan·qamus			HFN-E-6ca92892f1	HFN-E-d6768cb4ba	CANDIDATE	OK
+غضب	أَغْضَبَ	أَفْعَلَ	تَغَضَّبَ	تَفَعَّلَ	تَغَضُّب	HFN_MASDAR	LEX_FORMULA	1	wasit	wasit: أَغْضَبْتَه فتَغَضَّب | wasit: أَغْضَبْتَه فتَغَضَّب		HFN-E-ca809feceb	HFN-E-594fcb5933	CANDIDATE	OK
+غضب	أَغْضَبَ	أَفْعَلَ	غَضِبَ	فَعِلَ	غَضَب	HFN_MASDAR	LEX_FORMULA	1	misbah	misbah: أَغْضَبْتُهُ فَغَضِبَ | misbah: أَغْضَبْتُهُ فَغَضِبَ		HFN-E-ca809feceb	HFN-E-ab1c57ce76	CANDIDATE	OK
+غضف	غَضَفَ	فَعَلَ	انْغَضَفَ	انْفَعَلَ	انْغِضَاف	HFN_MASDAR	R1_QABILIYYAT	4	ayn·sihah·muhkam·lisan	wasit:العُود: انكسَر وانثَنَى . و - أُذنُهُ : ندلَّت من غير خلقة . و - القومُ فى الغبار : دخَلوا فيه . و - البئرُ :: انهارت . و- الضَّبابُ : تراكم بعضُه على بعض		HFN-E-af4783fdf8	HFN-E-086865dd9f	CANDIDATE	OK
+غضن	غَضَّنَ	فَعَّلَ	تَغَضَّنَ	تَفَعَّلَ	تَغَضُّن	HFN_MASDAR	LEX_FORMULA	1	lisan	lisan: وغَضَّنْتُهُ فتَغَضَّنَ | lisan: وغَضَّنْتُهُ فتَغَضَّنَ		HFN-E-2b5af8060a	HFN-E-da288391ed	CANDIDATE	OK
+غمس	غَمَسَ	فَعَلَ	انْغَمَسَ	انْفَعَلَ	انْغِمَاس	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	4	sihah·taj·asas·misbah	wasit:في الماء : اغتمس فيه | sihah: غمسته فانغمس | sihah: غمسته فانغمس		HFN-E-db6c1a3f0b	HFN-E-eab6b2ad5a	CANDIDATE	OK
+غنم	غَنَّمَ	فَعَّلَ	اغْتَنَمَ	افْتَعَلَ	اغْتِنَام	HFN_MASDAR	LEX_FORMULA	1	asas	asas: وغَنَّمتُه فاغتَنم | asas: وغَنَّمتُه فاغتَنم		HFN-E-f2abf090fd	HFN-E-730f0dcda6	CANDIDATE	OK
+فتح	فَتَحَ	فَعَلَ	انْفَتَحَ	انْفَعَلَ	انْفِتَاح	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	4	muhkam·lisan·taj·misbah	wasit:البابُ: مطاوِعُ فَتَحَهُ . و- الشءُ عنِ الشَّىْء : انْكَشَفَ عَنْهُ | misbah: فَتَحْتُهُ فانْفَتَح | misbah: فَتَحْتُهُ فانْفَتَح		HFN-E-0921ff35d1	HFN-E-73dd5639cb	CANDIDATE	OK
+فتق	فَتَقَ		انْفَتَقَ	انْفَعَلَ	انْفِتَاق	HFN_MASDAR	R1_QABILIYYAT	4	maqayis·lisan·qamus·misbah	wasit:انشَق			HFN-E-c69505f0a2	CANDIDATE	OK
+فتل	فَتَلَ	فَعَلَ	انْفَتَلَ	انْفَعَلَ	انْفِتَال	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·lisan·qamus	wasit:التَوَى . و - انْصَرَف. ويقال: : مطاوعُ فَتْل فَتَلَ تَتْرَابه وعن حاجَّنٍ . والنفتلَ وجهَهُ عنه		HFN-E-48a777b60e	HFN-E-76de77a611	CANDIDATE	OK
+فجر	فَجَرَ	فَعَلَ	انْفَجَرَ	انْفَعَلَ	انْفِجَار	HFN_MASDAR	R1_QABILIYYAT	5	ayn·maqayis·lisan·qamus·taj	wasit:مطاوع فَجَرَ . و - الماءُ ونحوُه : لْبَعَثَ سائلًا . وفى التنزيل العزيز : (فَقُلْنَا اضْرِبْ بِمَصَاكَ الْحَجَرَ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْناً 		HFN-E-51e578400a	HFN-E-796d7f84fc	CANDIDATE	OK
+فجر	فَجَّرَ	فَعَّلَ	انْفَجَرَ	انْفَعَلَ	انْفِجَار	HFN_MASDAR	LEX_FORMULA	1	sihah	sihah: فجَّرته فانفجر | sihah: فجَّرته فانفجر		HFN-E-4a4183f3c5	HFN-E-796d7f84fc	CANDIDATE	OK
+فحج	فَحَجَ	فَعَلَ	انْفَحَجَ	انْفَعَلَ	انْفِحَاج	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·taj		DEFER	HFN-E-e1aec99257	HFN-E-2dd5bc30be	CANDIDATE	OK
+فخت	فَخَتَ	فَعَلَ	انْفَخَتَ	انْفَعَلَ	انْفِخَات	HFN_MASDAR	R1_QABILIYYAT	2	qamus·taj			HFN-E-e8bd73a092	HFN-E-610e3c896e	CANDIDATE	OK
+فرث	فَرَثَ		انْفَرَثَ	انْفَعَلَ	انْفِرَاث	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·qamus·taj				HFN-E-f76d646e46	CANDIDATE	OK
+فرج	فَرَجَ	فَعَلَ	انْفَرَجَ	انْفَعَلَ	انْفِرَاج	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	3	ayn·qamus·taj	wasit:الشَّءُ : اتَّسَع . ويقال : انفرج •١ بين الشَّيشين . و - الغَمُّ والكَرْبُ : انكَشَفَ و - فلانٌ من ضِيقِه : تخلَّص | misbah: فَرَجْتُهُ فَانْفَرَجَ | misbah: فَرَجْتُهُ فَانْفَرَجَ	PHYS	HFN-E-3c2b3adad7	HFN-E-8479937634	CANDIDATE	OK
+فرح	أَفْرَحَ	أَفْعَلَ	فَرِحَ	فَعِلَ	فَرَح	HFN_MASDAR	LEX_FORMULA	2	lisan·taj	lisan: أَفْرَحْتُهُ فَفَرِح. | lisan: أَفْرَحْتُهُ فَفَرِح.		HFN-E-22f0e7c080	HFN-E-90a71b9bbe	CANDIDATE	OK
+فرش	فَرَشَ		انْفَرَشَ	انْفَعَلَ	انْفِرَاش	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·lisan	wasit:الشءُ : انْبَسَطَ			HFN-E-d702a3b988	CANDIDATE	OK
+فرق	فَرَقَ	فَعَلَ	انْفَرَقَ	انْفَعَلَ	انْفِرَاق	HFN_MASDAR	R1_QABILIYYAT	2	ayn·lisan	wasit:الشءُ : افترقَ . و - انشق ويقال : انفَرَق الصّبح : انفَلَق		HFN-E-295e66d076	HFN-E-c876d50e5b	CANDIDATE	OK
+فرق	فَرَّقَ	فَعَّلَ	تَفَرَّقَ	تَفَعَّلَ	تَفَرُّق	HFN_MASDAR	LEX_FORMULA	2	muhkam·sihah	muhkam: فَرَّقَتْه فَتَفرَّقَ | muhkam: فَرَّقَتْه فَتَفرَّقَ		HFN-E-635e31eb58	HFN-E-88f1c5b9b5	CANDIDATE	OK
+فسح	فَسَحَ	فَعَلَ	انْفَسَحَ	انْفَعَلَ	انْفِسَاح	HFN_MASDAR	R1_QABILIYYAT	5	ayn·muhkam·lisan·qamus·taj	wasit:المكانُ : اتَّسَعَ . و - صَدْرُهُ : انْشَرَحَ . و - طَرْفَهُ : امتدّ نظره بلا عائق		HFN-E-1e3225cfde	HFN-E-18f3a2e70d	CANDIDATE	OK
+فسخ	فَسَخَ	فَعَلَ	انْفَسَخَ	انْفَعَلَ	انْفِسَاخ	HFN_MASDAR	R1_QABILIYYAT	4	ayn·lisan·qamus·taj			HFN-E-87c400725d	HFN-E-466c7d0aa0	CANDIDATE	OK
+فسق	فَسَقَ	فَعَلَ	انْفَسَقَ	انْفَعَلَ	انْفِسَاق	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·qamus			HFN-E-b334b1ffe9	HFN-E-b27dfb58b4	CANDIDATE	OK
+فصد	فَصَدَ	فَعَلَ	انْفَصَدَ	انْفَعَلَ	انْفِصَاد	HFN_MASDAR	R1_QABILIYYAT	4	muhkam·lisan·qamus·taj	wasit:الدمُ ونحوه : سالَ		HFN-E-3253ecb8a0	HFN-E-7ca37fcefc	CANDIDATE	OK
+فصل	فَصَلَ		انْفَصَلَ	انْفَعَلَ	انْفِصَال	HFN_MASDAR	R1_QABILIYYAT	3	sihah·muhkam·lisan	wasit:الشئُ : انقطع . و - القومُ عن مكان كذا : فارقوه			HFN-E-42e7c7eab7	CANDIDATE	OK
+فصم	فَصَمَ	فَعَلَ	انْفَصَمَ	انْفَعَلَ	انْفِصَام	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	4	sihah·muhkam·lisan·misbah	wasit:الشءُ : انكِسر من غير فَصْل. و- العُقدةُ : انحلَّت . و-العُروة. : انقطعت , وفى التنزيل العزيز: (فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى | (ج) فضائح. لَاَ ان ‖ misbah:وَفِي التَّنْزِيلِ | sihah: فَصَمْتُهُ فانْفَصَمَ | sihah: فَصَمْتُهُ فانْفَصَمَ		HFN-E-f944abcd76	HFN-E-8aea686e34	CANDIDATE	OK
+فضض	فَضَّ	فَعَلَ	انْفَضَّ	انْفَعَلَ	انْفِضَاض	HFN_MASDAR	R1_QABILIYYAT	3	maqayis·lisan·misbah	wasit:الشءُ : انكسر . و - الجمعُ : تَفَرَّقَ . وفى التنزيل العزيز : ( وَلَوْ كُنْتَ فَظَّا غَلِيظَ القَلْبِ لا نْفَضُّوا مِنْ حَوْلِكَ )		HFN-E-b224ff16e7	HFN-E-1200d6cef5	CANDIDATE	OK
+فطر	فَطَرَ	فَعَلَ	انْفَطَرَ	انْفَعَلَ	انْفِطَار	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	3	sihah·muhkam·lisan	wasit:الشَّءُ : انشقَّ. وفى التنزيل العزيز | sihah: فَطَرْتُهُ فانْفَطَرَ | sihah: فَطَرْتُهُ فانْفَطَرَ		HFN-E-47bad22982	HFN-E-e2a2b4f4e0	CANDIDATE	OK
+فطر	فَطَّرَ	فَعَّلَ	أَفْطَرَ	أَفْعَلَ	إِفْطَار	HFN_MASDAR	LEX_FORMULA	1	muhkam	muhkam: فَطَّرْتُه فَأَفْطَرَ		HFN-E-d200c4a230	HFN-E-7343dc83eb	CANDIDATE	OK
+فغر	فَغَرَ	فَعَلَ	انْفَغَرَ	انْفَعَلَ	انْفِغَار	HFN_MASDAR	R1_QABILIYYAT	5	maqayis·lisan·qamus·taj·asas	wasit:الفَمُ : انْفَتَحَ	PHYS	HFN-E-ec8bf88687	HFN-E-46d4f6b97b	CANDIDATE	OK
+فلع	فَلَعَ	فَعَلَ	انْفَلَعَ	انْفَعَلَ	انْفِلَاع	HFN_MASDAR	R1_QABILIYYAT	4	ayn·maqayis·muhkam·lisan	wasit:الشءُ : انشق . يقال : انفلعت البيضة عن الفرخ		HFN-E-6278e27cf6	HFN-E-d81ff60f04	CANDIDATE	OK
+فلق	فَلَقَ	فَعَلَ	انْفَلَقَ	انْفَعَلَ	انْفِلَاق	HFN_MASDAR	R1_QABILIYYAT	4	ayn·maqayis·lisan·qamus			HFN-E-3cda43fc92	HFN-E-84e3398ed8	CANDIDATE	OK
+فهق	فَهَقَ	فَعَلَ	انْفَهَقَ	انْفَعَلَ	انْفِهَاق	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·lisan·qamus		DEFER	HFN-E-ef9783be0a	HFN-E-88a5724945	CANDIDATE	OK
+قبض	قَبَضَ	فَعَلَ	انْقَبَضَ	انْفَعَلَ	انْقِبَاض	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	4	ayn·muhkam·lisan·misbah	wasit:الشءُ : تجمَّعَ وانْطَوَى . و - المالُ . : ضار مقبوضاً . و - الرّجُلُ على نفسه : ضاق بالحياة فاعتزل . و- عن الشىء : اشمازَّ . و - عن القوم : هجرهم . و - فى حاجت | lisan: وقَبَضْتُهُ فَانْقَبَضَ | lisan: وقَبَضْتُهُ فَانْقَبَضَ		HFN-E-459ccf4770	HFN-E-1704965392	CANDIDATE	OK
+قحم	أَقْحَمَ	أَفْعَلَ	انْقَحَمَ	انْفَعَلَ	انْقِحَام	HFN_MASDAR	LEX_FORMULA	1	qamus	qamus: وأقْحَمْتُه فانْقَحَمَ | qamus: وأقْحَمْتُه فانْقَحَمَ		HFN-E-f63efb8a8b	HFN-E-2081a6fe51	CANDIDATE	OK
+قحم	قَحَمَ	فَعَلَ	انْقَحَمَ	انْفَعَلَ	انْقِحَام	HFN_MASDAR	R1_QABILIYYAT	2	lisan·qamus	wasit:فى الأَمْرِ : قَحَمَ		HFN-E-c0ccbaed7c	HFN-E-2081a6fe51	CANDIDATE	OK
+قدر	قَدَرَ		انْقَدَرَ	انْفَعَلَ	انْقِدَار	HFN_MASDAR	R1_QABILIYYAT	2	sihah·qamus	wasit:جاءً على المقدار . يقال قدرتُ الثوب فانقدر			HFN-E-33201f97fb	CANDIDATE	OK
+قدع	قَدَعَ	فَعَلَ	انْقَدَعَ	انْفَعَلَ	انْقِدَاع	HFN_MASDAR	R1_QABILIYYAT	2	sihah·lisan	wasit:كف وامتنع . و- عن الشىء : استحيا منه	NAFS	HFN-E-87150310a1	HFN-E-28d17bdd64	CANDIDATE	OK
+قرض	قَرَضَ	فَعَلَ	انْقَرَضَ	انْفَعَلَ	انْقِرَاض	HFN_MASDAR	R1_QABILIYYAT	2	sihah·lisan	wasit:الشءُ : انقطع . و - القومُ : ذهبوا ولم يبقَ منهم أَحدٌ		HFN-E-ffb8506956	HFN-E-3b50ed1049	CANDIDATE	OK
+قسم	قَسَمَ	فَعَلَ	انْقَسَمَ	انْفَعَلَ	انْقِسَام	HFN_MASDAR	R1_QABILIYYAT	2	sihah·lisan	wasit:الشءُ : تجزَّا أَجزَاءٌ		HFN-E-2162b2dd00	HFN-E-4cceafaf07	CANDIDATE	OK
+قشر	قَشَرَ		انْقَشَرَ	انْفَعَلَ	انْقِشَار	HFN_MASDAR	R1_QABILIYYAT	5	ayn·sihah·lisan·qamus·taj	wasit:الشءُ : زَال عنه قشرُه			HFN-E-b6d374c9ea	CANDIDATE	OK
+قشع	قَشَعَ	فَعَلَ	انْقَشَعَ	انْفَعَلَ	انْقِشَاع	HFN_MASDAR	R1_QABILIYYAT	6	maqayis·sihah·muhkam·lisan·asas·misbah	wasit:عنه الشءُ : غَشِيه ثم انجلى عنه . يقال : انقشع الظلامُ عن الصبح، وانقشع الهَمُّ عن القلب ، وانقشع الدَّحابُ عن الجو. و - القومُ : ذهَبوا وتفرّقوا . و - عن الماء		HFN-E-6ea1673495	HFN-E-53ba2665d6	CANDIDATE	OK
+قصد	قَصَدَ	فَعَلَ	انْقَصَدَ	انْفَعَلَ	انْقِصَاد	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	5	ayn·muhkam·lisan·qamus·taj	wasit:العودُ : انكسر | lisan: وَقَصَدْتُهُ فانْقَصَدَ | lisan: وَقَصَدْتُهُ فانْقَصَدَ		HFN-E-3a75d059bc	HFN-E-61325dee28	CANDIDATE	OK
+قصف	قَصَفَ	فَعَلَ	انْقَصَفَ	انْفَعَلَ	انْقِصَاف	HFN_MASDAR	R1_QABILIYYAT	7	ayn·sihah·muhkam·lisan·qamus·asas·misbah	wasit:الشءُ: انكسر وبان. و- القوم عن الشىء : تركوه ومرُّوا عَجْزًا . و - القومُ : جتمعوا وازدحموا. ويقال: انقصفوا على الشيء : تتابعوا ‖ misbah:عَنِ الشَّءِ تَركَهُ و	PHYS	HFN-E-3c2e4c6fc3	HFN-E-8a15afa4ec	CANDIDATE	OK
+قصم	قَصَمَ	فَعَلَ	انْقَصَمَ	انْفَعَلَ	انْقِصَام	HFN_MASDAR	R1_QABILIYYAT	5	ayn·sihah·muhkam·lisan·qamus	wasit:انكسر		HFN-E-4827e99271	HFN-E-531bff8b7a	CANDIDATE	OK
+قضب	قَضَبَ	فَعَلَ	انْقَضَبَ	انْفَعَلَ	انْقِضَاب	HFN_MASDAR	R1_QABILIYYAT	5	maqayis·muhkam·qamus·taj·misbah	wasit:انقطع . ويقال : انقضب الكوكَبُ مِن مكانه: انقطع وانقَضَّ. فهو مُنْقَضِبٌ	PHYS	HFN-E-d93b6f669c	HFN-E-53e7879686	CANDIDATE	OK
+قضض	قَضَّ		انْقَضَّ	انْفَعَلَ	انْقِضَاض	HFN_MASDAR	R1_QABILIYYAT	3	maqayis·muhkam·lisan	wasit:الشءُ : تقطَّعَ وانكسر . ويقال: انقضَّت أَوصالُه : تفرَّقت وتقطَّعت. و_ الجدارُ : سقط . و- الطائرُ : هوى فى طيرانه بسرعة يريد الوقوع على شىء . و- الخيل على الأع			HFN-E-841a2ab49d	CANDIDATE	OK
+قضع	قَضَعَ	فَعَلَ	انْقَضَعَ	انْفَعَلَ	انْقِضَاع	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·lisan·qamus			HFN-E-8efb37a64e	HFN-E-49eb7a8336	CANDIDATE	OK
+قطع	قَطَعَ	فَعَلَ	انْقَطَعَ	انْفَعَلَ	انْقِطَاع	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	6	ayn·sihah·lisan·qamus·asas·misbah	wasit:الشءُ : ذهب وقتُه : يقال: انقطع الحرّ والبُرْدُ .. ويقال : انقطع الكلامُ:. و - النهرُ : جَفَّ . و _ الكلامُ : وقَفَ فلم بَمضٍ . و - إِلى فلانٍ : انفرد بصحبته خا ‖ wasit:بفلان [ مجهولا ] : إذا. كان ابن سبيل فانقطع به السفر دون طِيَّته .ن فهو منقَطَع به | lisan: قَطَعْتُهُ فَانْقَطَعَ | lisan: قَطَعْتُهُ فَانْقَطَعَ		HFN-E-96c2adb375	HFN-E-707bc19048	CANDIDATE	OK
+قعد	أَقْعَدَ	أَفْعَلَ	قَعَدَ	فَعَلَ	قُعُود	HFN_MASDAR	LEX_FORMULA	1	misbah	misbah: أَقْعَدُتُهُ فَقَعَدَ | misbah: أَقْعَدُتُهُ فَقَعَدَ		HFN-E-e26e38137c	HFN-E-21b23fc54c	CANDIDATE	OK
+قعر	قَعَرَ	فَعَلَ	انْقَعَرَ	انْفَعَلَ	انْقِعَار	HFN_MASDAR	R1_QABILIYYAT	6	ayn·maqayis·muhkam·qamus·taj·asas			HFN-E-8c305af477	HFN-E-9abdde40de	CANDIDATE	OK
+قعش	قَعَشَ	فَعَلَ	انْقَعَشَ	انْفَعَلَ	انْقِعَاش	HFN_MASDAR	R1_QABILIYYAT	2	lisan·qamus			HFN-E-c3954feb06	HFN-E-480f46ef2c	CANDIDATE	OK
+قعص	قَعَصَ	فَعَلَ	انْقَعَصَ	انْفَعَلَ	انْقِعَاص	HFN_MASDAR	R1_QABILIYYAT	2	lisan·qamus			HFN-E-9eb0e8b357	HFN-E-1d31a41c7d	CANDIDATE	OK
+قفش	قَفَشَ	فَعَلَ	انْقَفَشَ	انْفَعَلَ	انْقِفَاش	HFN_MASDAR	R1_QABILIYYAT	2	lisan·qamus			HFN-E-33325cc7f4	HFN-E-2163e35c02	CANDIDATE	OK
+قفع	قَفَعَ	فَعَلَ	انْقَفَعَ	انْفَعَلَ	انْقِفَاع	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·qamus	wasit:النباتُ : يبس وتصلَّبَ . و - عن الشيء : امتنع	PHYS	HFN-E-23796d000b	HFN-E-bc28848d37	CANDIDATE	OK
+قلب	قَلَبَ		انْقَلَبَ	انْفَعَلَ	انْقِلَاب	HFN_MASDAR	R1_QABILIYYAT	3	ayn·lisan·asas	wasit:مطاوع قلبه . و - رجع وانصرف ، وفى التنزيل العزيز : (فَانْقَلَبُوا بِنِعْمَةٍ مِنَ اللهِ وَفَضْل )	PHYS		HFN-E-fe1845568a	CANDIDATE	OK
+قلب	قَلَّبَ	فَعَّلَ	تَقَلَّبَ	تَفَعَّلَ	تَقَلُّب	HFN_MASDAR	LEX_FORMULA	1	taj	taj: وقَلَّبْتُهُ فتَقَلَّبَ | taj: وقَلَّبْتُهُ فتَقَلَّبَ		HFN-E-5afe7e7d91	HFN-E-520cd45ff8	CANDIDATE	OK
+قلع	قَلَعَ	فَعَلَ	انْقَلَعَ	انْفَعَلَ	انْقِلَاع	HFN_MASDAR	R1_QABILIYYAT	6	ayn·sihah·muhkam·lisan·qamus·misbah	wasit:مطاوع قلَعَ . و - البعيرُ : كان صحيحاً فوقع ميِّتاً		HFN-E-d6b7faeab7	HFN-E-f6dd8562a0	CANDIDATE	OK
+قمح	قَمِحَ	فَعِلَ	انْقَمَحَ	انْفَعَلَ	انْقِمَاح	HFN_MASDAR	R1_QABILIYYAT	4	ayn·maqayis·sihah·taj		DEFER	HFN-E-77c741dbd8	HFN-E-5fdd747d96	CANDIDATE	OK
+قمس	قَمَسَ		انْقَمَسَ	انْفَعَلَ	انْقِمَاس	HFN_MASDAR	R1_QABILIYYAT	5	sihah·muhkam·lisan·qamus·taj	wasit:الكوكبُ : غَرَب . و - فى الماء : وثب فيه	PHYS		HFN-E-8cbc50dd0c	CANDIDATE	OK
+قمع	قَمَعَ	فَعَلَ	انْقَمَعَ	انْفَعَلَ	انْقِمَاع	HFN_MASDAR	R1_QABILIYYAT	5	ayn·sihah·muhkam·lisan·qamus	wasit:تغيّبَ ودخل وراء سِتر . و- فى البيْتِ : قَمَع . و - جدس وحده		HFN-E-8de1ca5d5f	HFN-E-160a3dc8eb	CANDIDATE	OK
+قهل	قَهِلَ	فَعِلَ	انْقَهَلَ	انْفَعَلَ	انْقِهَال	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·lisan·qamus			HFN-E-bbdac426c1	HFN-E-85c37a8142	CANDIDATE	OK
+قوم	قَوَّمَ	فَعَّلَ (أجوف)	اسْتَقَامَ	اسْتَفَالَ (استفعل أجوف)	اسْتِقَامَة	HFN_MASDAR	LEX_FORMULA	1	sihah	sihah: قوَّمته فاستقام | sihah: قوَّمته فاستقام		HFN-E-d70b746cc3	HFN-E-d130ff3852	CANDIDATE	OK
+قيس	قَيَّسَ	فَعَّلَ (أجوف)	تَقَيَّسَ	تَفَعَّلَ (أجوف)	تَقَيُّس	HFN_MASDAR	LEX_FORMULA	1	taj	taj: قَيَّسْتُه فتَقَيَّسَ | taj: قَيَّسْتُه فتَقَيَّسَ		HFN-E-3ec6a98e53	HFN-E-ec37c3e021	CANDIDATE	OK
+كبت	كَبَتَ	فَعَلَ	انْكَبَتَ	انْفَعَلَ	انْكِبَات	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·lisan·taj	wasit:مطاوعُ كبت		HFN-E-19a9491e79	HFN-E-bd4265bb74	CANDIDATE	OK
+كدر	كَدَرَ	فَعَلَ	انْكَدَرَ	انْفَعَلَ	انْكِدَار	HFN_MASDAR	R1_QABILIYYAT	4	sihah·muhkam·lisan·qamus	wasit:فى سيره : أسرع وانقضّ. و - عليه القومُ : انصبّوا . و - النجومُ : تناثرت. وفى التنزيل العزيز		HFN-E-e57c64c757	HFN-E-9a54edea42	CANDIDATE	OK
+كرث	كَرَثَ	فَعَلَ	انْكَرَثَ	انْفَعَلَ	انْكِرَاث	HFN_MASDAR	R1_QABILIYYAT	2	qamus·taj			HFN-E-69c3bc67db	HFN-E-433c929e77	CANDIDATE	OK
+كسر	كَسَرَ	فَعَلَ	انْكَسَرَ	انْفَعَلَ	انْكِسَار	HFN_MASDAR	R1_QABILIYYAT+LEX_FORMULA	5	sihah·lisan·qamus·taj·misbah	wasit:الشءُ : مطاوع كَسَرَه . و - الشءُ : فَتَرَ . يقال : انكسر الحرَّ وبَرُد الماء . و - العسكرُ : انهزم وتبدّد . فهو مكسور ، ولا يقال : منكسر . و - الشِّعرُ : لم يَ | lisan: كَسَرتُهُ فَانْكَسَر | lisan: كَسَرتُهُ فَانْكَسَر		HFN-E-941cae23b5	HFN-E-6f9c3c6e5e	CANDIDATE	OK
+كسف	كَسَفَ	فَعَلَ	انْكَسَفَ	انْفَعَلَ	انْكِسَاف	HFN_MASDAR	R1_QABILIYYAT	4	sihah·lisan·qamus·misbah			HFN-E-37a66167e7	HFN-E-e31842b447	CANDIDATE	OK
+كشح	كَشَحَ	فَعَلَ	انْكَشَحَ	انْفَعَلَ	انْكِشَاح	HFN_MASDAR	R1_QABILIYYAT	4	sihah·lisan·qamus·taj		NAFS	HFN-E-3112fb6634	HFN-E-f5c1262dd1	CANDIDATE	OK
+كشط	كَشَطَ	فَعَلَ	انْكَشَطَ	انْفَعَلَ	انْكِشَاط	HFN_MASDAR	R1_QABILIYYAT	4	maqayis·sihah·lisan·qamus	wasit:مطاوع كَشَطَ . ويقال : انكشطَ رَوْعهُ : ذهب خوفُه		HFN-E-277faacb6e	HFN-E-cf86634571	CANDIDATE	OK
+كشف	كَشَفَ	فَعَلَ	انْكَشَفَ	انْفَعَلَ	انْكِشَاف	HFN_MASDAR	R1_QABILIYYAT	4	muhkam·qamus·asas·misbah		PHYS	HFN-E-2b070b7608	HFN-E-9f5e457b3d	CANDIDATE	OK
+كفت	كَفَتَ	فَعَلَ	انْكَفَتَ	انْفَعَلَ	انْكِفَات	HFN_MASDAR	R1_QABILIYYAT	3	lisan·qamus·taj	wasit:الرّجُل : اجتمع خَلْقُه و - الفرسُ : ضَمَرَ . و _ الرّجُلُ : انصرف و - القومُ إلى منازلهم : انقلبوا		HFN-E-d69ffc0b19	HFN-E-b64f676c08	CANDIDATE	OK
+كمش	كَمَشَ	فَعَلَ	انْكَمَشَ	انْفَعَلَ	انْكِمَاش	HFN_MASDAR	R1_QABILIYYAT	3	sihah·lisan·qamus	wasit:فى أَمره : أَسْرَع . ويقال : انكمش الفرسُ فى سَيْره. و- الجلدُ أَو النَّسيج تقبَّضٍ واجتمع		HFN-E-0e0fa9e858	HFN-E-b3a774eabc	CANDIDATE	OK
+كور	كَوَّرَ	فَعَّلَ (أجوف)	تَكَوَّرَ	تَفَعَّلَ (أجوف)	تَكَوُّر	HFN_MASDAR	LEX_FORMULA	2	sihah·taj	sihah: وكَوَّرْتُهُ فتَكَوَّرَ | sihah: وكَوَّرْتُهُ فتَكَوَّرَ		HFN-E-c76e91ce44	HFN-E-de2777e13c	CANDIDATE	OK
+محق	مَحَقَ	فَعَلَ	انْمَحَقَ	انْفَعَلَ	انْمِحَاق	HFN_MASDAR	R1_QABILIYYAT	3	ayn·asas·misbah	misbah:الْهِلاَل لِثَلَاثِ لَيَالِ فِي آخِر الشَّهْرِ لاَ يَكَادْ يُرَى لِخَفَائِهِ وَالاِسْمُ		HFN-E-0e7f06fb8a	HFN-E-fd6360ef02	CANDIDATE	OK
+مدح	مَدَحَ	فَعَلَ	انْمَدَحَ	انْفَعَلَ	انْمِدَاح	HFN_MASDAR	R1_QABILIYYAT	2	taj·misbah			HFN-E-6eedbec591	HFN-E-e5fe6993cb	CANDIDATE	OK
+مرط	مَرَطَ	فَعَلَ	انْمَرَطَ	انْفَعَلَ	انْمِرَاط	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·lisan		PHYS	HFN-E-baef6051dc	HFN-E-f8e762ed11	CANDIDATE	OK
+ملس	مَلَسَ	فَعَلَ	انْمَلَسَ	انْفَعَلَ	انْمِلَاس	HFN_MASDAR	R1_QABILIYYAT	2	lisan·taj			HFN-E-a13d695231	HFN-E-8c498790dd	CANDIDATE	OK
+ملق	مَلَقَ	فَعَلَ	انْمَلَقَ	انْفَعَلَ	انْمِلَاق	HFN_MASDAR	R1_QABILIYYAT	4	maqayis·sihah·lisan·qamus	wasit:الشءُ ، و		HFN-E-99f162a124	HFN-E-f1c2644e14	CANDIDATE	OK
+منع	مَنَعَ	فَعَلَ	امْتَنَعَ	افْتَعَلَ	امْتِنَاع	HFN_MASDAR	LEX_FORMULA	1	lisan	lisan: مَنَعْتُهُ فامْتَنَعَ | lisan: مَنَعْتُهُ فامْتَنَعَ		HFN-E-1550a0c245	HFN-E-b6b808746b	CANDIDATE	OK
+نبه	نَبَّهَ	فَعَّلَ	تَنَبَّهَ	تَفَعَّلَ	تَنَبُّه	HFN_MASDAR	LEX_FORMULA	1	qamus	qamus: ونَبَّهْتُهُ فَتَنَبَّهَ		HFN-E-df6456577c	HFN-E-98721e324b	CANDIDATE	OK
+نتف	نَتَفَ	فَعَلَ	انْتَتَفَ	افْتَعَلَ	انْتِتَاف	HFN_MASDAR	LEX_FORMULA	2	muhkam·qamus	muhkam: نَتَفْتُه فانْتَتَفَ | muhkam: نَتَفْتُه فانْتَتَفَ		HFN-E-bbd85f9966	HFN-E-78b39e769c	CANDIDATE	OK
+نصح	نَصَحَ	فَعَلَ	انْتَصَحَ	افْتَعَلَ	انْتِصَاح	HFN_MASDAR	LEX_FORMULA	1	taj	taj: نَصحتُه فانتَصَح. | taj: نَصحتُه فانتَصَح.		HFN-E-30c18297c8	HFN-E-75c97bd21c	CANDIDATE	OK
+نعش	نَعَشَ	فَعَلَ	انْتَعَشَ	افْتَعَلَ	انْتِعَاش	HFN_MASDAR	LEX_FORMULA	2	asas·taj	asas: نَعَشْتُه فانتَعَش | asas: نعشتُه فانتعش		HFN-E-bb8c274b96	HFN-E-10b47f67c6	CANDIDATE	OK
+نفل	نَفَّلَ	فَعَّلَ	انْتَفَلَ	افْتَعَلَ	انْتِفَال	HFN_MASDAR	LEX_FORMULA	1	asas	asas: ونَفَّلتُه فانتَفَل | asas: ونَفَّلتُه فانتَفَل		HFN-E-d48b7537a1	HFN-E-59d5d90498	CANDIDATE	OK
+نقذ	أَنْقَذَ	أَفْعَلَ	نَقِذَ	فَعِلَ	نَقَذ	HFN_MASDAR	LEX_FORMULA	1	wasit	wasit: أَنقذتُه فنَقِذ | wasit: أَنقذتُه فنَقِذ		HFN-E-b2b797944d	HFN-E-7d0eb69b6e	CANDIDATE	OK
+نقل	نَقَلَ	فَعَلَ	انْتَقَلَ	افْتَعَلَ	انْتِقَال	HFN_MASDAR	LEX_FORMULA	1	asas	asas: نَقَلتُه فانتقل		HFN-E-13b5bbffe4	HFN-E-3a06be06a1	CANDIDATE	OK
+هتك	هَتَكَ	فَعَلَ	انْهَتَكَ	انْفَعَلَ	انْهِتَاك	HFN_MASDAR	R1_QABILIYYAT	5	ayn·muhkam·lisan·qamus·misbah	misbah:و		HFN-E-c9dbe1856d	HFN-E-2798d8e721	CANDIDATE	OK
+هجس	هَجَسَ	فَعَلَ	انْهَجَسَ	انْفَعَلَ	انْهِجَاس	HFN_MASDAR	R1_QABILIYYAT	2	lisan·qamus			HFN-E-43cb5ba00e	HFN-E-a4bca9573a	CANDIDATE	OK
+هجم	هَجَمَ	فَعَلَ	انْهَجَمَ	انْفَعَلَ	انْهِجَام	HFN_MASDAR	R1_QABILIYYAT	3	ayn·muhkam·qamus			HFN-E-b35dbd6551	HFN-E-1a325a15c9	CANDIDATE	OK
+هدم	هَدَمَ	فَعَلَ	انْهَدَمَ	انْفَعَلَ	انْهِدَام	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·misbah			HFN-E-691bf4e4d0	HFN-E-8c0a01d0c9	CANDIDATE	OK
+هرج	هَرَجَ	فَعَلَ	انْهَرَجَ	انْفَعَلَ	انْهِرَاج	HFN_MASDAR	R1_QABILIYYAT	2	lisan·taj	wasit:فلانٌ من الخمر : اضمحلَّت قُواه من تناوُلها		HFN-E-8d8f98b94e	HFN-E-e59a910956	CANDIDATE	OK
+هزم	هَزَمَ	فَعَلَ	انْهَزَمَ	انْفَعَلَ	انْهِزَام	HFN_MASDAR	R1_QABILIYYAT	3	sihah·muhkam·qamus			HFN-E-8da4c3d51a	HFN-E-7bf6a65216	CANDIDATE	OK
+هشم	هَشَمَ	فَعَلَ	انْهَشَمَ	انْفَعَلَ	انْهِشَام	HFN_MASDAR	R1_QABILIYYAT	2	muhkam·lisan	wasit:الشءُ : مطاوعُ هَشَمه .و- الإِبلُ : خارتْ وضعُفت		HFN-E-8a3f552dea	HFN-E-67752f662b	CANDIDATE	OK
+هصر	هَصَرَ	فَعَلَ	انْهَصَرَ	انْفَعَلَ	انْهِصَار	HFN_MASDAR	R1_QABILIYYAT	4	muhkam·lisan·qamus·taj		PHYS	HFN-E-24967a9167	HFN-E-5346006354	CANDIDATE	OK
+هلب	هَلَبَ	فَعَلَ	انْهَلَبَ	انْفَعَلَ	انْهِلَاب	HFN_MASDAR	R1_QABILIYYAT	3	muhkam·qamus·taj		PHYS	HFN-E-6d669be1fa	HFN-E-4bda70debf	CANDIDATE	OK
+همر	هَمَرَ	فَعَلَ	انْهَمَرَ	انْفَعَلَ	انْهِمَار	HFN_MASDAR	R1_QABILIYYAT	5	ayn·maqayis·muhkam·lisan·qamus	wasit:الماءُ : انسكبَ بقرَّةٍ . فهو منهمر . وفى التنزيل العزيز : (فَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءِ مُنْهَيِرٍ ) . ويقال : انهمر بالكلام . و - البنَاءُ : انهدم		HFN-E-ca40dfcd65	HFN-E-5721c54564	CANDIDATE	OK
+همك	هَمَكَ	فَعَلَ	انْهَمَكَ	انْفَعَلَ	انْهِمَاك	HFN_MASDAR	R1_QABILIYYAT	7	ayn·maqayis·muhkam·lisan·qamus·asas·misbah	wasit:فلانٌ فى الأمر : جدَّ وثابر فيه برغبة وحرص		HFN-E-656c38a71b	HFN-E-8f3f8ec856	CANDIDATE	OK
+هور	هَارَ	فَعَلَ	انْهَارَ	انْفَعَلَ	انْهِيَار	HFN_MASDAR	R1_QABILIYYAT	6	ayn·sihah·muhkam·lisan·qamus·asas	wasit:البناءُ ونحوه : انْهَدم . وفى التنزيل العزيز ‖ misbah:و		HFN-E-25ecd518fc	HFN-E-1f199bfef0	CANDIDATE	OK
+هور	هَوَّرَ	فَعَّلَ (أجوف)	تَهَوَّرَ	تَفَعَّلَ (أجوف)	تَهَوُّر	HFN_MASDAR	LEX_FORMULA	2	sihah·taj	sihah: هوَّرْتُهُ فَتَهَوَّرْ | sihah: هوَّرْتُهُ فَتَهَوَّرْ		HFN-E-ba8bd76548	HFN-E-79c01f24de	CANDIDATE	OK
+ءبر			تَأبَّرٍ	تَفَعَّلَ		MISSING	R1W_WASIT	7		wasit: مطاوع ءبره				CANDIDATE	BASE_UNRESOLVED
+ءبض			تأَبَضَ			MISSING	R1W_WASIT	5		wasit: مطاوع ءبضه				CANDIDATE	BASE_UNRESOLVED
+ءبه			تَأَبَّهَ	تَفَعَّلَ		MISSING	R1W_WASIT	3		wasit: مطاوع ءبهه				CANDIDATE	BASE_UNRESOLVED
+ءرب			تَأَرَّبَ	تَفَعَّلَ		MISSING	R1W_WASIT	7		wasit: مطاوع ءربه				CANDIDATE	BASE_UNRESOLVED
+ءسد			تأسد			MISSING	R1W_WASIT	3		wasit: مطاوع ءسده				CANDIDATE	BASE_UNRESOLVED
+ءكد			تَأْكَّدَ	تَفَعَّلَ		MISSING	R1W_WASIT	4		wasit: مطاوع ءكده				CANDIDATE	BASE_UNRESOLVED
+ءلف	أَلَّفَ	فَعَّلَ	تَأَلَّفَ	تَفَعَّلَ		MISSING	R1W_WASIT	2		wasit: مطاوع ءلفه		HFN-E-e4f60e0e94		CANDIDATE	OK
+ءمر	أَمَرَ	فَعَلَ	انْتَمَرَ	انْفَعَلَ		MISSING	R1W_WASIT	5		wasit: مطاوع ءمره		HFN-E-d5aa4e2b2e		CANDIDATE	OK
+ءنف			تَأَنَّف	تَفَعَّلَ		MISSING	R1W_WASIT	6		wasit: مطاوع ءنفه				CANDIDATE	BASE_UNRESOLVED
+ءنق			تأَنَّق	تَفَعَّلَ		MISSING	R1W_WASIT	7		wasit: مطاوع ءنقه				CANDIDATE	BASE_UNRESOLVED
+ءود	آدَ	فَعَلَ	انآدَ	انْفَعَلَ		MISSING	R1W_WASIT	9		wasit: مطاوع ءده		HFN-E-05d546cb26		CANDIDATE	OK
+ءود			تَأَوَّدَ	تَفَعَّلَ		MISSING	R1W_WASIT	6		wasit: مطاوع ءوده				CANDIDATE	BASE_UNRESOLVED
+ءيس			تَأَيَّس	تَفَعَّلَ		MISSING	R1W_WASIT	7		wasit: مطاوع ءيسه				CANDIDATE	BASE_UNRESOLVED
+بخر	بَخَّرَ	فَعَّلَ	تَبَخّر	تَفَعَّلَ		MISSING	R1W_WASIT	2		wasit: مطاوع بخره		HFN-E-e1dcb4565f		CANDIDATE	OK
+برد	بَرَّدَ	فَعَّلَ	تَبَرَّد	تَفَعَّلَ	تَبَرُّد	AHDATH_R1W	R1W_WASIT	7		wasit: مطاوع برده		HFN-E-03c5da70c9	HFN-E-094dc2b514	CANDIDATE	OK
+برقع	بَرْقَعَ	فَعْلَلَ	تبَرقعَ	تَفَعْلَلَ		MISSING	R1W_WASIT	3		wasit: مطاوع برقعه		HFN-E-7a13bb2432		CANDIDATE	OK
+بني	بَنَى	فَعَلَ	انْبَنَى	انْفَعَلَ		MISSING	R1W_WASIT	6		wasit: مطاوع بني		HFN-E-68aab92653		CANDIDATE	OK
+بهر	بَهَرَ	فَعَلَ	أنْبَهَرَ	انْفَعَلَ		MISSING	R1W_WASIT	8		wasit: مطاوع بهره		HFN-E-8b919e5739		CANDIDATE	OK
+بوب	بَوَّبَ	فَعَّلَ	تَبَوَّب	تَفَعَّلَ	تَبَوُّب	AHDATH_R1W	R1W_WASIT	2		wasit: مطاوع بوبه		HFN-E-702182069a	HFN-E-b68ed0721b	CANDIDATE	OK
+بيت	بَيَّتَ	فَعَّلَ	تبَيَّتَ	تَفَعَّلَ		MISSING	R1W_WASIT	6		wasit: مطاوع بيته		HFN-E-45914664e8		CANDIDATE	OK
+ثقف	ثَقَّفَ	فَعَّلَ	تَشَقَّفَ	تَفَعَّلَ		MISSING	R1W_WASIT	4		wasit: مطاوع ثقفه		HFN-E-ce2979f6ce		CANDIDATE	OK
+ثلم			تَثَلَّم	تَفَعَّلَ	تَثَلُّم	AHDATH_R1W	R1W_WASIT	4		wasit: مطاوع ثلمه			HFN-E-1fe9b2b3f2	CANDIDATE	BASE_UNRESOLVED
+جرجم	جَرْجَمَ	فَعْلَلَ	تجَرْجَمَ	تَفَعْلَلَ		MISSING	R1W_WASIT	3		wasit: مطاوع جرجمه		HFN-E-78e95ac5c3		CANDIDATE	OK
+جزم	جَزَمَ	فَعَلَ	انجزم	انْفَعَلَ		MISSING	R1W_WASIT	6		wasit: مطاوع جزم		HFN-E-35606adedb		CANDIDATE	OK
+جسد			تَجَسَّدَ	تَفَعَّلَ	تَجَسُّد	AHDATH_R1W	R1W_WASIT	4		wasit: مطاوع جسده			HFN-E-321ddbf779	CANDIDATE	BASE_UNRESOLVED
+جسم			تَجَسَّمَ	تَفَعَّلَ	تَجَسُّم	AHDATH_R1W	R1W_WASIT	5		wasit: مطاوع جسمه			HFN-E-1635c69963	CANDIDATE	BASE_UNRESOLVED
+جشر	جَشَّرَ	فَعَّلَ	تَجَشَّرَ	تَفَعَّلَ	تَجَشُّر	AHDATH_R1W	R1W_WASIT	4		wasit: مطاوع جشره		HFN-E-83a9ab553e	HFN-E-2b76c2d919	CANDIDATE	OK
+جعب	جَعَّبَ	فَعَّلَ	تجَعَّبَ	تَفَعَّلَ	تَجَعُّب	AHDATH_R1W	R1W_WASIT	5		wasit: مطاوع جعبه		HFN-E-2b1e9ccfb3	HFN-E-550c29cc92	CANDIDATE	OK
+جفر	جَفَّرَ	فَعَّلَ	تَجَفَّرَ	تَفَعَّلَ	تَجَفُّر	AHDATH_R1W	R1W_WASIT	3		wasit: مطاوع جفره		HFN-E-acb6a7ee85	HFN-E-a109a36aff	CANDIDATE	OK
+جفل	جَفَلَ	فَعَلَ	انْجفلَ	انْفَعَلَ	انْجِفَال	AHDATH_R1W	R1W_WASIT	7		wasit: مطاوع جفله		HFN-E-d319730e45	HFN-E-a21ffa84ba	CANDIDATE	OK
+جفل	جَفَّلَ	فَعَّلَ	تَجفَّلَ	تَفَعَّلَ	تَجَفُّل	AHDATH_R1W	R1W_WASIT	3		wasit: مطاوع جفله		HFN-E-aafa6f472c	HFN-E-1b53c141e0	CANDIDATE	OK
+جلب	جَلَبَ	فَعَلَ	انجلب	انْفَعَلَ	انْجِلَاب	AHDATH_R1W	R1W_WASIT	8		wasit: مطاوع جلبه		HFN-E-68356cf071	HFN-E-dda1a007d5	CANDIDATE	OK
+جلد	جَلَّدَ	فَعَّلَ	تَجلَّدَ	تَفَعَّلَ	تَجَلُّد	AHDATH_R1W	R1W_WASIT	5		wasit: مطاوع جلده		HFN-E-6983fee879	HFN-E-0c712bc197	CANDIDATE	OK
+جلط	جَلَطَ	فَعَلَ	انجَلَطَ	انْفَعَلَ	انْجِلَاط	AHDATH_R1W	R1W_WASIT	5		wasit: مطاوع جلطه		HFN-E-a4b8ba2515	HFN-E-abd80310f6	CANDIDATE	OK
+جلف	جَلَّفَ	فَعَّلَ	تَجَدَّفَ	تَفَعَّلَ		MISSING	R1W_WASIT	5		wasit: مطاوع جلف		HFN-E-d407586480		CANDIDATE	OK
+جمع	جَمَعَ	فَعَلَ	اجْتمَعَ	افْتَعَلَ	اجْتِمَاع	AHDATH_R1W	R1W_WASIT	7		wasit: مطاوع جمعه		HFN-E-95c0dd8f04	HFN-E-c26df9352e	CANDIDATE	OK
+جنح			تجَنحَ			MISSING	R1W_WASIT	7		wasit: مطاوع جنحه				CANDIDATE	BASE_UNRESOLVED
+جنس			جانَسه			MISSING	R1W_WASIT	2		wasit: مطاوع جنسه				CANDIDATE	BASE_UNRESOLVED
+جور	جَوَّرَ	فَعَّلَ	تَجَوَّرَ	تَفَعَّلَ	تَجَوُّر	AHDATH_R1W	R1W_WASIT	5		wasit: مطاوع جوره		HFN-E-9443f8c0f6	HFN-E-34fbd0a0c5	CANDIDATE	OK
+جوف			تَجَوفَ		تَجَوُّف	AHDATH_R1W	R1W_WASIT	3		wasit: مطاوع جوفه			HFN-E-d5c0ce18d6	CANDIDATE	BASE_UNRESOLVED
+حرق	حَرَّقَ	فَعَّلَ	تَحَرَّقَ	تَفَعَّلَ	تَحَرُّق	AHDATH_R1W	R1W_WASIT	5		wasit: مطاوع حرقه		HFN-E-ba9386112f	HFN-E-ae4c8cddf6	CANDIDATE	OK
+حشر	حَشَرَ	فَعَلَ	انْحَشر	انْفَعَلَ		MISSING	R1W_WASIT	8		wasit: مطاوع حشره		HFN-E-d5df2d8168		CANDIDATE	OK
+حصب	حَصَّبَ	فَعَّلَ	تَحَصَّبَ	تَفَعَّلَ	تَحَصُّب	AHDATH_R1W	R1W_WASIT	5		wasit: مطاوع حصبه		HFN-E-1980cedde4	HFN-E-481b02ae88	CANDIDATE	OK
+حطم	حَطَمَ	فَعَلَ	انحَطم	انْفَعَلَ	انْحِطَام	AHDATH_R1W	R1W_WASIT	6		wasit: مطاوع حطمه		HFN-E-723ee56cea	HFN-E-9c2ac57770	CANDIDATE	OK
+حطم			تحَطمَ		تَحَطُّم	AHDATH_R1W	R1W_WASIT	6		wasit: مطاوع حطمه			HFN-E-411b56ec38	CANDIDATE	BASE_UNRESOLVED
+حمس			نَحَمس			MISSING	R1W_WASIT	5		wasit: مطاوع حمسه				CANDIDATE	BASE_UNRESOLVED
+حور			احْوَرّ			MISSING	R1W_WASIT	5		wasit: مطاوع حوره				CANDIDATE	BASE_UNRESOLVED
+حوز	حَازَ	فَعَلَ	انحَاز	انْفَعَلَ		MISSING	R1W_WASIT	7		wasit: مطاوع حازه		HFN-E-47e9bfd0b9		CANDIDATE	OK
+حوز			تَحوزَ		تَحَوُّز	AHDATH_R1W	R1W_WASIT	4		wasit: مطاوع حوزه			HFN-E-eeb505a733	CANDIDATE	BASE_UNRESOLVED
+حوش	حَاشَ	فَعَلَ	انْحَاشَ	انْفَعَلَ		MISSING	R1W_WASIT	6		wasit: مطاوع حاشه		HFN-E-39488ca74c		CANDIDATE	OK
+خذم			تَخَذَّمَ	تَفَعَّلَ		MISSING	R1W_WASIT	5		wasit: مطاوع خذمه				CANDIDATE	BASE_UNRESOLVED
+خفس	خَفَسَ	فَعَلَ	انخَفَسَ	انْفَعَلَ	انْخِفَاس	AHDATH_R1W	R1W_WASIT	3		wasit: مطاوع خفسه		HFN-E-8b6354fb65	HFN-E-38f30f120c	CANDIDATE	OK
+خفس			تخفَّسَ	تَفَعَّلَ		MISSING	R1W_WASIT	3		wasit: مطاوع خفسه				CANDIDATE	BASE_UNRESOLVED
+خلص	خَلَّصَ	فَعَّلَ	تَخَلَّصَ	تَفَعَّلَ	تَخَلُّص	AHDATH_R1W	R1W_WASIT	6		wasit: مطاوع خلصه		HFN-E-f0950d21df	HFN-E-47b1398c37	CANDIDATE	OK
+خلع	خَلَعَ	فَعَلَ	انْخلَعَ	انْفَعَلَ	انْخِلَاع	AHDATH_R1W	R1W_WASIT	6		wasit: مطاوع خلعه		HFN-E-1cb54b81cb	HFN-E-e3430f1b9a	CANDIDATE	OK
+خلف			تمخلَّفَ	تَفَعْلَلَ		MISSING	R1W_WASIT	5		wasit: مطاوع خلفه				CANDIDATE	BASE_UNRESOLVED
+خمش			تخمَّشَ	تَفَعَّلَ		MISSING	R1W_WASIT	4		wasit: مطاوع خمشه				CANDIDATE	BASE_UNRESOLVED
+خنس			تَخنَّسَ	تَفَعَّلَ	تَخَنُّس	AHDATH_R1W	R1W_WASIT	9		wasit: مطاوع خنسه			HFN-E-ccab7b835f	CANDIDATE	BASE_UNRESOLVED
+دبق	دَبَّقَ	فَعَّلَ	تَدَبَّقَ	تَفَعَّلَ	تَدَبُّق	AHDATH_R1W	R1W_WASIT	4		wasit: مطاوع دبقه		HFN-E-7112fba7bd	HFN-E-74d8829ce9	CANDIDATE	OK
+دحح	دَحَّ	فَعَلَ	انْدَحَّ	انْفَعَلَ		MISSING	R1W_WASIT	4		wasit: مطاوع دحه		HFN-E-cb8cabac70		CANDIDATE	OK
+دحر	دَحَرَ	فَعَلَ	انْدَحَرِ	انْفَعَلَ		MISSING	R1W_WASIT	5		wasit: مطاوع دحره		HFN-E-ee52bff3ff		CANDIDATE	OK
+دحو	دَحَا	فَعَلَ	اندَحى	انْفَعَلَ		MISSING	R1W_WASIT	3		wasit: مطاوع دحاه		HFN-E-84f0d88815		CANDIDATE	OK
+دخل			تَدَخَّلَ	تَفَعَّلَ	تَدَخُّل	AHDATH_R1W	R1W_WASIT	6		wasit: مطاوع دخله			HFN-E-c666b059f5	CANDIDATE	BASE_UNRESOLVED
+دخن	دَخَّنَ	فَعَّلَ	تَدَخَّنَ	تَفَعَّلَ	تَدَخُّن	AHDATH_R1W	R1W_WASIT	3		wasit: مطاوع دخنه		HFN-E-e04b23858e	HFN-E-49f494e12e	CANDIDATE	OK
+درء	دَرَأَ	فَعَلَ	أنْدَرَأَ	انْفَعَلَ		MISSING	R1W_WASIT	5		wasit: مطاوع درءه		HFN-E-a60a5d216a		CANDIDATE	OK
+درب	دَرَّبَ	فَعَّلَ	تَدَرَّبَ	تَفَعَّلَ	تَدَرُّب	AHDATH_R1W	R1W_WASIT	7		wasit: مطاوع دربه		HFN-E-b0cd390167	HFN-E-806632e95a	CANDIDATE	OK
+درج	دَرَّجَ	فَعَّلَ	تَدَزَّجَ	تَفَعَّلَ		MISSING	R1W_WASIT	6		wasit: مطاوع درجه		HFN-E-53beab01af		CANDIDATE	OK
+درس	دَرَسَ	فَعَلَ	انْدَرَّس	انْفَعَلَ	انْدِرَاس	AHDATH_R1W	R1W_WASIT	9		wasit: مطاوع درس		HFN-E-6b9e10b021	HFN-E-f8ff86a37d	CANDIDATE	OK
+درس	دَرَّسَ	فَعَّلَ	تَدرَّسَ	تَفَعَّلَ	تَدَرُّس	AHDATH_R1W	R1W_WASIT	3		wasit: مطاوع درسه		HFN-E-176e152a50	HFN-E-ddeb2452f9	CANDIDATE	OK
+دسس	دَسَّ	فَعَلَ	انْدَسَّس	انْفَعَلَ		MISSING	R1W_WASIT	7		wasit: مطاوع دسه		HFN-E-4483d05f88		CANDIDATE	OK
+دعت	دَعَتَ	فَعَلَ	اندعَت	انْفَعَلَ		MISSING	R1W_WASIT	4		wasit: مطاوع دعت		HFN-E-6c0509cb04		CANDIDATE	OK
+دفق			تَدَفَّقَ	تَفَعَّلَ	تَدَفُّق	AHDATH_R1W	R1W_WASIT	7		wasit: مطاوع دفقه			HFN-E-893cedb686	CANDIDATE	BASE_UNRESOLVED
+دكك	دَكَّ	فَعَلَ	انْدَكَ	انْفَعَلَ		MISSING	R1W_WASIT	5		wasit: مطاوع دك		HFN-E-2af50c6f05		CANDIDATE	OK
+دهدم	دَهْدَمَ	فَعْلَلَ	تَدَهْدَمَ	تَفَعْلَلَ		MISSING	R1W_WASIT	2		wasit: مطاوع دهدمه		HFN-E-9de64ee67a		CANDIDATE	OK
+دهده	دَهْدَهَ	فَعْلَلَ	تَدَهْدَهَ	تَفَعْلَلَ		MISSING	R1W_WASIT	2		wasit: مطاوع دهدهه		HFN-E-ffd4f05dcc		CANDIDATE	OK
+دون	دَوَّنَ	فَعَّلَ	تَدَوَّنَ	تَفَعَّلَ		MISSING	R1W_WASIT	3		wasit: مطاوع دونه		HFN-E-0ba3ed687d		CANDIDATE	OK
+ديث			تدَيث			MISSING	R1W_WASIT	5		wasit: مطاوع ديثه				CANDIDATE	BASE_UNRESOLVED
+ذلل	ذَلَّلَ	فَعَّلَ	تَذَدَّلَ	تَفَعَّلَ		MISSING	R1W_WASIT	4		wasit: مطاوع ذلله		HFN-E-fee0bf95cf		CANDIDATE	OK
+ردم	رَدَمَ	فَعَلَ	ارتدم	افْتَعَلَ		MISSING	R1W_WASIT	6		wasit: مطاوع ردم		HFN-E-da94e9e9af		CANDIDATE	OK
+رعظ			تَرَعَّظَ	تَفَعَّلَ		MISSING	R1W_WASIT	5		wasit: مطاوع رعظه				CANDIDATE	BASE_UNRESOLVED
+سلف			تَسَلَفَ		تَسَلُّف	AHDATH_R1W	R1W_WASIT	5		wasit: مطاوع سلفه			HFN-E-17711fa0c4	CANDIDATE	BASE_UNRESOLVED
+سوء			استاة	اسْتَفْعَلَ		MISSING	R1W_WASIT	6		wasit: مطاوع ساءه				CANDIDATE	BASE_UNRESOLVED
+سوس	سَوَّسَ	فَعَّلَ	تَسَوّسَ	تَفَعَّلَ	تَسَوُّس	AHDATH_R1W	R1W_WASIT	5		wasit: مطاوع سوسه		HFN-E-d027573645	HFN-E-2ce4d4be5d	CANDIDATE	OK
+سوق	سَاقَ	فَعَلَ	انْسَاقَ	انْفَعَلَ		MISSING	R1W_WASIT	5		wasit: مطاوع ساقه		HFN-E-eacf354360		CANDIDATE	OK
+شرح	شَرَحَ	فَعَلَ	انشرَحَ	انْفَعَلَ	انْشِرَاح	AHDATH_R1W	R1W_WASIT	7		wasit: مطاوع شرحه		HFN-E-af30f61575	HFN-E-5f447055a8	CANDIDATE	OK
+شغل	شَغَلَ	فَعَلَ	انْشَغَلَ	انْفَعَلَ		MISSING	R1W_WASIT	7		wasit: مطاوع شغله		HFN-E-5965e5e4b1		CANDIDATE	OK
+شكل	شَكَّلَ	فَعَّلَ	تَشَكَّلَ	تَفَعَّلَ	تَشَكُّل	AHDATH_R1W	R1W_WASIT	4		wasit: مطاوع شكله		HFN-E-5bcdcf290b	HFN-E-e9be399aec	CANDIDATE	OK
+شمر	شَمَّرَ	فَعَّلَ	تَشَمَّرَ	تَفَعَّلَ	تَشَمُّر	AHDATH_R1W	R1W_WASIT	7		wasit: مطاوع شمره		HFN-E-8fba26e894	HFN-E-c93a8423a9	CANDIDATE	OK
+شمس			تَشَمَّسَ	تَفَعَّلَ	تَشَمُّس	AHDATH_R1W	R1W_WASIT	8		wasit: مطاوع شمسه			HFN-E-5cbd9a3798	CANDIDATE	BASE_UNRESOLVED
+شول	شَالَ	فَعَلَ	انْشَالَ	انْفَعَلَ		MISSING	R1W_WASIT	5		wasit: مطاوع شاله		HFN-E-be65747227		CANDIDATE	OK
+صفف			اصْطَفَّ			MISSING	R1W_WASIT	5		wasit: مطاوع صفه				CANDIDATE	BASE_UNRESOLVED
+صفق	صَفَقَ	فَعَلَ	اصْطَفَقَ	افْتَعَلَ		MISSING	R1W_WASIT	7		wasit: مطاوع صفقه		HFN-E-2698c51500		CANDIDATE	OK
+صوب	صَوَّبَ	فَعَّلَ	تصوَّبَ	تَفَعَّلَ		MISSING	R1W_WASIT	6		wasit: مطاوع صوبه		HFN-E-ccfce11035		CANDIDATE	OK
+صوع	صَاعَ	فَعَلَ	انْصَاعَ	انْفَعَلَ		MISSING	R1W_WASIT	3		wasit: مطاوع صاعه		HFN-E-32dcc4ef4c		CANDIDATE	OK
+صوغ	صَاغَ	فَعَلَ	انْصَاغَ	انْفَعَلَ		MISSING	R1W_WASIT	7		wasit: مطاوع صاغه		HFN-E-c890cc8fc6		CANDIDATE	OK
+ضبح	ضَبَحَ	فَعَلَ	انْضَبَعَ	انْفَعَلَ		MISSING	R1W_WASIT	4		wasit: مطاوع ضبحه		HFN-E-5a212c0234		CANDIDATE	OK
+ضبط	ضَبَطَ	فَعَلَ	انْضَبَطَ	انْفَعَلَ		MISSING	R1W_WASIT	5		wasit: مطاوع ضبط		HFN-E-6e186d0815		CANDIDATE	OK
+ضجع	أَضْجَعَ	أَفْعَلَ	انْضَجَعَ	انْفَعَلَ		MISSING	R1W_WASIT	4		wasit: مطاوع ءضجعه		HFN-E-4f3f597c20		CANDIDATE	OK
+ضرج	ضَرَّجَ	فَعَّلَ	تَصَرَّجَ	تَفَعَّلَ		MISSING	R1W_WASIT	4		wasit: مطاوع ضرجه		HFN-E-47a11220f6		CANDIDATE	OK
+ضعف	ضَاعَفَ	فَاعَلَ	تَضَاعَفَ	تَفَاعَلَ		MISSING	R1W_WASIT	7		wasit: مطاوع ضاعفه		HFN-E-8c96276001		CANDIDATE	OK
+ضمد	ضَمَّدَ	فَعَّلَ	تَضَمَّدَ	تَفَعَّلَ	تَضَمُّد	AHDATH_R1W	R1W_WASIT	3		wasit: مطاوع ضمده		HFN-E-ee23f432c9	HFN-E-18fa66b8c9	CANDIDATE	OK
+ضمر	ضَمَّرَ	فَعَّلَ	تَضَمَّرَ	تَفَعَّلَ	تَضَمُّر	AHDATH_R1W	R1W_WASIT	3		wasit: مطاوع ضمره		HFN-E-f1ccce985a	HFN-E-d0efb1dc37	CANDIDATE	OK
+طبع	طَبَعَ	فَعَلَ	انْعَلَبَعَ	انْفَعَلَ		MISSING	R1W_WASIT	6		wasit: مطاوع طبعه		HFN-E-666df9f66b		CANDIDATE	OK
+طحن	طَحَنَ	فَعَلَ	انْطَحَنَ	انْفَعَلَ		MISSING	R1W_WASIT	6		wasit: مطاوع طحنه		HFN-E-aee5c2e2d7		CANDIDATE	OK
+طرح			ابْطَرَ			MISSING	R1W_WASIT	8		wasit: مطاوع طرحه				CANDIDATE	BASE_UNRESOLVED
+طرق	طَرَقَ	فَعَلَ	انْطَرَفَ	انْفَعَلَ		MISSING	R1W_WASIT	4		wasit: مطاوع طرقه		HFN-E-721b1b10ad		CANDIDATE	OK
+طفء	أَطْفَءَ	أَفْعَلَ	انْحَلَفَأ	انْفَعَلَ		MISSING	R1W_WASIT	4		wasit: مطاوع ءطفءه		HFN-E-24eb4e77aa		CANDIDATE	OK
+طمع			تَطَمَّعَ	تَفَعَّلَ		MISSING	R1W_WASIT	7		wasit: مطاوع طمعه				CANDIDATE	BASE_UNRESOLVED
+طنف	طَنَّفَ	فَعَّلَ	تَطَنَّف	تَفَعَّلَ		MISSING	R1W_WASIT	4		wasit: مطاوع طنفه		HFN-E-f520c7c4a7		CANDIDATE	OK
+طهر			تَطَهِرَ		تَطَهُّر	AHDATH_R1W	R1W_WASIT	7		wasit: مطاوع طهره			HFN-E-8fd40f720b	CANDIDATE	BASE_UNRESOLVED
+طود	طَوَّدَ	فَعَّلَ	تَطَوَّدَ	تَفَعَّلَ	تَطَوُّد	AHDATH_R1W	R1W_WASIT	4		wasit: مطاوع طوده		HFN-E-d9e31b4a87	HFN-E-153ec9d15a	CANDIDATE	OK
+طوس	طَوَّسَ	فَعَّلَ	تَطَرَّسَ	تَفَعَّلَ		MISSING	R1W_WASIT	2		wasit: مطاوع طوسه		HFN-E-cae39481e1		CANDIDATE	OK
+طوق	طَوَّقَ	فَعَّلَ	تَطَوَّقَ	تَفَعَّلَ	تَطَوُّق	AHDATH_R1W	R1W_WASIT	6		wasit: مطاوع طوقه		HFN-E-d96e5c9119	HFN-E-2f38e70067	CANDIDATE	OK
+طول	طَوَّلَ	فَعَّلَ	تَطَوَّلَ	تَفَعَّلَ	تَطَوُّل	AHDATH_R1W	R1W_WASIT	4		wasit: مطاوع طوله		HFN-E-3005750329	HFN-E-92b7abd26c	CANDIDATE	OK
+طيب	طَيَّبَ	فَعَّلَ	تَطَيِّبَ	تَفَعَّلَ	تَطَيُّب	AHDATH_R1W	R1W_WASIT	6		wasit: مطاوع طيبه		HFN-E-ec38dcc4b8	HFN-E-0cd6703b93	CANDIDATE	OK
+عثر	عَثَّرَ	فَعَّلَ	تَعَتَّرَ	تَفَعَّلَ		MISSING	R1W_WASIT	2		wasit: مطاوع عثره		HFN-E-b2d392dc26		CANDIDATE	OK
+عجب			تَعَجَبَ			MISSING	R1W_WASIT	7		wasit: مطاوع عجبه				CANDIDATE	BASE_UNRESOLVED
+عصم	عَصَمَ	فَعَلَ	انْعَصَم	انْفَعَلَ		MISSING	R1W_WASIT	4		wasit: مطاوع عصمه		HFN-E-f02107882c		CANDIDATE	OK
+غضف	غَضَّفَ	فَعَّلَ	تَغَضَّفَ	تَفَعَّلَ	تَغَضُّف	AHDATH_R1W	R1W_WASIT	2		wasit: مطاوع غضفه		HFN-E-f1547e0556	HFN-E-4c8f274697	CANDIDATE	OK
+غمل	غَمَلَ	فَعَلَ	انْغَمَلَ	انْفَعَلَ	انْغِمَال	AHDATH_R1W	R1W_WASIT	5		wasit: مطاوع غمله		HFN-E-cff5a97c35	HFN-E-e203370602	CANDIDATE	OK
+غير	غَيَّرَ	فَعَّلَ	تَغَيَّرَ	تَفَعَّلَ	تَغَيُّر	AHDATH_R1W	R1W_WASIT	6		wasit: مطاوع غيره		HFN-E-ced4a59eac	HFN-E-0a609b6a65	CANDIDATE	OK
+غيظ	غَاظَ	فَعَلَ	اغْتَاظَ	افْتَعَلَ	اغْتِيَاظ	AHDATH_R1W	R1W_WASIT	5		wasit: مطاوع غاظه		HFN-E-f549991677	HFN-E-99d3b4a7a2	CANDIDATE	OK
+فتح	فَتَحَ	فَعَلَ	انفَتَحَ	انْفَعَلَ	انْفِتَاح	AHDATH_R1W	R1W_WASIT	7		wasit: مطاوع فتحه		HFN-E-0921ff35d1	HFN-E-73dd5639cb	CANDIDATE	OK
+فجر	فَجَّرَ	فَعَّلَ	تفجّرَ	تَفَعَّلَ	تَفَجُّر	AHDATH_R1W	R1W_WASIT	4		wasit: مطاوع فجر		HFN-E-4a4183f3c5	HFN-E-896013e13d	CANDIDATE	OK
+فصع			تَفَصَعَ			MISSING	R1W_WASIT	5		wasit: مطاوع فصع				CANDIDATE	BASE_UNRESOLVED
+فضخ	فَضَخَ	فَعَلَ	انّفَضَغَ	انْفَعَلَ		MISSING	R1W_WASIT	7		wasit: مطاوع فضخ		HFN-E-188f000104		CANDIDATE	OK
+فعل	فَعَلَ	فَعَلَ	انْفَعَلَ	انْفَعَلَ	انْفِعَال	AHDATH_R1W	R1W_WASIT	7		wasit: مطاوع فعله		HFN-E-75de858762	HFN-E-b6c5c29bf2	CANDIDATE	OK
+قلب	قَلَبَ	فَعَلَ	انقلب	انْفَعَلَ	انْقِلَاب	AHDATH_R1W	R1W_WASIT	8		wasit: مطاوع قلبه		HFN-E-a61b13c677	HFN-E-fe1845568a	CANDIDATE	OK
+قلع	قَلِعَ	فَعِلَ	انْقَلَعَ	انْفَعَلَ	انْقِلَاع	AHDATH_R1W	R1W_WASIT	6		wasit: مطاوع قلع		HFN-E-b3a468e0cf	HFN-E-f6dd8562a0	CANDIDATE	OK
+قود	قَادَ	فَعَلَ	انْقَادَ	انْفَعَلَ		MISSING	R1W_WASIT	5		wasit: مطاوع قاد		HFN-E-da019e8f30		CANDIDATE	OK
+قور	قَوَّرَ	فَعَّلَ	تقَوَّرَ	تَفَعَّلَ	تَقَوُّر	AHDATH_R1W	R1W_WASIT	5		wasit: مطاوع قور		HFN-E-8c054ebfbd	HFN-E-1515cc3312	CANDIDATE	OK
+قيد	قَيَّدَ	فَعَّلَ	تَقَيَّدَ	تَفَعَّلَ		MISSING	R1W_WASIT	6		wasit: مطاوع قيد		HFN-E-6421310284		CANDIDATE	OK
+كبت	كَبَتَ	فَعَلَ	انكَبَتَ	انْفَعَلَ	انْكِبَات	AHDATH_R1W	R1W_WASIT	8		wasit: مطاوع كبت		HFN-E-19a9491e79	HFN-E-bd4265bb74	CANDIDATE	OK
+كسر			تَكَسَّرَ	تَفَعَّلَ	تَكَسُّر	AHDATH_R1W	R1W_WASIT	9		wasit: مطاوع كسره			HFN-E-29706e4d78	CANDIDATE	BASE_UNRESOLVED
+كعبر	كَعْبَرَ	فَعْلَلَ	تَكَعْبَرَ	تَفَعْلَلَ		MISSING	R1W_WASIT	3		wasit: مطاوع كعبره		HFN-E-46c7c6d079		CANDIDATE	OK
+كلس	كَلَّسَ	فَعَّلَ	تَكلَّسَ	تَفَعَّلَ	تَكَلُّس	AHDATH_R1W	R1W_WASIT	4		wasit: مطاوع كلس		HFN-E-47be15f1b4	HFN-E-078516baf5	CANDIDATE	OK
+كوي	كَوَى	فَعَلَ	اكْتَوَى	افْتَعَلَ		MISSING	R1W_WASIT	6		wasit: مطاوع كوي		HFN-E-aed113a419		CANDIDATE	OK
+لءم	لَأَمَ	فَعَلَ	الْتَاَمَ	افْتَعَلَ		MISSING	R1W_WASIT	4		wasit: مطاوع لءمه		HFN-E-330c34f1e5		CANDIDATE	OK
+نصب	نَصَبَ	فَعَلَ	انْتَصَبَ	انْفَعَلَ	انْتِصَاب	AHDATH_R1W	R1W_WASIT	7		wasit: مطاوع نصبه		HFN-E-98d88e4a5a	HFN-E-8df1578a07	CANDIDATE	OK
+نصب	نَصَّبَ	فَعَّلَ	تَنَصَّبَ	تَفَعَّلَ	تَنَصُّب	AHDATH_R1W	R1W_WASIT	4		wasit: مطاوع نصب		HFN-E-d4633a32ec	HFN-E-c6cae3a463	CANDIDATE	OK
+هشم	هَشَمَ	فَعَلَ	انهشَمَ	انْفَعَلَ	انْهِشَام	AHDATH_R1W	R1W_WASIT	5		wasit: مطاوع هشمه		HFN-E-8a3f552dea	HFN-E-67752f662b	CANDIDATE	OK
+هشم			تَهَشَّمَ	تَفَعَّلَ	تَهَشُّم	AHDATH_R1W	R1W_WASIT	5		wasit: مطاوع هشمه			HFN-E-6dcfb9d71f	CANDIDATE	BASE_UNRESOLVED
+هيض	هَاضَ	فَعَلَ	انهَاض	انْفَعَلَ		MISSING	R1W_WASIT	4		wasit: مطاوع هاضه		HFN-E-bed9d678b7		CANDIDATE	OK
+وجه	وَجَّهَ	فَعَّلَ	تَوَجَّهَ	تَفَعَّلَ	تَوَجُّه	AHDATH_R1W	R1W_WASIT	5		wasit: مطاوع وجهه		HFN-E-4c33c0b495	HFN-E-adf6e293af	CANDIDATE	OK
+وسع			اتّسَعَ			MISSING	R1W_WASIT	7		wasit: مطاوع وسعه				CANDIDATE	BASE_UNRESOLVED
+وسع			اسْتوْسَعَ	اسْتَفْعَلَ		MISSING	R1W_WASIT	7		wasit: مطاوع وسعه				CANDIDATE	BASE_UNRESOLVED
+وسم			اتّسَمَ			MISSING	R1W_WASIT	6		wasit: مطاوع وسمه				CANDIDATE	BASE_UNRESOLVED
+وصف			اتَّصَفَ			MISSING	R1W_WASIT	7		wasit: مطاوع وصفه				CANDIDATE	BASE_UNRESOLVED
+وصل			اتَّصَلَ			MISSING	R1W_WASIT	6		wasit: مطاوع وصله				CANDIDATE	BASE_UNRESOLVED
+وصم			توَصَّمَ	تَفَعَّلَ		MISSING	R1W_WASIT	5		wasit: مطاوع وصمه				CANDIDATE	BASE_UNRESOLVED
+وطن			تَوَطَّنَ	تَفَعَّلَ		MISSING	R1W_WASIT	4		wasit: مطاوع وطن				CANDIDATE	BASE_UNRESOLVED
+وهط			تَوَهْطَ			MISSING	R1W_WASIT	5		wasit: مطاوع وهطه				CANDIDATE	BASE_UNRESOLVED
+يبس			اتَّبَسَ			MISSING	R1W_WASIT	6		wasit: مطاوع يبسه				CANDIDATE	BASE_UNRESOLVED

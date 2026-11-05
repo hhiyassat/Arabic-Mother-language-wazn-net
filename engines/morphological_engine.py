@@ -689,6 +689,23 @@ class _AjwafYaaConjugator2(_AjwafConjugator2):
 class _MithalWawConjugator2(_MithalWawConjugator):
     """المضارع المجهول يردّ الواو: يُوصَلُ (تغلق D-M03)."""
 
+    # الواو تُحذف في المضارع والأمر إذا كان مكسور العين وحده (يَعِدُ، عِدْ)؛ وتبقى مع الضمّ والفتح
+    # (وَضُؤَ يَوْضُؤُ، وَجِلَ يَوْجَلُ) — الشذا، باب المثال
+    def present_active(self, sfx_tbl, mood):
+        if self.vm == K:
+            return super().present_active(sfx_tbl, mood)
+        return _SahihConjugator.present_active(self, sfx_tbl, mood)
+
+    def imperative(self):
+        if self.vm == K:
+            return super().imperative()
+        res = []
+        for pgn, sfx in IMP_SFX.items():
+            hw = "اُ" if self.vm == D else "اِ"
+            long = (D + W) if self.vm == D else (K + Y)
+            res.append((hw[0] + long + self.r2 + self.vm + self.r3 + sfx, pgn))   # اُوزُنْ، اِيجَلْ
+        return res
+
     def present_passive(self, tbl):
         return [(PRES_PREFIX[g][0] + D + W + self.r2 + F + self.r3 + sfx, g) for g, sfx in tbl.items()]
 

@@ -146,6 +146,8 @@ def _gen_ism_makan_zaman_I(r1: str, r2: str, r3: str, baab: Baab, root_type: Roo
     """
     if r3 in (Y, W):
         return "مَ" + r1 + S + r2 + F + "ى"             # الناقص مَفْعَل دائماً: مَرْمَى، مَدْعَى (D-D06؛ الشذا)
+    if root_type == RootType.MITHAL_WAW:
+        return "مَ" + r1 + S + r2 + K + r3                # المثال مَفْعِل مطلقاً: مَوْعِد، مَوْضِع (الشذا)
     if root_type in (RootType.AJWAF_WAW, RootType.AJWAF_YAA):
         # نقل حركة العين إلى الفاء ثم القلب: مَقْوَل ← مَقَال، مَبْيِع ← مَبِيع (D-D04؛ الشذا، الإعلال بالنقل)
         if baab in (Baab.FAA_YAF_I, Baab.FAI_YAF_I):
@@ -213,16 +215,42 @@ def _idgham(val: str, X: str) -> str:
     return re.sub("([^\u064B-\u0652])" + S + X + "([" + F + D + K + "])" + X, lambda m: m.group(1) + m.group(2) + X + SH, val)
 
 
+def _idgham_mutaharrik(val: str, X: str) -> str:
+    """المثلان المتحرّكان في الآخر يُدغمان إذا لم يسبقهما ساكن: اِرْتَدَدَ ← اِرْتَدَّ، رَادَدَ ← رَادَّ،
+    مُرَادَدَة ← مُرَادَّة، مُرْتَدِد ← مُرْتَدّ، تَرَادُد ← تَرَادّ (سيبويه، باب ما يُدغم فيه المثلان)."""
+    import re
+    return re.sub("(?<=[" + F + D + K + A + "])" + X + "[" + F + D + K + "]" + X + "(?=(?:[" + F + D + K + "]?ة?)$)",
+                  X + SH, val)
+
+
 def _ilal_noun(val: str, r1, r2, r3, root_type) -> str:
     if root_type == RootType.MUDAAF:
         val = _idgham(val, r2)
+        val = _idgham_mutaharrik(val, r2)
     if root_type == RootType.MITHAL_WAW:
         val = val.replace(K + W + S, K + Y)              # مِوْصَل ← مِيصَل (D-D03)
     return val
 
 
+# الأجوف في IV وVII وX: إعلال بالنقل ثم القلب (أَقَامَ إِقَامَة مُقِيم مُقَام؛ اِنْقَادَ اِنْقِيَاد؛ اِسْتَقَامَ اِسْتِقَامَة)
+# السند: الشذا (الإعلال بالنقل)، وشرح الرضي؛ وتعويض التاء في مصدر أَفْعَلَ واسْتَفْعَلَ.
+def _ajwaf_mazid(wazn, r1, r3):
+    if wazn == "IV":
+        return {"verb": "أَ" + r1 + F + A + r3 + F, "masdar": "إِ" + r1 + F + A + r3 + F + "ة",
+                "i_faail": "مُ" + r1 + K + Y + r3, "i_mafuul": "مُ" + r1 + F + A + r3}
+    if wazn == "VII":
+        return {"verb": "اِنْ" + r1 + F + A + r3 + F, "masdar": "اِنْ" + r1 + K + Y + F + A + r3,
+                "i_faail": "مُنْ" + r1 + F + A + r3, "i_mafuul": "مُنْ" + r1 + F + A + r3}
+    if wazn == "X":
+        return {"verb": "اِسْتَ" + r1 + F + A + r3 + F, "masdar": "اِسْتِ" + r1 + F + A + r3 + F + "ة",
+                "i_faail": "مُسْتَ" + r1 + K + Y + r3, "i_mafuul": "مُسْتَ" + r1 + F + A + r3}
+    return None
+
+
 def _ilal_mazid(forms: dict, wazn, r1, r2, r3, root_type) -> dict:
     is_naqis = root_type in (RootType.NAQIS_YAA, RootType.NAQIS_WAW)
+    if root_type in (RootType.AJWAF_WAW, RootType.AJWAF_YAA) and _ajwaf_mazid(wazn, r1, r3):
+        forms = _ajwaf_mazid(wazn, r1, r3)
     out = {}
     for key, val in forms.items():
         if key == "masdar" and val.endswith("ةٌ"):
@@ -238,6 +266,10 @@ def _ilal_mazid(forms: dict, wazn, r1, r2, r3, root_type) -> dict:
                 val = val.replace("زْت", "زْد")          # اِزْدَجَرَ
             elif r1 == "ط":
                 val = val.replace("طْت", "ط" + SH)        # اِطَّلَعَ
+            elif r1 == "ت":
+                val = val.replace("تْت", "ت" + SH)        # اِتَّبَعَ، اِتَّابَ
+            elif r1 == "ث":
+                val = val.replace("ثْت", "ث" + SH)        # اِثَّأَرَ، اِثَّارَ
             elif r1 in ("ص", "ض", "ظ"):
                 val = val.replace(r1 + "ْت", r1 + "ْط")    # اِصْطَبَرَ
         if is_naqis:

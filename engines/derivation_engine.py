@@ -135,7 +135,7 @@ def _gen_ism_mafuul_I(r1: str, r2: str, r3: str, root_type: RootType) -> str:
     return "مَ" + r1 + S + r2 + D + W + r3
 
 
-def _gen_ism_makan_zaman_I(r1: str, r2: str, r3: str, baab: Baab) -> str:
+def _gen_ism_makan_zaman_I(r1: str, r2: str, r3: str, baab: Baab, root_type: RootType = None) -> str:
     """
     اسم المكان والزمان — قياس: مَفْعَل أو مَفْعِل
     الباب فَعَلَ يَفْعِلُ  → مَفْعِل (مَجلِس)
@@ -145,9 +145,12 @@ def _gen_ism_makan_zaman_I(r1: str, r2: str, r3: str, baab: Baab) -> str:
     الناقص: r3 ∈ {ي,و} → ينتهي بألف مقصورة (ى)
     """
     if r3 in (Y, W):
-        if baab == Baab.FAA_YAF_I:
-            return "مَ" + r1 + S + r2 + K + "ى"
-        return "مَ" + r1 + S + r2 + F + "ى"
+        return "مَ" + r1 + S + r2 + F + "ى"             # الناقص مَفْعَل دائماً: مَرْمَى، مَدْعَى (D-D06؛ الشذا)
+    if root_type in (RootType.AJWAF_WAW, RootType.AJWAF_YAA):
+        # نقل حركة العين إلى الفاء ثم القلب: مَقْوَل ← مَقَال، مَبْيِع ← مَبِيع (D-D04؛ الشذا، الإعلال بالنقل)
+        if baab in (Baab.FAA_YAF_I, Baab.FAI_YAF_I):
+            return "مَ" + r1 + K + Y + r3
+        return "مَ" + r1 + F + A + r3
     if baab in (Baab.FAA_YAF_I, Baab.FAI_YAF_I):
         return "مَ" + r1 + S + r2 + K + r3
     return "مَ" + r1 + S + r2 + F + r3
@@ -192,6 +195,64 @@ def _fix_naqis_forms(forms: dict, r3: str, wazn: str) -> dict:
             val = val[:-2] + F + "ى"
         result[key] = val
     return result
+
+
+# ══════════════════════════════════════════════════════════════════════
+# إعلال وإبدال وإدغام بعد التوليد (2026-11-06، تغلق D-D01..D-D08)
+# السند: سيبويه (باب الإدغام، وما تُقلب فيه الواو ياءً)، الشذا (الإعلال بالقلب، الإبدال في تاء الافتعال)،
+# ابن مالك في الألفيّة («طَا تا افتعالٍ رُدّ إثرَ مُطبقِ … في ادّان وازدد وادّكر دالاً بقي»).
+# ══════════════════════════════════════════════════════════════════════
+
+TANWIN_K = "\u064D"
+_HARAKA = (F, D, K)
+
+
+def _idgham(val: str, X: str) -> str:
+    """المضعّف: ساكن + X + حركة + X → نقل الحركة إلى الساكن وإدغام المثلين (مَرْدَد ← مَرَدّ، اِسْتَرْدَدَ ← اِسْتَرَدَّ)."""
+    import re
+    return re.sub("([^\u064B-\u0652])" + S + X + "([" + F + D + K + "])" + X, lambda m: m.group(1) + m.group(2) + X + SH, val)
+
+
+def _ilal_noun(val: str, r1, r2, r3, root_type) -> str:
+    if root_type == RootType.MUDAAF:
+        val = _idgham(val, r2)
+    if root_type == RootType.MITHAL_WAW:
+        val = val.replace(K + W + S, K + Y)              # مِوْصَل ← مِيصَل (D-D03)
+    return val
+
+
+def _ilal_mazid(forms: dict, wazn, r1, r2, r3, root_type) -> dict:
+    is_naqis = root_type in (RootType.NAQIS_YAA, RootType.NAQIS_WAW)
+    out = {}
+    for key, val in forms.items():
+        if key == "masdar" and val.endswith("ةٌ"):
+            val = val[:-2] + F + "ة" if not val[:-2].endswith(A) else val[:-1]   # مُفَاعَلَة، مُرَامَاة (D-D01)
+            val = val.replace(F + F, F)
+        val = _ilal_noun(val, r1, r2, r3, root_type)
+        if wazn == "VIII":                               # إبدال تاء الافتعال (D-D08)
+            if r1 == "د":
+                val = val.replace("دْت", "د" + SH)
+            elif r1 == "ذ":
+                val = val.replace("ذْت", "د" + SH)        # اِدَّكَرَ
+            elif r1 == "ز":
+                val = val.replace("زْت", "زْد")          # اِزْدَجَرَ
+            elif r1 == "ط":
+                val = val.replace("طْت", "ط" + SH)        # اِطَّلَعَ
+            elif r1 in ("ص", "ض", "ظ"):
+                val = val.replace(r1 + "ْت", r1 + "ْط")    # اِصْطَبَرَ
+        if is_naqis:
+            if key == "masdar" and len(val) > 2 and val[-2] == A and val[-1] in (W, Y):
+                val = val[:-1] + "ء"                     # اِدِّعَاو ← اِدِّعَاء (إبدال المتطرّفة بعد ألف زائدة)
+            if (key == "i_faail" or (key == "masdar" and wazn in ("V", "VI"))) and len(val) > 3 and val[-1] in (W, Y):
+                head = val[:-1]
+                if head[-1] in (K, D):
+                    val = head[:-1] + TANWIN_K           # مُرَامِي ← مُرَامٍ، تَدَاعُو ← تَدَاعٍ (D-D07، المنقوص)
+                elif head[-1] == SH and head[-2] in (K, D):
+                    val = head[:-2] + SH + TANWIN_K      # تَرَمُّي ← تَرَمٍّ
+            if key == "i_mafuul" and val.endswith(F + "ى") and wazn == "VIII":
+                pass
+        out[key] = val
+    return out
 
 
 # ══════════════════════════════════════════════════════════════════════
@@ -266,13 +327,13 @@ def _apply_wazn(wazn: str, r1: str, r2: str, r3: str, root_type: RootType) -> di
         elif is_ajwaf_y:
             # قلب الياء ألفاً بين فتحتين: اِبْتَيَعَ → اِبْتَاعَ
             verb     = "اِ" + r1 + S + "تَ" + A + r3 + F
-            masdar   = "اِ" + r1 + S + "تِ" + Y + A + r3      # اِبْتِيَاع (ياء تبقى)
+            masdar   = "اِ" + r1 + S + "تِ" + Y + F + A + r3  # اِبْتِيَاع (ياء تبقى، D-D05)
             i_faail  = "مُ" + r1 + S + "تَ" + A + r3
             i_mafuul = "مُ" + r1 + S + "تَ" + A + r3
         elif is_ajwaf_w:
             # قلب الواو ألفاً بين فتحتين (كاليائي)
             verb     = "اِ" + r1 + S + "تَ" + A + r3 + F
-            masdar   = "اِ" + r1 + S + "تِ" + Y + A + r3      # ياء في المصدر
+            masdar   = "اِ" + r1 + S + "تِ" + Y + F + A + r3  # ياء في المصدر (D-D05)
             i_faail  = "مُ" + r1 + S + "تَ" + A + r3
             i_mafuul = "مُ" + r1 + S + "تَ" + A + r3
         else:
@@ -305,7 +366,7 @@ def _apply_wazn(wazn: str, r1: str, r2: str, r3: str, root_type: RootType) -> di
     if is_naqis:
         forms = _fix_naqis_forms(forms, r3, wazn)
 
-    return forms
+    return _ilal_mazid(forms, wazn, r1, r2, r3, root_type)
 
 
 # ══════════════════════════════════════════════════════════════════════
@@ -361,9 +422,9 @@ def derive(
         ds.ism_mafuul = None
     else:
         ds.ism_mafuul = _gen_ism_mafuul_I(r1, r2, r3, root_type)
-    ds.ism_makan  = ism_makan_stored  or _gen_ism_makan_zaman_I(r1, r2, r3, baab)
-    ds.ism_zaman  = ism_zaman_stored  or _gen_ism_makan_zaman_I(r1, r2, r3, baab)
-    ds.ism_aala   = ism_aala_stored   or _gen_ism_aala_I(r1, r2, r3)
+    ds.ism_makan  = ism_makan_stored  or _ilal_noun(_gen_ism_makan_zaman_I(r1, r2, r3, baab, root_type), r1, r2, r3, root_type)
+    ds.ism_zaman  = ism_zaman_stored  or _ilal_noun(_gen_ism_makan_zaman_I(r1, r2, r3, baab, root_type), r1, r2, r3, root_type)
+    ds.ism_aala   = ism_aala_stored   or _ilal_noun(_gen_ism_aala_I(r1, r2, r3), r1, r2, r3, root_type)
 
     # ── المزيدات II–X ─────────────────────────────────────────────────
     for wazn, meaning in awzaan_maqbuula.items():

@@ -78,7 +78,7 @@ roots = json.load(open("data/pilot_roots.json", encoding="utf-8"))["roots"]   # 
 r = roots[0]                                   # كتب — مفاتيح: letters, display, root_type, ibn_faris, predicate, morph, network, compatibility_exceptions
 ds = derive_from_dict(r)                       # ds.ism_faail='كَاتِب' ds.ism_mafuul='مَكْتُوب' ds.mazidaat=[MazidEntry(wazn,verb,masdar,ism_faail,ism_mafuul,meaning,wazn_op)…]
 pred = parse_predicate_from_dict(r)            # pred.summary() → "[صنع] فاعل:مُنجِز مفعول:موضوع في/في:أداة? بـ/بـ:أداة?"
-cmap = build_compatibility_map_from_file("data/pilot_roots.json")   # cmap.top_pairs(n) / compatible_with(root) — درجات احتمالية (D-C01)
+cmap = build_compatibility_map_from_file("data/pilot_roots.json")   # cmap.accepted_pairs() / compatible_with(root) — حكم ACCEPT/DEFER/BLOCK (D-C01 أُغلق 2026-11-06)
 para = conjugate("كتب", RootType("صحيح"), Baab.FAA_YAF_U)          # ≈ 90 خلية: form, person, number, gender, voice, mood, rule
 ```
 

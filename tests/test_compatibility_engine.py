@@ -42,3 +42,12 @@ def test_compatibility_verdict_is_binary(dummy):
     rcm = build_compatibility_map(PILOT_ROOTS)
     for res in rcm.results.values():
         assert not hasattr(res, "score"), "درجة احتمالية [0..1] — يخالف م٣ والمحظور ١"
+
+
+def test_verdict_values_and_basis():
+    rcm = build_compatibility_map(PILOT_ROOTS)
+    for res in rcm.results.values():
+        assert res.verdict in ("ACCEPT", "DEFER", "BLOCK")
+        assert res.is_compatible == (res.verdict == "ACCEPT")
+        if res.verdict == "ACCEPT":
+            assert {"CHAIN_AB", "CHAIN_BA"} & set(res.basis) and "BARRIER_OPPOSES" not in res.basis

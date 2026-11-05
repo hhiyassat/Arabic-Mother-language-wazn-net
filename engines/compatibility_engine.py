@@ -68,8 +68,12 @@ class CompatibilityResult:
     # علاقة شبكية
     net_relation_ab: Optional[str]  # علاقة شبكة A تجاه B
     net_relation_ba: Optional[str]  # علاقة شبكة B تجاه A
-    # درجة توافق مركَّبة [0..1]
-    score:           float
+    # حكم نوعي لا احتمال (المبدأ ٣ والمحظور ١ في الدستور؛ D-C01، 2026-11-06):
+    #   ACCEPT  = سبب (تسلسل بنيوي في أحد الاتجاهين) بلا مانع
+    #   DEFER   = شرط بلا سبب (تشارك نوع دلالي أو علاقة شبكية فقط)
+    #   BLOCK   = مانع (تعاكس شبكي) أو لا سبب ولا شرط
+    verdict:         str
+    basis:           tuple = ()
 
     @property
     def chain_direction(self) -> str:
@@ -84,7 +88,7 @@ class CompatibilityResult:
     @property
     def is_compatible(self) -> bool:
         """هل الجذران متوافقان (بنيوياً أو دلالياً)؟"""
-        return self.score >= 0.3
+        return self.verdict == "ACCEPT"
 
     def summary(self) -> str:
         parts = []
@@ -97,12 +101,12 @@ class CompatibilityResult:
             parts.append(f"شبكة: {rel}")
         if not parts:
             parts.append("لا توافق")
-        return " | ".join(parts) + f"  [درجة: {self.score:.2f}]"
+        return " | ".join(parts) + f"  [{self.verdict}]"
 
     def __repr__(self) -> str:
         return (
             f"CompatibilityResult({self.root_a!r} ↔ {self.root_b!r}: "
-            f"score={self.score:.2f}, {self.chain_direction})"
+            f"{self.verdict}, {self.chain_direction})"
         )
 
 
@@ -141,35 +145,17 @@ def parse_exceptions_from_dict(root_data: dict) -> list[SlotOverride]:
 # حساب التوافق
 # ══════════════════════════════════════════════════════════════════════
 
-def _score(
-    can_ab:     bool,
-    can_ba:     bool,
-    share_arg:  bool,
-    has_net:    bool,
-    is_opposes: bool,
-) -> float:
-    """
-    درجة التوافق المركَّبة [0..1]:
-      - التسلسل البنيوي ثنائي: 0.9
-      - التسلسل البنيوي أحادي: 0.7
-      - تشارك نوع دلالي فقط: 0.4
-      - علاقة شبكية موجبة: +0.2
-      - تعاكس شبكي: -0.2 (قد تكون لها قيمة بلاغية لكن بنيوياً متضادة)
-    """
-    base = 0.0
-    if can_ab and can_ba:
-        base = 0.9
-    elif can_ab or can_ba:
-        base = 0.7
-    elif share_arg:
-        base = 0.4
-
-    if has_net and not is_opposes:
-        base = min(1.0, base + 0.2)
+def _verdict(can_ab: bool, can_ba: bool, share_arg: bool, has_net: bool, is_opposes: bool) -> tuple:
+    """حكم ثنائي/ثلاثي بسببه وشرطه ومانعه، لا درجة (المبدأ ٣، المحظور ١)."""
+    basis = tuple(b for b, on in (("CHAIN_AB", can_ab), ("CHAIN_BA", can_ba), ("SHARED_ARG_TYPE", share_arg),
+                                  ("NETWORK", has_net), ("BARRIER_OPPOSES", is_opposes)) if on)
     if is_opposes:
-        base = max(0.0, base - 0.2)
-
-    return round(base, 2)
+        return "BLOCK", basis
+    if can_ab or can_ba:
+        return "ACCEPT", basis
+    if share_arg or has_net:
+        return "DEFER", basis
+    return "BLOCK", basis
 
 
 def check_compatibility(
@@ -197,7 +183,7 @@ def check_compatibility(
     is_opposes = (rel_ab == "يعاكس") or (rel_ba == "يعاكس")
     has_net    = bool(rel_ab or rel_ba) and not is_opposes
 
-    score = _score(can_ab, can_ba, share, has_net, is_opposes)
+    verdict, basis = _verdict(can_ab, can_ba, share, has_net, is_opposes)
 
     return CompatibilityResult(
         root_a         = ps_a.root,
@@ -207,7 +193,8 @@ def check_compatibility(
         share_arg_type = share,
         net_relation_ab= rel_ab,
         net_relation_ba= rel_ba,
-        score          = score,
+        verdict        = verdict,
+        basis          = basis,
     )
 
 
@@ -229,13 +216,10 @@ class RootCompatibilityMap:
     def get(self, a: str, b: str) -> Optional[CompatibilityResult]:
         return self.results.get((a, b)) or self.results.get((b, a))
 
-    def compatible_with(self, root: str, min_score: float = 0.3) -> list[CompatibilityResult]:
-        """أرجع كل نتائج التوافق الموجبة للجذر المُعطى"""
-        out = []
-        for (a, b), res in self.results.items():
-            if (a == root or b == root) and res.score >= min_score:
-                out.append(res)
-        return sorted(out, key=lambda r: -r.score)
+    def compatible_with(self, root: str) -> list[CompatibilityResult]:
+        """كل النتائج المقبولة (ACCEPT) للجذر المُعطى — بلا ترتيب احتمالي"""
+        out = [res for (a, b), res in self.results.items() if (a == root or b == root) and res.is_compatible]
+        return sorted(out, key=lambda r: (r.root_a, r.root_b))
 
     def chains(self) -> list[tuple[str, str]]:
         """أزواج التسلسل الأحادي والثنائي"""
@@ -247,10 +231,9 @@ class RootCompatibilityMap:
                 out.append((b, a))
         return out
 
-    def top_pairs(self, n: int = 5) -> list[CompatibilityResult]:
-        """أعلى n زوج من حيث درجة التوافق"""
-        all_res = list(self.results.values())
-        return sorted(all_res, key=lambda r: -r.score)[:n]
+    def accepted_pairs(self) -> list[CompatibilityResult]:
+        """الأزواج المقبولة (ACCEPT). حلّ محلّ top_pairs: لا ترتيب بدرجة (D-C01)."""
+        return sorted((r for r in self.results.values() if r.is_compatible), key=lambda r: (r.root_a, r.root_b))
 
 
 def build_compatibility_map(roots_data: list[dict]) -> RootCompatibilityMap:

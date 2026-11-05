@@ -257,6 +257,8 @@ def _ilal_mazid(forms: dict, wazn, r1, r2, r3, root_type) -> dict:
             val = val[:-2] + F + "ة" if not val[:-2].endswith(A) else val[:-1]   # مُفَاعَلَة، مُرَامَاة (D-D01)
             val = val.replace(F + F, F)
         val = _ilal_noun(val, r1, r2, r3, root_type)
+        if wazn == "VII" and r1 == "ن":
+            val = val.replace("نْن", "ن" + SH)            # اِنَّشَّ، اِنِّشَاش، مُنَّشّ (إدغام المثلين؛ قراءة weak2)
         if wazn == "VIII":                               # إبدال تاء الافتعال (D-D08)
             if r1 == "د":
                 val = val.replace("دْت", "د" + SH)

@@ -153,10 +153,7 @@ def _resolve_sem_type(raw: str) -> SemanticType:
     raw = raw.strip()
     if raw in _SEM_TYPE_MAP:
         return _SEM_TYPE_MAP[raw]
-    # بحث تقريبي: استخدم أول مُطابَقة جزئية
-    for key, val in _SEM_TYPE_MAP.items():
-        if raw in key or key in raw:
-            return val
+    # لا مطابقة جزئية (D-S01، لا-استنتاج): غير المطابق تماماً يُرفض
     raise ValueError(f"نوع دلالي غير معروف: {raw!r}")
 
 
@@ -165,9 +162,7 @@ def _resolve_predicate(raw: str) -> PrimaryPredicate:
     raw = raw.strip()
     if raw in _PRED_MAP:
         return _PRED_MAP[raw]
-    for key, val in _PRED_MAP.items():
-        if raw == key or raw in key:
-            return val
+    # لا مطابقة جزئية (D-S02، لا-استنتاج)
     raise ValueError(f"مسند أولي غير معروف: {raw!r}")
 
 

@@ -695,10 +695,17 @@ class _NaqisWawConjugator(_SahihConjugator):
 # اختيار المُصرِّف
 # ══════════════════════════════════════════════════════════════════════
 
+# fail-closed (D-M08): أنواع بلا مُصرِّف — لا تُعامَل بصمت كالصحيح
+_UNSUPPORTED_ROOT_TYPES = (RootType.LAFIF_MAQRUN, RootType.LAFIF_MAFRUQ)
+
+
 def _get_conjugator(letters: str, root_type: RootType, baab: Baab):
     chars = list(letters)
-    if len(chars) < 3:
-        raise ValueError(f"الجذر يجب أن يكون ثلاثياً: {letters}")
+    if len(chars) != 3:
+        # fail-closed (D-D09): لا مُشتِّق للرباعي، فلا يُقطع إلى ثلاثة أحرف بصمت
+        raise NotImplementedError(f"الجذر يجب أن يكون ثلاثياً، والرباعي غير مدعوم: {letters}")
+    if root_type in _UNSUPPORTED_ROOT_TYPES:
+        raise NotImplementedError(f"لا مُصرِّف لنوع الجذر {root_type.value}: {letters}")
     r1, r2, r3 = chars[0], chars[1], chars[2]
 
     dispatch = {

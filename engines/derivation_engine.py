@@ -293,7 +293,8 @@ def _apply_wazn(wazn: str, r1: str, r2: str, r3: str, root_type: RootType) -> di
         i_mafuul = "مُسْتَ" + r1 + S + r2 + F + r3
 
     else:
-        return {}
+        # fail-closed (D-D10): مفتاح وزن غير معروف لا يُسقَط بصمت
+        raise ValueError(f"مفتاح وزن غير معروف: {wazn!r} (المعروف: {sorted(WAZN_OPS)})")
 
     forms = {"verb": verb, "masdar": masdar, "i_faail": i_faail, "i_mafuul": i_mafuul}
 
@@ -337,8 +338,12 @@ def derive(
         DerivationSet — مجموعة المشتقات الكاملة
     """
     chars = list(letters)
-    if len(chars) < 3:
-        raise ValueError(f"الجذر يجب أن يكون ثلاثياً: {letters}")
+    if len(chars) != 3:
+        # fail-closed (D-D09): لا مُشتِّق للرباعي، فلا يُقطع إلى ثلاثة أحرف بصمت
+        raise NotImplementedError(f"الجذر يجب أن يكون ثلاثياً، والرباعي غير مدعوم: {letters}")
+    if root_type in (RootType.LAFIF_MAQRUN, RootType.LAFIF_MAFRUQ):
+        # fail-closed (D-M08): لا اشتقاق للفيف — لا يُعامَل بصمت كالصحيح
+        raise NotImplementedError(f"لا مُشتِّق لنوع الجذر {root_type.value}: {letters}")
     r1, r2, r3 = chars[0], chars[1], chars[2]
 
     ds = DerivationSet(root=letters, root_type=root_type, baab=baab)
@@ -357,8 +362,6 @@ def derive(
     # ── المزيدات II–X ─────────────────────────────────────────────────
     for wazn, meaning in awzaan_maqbuula.items():
         forms = _apply_wazn(wazn, r1, r2, r3, root_type)
-        if not forms:
-            continue
         ds.mazidaat.append(MazidEntry(
             wazn      = wazn,
             verb      = forms["verb"],

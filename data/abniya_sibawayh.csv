@@ -1,0 +1,420 @@
+﻿id,page,url,seq,section,pattern_as_printed,pattern_vocalized,vocalization_basis,class,examples,status,remark,flags,provenance,owner_ratified
+S001,ج4 ص242,https://shamela.ws/book/23018/1739,1,ثلاثي مجرد,فعل,فَعْلٌ,FROM_EXAMPLES,اسم+صفة,صفر، فهد، كلب؛ صعب، ضخم، خدل,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S002,ج4 ص242,https://shamela.ws/book/23018/1739,2,ثلاثي مجرد,فعل,فِعْلٌ,FROM_EXAMPLES,اسم+صفة,العكم، الجذع، العذق؛ نقض، جلف، نضو، هرط، صنع,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S003,ج4 ص242,https://shamela.ws/book/23018/1739,3,ثلاثي مجرد,فعل,فُعْلٌ,FROM_EXAMPLES,اسم+صفة,البرد، القرط … الحرض؛ العبر (صفة في ص243),EXISTS,يمتد إلى ص243,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S004,ج4 ص243,https://shamela.ws/book/23018/1740,1,ثلاثي مجرد,فعل,فَعَلٌ,FROM_EXAMPLES,اسم+صفة,جبل، جمل، حمل؛ حدث، بطل، حسن، عزب، وقل,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S005,ج4 ص243,https://shamela.ws/book/23018/1740,2,ثلاثي مجرد,فعل,فَعِلٌ,FROM_EXAMPLES,اسم+صفة,كتف، كبد، فخذ؛ حذر، وجع، حصر,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S006,ج4 ص243,https://shamela.ws/book/23018/1740,3,ثلاثي مجرد,فعل,فَعُلٌ,FROM_EXAMPLES,اسم+صفة,رجل، سبع، عضد، ضبع؛ حدث، حذر، خلط، ندس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S007,ج4 ص243,https://shamela.ws/book/23018/1740,4,ثلاثي مجرد,فعل,فُعَلٌ,FROM_EXAMPLES,اسم+صفة,صرد، نغر، ربع؛ حطم، لبد,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S008,ج4 ص243,https://shamela.ws/book/23018/1740,5,ثلاثي مجرد,فعل,فُعُلٌ,FROM_EXAMPLES,اسم+صفة,الطنب، العنق، العضد، الجمد؛ الجنب، الأجد، نضد، نكر,EXISTS,يمتد إلى ص244,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S009,ج4 ص244,https://shamela.ws/book/23018/1741,1,ثلاثي مجرد,فعل,فِعَلٌ,FROM_EXAMPLES,اسم,الضلع، العوض، الصغر، العنب,EXISTS,الصفة نادرة: «قومٌ عدىً» فقط,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S010,ج4 ص244,https://shamela.ws/book/23018/1741,2,ثلاثي مجرد,فعل,فِعِلٌ,FROM_EXAMPLES,اسم,إبل,RARE,«قليل، لا نعلم في الأسماء والصفات غيره»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S011,ج4 ص244,https://shamela.ws/book/23018/1741,3,ثلاثي مجرد,فعل,فُعِلٌ,FROM_KNOWLEDGE,—,—,NOT_FOUND_IN_ARABIC,«ليس في الأسماء والصفات فعل ولا يكون إلا في الفعل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S012,ج4 ص244,https://shamela.ws/book/23018/1741,4,ثلاثي مجرد,فعل,فِعُلٌ,FROM_KNOWLEDGE,—,—,NOT_FOUND_IN_ARABIC,«وليس في الكلام فعل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S013,ج4 ص245,https://shamela.ws/book/23018/1742,1,ثلاثي مزيد,أفعل,أَفْعَلُ,FROM_EXAMPLES,اسم+صفة,أفكل، أيدع، أجدل؛ أبيض، أسود، أحمر,EXISTS,أول «باب ما لحقته الزوائد من بنات الثلاثة من غير الفعل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S014,ج4 ص245,https://shamela.ws/book/23018/1742,2,ثلاثي مزيد,إفعل,إِفْعِلٌ,FROM_EXAMPLES,اسم,إثمد، إصبع، إجرد,EXISTS,«ولا نعلمه جاء صفة»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S015,ج4 ص245,https://shamela.ws/book/23018/1742,3,ثلاثي مزيد,إفعل,إِفْعَلٌ,FROM_EXAMPLES,اسم,إصبع، إبرم، إبين، إشفى، إنفحة,EXISTS,«ولا نعلمه جاء صفة»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S016,ج4 ص245,https://shamela.ws/book/23018/1742,4,ثلاثي مزيد,أفعل,أُفْعَلٌ,FROM_EXAMPLES,اسم,أصبع,RARE,«وهو قليل… ولا نعلمه جاء صفة»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S017,ج4 ص245,https://shamela.ws/book/23018/1742,5,ثلاثي مزيد,أفعل,أُفْعُلٌ,FROM_EXAMPLES,اسم,أبلم، أصبع,RARE,«وهو قليل… ولا نعلمه جاء صفة»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S018,ج4 ص245,https://shamela.ws/book/23018/1742,6,ثلاثي مزيد,أفعل,أَفْعُلٌ,FROM_KNOWLEDGE,—,—,NOT_FOUND_IN_ARABIC,«لا يكون في الأسماء والصفات أفعل إلا أن يكسر عليه الاسم للجمع»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S019,ج4 ص245,https://shamela.ws/book/23018/1742,7,ثلاثي مزيد,أفعل,أَفْعِلٌ,FROM_KNOWLEDGE,—,—,NOT_FOUND_IN_ARABIC,«وليس في شيء من الأسماء والصفات أفعل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S020,ج4 ص245,https://shamela.ws/book/23018/1742,8,ثلاثي مزيد,إفعل,إِفْعُلٌ,FROM_KNOWLEDGE,—,—,NOT_FOUND_IN_ARABIC,«وليس في الكلام إفعل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S021,ج4 ص245,https://shamela.ws/book/23018/1742,9,ثلاثي مزيد,إفعال,إِفْعَالٌ,FROM_EXAMPLES,اسم+صفة,الإعطاء، الإسلام، الإعصار؛ الإسكاف,EXISTS,«وهو في الصفة قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S022,ج4 ص245,https://shamela.ws/book/23018/1742,10,ثلاثي مزيد,أفعال,أَفْعَالٌ,FROM_EXAMPLES,اسم,الأسحار,RARE,«ولا نعلمه جاء اسماً ولا صفةً غير هذا»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S023,ج4 ص245,https://shamela.ws/book/23018/1742,11,ثلاثي مزيد,إفعيل,إِفْعِيلٌ,FROM_EXAMPLES,اسم+صفة,إخريط، إسليح، إكليل؛ إصليت، إجفيل، إخليج,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S024,ج4 ص245,https://shamela.ws/book/23018/1742,12,ثلاثي مزيد,أفعول,أُفْعُولٌ,FROM_EXAMPLES,اسم+صفة,أسلوب، الأخدود، أركوب؛ أملود، أسكوب، أثعوب,EXISTS,يمتد إلى ص246,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S025,ج4 ص246,https://shamela.ws/book/23018/1743,1,ثلاثي مزيد,أفاعل,أُفَاعِلٌ,FROM_EXAMPLES,اسم+صفة,أدابر، أجارد، أحامر؛ رجل أباتر,EXISTS,«وهو في الصفة قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S026,ج4 ص246,https://shamela.ws/book/23018/1743,2,ثلاثي مزيد,إفعول,إِفْعَوْلٌ,FROM_EXAMPLES,اسم+صفة,الإدرون؛ الإسحوف، الإزمول,EXISTS,شاهد: «إِزْمَوْلَةً»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S027,ج4 ص247,https://shamela.ws/book/23018/1744,1,ثلاثي مزيد,أفعيل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«وليس في الكلام أفعيل، ولا أفعول، ولا أفعال، ولا أفعيل، ولا أفعال إلا أن تكسر عليه اسماً للجمع»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S028,ج4 ص247,https://shamela.ws/book/23018/1744,2,ثلاثي مزيد,أفعول,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من القائمة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S029,ج4 ص247,https://shamela.ws/book/23018/1744,3,ثلاثي مزيد,أفعال,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من القائمة نفسها؛ مستثنى الجمع,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S030,ج4 ص247,https://shamela.ws/book/23018/1744,4,ثلاثي مزيد,أفعيل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من القائمة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S031,ج4 ص247,https://shamela.ws/book/23018/1744,5,ثلاثي مزيد,أفعال,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من القائمة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S032,ج4 ص247,https://shamela.ws/book/23018/1744,6,ثلاثي مزيد,أفنعل,أَفَنْعَلٌ,FROM_EXAMPLES,اسم+صفة,ألنجج، أبنيم؛ ألندد,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S033,ج4 ص247,https://shamela.ws/book/23018/1744,7,ثلاثي مزيد,إفعيلي,إِفْعِيلَى,FROM_EXAMPLES,اسم,إهجيرى، إجريا,RARE,«ولا نعلم غيرهما»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S034,ج4 ص247,https://shamela.ws/book/23018/1744,8,ثلاثي مزيد,أفعلى,أَفْعَلَى,FROM_EXAMPLES,اسم,أجفلى,RARE,«ولا نعلم إلا أجفلى»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S035,ج4 ص247,https://shamela.ws/book/23018/1744,9,ثلاثي مزيد,أفعلة,أُفْعُلَّةٌ,FROM_EXAMPLES,اسم,أسكفة، أترج، أسطمة,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S036,ج4 ص247,https://shamela.ws/book/23018/1744,10,ثلاثي مزيد,إفعل,إِفْعَلٌّ,FROM_EXAMPLES,اسم+صفة,إرزب، إزفلة,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S037,ج4 ص247,https://shamela.ws/book/23018/1744,11,ثلاثي مزيد,إفعلى,إِفْعَلَى,FROM_EXAMPLES,اسم,إيحلى,RARE,مثال واحد,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S038,ج4 ص247,https://shamela.ws/book/23018/1744,12,ثلاثي مزيد,إنفعل,إِنْفَعْلٌ,FROM_EXAMPLES,صفة,إنقحل,RARE,«في الوصف لا غير»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S039,ج4 ص247,https://shamela.ws/book/23018/1744,13,ثلاثي مزيد,أفعلان,أُفْعُلَانٌ,FROM_EXAMPLES,اسم+صفة,أفعوان، الأرجوان، الأقحوان؛ الأسحلان، الألعبان,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S040,ج4 ص248,https://shamela.ws/book/23018/1745,1,ثلاثي مزيد,إفعلان,إِفْعِلَانٌ,FROM_EXAMPLES,اسم+صفة,الإسحمان، الإمدان؛ ليلة إضحيانة,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S041,ج4 ص248,https://shamela.ws/book/23018/1745,2,ثلاثي مزيد,أفعلان,أَفْعَلَانٌ,FROM_EXAMPLES,صفة,أنبجان، أرونان,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S042,ج4 ص248,https://shamela.ws/book/23018/1745,3,ثلاثي مزيد,إفعلاء,إِفْعِلَاءُ,FROM_EXAMPLES,اسم,الإربعاء,RARE,«لا نعلمه جاء إلا في الإربعاء»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S043,ج4 ص248,https://shamela.ws/book/23018/1745,4,ثلاثي مزيد,أفعلاء,أَفْعِلَاءُ,FROM_EXAMPLES,اسم,الأربعاء,RARE,مفرد,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S044,ج4 ص248,https://shamela.ws/book/23018/1745,5,ثلاثي مزيد,أفعلاء,أَفْعِلَاءُ (جمع),FROM_EXAMPLES,اسم+صفة,أنصباء، أصدقاء، أصفياء,EXISTS,PLURAL_ONLY «وأما الأفعلاء مكسراً… وهو كثير»,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S045,ج4 ص248,https://shamela.ws/book/23018/1745,6,ثلاثي مزيد,إفعلان,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ولا نعلم في الكلام إفعلان، ولا أفعلان»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S046,ج4 ص248,https://shamela.ws/book/23018/1745,7,ثلاثي مزيد,أفعلان,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من القائمة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S047,ج4 ص249,https://shamela.ws/book/23018/1746,1,ثلاثي مزيد,فاعل,فَاعِلٌ,FROM_EXAMPLES,اسم+صفة,كاهل، غارب، ساعد؛ ضارب، قاتل، جالس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S048,ج4 ص249,https://shamela.ws/book/23018/1746,2,ثلاثي مزيد,فاعل,فَاعَلٌ,FROM_EXAMPLES,اسم,طابق، خاتم,EXISTS,«ولا نعلمه صفة»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S049,ج4 ص249,https://shamela.ws/book/23018/1746,3,ثلاثي مزيد,فعال,فِعَالٌ,FROM_EXAMPLES,اسم+صفة,حمار، إكاف، ركاب؛ كناز، ضناك، دلاث,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S050,ج4 ص249,https://shamela.ws/book/23018/1746,4,ثلاثي مزيد,فعال,فُعَالٌ,FROM_EXAMPLES,اسم+صفة,غراب، غلام، قراد، فؤاد؛ شجاع، طوال، خفاف,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S051,ج4 ص249,https://shamela.ws/book/23018/1746,5,ثلاثي مزيد,فاعول,فَاعُولٌ,FROM_EXAMPLES,اسم+صفة,عاقول، ناموس، عاطوس، طاووس؛ حاطوم، جاروف، فاتور,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S052,ج4 ص249,https://shamela.ws/book/23018/1746,6,ثلاثي مزيد,فاعال,فَاعَالٌ,FROM_EXAMPLES,اسم,ساباط، خاتام، داناق,EXISTS,«ولا نعلمه جاء صفة»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S053,ج4 ص249,https://shamela.ws/book/23018/1746,7,ثلاثي مزيد,فاعلاء,فَاعِلَاءُ,FROM_EXAMPLES,اسم,القاصعاء، النافقاء، السابياء,EXISTS,«ولا نعلمه جاء صفة»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S054,ج4 ص249,https://shamela.ws/book/23018/1746,8,ثلاثي مزيد,فاعولاء,فَاعُولَاءُ,FROM_EXAMPLES,اسم,عاشوراء,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S055,ج4 ص249,https://shamela.ws/book/23018/1746,9,ثلاثي مزيد,فاعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«وليس في الكلام فاعل، ولا فاعيل، ولا فاعول، ولا فاعلاء»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S056,ج4 ص249,https://shamela.ws/book/23018/1746,10,ثلاثي مزيد,فاعيل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من القائمة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S057,ج4 ص249,https://shamela.ws/book/23018/1746,11,ثلاثي مزيد,فاعول,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من القائمة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S058,ج4 ص249,https://shamela.ws/book/23018/1746,12,ثلاثي مزيد,فاعلاء,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من القائمة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S059,ج4 ص249,https://shamela.ws/book/23018/1746,13,ثلاثي مزيد,مفاعل,مُفَاعِلٌ,FROM_EXAMPLES,صفة,مقاتل، مسافر، مجاهد,EXISTS,«ولا نعلمه جاء اسماً»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S060,ج4 ص249,https://shamela.ws/book/23018/1746,14,ثلاثي مزيد,مفاعل ومفاعيل,مَفَاعِلُ/مَفَاعِيلُ,FROM_EXAMPLES,اسم+صفة,مساجد، مكاريم,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S061,ج4 ص250,https://shamela.ws/book/23018/1747,1,ثلاثي مزيد,فواعل,فَوَاعِلُ,FROM_EXAMPLES,اسم+صفة,حوائط، حواجز، جوائز، توابل؛ حواسر، ضوارب، قواتل,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S062,ج4 ص250,https://shamela.ws/book/23018/1747,2,ثلاثي مزيد,فواعيل,فَوَاعِيلُ,FROM_EXAMPLES,اسم,خواتيم، سوابيط، قوارير,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S063,ج4 ص250,https://shamela.ws/book/23018/1747,3,ثلاثي مزيد,فعاعيل,فَعَاعِيلُ,FROM_EXAMPLES,اسم+صفة,السلاليم، البلاليط؛ العواوير، الجبابير,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S064,ج4 ص250,https://shamela.ws/book/23018/1747,4,ثلاثي مزيد,فعاعل,فَعَاعِلُ,FROM_EXAMPLES,اسم,السلالم، الذرارح، الزرارق,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S065,ج4 ص250,https://shamela.ws/book/23018/1747,5,ثلاثي مزيد,فعالي,فَعَالَى,FROM_EXAMPLES,اسم+صفة,صحارى، ذفارى؛ كسالى، حبالى، سكارى,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S066,ج4 ص250,https://shamela.ws/book/23018/1747,6,ثلاثي مزيد,فعالي,فَعَالٍ,FROM_EXAMPLES,اسم+صفة,صحار، ذفار، فياف؛ عذار، سعال,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S067,ج4 ص250,https://shamela.ws/book/23018/1747,7,ثلاثي مزيد,فعالي,فَعَالِيُّ,FROM_EXAMPLES,اسم+صفة,بخاتي، قماري، دباسي؛ الحوالي، الدراري,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S068,ج4 ص250,https://shamela.ws/book/23018/1747,8,ثلاثي مزيد,فعاليل,فَعَالِيلُ,FROM_EXAMPLES,اسم+صفة,الظنابيب، الفساطيط، الجلابيب؛ الشماليل، الرعاديد,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S069,ج4 ص251,https://shamela.ws/book/23018/1748,1,ثلاثي مزيد,فعالل,فَعَالِلُ,FROM_EXAMPLES,اسم+صفة,القرادد؛ الرعابب، القعادد,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S070,ج4 ص251,https://shamela.ws/book/23018/1748,2,ثلاثي مزيد,فعالين,فَعَالِينُ,FROM_EXAMPLES,اسم,سراحين، ضباعين، فرازين، قرابين,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S071,ج4 ص252,https://shamela.ws/book/23018/1749,1,ثلاثي مزيد,فعالن,فَعَالِنُ,FROM_EXAMPLES,صفة,رعاشن، علاجن، ضيافن,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S072,ج4 ص252,https://shamela.ws/book/23018/1749,2,ثلاثي مزيد,فعاول,فَعَاوِلُ,FROM_EXAMPLES,اسم+صفة,جداول، جراول؛ القساور، الحشاور,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S073,ج4 ص252,https://shamela.ws/book/23018/1749,3,ثلاثي مزيد,فعايل,فَعَايِلُ,FROM_EXAMPLES,اسم,العثاير، الحثايل,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S074,ج4 ص252,https://shamela.ws/book/23018/1749,4,ثلاثي مزيد,فعائل,فَعَائِلُ,FROM_EXAMPLES,اسم+صفة,غرائر، رسائل؛ ظرائف، صحائح,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S075,ج4 ص252,https://shamela.ws/book/23018/1749,5,ثلاثي مزيد,فياعل,فَيَاعِلُ,FROM_EXAMPLES,اسم+صفة,غيالم، غياطل، الدياسق؛ عيالم، الصيافل,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S076,ج4 ص252,https://shamela.ws/book/23018/1749,6,ثلاثي مزيد,فياعيل,فَيَاعِيلُ,FROM_EXAMPLES,اسم+صفة,الدياميس، الدياميم؛ الضياريف، البياطير,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S077,ج4 ص252,https://shamela.ws/book/23018/1749,7,ثلاثي مزيد,تفاعيل,تَفَاعِيلُ,FROM_EXAMPLES,اسم,التجافيف، التماثيل,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S078,ج4 ص252,https://shamela.ws/book/23018/1749,8,ثلاثي مزيد,تفاعل,تَفَاعِلُ,FROM_EXAMPLES,اسم,التتافل، التناضب,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S079,ج4 ص252,https://shamela.ws/book/23018/1749,9,ثلاثي مزيد,يفاعيل,يَفَاعِيلُ,FROM_EXAMPLES,اسم+صفة,يرابيع، يعاقيب، يعاسيب؛ اليحاميم,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S080,ج4 ص253,https://shamela.ws/book/23018/1750,1,ثلاثي مزيد,يفاعل,يَفَاعِلُ,FROM_EXAMPLES,اسم,اليحامد، اليرامع,RARE,PLURAL_ONLY «وهذا قليل»,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S081,ج4 ص253,https://shamela.ws/book/23018/1750,2,ثلاثي مزيد,فعاويل,فَعَاوِيلُ,FROM_EXAMPLES,صفة,القراويح، الجلاويخ,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S082,ج4 ص253,https://shamela.ws/book/23018/1750,3,ثلاثي مزيد,فعاييل,فَعَايِيلُ,FROM_EXAMPLES,اسم,كراييس,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S083,ج4 ص253,https://shamela.ws/book/23018/1750,4,ثلاثي مزيد,فعاليت,فَعَالِيتُ,FROM_EXAMPLES,صفة,عفاريت,EXISTS,PLURAL_ONLY,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S084,ج4 ص253,https://shamela.ws/book/23018/1750,5,ثلاثي مزيد,فناعل,فَنَاعِلُ,FROM_EXAMPLES,اسم+صفة,جنادب، خنافس، عناكب؛ عنابس، عناسل,EXISTS,PLURAL_ONLY «لا يكون إلا للجمع»,PLURAL_ONLY,ai_extracted_webfetch (Shamela text unvocalized),NO
+S085,ج4 ص254,https://shamela.ws/book/23018/1751,1,ثلاثي مزيد,فعالى,فُعَالَى,FROM_EXAMPLES,اسم,حبارى، سمانى، لبادى,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S086,ج4 ص254,https://shamela.ws/book/23018/1751,2,ثلاثي مزيد,فعاعيل,فُعَاعِيلٌ,FROM_EXAMPLES,صفة,ماء سخاخين,RARE,«ولا نعلم في الكلام غيره»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S087,ج4 ص254,https://shamela.ws/book/23018/1751,3,ثلاثي مزيد,فعالاء,فَعَالَاءُ,FROM_EXAMPLES,اسم+صفة,ثلاثاء، براكاء، عجاساء؛ عياياء، طباقاء,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S088,ج4 ص254,https://shamela.ws/book/23018/1751,4,ثلاثي مزيد,فعالان,فَعَالَانٌ,FROM_EXAMPLES,اسم,سلامان، حماطان,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S089,ج4 ص254,https://shamela.ws/book/23018/1751,5,ثلاثي مزيد,فواعل,فُوَاعِلٌ,FROM_EXAMPLES,اسم+صفة,صواعق، عوارض؛ دواسر,EXISTS,مفرد,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S090,ج4 ص255,https://shamela.ws/book/23018/1752,1,ثلاثي مزيد,فعالة,فَعَالَّةٌ,FROM_EXAMPLES,اسم,الزعارة، الحمارة، العبالة,EXISTS,«ولم يجئ صفة»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S091,ج4 ص255,https://shamela.ws/book/23018/1752,2,ثلاثي مزيد,فعالية,فُعَالِيَةٌ,FROM_EXAMPLES,اسم+صفة,الهبارية، الصراحية؛ العفارية، القراسية,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S092,ج4 ص255,https://shamela.ws/book/23018/1752,3,ثلاثي مزيد,فعالية,فَعَالِيَةٌ,FROM_EXAMPLES,اسم+صفة,الكراهية، الرفاهية؛ العباقية، حزابية,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S093,ج4 ص255,https://shamela.ws/book/23018/1752,4,ثلاثي مزيد,فعالى,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«وليس في الكلام شيء على فعالى ولا فعالى إلا للجمع»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S094,ج4 ص255,https://shamela.ws/book/23018/1752,5,ثلاثي مزيد,فعالى,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من الجملة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S095,ج4 ص255,https://shamela.ws/book/23018/1752,6,ثلاثي مزيد,فعلى,فَعْلَى (لغير التأنيث),FROM_EXAMPLES,اسم,علقى، تترى، أرطى,EXISTS,«ولا نعلمه جاء وصفاً إلا بالهاء»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S096,ج4 ص255,https://shamela.ws/book/23018/1752,7,ثلاثي مزيد,فعلى,فِعْلَى (لغير التأنيث),FROM_EXAMPLES,اسم,ذفرى، معزى,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S097,ج4 ص255,https://shamela.ws/book/23018/1752,8,ثلاثي مزيد,فعلى,فُعْلَى (لغير التأنيث),FROM_KNOWLEDGE,—,(بهماة),NOT_FOUND_IN_ARABIC,«ولا يكون فعلى والألف لغير التأنيث»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S098,ج4 ص255,https://shamela.ws/book/23018/1752,9,ثلاثي مزيد,فعلى,فَعْلَى (للتأنيث),FROM_EXAMPLES,اسم+صفة,سلمى، رضوى؛ عبرى، عطشى,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S099,ج4 ص255,https://shamela.ws/book/23018/1752,10,ثلاثي مزيد,فعلى,فِعْلَى (للتأنيث),FROM_EXAMPLES,اسم,ذفرى، ذكرى,EXISTS,«ولم يجئ صفة إلا بالهاء»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S100,ج4 ص256,https://shamela.ws/book/23018/1753,1,ثلاثي مزيد,فعلى,فُعْلَى,FROM_EXAMPLES,اسم+صفة,البهمى، الحمى، الرؤيا؛ حبلى، أنثى,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S101,ج4 ص256,https://shamela.ws/book/23018/1753,2,ثلاثي مزيد,فعلى,فَعَلَى,FROM_EXAMPLES,اسم+صفة,قلهى، أجلى، دقرى؛ جمزى، بشكى، مرطى,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S102,ج4 ص256,https://shamela.ws/book/23018/1753,3,ثلاثي مزيد,فعلى,فُعَلَى,FROM_EXAMPLES,اسم,شعبى، الأربى، الأدمى,RARE,«وهو قليل في الكلام»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S103,ج4 ص256,https://shamela.ws/book/23018/1753,4,ثلاثي مزيد,فعلى,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ولا نعلم في الكلام فعلى، ولا فعلى، ولا فعلى»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S104,ج4 ص256,https://shamela.ws/book/23018/1753,5,ثلاثي مزيد,فعلى,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من القائمة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S105,ج4 ص256,https://shamela.ws/book/23018/1753,6,ثلاثي مزيد,فعلى,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من القائمة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S106,ج4 ص256,https://shamela.ws/book/23018/1753,7,ثلاثي مزيد,فعلال,فِعْلَالٌ,FROM_EXAMPLES,اسم+صفة,جلباب، قرطاط، سنداد؛ شملال، طملال,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S107,ج4 ص256,https://shamela.ws/book/23018/1753,8,ثلاثي مزيد,فعلال,فُعْلَالٌ,FROM_EXAMPLES,اسم,قرطاط، فسطاط,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S108,ج4 ص256,https://shamela.ws/book/23018/1753,9,ثلاثي مزيد,مفعال,مِفْعَالٌ,FROM_EXAMPLES,اسم+صفة,منقار، مصباح، محراب؛ مفساد، مضحاك,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S109,ج4 ص256,https://shamela.ws/book/23018/1753,10,ثلاثي مزيد,تفعال,تِفْعَالٌ,FROM_EXAMPLES,اسم,تجفاف، تمثال، تلقاء، تبيان,EXISTS,«ولا نعلمه جاء وصفاً»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S110,ج4 ص257,https://shamela.ws/book/23018/1754,1,ثلاثي مزيد,فعال,فَعَّالٌ,FROM_EXAMPLES,اسم+صفة,الكلاء، القذاف، الجبان؛ شراب، لباس، ركاب,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S111,ج4 ص257,https://shamela.ws/book/23018/1754,2,ثلاثي مزيد,فعال,فُعَّالٌ,FROM_EXAMPLES,اسم+صفة,خطاف، كلاب، نساف؛ حسان، عوار، كرام,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S112,ج4 ص257,https://shamela.ws/book/23018/1754,3,ثلاثي مزيد,فعال,فِعَّالٌ,FROM_EXAMPLES,اسم,الحناء، القثاء، الكذاب,EXISTS,لا نعلمه جاء وصفاً,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S113,ج4 ص257,https://shamela.ws/book/23018/1754,4,ثلاثي مزيد,فعلاء,فِعْلاءٌ,FROM_EXAMPLES,اسم,علباء، خرشاء، حرباء,EXISTS,لا نعلمه جاء وصفاً,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S114,ج4 ص257,https://shamela.ws/book/23018/1754,5,ثلاثي مزيد,فعلاء,فَعْلاءٌ (لغير التأنيث)?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,لا يكون على فعلاء إلا وآخره علامة التأنيث,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S115,ج4 ص257,https://shamela.ws/book/23018/1754,6,ثلاثي مزيد,فعلاء,فُعْلاءٌ,FROM_EXAMPLES,اسم,قوباء,RARE,وهو قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S116,ج4 ص257,https://shamela.ws/book/23018/1754,7,ثلاثي مزيد,فعلاء,فَعْلاءُ,FROM_EXAMPLES,اسم+صفة,طرفاء، حلفاء، قصباء؛ خضراء، سوداء، صفراء,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S117,ج4 ص257,https://shamela.ws/book/23018/1754,8,ثلاثي مزيد,فعالى,فُعَالَى,FROM_EXAMPLES,اسم,خضارى، شقارى، حوارى,EXISTS,لا نعلمه جاء وصفاً; DUP? of ص254#1,POSSIBLE_DUPLICATE,ai_extracted_webfetch (Shamela text unvocalized),NO
+S118,ج4 ص257,https://shamela.ws/book/23018/1754,9,ثلاثي مزيد,فعلاء,فُعَلاءُ,FROM_EXAMPLES,اسم+صفة,القوباء، الرخصاء، الخيلاء؛ العشراء، النفساء,EXISTS,كثير إذا كسر عليه الواحد,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S119,ج4 ص258,https://shamela.ws/book/23018/1755,1,ثلاثي مزيد,فعلاء,فِعَلاءُ,FROM_EXAMPLES,اسم,الخيلاء، السيراء,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S120,ج4 ص258,https://shamela.ws/book/23018/1755,2,ثلاثي مزيد,فعلاء,فَعَلاءُ,FROM_EXAMPLES,اسم,قرماء، جنفاء,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S121,ج4 ص258,https://shamela.ws/book/23018/1755,3,ثلاثي مزيد,فوعال,فُوعَالٌ,FROM_EXAMPLES,اسم,طومار، سولاف,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S122,ج4 ص259,https://shamela.ws/book/23018/1756,1,ثلاثي مزيد,فعلان,فَعْلانُ,FROM_EXAMPLES,اسم+صفة,السعدان، الضمران؛ الريان، العطشان,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S123,ج4 ص259,https://shamela.ws/book/23018/1756,2,ثلاثي مزيد,فعلان,فَعَلانٌ,FROM_EXAMPLES,اسم+صفة,الكروان، الورشان، العلجان؛ الصميان، القطوان,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S124,ج4 ص259,https://shamela.ws/book/23018/1756,3,ثلاثي مزيد,فعلان,فُعْلانٌ,FROM_EXAMPLES,اسم+صفة,عثمان، دكان، ذبيان؛ عريان، خمصان,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S125,ج4 ص259,https://shamela.ws/book/23018/1756,4,ثلاثي مزيد,فعلان,فِعْلانٌ,FROM_EXAMPLES,اسم,ضبعان، سرحان، إنسان,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S126,ج4 ص259,https://shamela.ws/book/23018/1756,5,ثلاثي مزيد,فعلان,فَعِلانٌ,FROM_EXAMPLES,اسم,الظربان، القطران، الشقران,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S127,ج4 ص259,https://shamela.ws/book/23018/1756,6,ثلاثي مزيد,فعلان,فَعُلانٌ,FROM_EXAMPLES,اسم,السبعان,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S128,ج4 ص260,https://shamela.ws/book/23018/1757,1,ثلاثي مزيد,فعلان,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا نعلم في الكلام فعلان,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S129,ج4 ص260,https://shamela.ws/book/23018/1757,2,ثلاثي مزيد,فعلان,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا فعلان,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S130,ج4 ص260,https://shamela.ws/book/23018/1757,3,ثلاثي مزيد,فعلان,فُعُلانٌ,FROM_EXAMPLES,اسم,السلطان,RARE,وهو قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S131,ج4 ص260,https://shamela.ws/book/23018/1757,4,ثلاثي مزيد,فعوال,فِعْوالٌ,FROM_EXAMPLES,اسم+صفة,جلواخ، قرواح، درواس؛ عصواد، قرواش,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S132,ج4 ص260,https://shamela.ws/book/23018/1757,5,ثلاثي مزيد,فعيال,فِعْيالٌ,FROM_EXAMPLES,اسم,جريال، كرياس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S133,ج4 ص260,https://shamela.ws/book/23018/1757,6,ثلاثي مزيد,فيعال,فَيْعالٌ,FROM_EXAMPLES,اسم+صفة,الخيتام، الديماس، الشيطان؛ البيطار، الغيداق,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S134,ج4 ص260,https://shamela.ws/book/23018/1757,7,ثلاثي مزيد,فعوال,فُعْوالٌ,FROM_EXAMPLES,اسم,عصواد، عنوان، عتوارة,RARE,وهو قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S135,ج4 ص260,https://shamela.ws/book/23018/1757,8,ثلاثي مزيد,فعوال,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا نعلم في الكلام فعوالاً,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S136,ج4 ص260,https://shamela.ws/book/23018/1757,9,ثلاثي مزيد,فعيال,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا فعيالاً,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S137,ج4 ص260,https://shamela.ws/book/23018/1757,10,ثلاثي مزيد,فيعال,فِيعالٌ?,FROM_EXAMPLES,اسم,ديماس، ديوان,EXISTS,UNCERTAIN (fetch printed يفعال),VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S138,ج4 ص260,https://shamela.ws/book/23018/1757,11,ثلاثي مزيد,فوعال,فَوْعالٌ,FROM_EXAMPLES,اسم,توارب,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S139,ج4 ص260,https://shamela.ws/book/23018/1757,12,ثلاثي مزيد,فنعال,فُنْعالٌ,FROM_EXAMPLES,صفة,قنعاس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S140,ج4 ص260,https://shamela.ws/book/23018/1757,13,ثلاثي مزيد,فعنال,فِعْنالٌ,FROM_EXAMPLES,صفة,فرناس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S141,ج4 ص260,https://shamela.ws/book/23018/1757,14,ثلاثي مزيد,فعنلى,فَعَنْلَى,FROM_EXAMPLES,اسم+صفة,القرنبى، العلندى؛ الحبنطى، السبندى,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S142,ج4 ص260,https://shamela.ws/book/23018/1757,15,ثلاثي مزيد,فعلنى,فِعِلْنًى?,FROM_EXAMPLES,صفة,عفرى,RARE,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S143,ج4 ص260,https://shamela.ws/book/23018/1757,16,ثلاثي مزيد,فعلنى,فِعْلَنًى?,FROM_EXAMPLES,صفة,علدنى,EXISTS,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S144,ج4 ص261,https://shamela.ws/book/23018/1758,1,ثلاثي مزيد,فعالى,فُعَالَى,FROM_EXAMPLES,اسم,علادى,RARE,DUP? of فُعَالَى,POSSIBLE_DUPLICATE,ai_extracted_webfetch (Shamela text unvocalized),NO
+S145,ج4 ص261,https://shamela.ws/book/23018/1758,2,ثلاثي مزيد,فعنلى,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا نعلم في الكلام فعنلى,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S146,ج4 ص261,https://shamela.ws/book/23018/1758,3,ثلاثي مزيد,فعنلى,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا فعنلى,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S147,ج4 ص261,https://shamela.ws/book/23018/1758,4,ثلاثي مزيد,فنعلاء,فُنْعُلاءُ,FROM_EXAMPLES,اسم,عنصلاء,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S148,ج4 ص261,https://shamela.ws/book/23018/1758,5,ثلاثي مزيد,فنعلاء,فُنْعَلاءُ,FROM_EXAMPLES,اسم,حنفساء، عنصلاء، حنظباء,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S149,ج4 ص261,https://shamela.ws/book/23018/1758,6,ثلاثي مزيد,فوعلاء,فَوْعَلاءُ,FROM_EXAMPLES,اسم,حوصلاء,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S150,ج4 ص261,https://shamela.ws/book/23018/1758,7,ثلاثي مزيد,فعلى,فِعِلَّى?,FROM_EXAMPLES,اسم+صفة,الزمكى، الجرشى، العبدى؛ الكمرى,EXISTS,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S151,ج4 ص261,https://shamela.ws/book/23018/1758,8,ثلاثي مزيد,فعلنى,فِعَلْنَى,FROM_EXAMPLES,اسم,العرضنى,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S152,ج4 ص261,https://shamela.ws/book/23018/1758,9,ثلاثي مزيد,فعلى,فِعَلَّى?,FROM_EXAMPLES,اسم,عرضى,RARE,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S153,ج4 ص261,https://shamela.ws/book/23018/1758,10,ثلاثي مزيد,فعلى,? (دِفِقَّى/دِفَقَّى),FROM_EXAMPLES,اسم,دفقى,RARE,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S154,ج4 ص261,https://shamela.ws/book/23018/1758,11,ثلاثي مزيد,فعنلى,فُعَنْلَى,FROM_EXAMPLES,اسم,جلندى,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S155,ج4 ص261,https://shamela.ws/book/23018/1758,12,ثلاثي مزيد,فيعلى,فَيْعَلَى,FROM_EXAMPLES,اسم,الخيزلى,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S156,ج4 ص261,https://shamela.ws/book/23018/1758,13,ثلاثي مزيد,فوعلى,فَوْعَلَى,FROM_EXAMPLES,اسم,الخوزلى,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S157,ج4 ص261,https://shamela.ws/book/23018/1758,14,ثلاثي مزيد,فعنلى,فِعَنْلَى,FROM_EXAMPLES,اسم,بلنصى,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S158,ج4 ص261,https://shamela.ws/book/23018/1758,15,ثلاثي مزيد,فعلى,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا نعلم في الكلام فعلى,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S159,ج4 ص261,https://shamela.ws/book/23018/1758,16,ثلاثي مزيد,فعلى,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا فعلى,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S160,ج4 ص261,https://shamela.ws/book/23018/1758,17,ثلاثي مزيد,فعلى,فِعِلَّى?,FROM_EXAMPLES,اسم,حذرى، نذرى,EXISTS,UNCERTAIN; DUP? of ص261#7,POSSIBLE_DUPLICATE;VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S161,ج4 ص262,https://shamela.ws/book/23018/1759,1,ثلاثي مزيد,فيعلان,فَيْعُلانٌ,FROM_EXAMPLES,اسم+صفة,الضيمران، الأيهقان، الخيزران؛ كيذبان، هيثمان,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S162,ج4 ص262,https://shamela.ws/book/23018/1759,2,ثلاثي مزيد,فيعلان,فَيْعَلانٌ,FROM_EXAMPLES,اسم+صفة,قيقبان، سيسبان؛ الهيبان,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S163,ج4 ص262,https://shamela.ws/book/23018/1759,3,ثلاثي مزيد,فيعلان,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,لا نعلم فيعلان في غير المعتل,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S164,ج4 ص262,https://shamela.ws/book/23018/1759,4,ثلاثي مزيد,فعليان,فِعْلِيانٌ,FROM_EXAMPLES,اسم+صفة,الصليان، البليان؛ العنظيان,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S165,ج4 ص262,https://shamela.ws/book/23018/1759,5,ثلاثي مزيد,فعلوان,فُعْلُوانٌ,FROM_EXAMPLES,اسم,العنظوان، العنفوان,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S166,ج4 ص262,https://shamela.ws/book/23018/1759,6,ثلاثي مزيد,فعلوان,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا نعلم في الكلام فعلوان,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S167,ج4 ص262,https://shamela.ws/book/23018/1759,7,ثلاثي مزيد,فعلان,فُعُلّانٌ?,FROM_EXAMPLES,اسم+صفة,الحومان؛ عمدان، الجلبان,EXISTS,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S168,ج4 ص262,https://shamela.ws/book/23018/1759,8,ثلاثي مزيد,فعلان,فِعِلّانٌ,FROM_EXAMPLES,اسم,فركان، عرفان,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S169,ج4 ص263,https://shamela.ws/book/23018/1760,1,ثلاثي مزيد,مفعلان,مَفْعَلانُ,FROM_EXAMPLES,اسم,مكرمان، ملأمان,EXISTS,معارف,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S170,ج4 ص263,https://shamela.ws/book/23018/1760,2,ثلاثي مزيد,فعلياء,فِعْلِياءُ,FROM_EXAMPLES,اسم+صفة,كبرياء، سيمياء؛ جربياء,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S171,ج4 ص263,https://shamela.ws/book/23018/1760,3,ثلاثي مزيد,فعولاء,فَعُولاءُ,FROM_EXAMPLES,اسم,دبوقاء، بروكاء، جلولاء,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S172,ج4 ص263,https://shamela.ws/book/23018/1760,4,ثلاثي مزيد,فعولى,فَعُولَى,FROM_EXAMPLES,اسم,عشورى,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S173,ج4 ص263,https://shamela.ws/book/23018/1760,5,ثلاثي مزيد,فعليا,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا نعلم في الكلام فعليا,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S174,ج4 ص263,https://shamela.ws/book/23018/1760,6,ثلاثي مزيد,فعلولى,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا فعلولى,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S175,ج4 ص263,https://shamela.ws/book/23018/1760,7,ثلاثي مزيد,فعيلى,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا فعيلى,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S176,ج4 ص263,https://shamela.ws/book/23018/1760,8,ثلاثي مزيد,فعلعال,فَعَلْعالٌ,FROM_EXAMPLES,اسم+صفة,الحلبلاب؛ السرطراط,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S177,ج4 ص263,https://shamela.ws/book/23018/1760,9,ثلاثي مزيد,فعنلال,فَعَنْلالٌ,FROM_EXAMPLES,اسم,الفرنداد,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S178,ج4 ص263,https://shamela.ws/book/23018/1760,10,ثلاثي مزيد,فعيلاء,فُعَيْلاءُ,FROM_EXAMPLES,اسم,عجيساء، قريثاء,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S179,ج4 ص263,https://shamela.ws/book/23018/1760,11,ثلاثي مزيد,فعلان,فُعَّلانٌ?,FROM_EXAMPLES,اسم,قمحان,RARE,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S180,ج4 ص264,https://shamela.ws/book/23018/1761,1,ثلاثي مزيد,فعلى,فُعَّلَى?,FROM_EXAMPLES,اسم,السمهى، البدرى,RARE,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S181,ج4 ص264,https://shamela.ws/book/23018/1761,2,ثلاثي مزيد,فوعلان,فَوْعَلانٌ,FROM_EXAMPLES,اسم,حوتنان، حوفزان,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S182,ج4 ص264,https://shamela.ws/book/23018/1761,3,ثلاثي مزيد,مفعلاء,مِفْعِلّاءُ,FROM_EXAMPLES,اسم,مرعزاء,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S183,ج4 ص264,https://shamela.ws/book/23018/1761,4,ثلاثي مزيد,فعلان,فَعِلّانٌ?,FROM_EXAMPLES,اسم,تئفان,EXISTS,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S184,ج4 ص264,https://shamela.ws/book/23018/1761,5,ثلاثي مزيد,فعيلى,فِعِّيلَى,FROM_EXAMPLES,اسم,هجيرى، قتيتى، حثيثى,EXISTS,مصدر فقط,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S185,ج4 ص264,https://shamela.ws/book/23018/1761,6,ثلاثي مزيد,مفعولاء,مَفْعُولاءُ,FROM_EXAMPLES,اسم+صفة,معيوراء؛ المعلوجاء، المشيوخاء,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S186,ج4 ص264,https://shamela.ws/book/23018/1761,7,ثلاثي مزيد,فعيلى,فُعَّيْلَى,FROM_EXAMPLES,اسم,لغيزى، بقيرى، خليطى,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S187,ج4 ص265,https://shamela.ws/book/23018/1762,1,ثلاثي مزيد,يفعلى,يَفْعَلَّى,FROM_EXAMPLES,اسم,يهيرى,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S188,ج4 ص265,https://shamela.ws/book/23018/1762,2,ثلاثي مزيد,فعليا,فَعْلَيّا,FROM_EXAMPLES,اسم,المرحيا، برديا، قلهيا,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S189,ج4 ص265,https://shamela.ws/book/23018/1762,3,ثلاثي مزيد,فعلوتى,فَعَلُوتَى,FROM_EXAMPLES,اسم,رغبوتى، رهبوتى,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S190,ج4 ص265,https://shamela.ws/book/23018/1762,4,ثلاثي مزيد,مفعلى,مَفْعَلَّى?,FROM_EXAMPLES,صفة,مكورى,RARE,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S191,ج4 ص265,https://shamela.ws/book/23018/1762,5,ثلاثي مزيد,مفعلى,مِفْعِلَّى,FROM_EXAMPLES,اسم,مرعزى,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S192,ج4 ص265,https://shamela.ws/book/23018/1762,6,ثلاثي مزيد,يفعل,يَفْعَلٌ,FROM_EXAMPLES,اسم,اليرمع، اليعمل، اليلمق,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S193,ج4 ص265,https://shamela.ws/book/23018/1762,7,ثلاثي مزيد,يفعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا نعلم على يفعل,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S194,ج4 ص265,https://shamela.ws/book/23018/1762,8,ثلاثي مزيد,يفعول,يَفْعُولٌ,FROM_EXAMPLES,اسم+صفة,يربوع، يعقوب، يعسوب؛ اليحموم، اليخضور,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S195,ج4 ص265,https://shamela.ws/book/23018/1762,9,ثلاثي مزيد,يفعيل,يَفْعِيلٌ,FROM_EXAMPLES,اسم,يقطين، يعضيد,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S196,ج4 ص265,https://shamela.ws/book/23018/1762,10,ثلاثي مزيد,يفعال,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,وليس في الكلام يفعال,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S197,ج4 ص265,https://shamela.ws/book/23018/1762,11,ثلاثي مزيد,يفعول,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا يفعول,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S198,ج4 ص266,https://shamela.ws/book/23018/1763,1,ثلاثي مزيد,يفعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,DUP? restates ص265,POSSIBLE_DUPLICATE;VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S199,ج4 ص266,https://shamela.ws/book/23018/1763,2,ثلاثي مزيد,يفنعل,يَفَنْعَلٌ,FROM_EXAMPLES,اسم+صفة,يلندد، يلنجج,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S200,ج4 ص266,https://shamela.ws/book/23018/1763,3,ثلاثي مزيد,فيعل,فَيْعَلٌ,FROM_EXAMPLES,اسم+صفة,زينب، خيعل، غيلم؛ الضيغم، الصيرف,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S201,ج4 ص266,https://shamela.ws/book/23018/1763,4,ثلاثي مزيد,فيعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا نعلم في الكلام فيعل,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S202,ج4 ص266,https://shamela.ws/book/23018/1763,5,ثلاثي مزيد,فيعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا فيعل في غير المعتل,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S203,ج4 ص266,https://shamela.ws/book/23018/1763,6,ثلاثي مزيد,فيعول,فَيْعُولٌ,FROM_EXAMPLES,اسم+صفة,قيصوم، الخيشوم، الحيزوم؛ عيثوم، قيوم، ديموم,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S204,ج4 ص267,https://shamela.ws/book/23018/1764,1,ثلاثي مزيد,فيعل,فِيَعْلٌ?,FROM_EXAMPLES,صفة,حيفس، صيهم,EXISTS,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S205,ج4 ص267,https://shamela.ws/book/23018/1764,2,ثلاثي مزيد,فعيل,فَعِيلٌ,FROM_EXAMPLES,اسم+صفة,بعير، قضيب؛ سعيد، شديد، ظريف,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S206,ج4 ص267,https://shamela.ws/book/23018/1764,3,ثلاثي مزيد,فعيل,فِعْيَلٌ,FROM_EXAMPLES,اسم+صفة,عثير، حمير، حثيل؛ طريم,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S207,ج4 ص267,https://shamela.ws/book/23018/1764,4,ثلاثي مزيد,فعيل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا نعلم في الكلام فعيل,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S208,ج4 ص267,https://shamela.ws/book/23018/1764,5,ثلاثي مزيد,فعيلل,فَعَيْلَلٌ,FROM_EXAMPLES,اسم+صفة,حفيلل؛ خفيدد,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S209,ج4 ص267,https://shamela.ws/book/23018/1764,6,ثلاثي مزيد,فعيل,فَعَيَّلٌ?,FROM_EXAMPLES,صفة,هبيخ، الهبيغ,EXISTS,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S210,ج4 ص267,https://shamela.ws/book/23018/1764,7,ثلاثي مزيد,فعيعل,فَعَيْعَلٌ,FROM_EXAMPLES,صفة,خفيفد,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S211,ج4 ص267,https://shamela.ws/book/23018/1764,8,ثلاثي مزيد,فعيول,فِعْيَوْلٌ?,FROM_EXAMPLES,اسم+صفة,كديون، ذهيوط,RARE,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S212,ج4 ص268,https://shamela.ws/book/23018/1765,1,ثلاثي مزيد,فعيل,فُعَيِّلٌ?,FROM_EXAMPLES,اسم,عليب,EXISTS,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S213,ج4 ص268,https://shamela.ws/book/23018/1765,2,ثلاثي مزيد,فعلية,فِعْلِيَةٌ,FROM_EXAMPLES,اسم+صفة,حذرية، هبرية؛ الزبنية، العفرية,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S214,ج4 ص268,https://shamela.ws/book/23018/1765,3,ثلاثي مزيد,فعلى,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ليس في الكلام فعلى إلا بالهاء,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S215,ج4 ص268,https://shamela.ws/book/23018/1765,4,ثلاثي مزيد,فعلى,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا فعلى,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S216,ج4 ص268,https://shamela.ws/book/23018/1765,5,ثلاثي مزيد,فعلى,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا فعلى إلا بالهاء,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S217,ج4 ص268,https://shamela.ws/book/23018/1765,6,ثلاثي مزيد,فعيل,فِعِّيلٌ,FROM_EXAMPLES,اسم+صفة,السكين، البطيخ؛ الشريب، الفسيق,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S218,ج4 ص268,https://shamela.ws/book/23018/1765,7,ثلاثي مزيد,فعيل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا يكون في الكلام فعيل,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S219,ج4 ص268,https://shamela.ws/book/23018/1765,8,ثلاثي مزيد,فعيل,فُعِّيلٌ,FROM_EXAMPLES,اسم+صفة,المريق؛ كوكب دريء,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S220,ج4 ص268,https://shamela.ws/book/23018/1765,9,ثلاثي مزيد,فعيل,فُعَّيْلٌ,FROM_EXAMPLES,اسم+صفة,العليق، القبيط؛ الزميل، السكيت,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S221,ج4 ص268,https://shamela.ws/book/23018/1765,10,ثلاثي مزيد,فعيل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,وليس في الكلام فعيل,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S222,ج4 ص268,https://shamela.ws/book/23018/1765,11,ثلاثي مزيد,مفعيل,مِفْعِيلٌ,FROM_EXAMPLES,اسم+صفة,منديل، مشريق؛ منطيق، مسكين,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S223,ج4 ص268,https://shamela.ws/book/23018/1765,12,ثلاثي مزيد,مفعيل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا نعلم في الكلام مفعيل,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S224,ج4 ص268,https://shamela.ws/book/23018/1765,13,ثلاثي مزيد,مفعيل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا مفعيل,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S225,ج4 ص268,https://shamela.ws/book/23018/1765,14,ثلاثي مزيد,مفعيل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا مفعيل,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S226,ج4 ص268,https://shamela.ws/book/23018/1765,15,ثلاثي مزيد,فعليل,فِعْلِيلٌ,FROM_EXAMPLES,اسم+صفة,حلتيت، خنزير؛ صهميم، صنديد، شمليل,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S227,ج4 ص268,https://shamela.ws/book/23018/1765,16,ثلاثي مزيد,فعليل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,وليس في الكلام فعليل,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S228,ج4 ص268,https://shamela.ws/book/23018/1765,17,ثلاثي مزيد,فعليل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا فعليل,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S229,ج4 ص269,https://shamela.ws/book/23018/1766,1,ثلاثي مزيد,فعليت,فِعْلِيتٌ,FROM_EXAMPLES,اسم+صفة,عفريت؛ عزويت,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S230,ج4 ص269,https://shamela.ws/book/23018/1766,2,ثلاثي مزيد,فعليت,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,وليس في الكلام فعليت,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S231,ج4 ص269,https://shamela.ws/book/23018/1766,3,ثلاثي مزيد,فعليت,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا فعليت,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S232,ج4 ص269,https://shamela.ws/book/23018/1766,4,ثلاثي مزيد,فعليل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا فعليل,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S233,ج4 ص269,https://shamela.ws/book/23018/1766,5,ثلاثي مزيد,فعلين,فِعْلِينٌ,FROM_EXAMPLES,اسم,غسلين,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S234,ج4 ص269,https://shamela.ws/book/23018/1766,6,ثلاثي مزيد,فعليل,فُعَلِيلٌ?,FROM_EXAMPLES,اسم+صفة,حمصيص؛ صمكيك,EXISTS,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S235,ج4 ص269,https://shamela.ws/book/23018/1766,7,ثلاثي مزيد,فعلنية,فَعَلْنِيَةٌ,FROM_EXAMPLES,اسم,بلهنية,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S236,ج4 ص269,https://shamela.ws/book/23018/1766,8,ثلاثي مزيد,فعنلية,فَعَنْلِيَةٌ,FROM_EXAMPLES,اسم,قلنسية,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S237,ج4 ص269,https://shamela.ws/book/23018/1766,9,ثلاثي مزيد,فعفعيل,فَعْفَعِيلٌ,FROM_EXAMPLES,اسم,مرمريس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S238,ج4 ص269,https://shamela.ws/book/23018/1766,10,ثلاثي مزيد,فنعليل,فَنْعَلِيلٌ,FROM_EXAMPLES,صفة,خنفقيق، خنشليل,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S239,ج4 ص269,https://shamela.ws/book/23018/1766,11,ثلاثي مزيد,فنعل,فُنْعُلٌ,FROM_EXAMPLES,اسم,قنبر، عنطب، عنصل,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S240,ج4 ص269,https://shamela.ws/book/23018/1766,12,ثلاثي مزيد,فنعل,فُنْعَلٌ,FROM_EXAMPLES,اسم,جندب,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S241,ج4 ص269,https://shamela.ws/book/23018/1766,13,ثلاثي مزيد,فنعل,فَنْعَلٌ,FROM_EXAMPLES,صفة,عنسل، عنبس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S242,ج4 ص269,https://shamela.ws/book/23018/1766,14,ثلاثي مزيد,فنعلو,فِنْعَلْوٌ,FROM_EXAMPLES,صفة,حنظأو، كندأو، سندأو، قندأو,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S243,ج4 ص270,https://shamela.ws/book/23018/1767,1,ثلاثي مزيد,فعلن,فَعْلَنٌ,FROM_EXAMPLES,صفة,رعشن، ضيفن، علجن,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S244,ج4 ص270,https://shamela.ws/book/23018/1767,2,ثلاثي مزيد,فعلن,فِعْلِنٌ,FROM_EXAMPLES,اسم,فرسن,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S245,ج4 ص270,https://shamela.ws/book/23018/1767,3,ثلاثي مزيد,فعلن,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,وليس في الكلام فعلن,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S246,ج4 ص270,https://shamela.ws/book/23018/1767,4,ثلاثي مزيد,فعلن,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,ولا فعلن,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S247,ج4 ص270,https://shamela.ws/book/23018/1767,5,ثلاثي مزيد,فعنعل,فَعَنْعَلٌ,FROM_EXAMPLES,اسم,عقنقل، عصنصر,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S248,ج4 ص270,https://shamela.ws/book/23018/1767,6,ثلاثي مزيد,فعنلل,فَعَنْلَلٌ,FROM_EXAMPLES,صفة,ضفندد، عفنجج,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S249,ج4 ص270,https://shamela.ws/book/23018/1767,7,ثلاثي مزيد,فعنل,فُعُنْلٌ,FROM_EXAMPLES,صفة,عرند,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S250,ج4 ص270,https://shamela.ws/book/23018/1767,8,ثلاثي مزيد,فعنلة,فُعُنْلَةٌ?,FROM_EXAMPLES,اسم,جرنبة,EXISTS,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S251,ج4 ص270,https://shamela.ws/book/23018/1767,9,ثلاثي مزيد,تفعل,تَفْعُلٌ,FROM_EXAMPLES,اسم,تنضب، تتفل,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S252,ج4 ص270,https://shamela.ws/book/23018/1767,10,ثلاثي مزيد,تفعل,تُفْعَلٌ,FROM_EXAMPLES,اسم+صفة,تدرأ، ترتب؛ أمر ترتب,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S253,ج4 ص271,https://shamela.ws/book/23018/1768,1,ثلاثي مزيد,تفعل,تُفْعُلٌ,FROM_EXAMPLES,اسم,تتفل,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S254,ج4 ص271,https://shamela.ws/book/23018/1768,2,ثلاثي مزيد,تفعل,تِفْعِلٌ,FROM_EXAMPLES,اسم,تحلئ,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S255,ج4 ص271,https://shamela.ws/book/23018/1768,3,ثلاثي مزيد,تفعلة,تُفْعُلَةٌ,FROM_EXAMPLES,اسم,تتفلة,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S256,ج4 ص271,https://shamela.ws/book/23018/1768,4,ثلاثي مزيد,تفعلوت,تَفْعَلُوتٌ,FROM_EXAMPLES,اسم,ترنموت,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S257,ج4 ص271,https://shamela.ws/book/23018/1768,5,ثلاثي مزيد,تفعيل,تَفْعِيلٌ,FROM_EXAMPLES,اسم,التمتين، التنبيت,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S258,ج4 ص271,https://shamela.ws/book/23018/1768,6,ثلاثي مزيد,تفعيلة,تِفْعِيلَةٌ?,FROM_EXAMPLES,صفة,ترعية,RARE,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S259,ج4 ص271,https://shamela.ws/book/23018/1768,7,ثلاثي مزيد,تفعول,تَفْعُولٌ,FROM_EXAMPLES,اسم,تعضوض، التخموت، التذنوب,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S260,ج4 ص271,https://shamela.ws/book/23018/1768,8,ثلاثي مزيد,تفعلة,تَفْعِلَةٌ,FROM_EXAMPLES,اسم,تدورة، تنهية، تودية,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S261,ج4 ص271,https://shamela.ws/book/23018/1768,9,ثلاثي مزيد,تفعول,تُفْعُولٌ,FROM_EXAMPLES,اسم,تؤثور,RARE,قليل,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S262,ج4 ص271,https://shamela.ws/book/23018/1768,10,ثلاثي مزيد,تفعلة,?,FROM_EXAMPLES,صفة,تحلبة,RARE,UNCERTAIN variant,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S263,ج4 ص271,https://shamela.ws/book/23018/1768,11,ثلاثي مزيد,تفعلة,?,FROM_EXAMPLES,صفة,تحلبة,EXISTS,UNCERTAIN variant,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S264,ج4 ص271,https://shamela.ws/book/23018/1768,12,ثلاثي مزيد,تفعل,تُفُعِّلٌ?,FROM_EXAMPLES,اسم,التهبط,RARE,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S265,ج4 ص272,https://shamela.ws/book/23018/1769,1,ثلاثي مزيد,التفعل,تُفُعِّلٌ,FROM_EXAMPLES,اسم,تبشر,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S266,ج4 ص272,https://shamela.ws/book/23018/1769,2,ثلاثي مزيد,التفعل,تِفِعِّلٌ,FROM_EXAMPLES,اسم,التنوط,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S267,ج4 ص272,https://shamela.ws/book/23018/1769,3,ثلاثي مزيد,فعلتة,فَعْلَتَةٌ,FROM_EXAMPLES,اسم,سنبتة,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S268,ج4 ص272,https://shamela.ws/book/23018/1769,4,ثلاثي مزيد,فعلوت,فَعَلُوتٌ,FROM_EXAMPLES,اسم+صفة,رغبوت، رهبوت، جبروت، ملكوت؛ خلبوت,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S269,ج4 ص272,https://shamela.ws/book/23018/1769,5,ثلاثي مزيد,ترنموت,تَفَعَلُوتٌ,FROM_EXAMPLES,اسم,ترنموت,EXISTS,DUP? of ص271#4 تَفْعَلُوت,POSSIBLE_DUPLICATE,ai_extracted_webfetch (Shamela text unvocalized),NO
+S270,ج4 ص272,https://shamela.ws/book/23018/1769,6a,ثلاثي مزيد,تفعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ولا نعلم في الكلام تفعل ولا تفعل»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S271,ج4 ص272,https://shamela.ws/book/23018/1769,6b,ثلاثي مزيد,تفعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من الجملة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S272,ج4 ص272,https://shamela.ws/book/23018/1769,7,ثلاثي مزيد,مفعول,مَفْعُولٌ,FROM_EXAMPLES,صفة,مضروب,EXISTS,«ولا نعلمه جاء اسما»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S273,ج4 ص272,https://shamela.ws/book/23018/1769,8,ثلاثي مزيد,مفعل,مَفْعَلٌ,FROM_EXAMPLES,اسم+صفة,المحلب، المقتل؛ المشتى، المولى,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S274,ج4 ص272,https://shamela.ws/book/23018/1769,9,ثلاثي مزيد,مفعل,مِفْعَلٌ,FROM_EXAMPLES,اسم+صفة,المنبر، مرفق؛ مدعس، مطعن,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S275,ج4 ص272,https://shamela.ws/book/23018/1769,10,ثلاثي مزيد,مفعل,مَفْعِلٌ,FROM_EXAMPLES,اسم+صفة,المجلس، المسجد؛ منكب,EXISTS,«وهو في الصفة قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S276,ج4 ص272,https://shamela.ws/book/23018/1769,11,ثلاثي مزيد,مفعل,مُفْعَلٌ,FROM_EXAMPLES,اسم+صفة,مصحف، مخدع، موسى؛ مكرم، مدخل,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S277,ج4 ص273,https://shamela.ws/book/23018/1770,12,ثلاثي مزيد,مفعل,مُفْعُلٌ,FROM_EXAMPLES,اسم,منخل، مسعط، مدق، منصل,EXISTS,«ولا نعلمه صفة»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S278,ج4 ص273,https://shamela.ws/book/23018/1770,13,ثلاثي مزيد,مفعلة,مَفْعُلَةٌ,FROM_EXAMPLES,اسم,مزرعة، المشرقة، مقبرة,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S279,ج4 ص273,https://shamela.ws/book/23018/1770,14,ثلاثي مزيد,مفعل,مَفْعُلٌ (بغير هاء),FROM_EXAMPLES,—,—,NOT_FOUND_IN_ARABIC,«ليس في الكلام مفعل بغير الهاء»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S280,ج4 ص273,https://shamela.ws/book/23018/1770,15,ثلاثي مزيد,مفعول,مُفْعُولٌ,FROM_EXAMPLES,اسم,معلوق,RARE,«غريب شاذ»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S281,ج4 ص273,https://shamela.ws/book/23018/1770,16,ثلاثي مزيد,مفعل,مِفْعِلٌّ?,FROM_EXAMPLES,اسم,مرعز,RARE,LOW_CONF,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S282,ج4 ص273,https://shamela.ws/book/23018/1770,17,ثلاثي مزيد,فعلم,فُعْلُمٌ,FROM_EXAMPLES,صفة,زرقم، ستهم,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S283,ج4 ص273,https://shamela.ws/book/23018/1770,18,ثلاثي مزيد,فعلم,فِعْلِمٌ,FROM_EXAMPLES,صفة,دلقم، دقعم، دردم,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S284,ج4 ص273,https://shamela.ws/book/23018/1770,19,ثلاثي مزيد,مفعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«مفعل ولا شيء من هذا النحو»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S285,ج4 ص274,https://shamela.ws/book/23018/1771,20,ثلاثي مزيد,فعامل,فُعَامِلٌ,FROM_EXAMPLES,صفة,الدلامص,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S286,ج4 ص274,https://shamela.ws/book/23018/1771,21,ثلاثي مزيد,فوعل,فَوْعَلٌ,FROM_EXAMPLES,اسم+صفة,كوكب، عوسج؛ حومل، هوزب,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S287,ج4 ص274,https://shamela.ws/book/23018/1771,22a,ثلاثي مزيد,فوعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ليس في الكلام فوعل ولا فوعل»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S288,ج4 ص274,https://shamela.ws/book/23018/1771,22b,ثلاثي مزيد,فوعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من الجملة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S289,ج4 ص274,https://shamela.ws/book/23018/1771,23,ثلاثي مزيد,فوعلل,فَوَعْلَلٌ,FROM_EXAMPLES,صفة,كوألل,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S290,ج4 ص274,https://shamela.ws/book/23018/1771,24,ثلاثي مزيد,فعول,فَعُولٌ,FROM_EXAMPLES,اسم+صفة,عتود، خروف؛ صدوق,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S291,ج4 ص274,https://shamela.ws/book/23018/1771,25,ثلاثي مزيد,فعول,فَعْوَلٌ,FROM_EXAMPLES,اسم+صفة,جدول، جرول؛ جهور، حشور,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S292,ج4 ص274,https://shamela.ws/book/23018/1771,26,ثلاثي مزيد,فعول,فِعْوَلٌ,FROM_EXAMPLES,اسم,خروع، علود,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S293,ج4 ص274,https://shamela.ws/book/23018/1771,27,ثلاثي مزيد,فعول,فِعْوَلٌّ,FROM_EXAMPLES,اسم+صفة,عثول، القشوف؛ العسود,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S294,ج4 ص274,https://shamela.ws/book/23018/1771,28,ثلاثي مزيد,فعول,فَعَوَّلٌ,FROM_EXAMPLES,صفة,عطود، كروس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S295,ج4 ص274,https://shamela.ws/book/23018/1771,29a,ثلاثي مزيد,فعول,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,نفي وزنين,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S296,ج4 ص274,https://shamela.ws/book/23018/1771,29b,ثلاثي مزيد,فعول,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,نفي وزنين,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S297,ج4 ص274,https://shamela.ws/book/23018/1771,30,ثلاثي مزيد,فعول,فُعُولٌ,FROM_EXAMPLES,اسم,أتي، السدوس,RARE,«قليل… إلا أن يكون مصدراً أو جمعاً»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S298,ج4 ص275,https://shamela.ws/book/23018/1772,31,ثلاثي مزيد,فعوعل,فَعَوْعَلٌ,FROM_EXAMPLES,صفة,عثوثل، قطوطى، غدودن,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S299,ج4 ص275,https://shamela.ws/book/23018/1772,32,ثلاثي مزيد,فعولل,فَعَوْلَلٌ,FROM_EXAMPLES,اسم,حبونن,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S300,ج4 ص275,https://shamela.ws/book/23018/1772,33,ثلاثي مزيد,فعلوة,فَعْلُوَةٌ,FROM_EXAMPLES,اسم,ترقوة، عرقوة، قرنوة,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S301,ج4 ص275,https://shamela.ws/book/23018/1772,34,ثلاثي مزيد,فعلوة,فُعْلُوَةٌ,FROM_EXAMPLES,اسم,الحنذوة، العنصوة,EXISTS,LOW_CONF,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S302,ج4 ص275,https://shamela.ws/book/23018/1772,35,ثلاثي مزيد,فعلوة,فِعْلُوَةٌ,FROM_EXAMPLES,اسم,حنذوة,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S303,ج4 ص275,https://shamela.ws/book/23018/1772,36,ثلاثي مزيد,فعول,فِعَّوْلٌ,FROM_EXAMPLES,اسم+صفة,عجول، سنور، القلوب؛ خنوص، سروط,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S304,ج4 ص275,https://shamela.ws/book/23018/1772,37,ثلاثي مزيد,فعول,فُعُّولٌ,FROM_EXAMPLES,اسم+صفة,سفود، كلوب؛ سبوح، قدوس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S305,ج4 ص275,https://shamela.ws/book/23018/1772,38,ثلاثي مزيد,فعول,فَعُّولٌ,FROM_EXAMPLES,صفة,سبوح، قدوس,EXISTS,قراءة أخرى,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S306,ج4 ص275,https://shamela.ws/book/23018/1772,39,ثلاثي مزيد,فعول,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ليس في الكلام فعول»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S307,ج4 ص275,https://shamela.ws/book/23018/1772,40,ثلاثي مزيد,فعلول,فُعْلُولٌ,FROM_EXAMPLES,اسم+صفة,طخرور، الهذلول، الشؤبوب؛ بهلول,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S308,ج4 ص276,https://shamela.ws/book/23018/1773,41,ثلاثي مزيد,فعلول,فِعَلُّولٌ?,FROM_EXAMPLES,اسم+صفة,البلصوص، البعكوك؛ الحلكوك,EXISTS,LOW_CONF,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S309,ج4 ص276,https://shamela.ws/book/23018/1773,42,ثلاثي مزيد,فعلول,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,—,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S310,ج4 ص276,https://shamela.ws/book/23018/1773,43,ثلاثي مزيد,فعنلوة,فَعَنْلُوَةٌ,FROM_EXAMPLES,اسم,قلنسوة,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S311,ج4 ص277,https://shamela.ws/book/23018/1774,44,ثلاثي مزيد,فعلل,فَعْلَلٌ (ملحق مضعف),FROM_EXAMPLES,اسم,قردد، مهدد,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S312,ج4 ص277,https://shamela.ws/book/23018/1774,45,ثلاثي مزيد,فعلل,فُعْلُلٌ,FROM_EXAMPLES,اسم+صفة,سردد، دعبب؛ قعدد، دخلل,EXISTS,UNVERIFIED order,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S313,ج4 ص277,https://shamela.ws/book/23018/1774,46,ثلاثي مزيد,فعلل,فُعْلَلٌ,FROM_EXAMPLES,اسم+صفة,عندد، عنبب,EXISTS,UNVERIFIED order,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S314,ج4 ص277,https://shamela.ws/book/23018/1774,47,ثلاثي مزيد,فعلل,فِعْلِلٌ,FROM_EXAMPLES,صفة,رماد رمدد,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S315,ج4 ص277,https://shamela.ws/book/23018/1774,48a,ثلاثي مزيد,فعلل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,نفي وزنين,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S316,ج4 ص277,https://shamela.ws/book/23018/1774,48b,ثلاثي مزيد,فعلل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,نفي وزنين,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S317,ج4 ص277,https://shamela.ws/book/23018/1774,49,ثلاثي مزيد,فعل,فَعَلٌّ,FROM_EXAMPLES,اسم+صفة,شربة، معد؛ الهبي,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S318,ج4 ص277,https://shamela.ws/book/23018/1774,50,ثلاثي مزيد,فعل,فِعَلٌّ,FROM_EXAMPLES,اسم+صفة,جدب؛ خدب، هجف، هقب,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S319,ج4 ص277,https://shamela.ws/book/23018/1774,51,ثلاثي مزيد,فعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,—,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S320,ج4 ص277,https://shamela.ws/book/23018/1774,52,ثلاثي مزيد,فعل,فُعُلٌّ,FROM_EXAMPLES,اسم+صفة,جبن، الفلج، الدجن؛ القمد، العتل,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S321,ج4 ص277,https://shamela.ws/book/23018/1774,53,ثلاثي مزيد,فعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,—,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S322,ج4 ص277,https://shamela.ws/book/23018/1774,54,ثلاثي مزيد,فعل,فِعِلٌّ,FROM_EXAMPLES,اسم+صفة,الحبر، الفلز؛ الطمر، الهبر,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S323,ج4 ص277,https://shamela.ws/book/23018/1774,55,ثلاثي مزيد,فعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,—,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S324,ج4 ص278,https://shamela.ws/book/23018/1775,56,ثلاثي مزيد,فعلة,فِعِلَّةٌ?,FROM_EXAMPLES,اسم,تئفة,RARE,LOW_CONF,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S325,ج4 ص278,https://shamela.ws/book/23018/1775,57,ثلاثي مزيد,فعلة,فُعَلَّةٌ,FROM_EXAMPLES,اسم,درجة,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S326,ج4 ص278,https://shamela.ws/book/23018/1775,58,ثلاثي مزيد,فعلة,فُعُلَّةٌ,FROM_EXAMPLES,اسم,تلنة,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S327,ج4 ص278,https://shamela.ws/book/23018/1775,59,ثلاثي مزيد,فعلعل,فَعَلْعَلٌ,FROM_EXAMPLES,اسم+صفة,حبربر، حورور؛ صمحمح، دمكمك,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S328,ج4 ص278,https://shamela.ws/book/23018/1775,60,ثلاثي مزيد,فعلعل,فُعَلْعِلٌ,FROM_EXAMPLES,اسم,ذرحرح، جلعلع,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S329,ج4 ص278,https://shamela.ws/book/23018/1775,61a,ثلاثي مزيد,فعلعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,نفي وزنين,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S330,ج4 ص278,https://shamela.ws/book/23018/1775,61b,ثلاثي مزيد,فعلعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,نفي وزنين؛ ثم: «ولا نعلم أنه جاء… من بنات الثلاثة… سوى ما ذكرنا»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S331,ج4 ص288,https://shamela.ws/book/23018/1785,1,رباعي مجرد,فعلل,فَعْلَلٌ,FROM_EXAMPLES,اسم+صفة,جعفر، عنبر، جندل؛ سلهب، خلجم، شجعم,EXISTS,رباعي مجرد,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S332,ج4 ص288,https://shamela.ws/book/23018/1785,2,رباعي مجرد,فعلل,فُعْلُلٌ,FROM_EXAMPLES,اسم+صفة,البرثن، الحبرج؛ الجرشع، الصنتع، الكندر,EXISTS,رباعي مجرد,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S333,ج4 ص289,https://shamela.ws/book/23018/1786,3,رباعي مجرد,فعلل,فِعْلِلٌ,FROM_EXAMPLES,اسم+صفة,الزبرج، الزئبر، الحفرد؛ عنفص، الدلقم، خرمل,EXISTS,رباعي مجرد,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S334,ج4 ص289,https://shamela.ws/book/23018/1786,4,رباعي مجرد,فعلل,فِعْلَلٌ,FROM_EXAMPLES,اسم+صفة,قلعم، درهم؛ هجرع، هبلع,EXISTS,رباعي مجرد,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S335,ج4 ص289,https://shamela.ws/book/23018/1786,5,رباعي مجرد,فعل,فِعَلٌّ,FROM_EXAMPLES,اسم+صفة,الفطحل، الصقعل، الهدملة؛ الهزبر، السبطر، القمطر,EXISTS,رباعي مجرد,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S336,ج4 ص289,https://shamela.ws/book/23018/1786,NF1,رباعي مجرد,فعلل,فُعْلَلٌ?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«فليس في الكلام من بنات الأربعة على مثال فعللٍ ولا فعللٍ»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S337,ج4 ص289,https://shamela.ws/book/23018/1786,NF2,رباعي مجرد,فعلل,فَعْلِلٌ?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من الجملة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S338,ج4 ص290,https://shamela.ws/book/23018/1787,6,رباعي مزيد,فعولل,فَعَوْلَلٌ,FROM_EXAMPLES,اسم+صفة,حبوكر، فدوكس، صنوبر؛ السرومط، العشوزن,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S339,ج4 ص291,https://shamela.ws/book/23018/1788,NF3,رباعي مزيد,فعولل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ولا نعلم في بنات الأربعة على مثال فعوللٍ ولا فعوللٍ»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S340,ج4 ص291,https://shamela.ws/book/23018/1788,7,رباعي مزيد,فعوللان,فَعَوْلَلانٌ,FROM_EXAMPLES,اسم,عبوثران,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S341,ج4 ص291,https://shamela.ws/book/23018/1788,8,رباعي مزيد,فعوللى,فَعَوْلَلَى,FROM_EXAMPLES,اسم,حبوكرى,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S342,ج4 ص291,https://shamela.ws/book/23018/1788,9,رباعي مزيد,فعلول,فَعَلْوَلٌ,FROM_EXAMPLES,اسم+صفة,كنهور، بلهور,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S343,ج4 ص291,https://shamela.ws/book/23018/1788,10,رباعي مزيد,فعلويل,فَعْلَوِيلٌ,FROM_EXAMPLES,اسم,قندويل، هندويل,RARE,«ولا نعلم لهما نظيراً»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S344,ج4 ص291,https://shamela.ws/book/23018/1788,11,رباعي مزيد,فعلول,فُعْلُولٌ (رباعي),FROM_EXAMPLES,اسم+صفة,عنقود، عصفور، زنبور؛ شنحوط، سرحوب,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S345,ج4 ص291,https://shamela.ws/book/23018/1788,12,رباعي مزيد,فعلول,فَعَلُولٌ,FROM_EXAMPLES,اسم+صفة,قربوس، زرجون، قلمون؛ قرقوس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S346,ج4 ص291,https://shamela.ws/book/23018/1788,13,رباعي مزيد,فعلول,فِعْلَوْلٌ,FROM_EXAMPLES,اسم+صفة,فردوس، برذون، حرذون؛ علطوس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S347,ج4 ص292,https://shamela.ws/book/23018/1789,NF4,رباعي مزيد,فعليول,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ولا نعلم في بنات الأربعة فعليولاً»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S348,ج4 ص292,https://shamela.ws/book/23018/1789,14,رباعي مزيد,فعلوة,فُعَلْلُوَةٌ,FROM_EXAMPLES,اسم,قمحدوة,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S349,ج4 ص292,https://shamela.ws/book/23018/1789,15,رباعي مزيد,فيعلول,فَيْعَلُولٌ,FROM_EXAMPLES,اسم+صفة,خيتعور، خيسفوج؛ عيسجور، عيضموز,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S350,ج4 ص292,https://shamela.ws/book/23018/1789,16,رباعي مزيد,فعللوت,فَعْلَلُوتٌ,FROM_EXAMPLES,اسم,عنكبوت، تخربوت,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S351,ج4 ص292,https://shamela.ws/book/23018/1789,17,رباعي مزيد,فعللول,فَعْلَلُولٌ,FROM_EXAMPLES,اسم+صفة,منجنون، حندقوق,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S352,ج4 ص292,https://shamela.ws/book/23018/1789,18,رباعي مزيد,فعيلل,فَعَيْلَلٌ (رباعي),FROM_EXAMPLES,صفة,سميدع، العميثل,EXISTS,«ولا نعلمه جاء إلا صفةً»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S353,ج4 ص293,https://shamela.ws/book/23018/1790,19,رباعي مزيد,فعيللان,فُعَيْلِلانٌ,FROM_EXAMPLES,اسم,عريقصان، عبيثران,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S354,ج4 ص293,https://shamela.ws/book/23018/1790,NF5,رباعي مزيد,فعيلل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ولا نعلم في بنات الأربعة شيئاً على فعيللٍ»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S355,ج4 ص293,https://shamela.ws/book/23018/1790,20,رباعي مزيد,فعليل,فِعْلِيلٌ (رباعي),FROM_EXAMPLES,اسم+صفة,قنديل، برطيل، كندير؛ شنظير، حربيش,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S356,ج4 ص293,https://shamela.ws/book/23018/1790,21,رباعي مزيد,فعليل,فُعْلِيلٌ,FROM_EXAMPLES,صفة,غرنيق,RARE,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S357,ج4 ص293,https://shamela.ws/book/23018/1790,NF6,رباعي مزيد,فعليل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ولا نعلم في الكلام فعليل»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S358,ج4 ص293,https://shamela.ws/book/23018/1790,22,رباعي مزيد,فعلية,فُعَلِّيَةٌ,FROM_EXAMPLES,اسم,سلحفية، سحفنية,EXISTS,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S359,ج4 ص293,https://shamela.ws/book/23018/1790,23,رباعي مزيد,فنعليل,فَنْعَلِيلٌ,FROM_EXAMPLES,اسم+صفة,منجنيق؛ عنتريس,EXISTS,UNCERTAIN; DUP? of ص269#10,POSSIBLE_DUPLICATE;VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S360,ج4 ص294,https://shamela.ws/book/23018/1791,24,رباعي مزيد,فعاليل,فُعَالِيلٌ,FROM_EXAMPLES,اسم,كنابيل,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S361,ج4 ص294,https://shamela.ws/book/23018/1791,NF7a,رباعي مزيد,فنعليل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ولا نعلم في الكلام فنعليل ولا فعاليل»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S362,ج4 ص294,https://shamela.ws/book/23018/1791,NF7b,رباعي مزيد,فعاليل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من الجملة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S363,ج4 ص294,https://shamela.ws/book/23018/1791,25,رباعي مزيد,فعلليل,فَعْلَلِيلٌ (مضعف),FROM_EXAMPLES,صفة,عرطليل، عفشليل، قمطرير,EXISTS,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S364,ج4 ص294,https://shamela.ws/book/23018/1791,26,رباعي مزيد,فعالل,فُعَالِلٌ,FROM_EXAMPLES,اسم+صفة,برائل، الخجادب، عتائد؛ الفرافص، العذافر,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S365,ج4 ص294,https://shamela.ws/book/23018/1791,27,رباعي مزيد,فعاللى,فُعَالِلَى,FROM_EXAMPLES,اسم,جخادبى,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S366,ج4 ص294,https://shamela.ws/book/23018/1791,28,رباعي مزيد,فعالل وفعاليل,فَعَالِلُ/فَعَالِيلُ,FROM_EXAMPLES,اسم+صفة,قراشب، حبارج، قناديل، غرانيق,EXISTS,PLURAL_ONLY? UNCERTAIN,PLURAL_ONLY;VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S367,ج4 ص294,https://shamela.ws/book/23018/1791,29,رباعي مزيد,فعلال,فِعْلالٌ (رباعي),FROM_EXAMPLES,اسم+صفة,حملاق، قنطار، شنعاف؛ سرداح، هلباج,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S368,ج4 ص294,https://shamela.ws/book/23018/1791,30,رباعي مزيد,فعلال,فَعْلالٌ (مضاعف),FROM_EXAMPLES,اسم+صفة,الزلزال، الجثجاث، الرمرام؛ الحثحاث,EXISTS,«إلا المضاعف»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S369,ج4 ص295,https://shamela.ws/book/23018/1792,31,رباعي مزيد,فعلال,فُعْلالٌ (رباعي),FROM_EXAMPLES,اسم,قرطاس، قرناس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S370,ج4 ص295,https://shamela.ws/book/23018/1792,32,رباعي مزيد,فعلال,فِعِلّالٌ,FROM_EXAMPLES,اسم+صفة,الجنبار، السنمار؛ الطرماح، الشقراق,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S371,ج4 ص295,https://shamela.ws/book/23018/1792,33,رباعي مزيد,فعنلال,فَعَنْلالٌ (رباعي),FROM_EXAMPLES,صفة,الجحنبار، الجعنبار,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S372,ج4 ص295,https://shamela.ws/book/23018/1792,34,رباعي مزيد,فعلالاء,فَعْلالاءُ,FROM_EXAMPLES,اسم,برناساء,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S373,ج4 ص295,https://shamela.ws/book/23018/1792,35,رباعي مزيد,فعللاء,فَعْلَلاءُ,FROM_EXAMPLES,اسم,برنساء، عقرباء، حرملاء,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S374,ج4 ص296,https://shamela.ws/book/23018/1793,36,رباعي مزيد,فعللاء,فُعْلُلاءُ,FROM_EXAMPLES,اسم,القرفصاء,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S375,ج4 ص296,https://shamela.ws/book/23018/1793,37,رباعي مزيد,فعللاء,فِعْلِلاءُ,FROM_EXAMPLES,صفة,طرمساء، جلحطاء,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S376,ج4 ص296,https://shamela.ws/book/23018/1793,38,رباعي مزيد,فعللاء,فِعْلَلاءُ,FROM_EXAMPLES,اسم,هندباء,EXISTS,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S377,ج4 ص296,https://shamela.ws/book/23018/1793,NF8a,رباعي مزيد,فعللاء,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ولا نعلم مثال فعللاء ولا فعللال ولا فعليلال»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S378,ج4 ص296,https://shamela.ws/book/23018/1793,NF8b,رباعي مزيد,فعللال,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من الجملة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S379,ج4 ص296,https://shamela.ws/book/23018/1793,NF8c,رباعي مزيد,فعليلال,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من الجملة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S380,ج4 ص296,https://shamela.ws/book/23018/1793,39,رباعي مزيد,فعللان,فُعْلُلانٌ,FROM_EXAMPLES,اسم+صفة,عقربان، قردمان؛ العردمان,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S381,ج4 ص296,https://shamela.ws/book/23018/1793,40,رباعي مزيد,فعللان,فِعْلِلانٌ,FROM_EXAMPLES,اسم,الحنذمان، حدرجان,RARE,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S382,ج4 ص296,https://shamela.ws/book/23018/1793,41,رباعي مزيد,فعللان,فَعْلَلانٌ,FROM_EXAMPLES,اسم+صفة,زعفران؛ شعشعان,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S383,ج4 ص296,https://shamela.ws/book/23018/1793,42,رباعي مزيد,فعللى,فَعْلَلَى,FROM_EXAMPLES,اسم,جحجبى، قرقرى، القهقرى,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S384,ج4 ص296,https://shamela.ws/book/23018/1793,43,رباعي مزيد,فعللى,فِعْلَلَى,FROM_EXAMPLES,اسم,الهندبى,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S385,ج4 ص296,https://shamela.ws/book/23018/1793,44,رباعي مزيد,فعللى,فِعْلِلَى,FROM_EXAMPLES,اسم,الهربذى,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S386,ج4 ص296,https://shamela.ws/book/23018/1793,45,رباعي مزيد,فعلى,فَعَلَّى,FROM_EXAMPLES,اسم,السبطرى، الضبغطى,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S387,ج4 ص296,https://shamela.ws/book/23018/1793,46,رباعي مزيد,فعلى,?,FROM_EXAMPLES,اسم,الصنفى,RARE,UNCERTAIN; may = #47,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S388,ج4 ص297,https://shamela.ws/book/23018/1794,47,رباعي مزيد,فعلى,فِعَلَّى,FROM_EXAMPLES,اسم+صفة,الصفقى؛ الدفقى,RARE,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S389,ج4 ص297,https://shamela.ws/book/23018/1794,NF9a,رباعي مزيد,فعللاء,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ولا نعلم فعللاء ولا فعللاء والألف للتأنيث»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S390,ج4 ص297,https://shamela.ws/book/23018/1794,NF9b,رباعي مزيد,فعللاء,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من الجملة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S391,ج4 ص297,https://shamela.ws/book/23018/1794,48,رباعي مزيد,فنعل,فَنْعَلٌّ,FROM_EXAMPLES,اسم+صفة,خنثعبة؛ كنتأل، قنفخر,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S392,ج4 ص297,https://shamela.ws/book/23018/1794,49,رباعي مزيد,فنعلل,فَنَعْلُلٌ?,FROM_EXAMPLES,اسم,كنهبل,RARE,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S393,ج4 ص297,https://shamela.ws/book/23018/1794,50,رباعي مزيد,فعنلل,فَعَنْلَلٌ (رباعي),FROM_EXAMPLES,صفة,حزنبل، عبنقس، فلنقس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S394,ج4 ص297,https://shamela.ws/book/23018/1794,51,رباعي مزيد,فعنلل,فُعُنْلُلٌ,FROM_EXAMPLES,اسم,عرنتن، قرنفل,RARE,«قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S395,ج4 ص297,https://shamela.ws/book/23018/1794,NF10a,رباعي مزيد,فعنلل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ولا نعلم فعنلل ولا فعنلل»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S396,ج4 ص297,https://shamela.ws/book/23018/1794,NF10b,رباعي مزيد,فعنلل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من الجملة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S397,ج4 ص298,https://shamela.ws/book/23018/1795,52,رباعي مزيد,فعل,فُعَّلٌّ?,FROM_EXAMPLES,صفة,العلكد، الهلقس، الشنغم,EXISTS,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S398,ج4 ص298,https://shamela.ws/book/23018/1795,53,رباعي مزيد,فعلل,فُعَّلِلٌ,FROM_EXAMPLES,اسم+صفة,الهمقع، الزملق، دملص,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S399,ج4 ص298,https://shamela.ws/book/23018/1795,54,رباعي مزيد,فعل,فِعَّلٌّ,FROM_EXAMPLES,صفة,الشمخر، الضمخر، الدبخس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S400,ج4 ص298,https://shamela.ws/book/23018/1795,55,رباعي مزيد,فعلل,فَعَّلِلٌ,FROM_EXAMPLES,?,الهمرش,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S401,ج4 ص298,https://shamela.ws/book/23018/1795,56,رباعي مزيد,فعلل,فَعَلَّلٌ (رباعي مزيد),FROM_EXAMPLES,اسم+صفة,الشفلح، الهمرجة، الغطمش؛ العدبس، العملس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S402,ج4 ص298,https://shamela.ws/book/23018/1795,NF11,رباعي مزيد,فعل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ولا نعلم على مثال فعلٍّ»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S403,ج4 ص298,https://shamela.ws/book/23018/1795,57,رباعي مزيد,فعلل,فُعَلِّلٌ/فُعُلُّلٌ,FROM_EXAMPLES,اسم+صفة,الصفرق، الزمرد,EXISTS,UNCERTAIN,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S404,ج4 ص299,https://shamela.ws/book/23018/1796,58,رباعي مزيد,فعلل,فِعْلَلٌّ (رباعي),FROM_EXAMPLES,اسم+صفة,عربد؛ قرشب، الهرشف، القهقب,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S405,ج4 ص299,https://shamela.ws/book/23018/1796,59,رباعي مزيد,فعلل,فُعْلُلٌّ,FROM_EXAMPLES,صفة,قسعب، قسحب، طرطب,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S406,ج4 ص299,https://shamela.ws/book/23018/1796,NF12a,رباعي مزيد,فعلل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ولا نعلم على مثال فعللٍّ ولا فعللٍّ»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S407,ج4 ص299,https://shamela.ws/book/23018/1796,NF12b,رباعي مزيد,فعلل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من الجملة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S408,ج4 ص301,https://shamela.ws/book/23018/1798,60,خماسي مجرد,فعلل,فَعَلَّلٌ (خماسي),FROM_EXAMPLES,اسم+صفة,سفرجل، فرزدق، زبرجد؛ شمردل، همرجل,EXISTS,خماسي مجرد,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S409,ج4 ص302,https://shamela.ws/book/23018/1799,61,خماسي مجرد,فعللل,فَعْلَلِلٌ,FROM_EXAMPLES,صفة,قهبلس، جحمرش، صهصلق,EXISTS,خماسي مجرد,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S410,ج4 ص302,https://shamela.ws/book/23018/1799,62,خماسي مجرد,فعللل,فُعَلِّلٌ (خماسي),FROM_EXAMPLES,اسم+صفة,قذعمل، خبعثن,EXISTS,خماسي مجرد,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S411,ج4 ص302,https://shamela.ws/book/23018/1799,63,خماسي مجرد,فعللل,فِعْلَلٌّ (خماسي),FROM_EXAMPLES,اسم+صفة,قرطعب، حنبتر، جردحل,EXISTS,خماسي مجرد,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S412,ج4 ص303,https://shamela.ws/book/23018/1800,64,خماسي مزيد,فعلليل,فَعْلَلِيلٌ (خماسي),FROM_EXAMPLES,اسم+صفة,سلسبيل، خندريس، عندليب؛ دردبيس,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S413,ج4 ص303,https://shamela.ws/book/23018/1800,65,خماسي مزيد,فعلليل,فُعَلِّيلٌ,FROM_EXAMPLES,اسم+صفة,خزعبيل؛ قذعميل,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S414,ج4 ص303,https://shamela.ws/book/23018/1800,66,خماسي مزيد,فعللول,فَعْلَلُولٌ (خماسي),FROM_EXAMPLES,اسم,عضرفوط، يستعور,EXISTS,—,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S415,ج4 ص303,https://shamela.ws/book/23018/1800,67,خماسي مزيد,فعللى,فَعَلَّلَى,FROM_EXAMPLES,صفة,قبعثرى، ضبغطرى,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S416,ج4 ص303,https://shamela.ws/book/23018/1800,68,خماسي مزيد,فعللول,فِعْلَلُولٌ,FROM_EXAMPLES,صفة,قرطبوس,RARE,«وهو قليل»,,ai_extracted_webfetch (Shamela text unvocalized),NO
+S417,ج4 ص303,https://shamela.ws/book/23018/1800,NF13a,خماسي مزيد,فعللل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,«ولا نعلم على مثال فعللٍ ولا فعللٍ ولا فعللٍ»,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S418,ج4 ص303,https://shamela.ws/book/23018/1800,NF13b,خماسي مزيد,فعللل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من الجملة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO
+S419,ج4 ص303,https://shamela.ws/book/23018/1800,NF13c,خماسي مزيد,فعللل,?,UNDETERMINED,—,—,NOT_FOUND_IN_ARABIC,من الجملة نفسها,VOCALIZATION_UNCERTAIN,ai_extracted_webfetch (Shamela text unvocalized),NO

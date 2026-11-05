@@ -1,96 +1,62 @@
-"""
-اختبار المحرك الصرفي على الجذور العشرة التجريبية
-"""
-import sys, os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
+"""المحرك الصرفي — مقارنة بالقيم الذهبية (tests/gold/conjugation_gold.txt)."""
+import pytest
 
-from word_tree.engines.morphological_engine import conjugate
-from word_tree.core.types import RootType, Baab
+from tests._pilot import PILOT_BY_LETTERS
+from tests._gold import TABLES, conjugation_cases, matches, stacked_vowels, PGN14, PGN_IMP
+from tests.known_defects import param, DEFECTS
+from core.types import RootType, Baab
+from engines.morphological_engine import conjugate
 
-
-# الجذور العشر مع حروفها الأصلية الصحيحة (ثلاثة أحرف)
-PILOT_ROOTS = [
-    # (مفتاح، حروف أصلية، نوع، باب، أمثلة متوقعة)
-    ("كتب",  "كتب", RootType.SAHIH,      Baab.FAA_YAF_U,
-     {"ماضٍ_هو": "كَتَبَ", "مضارع_هو": "يَكْتُبُ", "أمر_أنت": "اِكْتُبْ"}),
-
-    ("علم",  "علم", RootType.SAHIH,      Baab.FAI_YAF_A,
-     {"ماضٍ_هو": "عَلِمَ", "مضارع_هو": "يَعْلَمُ"}),
-
-    ("كرم",  "كرم", RootType.SAHIH,      Baab.FAU_YAF_U,
-     {"ماضٍ_هو": "كَرُمَ", "مضارع_هو": "يَكْرُمُ"}),
-
-    ("حكم",  "حكم", RootType.SAHIH,      Baab.FAA_YAF_I,
-     {"ماضٍ_هو": "حَكَمَ", "مضارع_هو": "يَحْكِمُ"}),
-
-    ("ردد",  "ردد", RootType.MUDAAF,     Baab.FAA_YAF_U,
-     {"ماضٍ_هو": "رَدَّ"}),
-
-    ("وصل",  "وصل", RootType.MITHAL_WAW, Baab.FAA_YAF_I,
-     {"ماضٍ_هو": "وَصَلَ", "مضارع_هو": "يَصِلُ"}),
-
-    ("قول",  "قول", RootType.AJWAF_WAW,  Baab.FAA_YAF_U,
-     {"ماضٍ_هو": "قَالَ", "مضارع_هو": "يَقُولُ", "أمر_أنت": "قُلْ"}),
-
-    ("بيع",  "بيع", RootType.AJWAF_YAA,  Baab.FAA_YAF_I,
-     {"ماضٍ_هو": "بَاعَ", "مضارع_هو": "يَبِيعُ"}),
-
-    ("رمي",  "رمي", RootType.NAQIS_YAA,  Baab.FAA_YAF_I,
-     {"ماضٍ_هو": "رَمَى", "مضارع_هو": "يَرْمِيُ"}),
-
-    ("دعو",  "دعو", RootType.NAQIS_WAW,  Baab.FAA_YAF_U,
-     {"ماضٍ_هو": "دَعَا", "مضارع_هو": "يَدْعُوُ"}),
-]
+_CACHE = {}
 
 
-def test_root(label, letters, root_type, baab, expected):
-    print(f"\n{'═'*60}")
-    print(f"الجذر: {label}  |  النوع: {root_type.value}  |  الباب: {baab.value}")
-    print(f"{'─'*60}")
-
-    try:
-        p = conjugate(letters, root_type, baab)
-    except Exception as e:
-        print(f"  ❌ خطأ في التوليد: {e}")
-        return False
-
-    print(f"  ✅ عدد الخلايا المُولَّدة: {len(p.cells)}")
-
-    # طباعة الماضي المعلوم
-    print("\n  الماضي (معلوم):")
-    past = p.filter(mood="ماضٍ", voice="معلوم")
-    for c in past[:6]:   # أول ٦ (الغائب)
-        print(f"    {c.person} {c.number} {c.gender}: {c.form}")
-
-    # طباعة المضارع المرفوع
-    print("\n  المضارع المرفوع (معلوم):")
-    present = p.filter(mood="مضارع مرفوع", voice="معلوم")
-    for c in present[:6]:
-        print(f"    {c.person} {c.number} {c.gender}: {c.form}")
-
-    # طباعة الأمر
-    print("\n  الأمر:")
-    imp = p.filter(mood="أمر")
-    for c in imp:
-        print(f"    {c.person} {c.number} {c.gender}: {c.form}")
-
-    return True
+def paradigm(letters):
+    if letters not in _CACHE:
+        r = PILOT_BY_LETTERS[letters]
+        _CACHE[letters] = conjugate(letters, RootType(r["root_type"]), Baab(r["morph"]["baab"]))
+    return _CACHE[letters]
 
 
-def main():
-    print("=" * 60)
-    print("   اختبار المحرك الصرفي — الجذور العشر التجريبية")
-    print("=" * 60)
-
-    passed = 0
-    for entry in PILOT_ROOTS:
-        ok = test_root(*entry)
-        if ok:
-            passed += 1
-
-    print(f"\n{'═'*60}")
-    print(f"النتيجة: {passed}/{len(PILOT_ROOTS)} جذور اجتازت الاختبار")
+CASES = conjugation_cases()
 
 
-if __name__ == "__main__":
-    main()
+@pytest.mark.parametrize("root,table,pgn,gold",
+                         [param(cid, r, t, p, g) for cid, r, t, p, g in CASES])
+def test_cell_matches_gold(root, table, pgn, gold):
+    mood, voice = TABLES[table]
+    actual = paradigm(root).table(mood, voice).get(pgn)
+    assert actual is not None, "الخلية غير مُولَّدة"
+    assert matches(actual, gold), f"المحرك={actual!r}  الذهبي={gold!r}"
+
+
+def test_gold_covers_every_pilot_root():
+    assert {c[1] for c in CASES} == set(PILOT_BY_LETTERS)
+
+
+@pytest.mark.parametrize("letters", sorted(PILOT_BY_LETTERS))
+def test_paradigm_shape(letters):
+    p = paradigm(letters)
+    assert len(p.cells) == 90
+    for code, (mood, voice) in TABLES.items():
+        keys = set(p.table(mood, voice))
+        assert keys == set(PGN_IMP if code == "AM" else PGN14), code
+
+
+@pytest.mark.parametrize("letters,table,pgn", [
+    param(f"stack-{l}-{c.mood}-{c.voice}-{'/'.join((c.person, c.number, c.gender))}",
+          l, (c.mood, c.voice), (c.person, c.number, c.gender))
+    for l in sorted(PILOT_BY_LETTERS) for c in paradigm(l).cells
+])
+def test_no_stacked_vowels(letters, table, pgn):
+    form = paradigm(letters).table(*table)[pgn]
+    assert not stacked_vowels(form), f"حركتان على حرف واحد: {form!r}"
+
+
+# ── عيوب بنيوية (fail-closed): نوعٌ لا مصرِّف له يجب ألا يُصرَّف بصمت كالصحيح ──
+@pytest.mark.parametrize("letters,rt", [
+    param("unsupported-لفيف_مفروق", "وقي", RootType.LAFIF_MAFRUQ),
+    param("unsupported-لفيف_مقرون", "طوي", RootType.LAFIF_MAQRUN),
+])
+def test_unsupported_root_type_fails_closed(letters, rt):
+    with pytest.raises((ValueError, NotImplementedError)):
+        conjugate(letters, rt, Baab.FAA_YAF_I)

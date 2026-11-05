@@ -1,77 +1,79 @@
-"""
-اختبار المحرك الاشتقاقي على الجذور العشرة التجريبية
-"""
-import sys, os, json
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
+"""المحرك الاشتقاقي — مقارنة بالقيم الذهبية (tests/gold/derivation_gold.txt)."""
+import pytest
 
-from word_tree.engines.derivation_engine import derive_from_dict, DerivationSet
+from tests._pilot import PILOT_BY_LETTERS, PILOT_ROOTS
+from tests._gold import derivation_cases, matches
+from tests.known_defects import param
+from core.types import RootType, Baab
+from engines.derivation_engine import derive, derive_from_dict
 
+# جدول العمليات — الوثيقة الدستورية، المبدأ الثاني
+CONSTITUTION_OPS = {
+    "II": "+سببية", "IV": "+سببية", "III": "+ثنائية",
+    "V": "+انعكاسية", "VI": "+انعكاسية", "X": "+طلبية",
+    "VII": "−أثر فاعلي", "VIII": "−أثر فاعلي", "IX": "+حالة ثابتة",
+}
+FIELD = {"verb": "verb", "masdar": "masdar", "faail": "ism_faail", "mafuul": "ism_mafuul"}
+I_FIELD = {"faail": "ism_faail", "mafuul": "ism_mafuul", "makan": "ism_makan",
+           "zaman": "ism_zaman", "aala": "ism_aala"}
 
-DATA_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'pilot_roots.json')
-
-
-def test_root(root_data: dict) -> bool:
-    label = root_data["display"]
-    letters = root_data["letters"]
-    rt = root_data["root_type"]
-
-    print(f"\n{'═'*60}")
-    print(f"الجذر: {label}  ({letters})  |  النوع: {rt}")
-    print(f"{'─'*60}")
-
-    try:
-        ds: DerivationSet = derive_from_dict(root_data)
-    except Exception as e:
-        print(f"  ❌ خطأ في التوليد: {e}")
-        import traceback; traceback.print_exc()
-        return False
-
-    # ── باب I ─────────────────────────────────────────────────────────
-    print("  ■ باب I — المشتقات الأساسية:")
-    if ds.masadir_samiyya:
-        print(f"    مصادر سماعية : {' / '.join(ds.masadir_samiyya)}")
-    if ds.masdar_qiyasi:
-        print(f"    مصدر قياسي   : {ds.masdar_qiyasi}")
-    print(f"    اسم الفاعل   : {ds.ism_faail  or '—'}")
-    print(f"    اسم المفعول  : {ds.ism_mafuul or '—'}")
-    print(f"    اسم المكان   : {ds.ism_makan  or '—'}")
-    print(f"    اسم الزمان   : {ds.ism_zaman  or '—'}")
-    print(f"    اسم الآلة    : {ds.ism_aala   or '—'}")
-
-    # ── مزيدات II–X ───────────────────────────────────────────────────
-    if ds.mazidaat:
-        print(f"\n  ■ الأوزان المزيدة ({len(ds.mazidaat)} أوزان):")
-        for m in ds.mazidaat:
-            print(f"    [{m.wazn}] {m.wazn_op}")
-            print(f"      فعل      : {m.verb}")
-            print(f"      مصدر     : {m.masdar}")
-            print(f"      اسم فاعل : {m.ism_faail}")
-            print(f"      اسم مفعول: {m.ism_mafuul}")
-            print(f"      الدلالة  : {m.meaning}")
-    else:
-        print("  (لا أوزان مزيدة)")
-
-    return True
+_CACHE = {}
 
 
-def main():
-    print("=" * 60)
-    print("   اختبار المحرك الاشتقاقي — الجذور العشر التجريبية")
-    print("=" * 60)
-
-    with open(DATA_PATH, encoding="utf-8") as f:
-        data = json.load(f)
-
-    roots = data["roots"]
-    passed = 0
-    for root_data in roots:
-        ok = test_root(root_data)
-        if ok:
-            passed += 1
-
-    print(f"\n{'═'*60}")
-    print(f"النتيجة: {passed}/{len(roots)} جذور اجتازت الاختبار")
+def ds(letters):
+    if letters not in _CACHE:
+        _CACHE[letters] = derive_from_dict(PILOT_BY_LETTERS[letters])
+    return _CACHE[letters]
 
 
-if __name__ == "__main__":
-    main()
+def lookup(letters, key):
+    wazn, field = key.split(".")
+    d = ds(letters)
+    if wazn == "I":
+        return getattr(d, I_FIELD[field])
+    for m in d.mazidaat:
+        if m.wazn == wazn:
+            return getattr(m, FIELD[field])
+    return None
+
+
+CASES = derivation_cases()
+
+
+@pytest.mark.parametrize("root,key,gold", [param(c, r, k, g) for c, r, k, g in CASES])
+def test_form_matches_gold(root, key, gold):
+    actual = lookup(root, key)
+    assert actual is not None, "الصيغة غير مُولَّدة"
+    assert matches(actual, gold), f"المحرك={actual!r}  الذهبي={gold!r}"
+
+
+@pytest.mark.parametrize("rd", PILOT_ROOTS, ids=lambda r: r["letters"])
+def test_stored_data_passes_through(rd):
+    d = ds(rd["letters"])
+    m = rd["morph"]
+    assert d.masadir_samiyya == m["masadir_samiyya"]
+    assert d.masdar_qiyasi == m.get("masdar_qiyasi")
+    assert [x.wazn for x in d.mazidaat] == list(m["awzaan_maqbuula"])
+    assert {x.wazn: x.meaning for x in d.mazidaat} == m["awzaan_maqbuula"]
+
+
+@pytest.mark.parametrize("rd", PILOT_ROOTS, ids=lambda r: r["letters"])
+def test_wazn_op_matches_constitution(rd):
+    for x in ds(rd["letters"]).mazidaat:
+        assert x.wazn_op == CONSTITUTION_OPS[x.wazn], x.wazn
+
+
+@pytest.mark.parametrize("wazn", [param("unknown-wazn-XI", "XI")])
+def test_unknown_wazn_key_is_not_silently_dropped(wazn):
+    """مفتاح وزن غير معروف لا يُسقَط بصمت (fail-closed)."""
+    with pytest.raises((ValueError, KeyError)):
+        derive("كتب", RootType.SAHIH, Baab.FAA_YAF_U, [], None,
+               None, None, None, None, None, {wazn: ""})
+
+
+@pytest.mark.parametrize("letters", [param("rubai-دحرج", "دحرج")])
+def test_quadriliteral_not_truncated(letters):
+    """الجذر الرباعي لا يُقطع إلى ثلاثة أحرف بصمت."""
+    with pytest.raises((ValueError, NotImplementedError)):
+        derive(letters, RootType.SAHIH, Baab.FAA_YAF_U, [], None,
+               None, None, None, None, None, {})

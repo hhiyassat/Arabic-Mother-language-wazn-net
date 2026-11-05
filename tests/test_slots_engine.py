@@ -1,95 +1,61 @@
-"""
-اختبار محرك الفتحات على الجذور العشرة التجريبية
-"""
-import sys, os, json
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
+"""محرك الفتحات — مطابقة البنية المسندية لبيانات المالك في pilot_roots.json."""
+import pytest
 
-from word_tree.engines.slots_engine import (
-    parse_predicate_from_dict,
-    find_compatible_pairs,
-    group_by_predicate,
-    group_by_signature,
-    PredicateStructure,
-)
-from word_tree.core.types import SemanticType
-
-DATA_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'pilot_roots.json')
+from tests._pilot import PILOT_ROOTS
+from tests.known_defects import param
+from core.types import SemanticType, PrimaryPredicate
+from engines.slots_engine import (parse_predicate_from_dict, group_by_signature,
+                                  _resolve_sem_type, _resolve_predicate)
 
 
-def test_root(root_data: dict) -> bool:
-    label   = root_data["display"]
-    letters = root_data["letters"]
-    print(f"\n{'═'*60}")
-    print(f"الجذر: {label}  ({letters})")
-    print(f"{'─'*60}")
-
-    try:
-        ps = parse_predicate_from_dict(root_data)
-    except Exception as e:
-        print(f"  ❌ خطأ في التحليل: {e}")
-        import traceback; traceback.print_exc()
-        return False
-
-    print(f"  المسند الأولي : {ps.primary_predicate.value}")
-    print(f"  الملخص        : {ps.summary()}")
-    print(f"  التوقيع       : {tuple(t.value for t in ps.signature())}")
-    print(f"  الفتحات الإلزامية ({len(ps.mandatory())}):")
-    for s in ps.mandatory():
-        print(f"    {s.name:10} → {s.sem_type.value:10}  مثال: {s.example}")
-    if ps.optional_slots():
-        print(f"  الفتحات الاختيارية ({len(ps.optional_slots())}):")
-        for s in ps.optional_slots():
-            prep = f"[{s.preposition}] " if s.preposition else ""
-            print(f"    {s.name:10} {prep}→ {s.sem_type.value:10}  مثال: {s.example}")
-    return True
+@pytest.mark.parametrize("rd", PILOT_ROOTS, ids=lambda r: r["letters"])
+def test_predicate_parsed_exactly(rd):
+    ps = parse_predicate_from_dict(rd)
+    pd = rd["predicate"]
+    assert ps.root == rd["letters"]
+    assert ps.primary_predicate.value == pd["primary_predicate"]
+    assert ps.raw_text == pd.get("raw_text", "")
+    got = [(s.name, s.sem_type.value, s.optional, s.preposition) for s in ps.slots]
+    exp = [(s["name"], s["type"], s.get("optional", False), s.get("preposition"))
+           for s in pd["slots"]]
+    assert got == exp
 
 
-def main():
-    print("=" * 60)
-    print("   اختبار محرك الفتحات — الجذور العشر التجريبية")
-    print("=" * 60)
-
-    with open(DATA_PATH, encoding="utf-8") as f:
-        data = json.load(f)
-
-    roots = data["roots"]
-    structures: list[PredicateStructure] = []
-    passed = 0
-
-    for rd in roots:
-        ok = test_root(rd)
-        if ok:
-            passed += 1
-            structures.append(parse_predicate_from_dict(rd))
-
-    # ── تحليل جماعي ───────────────────────────────────────────────────
-    print(f"\n{'═'*60}")
-    print(f"النتيجة: {passed}/{len(roots)} جذور اجتازت الاختبار")
-
-    print(f"\n{'─'*60}")
-    print("  التجميع بحسب التوقيع الدلالي:")
-    groups = group_by_signature(structures)
-    for sig, members in sorted(groups.items(), key=lambda x: -len(x[1])):
-        sig_str = " + ".join(t.value for t in sig)
-        roots_str = "، ".join(m.root for m in members)
-        print(f"    [{sig_str}]  ← {roots_str}")
-
-    print(f"\n{'─'*60}")
-    print("  أزواج يمكن ربطها تركيبياً (A → B):")
-    pairs = find_compatible_pairs(structures)
-    if pairs:
-        for a, b in pairs:
-            print(f"    {a.root} → {b.root}")
-    else:
-        print("    (لا أزواج متوافقة مباشرة في هذه المجموعة)")
-
-    print(f"\n{'─'*60}")
-    print("  التجميع بحسب المسند الأولي:")
-    by_pred = group_by_predicate(structures)
-    for pred, members in by_pred.items():
-        roots_str = "، ".join(m.root for m in members)
-        print(f"    {pred.value:12} ← {roots_str}")
+@pytest.mark.parametrize("rd", PILOT_ROOTS, ids=lambda r: r["letters"])
+def test_signature_is_mandatory_types_in_order(rd):
+    ps = parse_predicate_from_dict(rd)
+    exp = tuple(s["type"] for s in rd["predicate"]["slots"] if not s.get("optional", False))
+    assert tuple(t.value for t in ps.signature()) == exp
+    assert len(ps.mandatory()) + len(ps.optional_slots()) == len(ps.slots)
 
 
-if __name__ == "__main__":
-    main()
+def test_group_by_signature_partitions_all_roots():
+    structs = [parse_predicate_from_dict(r) for r in PILOT_ROOTS]
+    groups = group_by_signature(structs)
+    assert sum(len(v) for v in groups.values()) == len(PILOT_ROOTS)
+
+
+def test_constitution_type_inventory():
+    """المبدأ العاشر: ١٥ نوعاً و٢٠ محمولاً."""
+    assert len(SemanticType) == 15
+    assert len(PrimaryPredicate) == 20
+
+
+@pytest.mark.parametrize("raw", [SemanticType.MUNJIZ.value, SemanticType.SABAB.value])
+def test_exact_type_resolves(raw):
+    assert _resolve_sem_type(raw).value == raw
+
+
+# ── لا استنتاج: سلسلة غير مطابقة يجب أن تُرفض لا أن تُطابَق جزئياً ──
+@pytest.mark.parametrize("raw", [param("fuzzy-type-سببية", "سببية"),
+                                 param("fuzzy-type-م", "م"),
+                                 param("fuzzy-type-مكان_الحدث", "مكان الحدث")])
+def test_sem_type_no_partial_match(raw):
+    with pytest.raises(ValueError):
+        _resolve_sem_type(raw)
+
+
+@pytest.mark.parametrize("raw", [param("fuzzy-pred-ك", "ك"), param("fuzzy-pred-ل", "ل")])
+def test_predicate_no_partial_match(raw):
+    with pytest.raises(ValueError):
+        _resolve_predicate(raw)

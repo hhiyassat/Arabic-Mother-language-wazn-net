@@ -5,3 +5,4 @@ __pycache__/
 *.jsonl
 *.tar.gz
 .DS_Store
+.pytest_cache/

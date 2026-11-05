@@ -36,6 +36,9 @@ SUKUN = "ْ"
 _MADD_SUKUN = re.compile("(ُو|ِي|ا)ْ")
 
 
+ABSENT = "∅"   # C6: لا صيغة مرخَّصة لهذه الخلية؛ يجب أن يعيد المحرك None
+
+
 def norm(s: str) -> str:
     """C1 الصورة القانونية NFC (تُعيد ترتيب الشدة/الحركة) + C2 إسقاط سكون المدّ."""
     s = unicodedata.normalize("NFC", s or "")

@@ -47,7 +47,7 @@ class DerivationSet:
     masadir_samiyya: list[str] = field(default_factory=list)
     masdar_qiyasi:   Optional[str] = None
     ism_faail:       Optional[str] = None   # مُولَّد
-    ism_mafuul:      Optional[str] = None   # مُولَّد
+    ism_mafuul:      Optional[str] = None   # مُولَّد؛ None لفَعُلَ اللازم
     ism_makan:       Optional[str] = None   # مُولَّد
     ism_zaman:       Optional[str] = None   # مُولَّد
     ism_aala:        Optional[str] = None   # مُولَّد
@@ -354,7 +354,14 @@ def derive(
 
     # ── المشتقات الأساسية: المخزَّن يُقدَّم على المُولَّد ─────────────
     ds.ism_faail  = ism_faail_stored  or _gen_ism_faail_I(r1, r2, r3, root_type)
-    ds.ism_mafuul = ism_mafuul_stored or _gen_ism_mafuul_I(r1, r2, r3, root_type)
+    # فَعُلَ يَفْعُلُ لازم دائماً (أفعال الطبائع والسجايا)، فلا اسم مفعول له قياساً.
+    # المخزَّن من المالك (إن وُجد) يُقدَّم كما في سائر المشتقات.
+    if ism_mafuul_stored:
+        ds.ism_mafuul = ism_mafuul_stored
+    elif baab == Baab.FAU_YAF_U:
+        ds.ism_mafuul = None
+    else:
+        ds.ism_mafuul = _gen_ism_mafuul_I(r1, r2, r3, root_type)
     ds.ism_makan  = ism_makan_stored  or _gen_ism_makan_zaman_I(r1, r2, r3, baab)
     ds.ism_zaman  = ism_zaman_stored  or _gen_ism_makan_zaman_I(r1, r2, r3, baab)
     ds.ism_aala   = ism_aala_stored   or _gen_ism_aala_I(r1, r2, r3)

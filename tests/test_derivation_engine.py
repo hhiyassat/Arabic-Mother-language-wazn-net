@@ -2,7 +2,7 @@
 import pytest
 
 from tests._pilot import PILOT_BY_LETTERS, PILOT_ROOTS
-from tests._gold import derivation_cases, matches
+from tests._gold import derivation_cases, matches, ABSENT
 from tests.known_defects import param
 from core.types import RootType, Baab
 from engines.derivation_engine import derive, derive_from_dict
@@ -43,6 +43,9 @@ CASES = derivation_cases()
 @pytest.mark.parametrize("root,key,gold", [param(c, r, k, g) for c, r, k, g in CASES])
 def test_form_matches_gold(root, key, gold):
     actual = lookup(root, key)
+    if gold == [ABSENT]:
+        assert actual is None, f"صيغة غير مرخَّصة مُولَّدة: {actual!r}"
+        return
     assert actual is not None, "الصيغة غير مُولَّدة"
     assert matches(actual, gold), f"المحرك={actual!r}  الذهبي={gold!r}"
 

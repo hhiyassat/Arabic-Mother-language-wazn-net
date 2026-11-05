@@ -715,6 +715,15 @@ def _get_conjugator(letters: str, root_type: RootType, baab: Baab):
     return cls(r1, r2, r3, baab)
 
 
+def merge_nun(form: str) -> str:
+    """لام ساكنة نوناً + نون النسوة أو «نا» تُكتبان نوناً مشدّدة: سَكَنَّ، سَكَنَّا، يَسْكُنَّ، اُسْكُنَّ، كُنَّ
+    (قراءة عيّنة الرباعي 2026-11-05: كان المحرك يكتب نْنَ)."""
+    for tail in ("نْنَا", "نْنَ"):
+        if form.endswith(tail):
+            return form[: -len(tail)] + "نّ" + tail[3:]
+    return form
+
+
 def _cells(pairs: list[tuple], mood: str, voice: str) -> list[ConjugationCell]:
     return [
         ConjugationCell(
@@ -756,5 +765,9 @@ def conjugate(letters: str, root_type: RootType, baab: Baab) -> ConjugationParad
 
     # الأمر
     p.cells += _cells(c.imperative(), "أمر", "معلوم")
+
+    if letters[2] == "ن":
+        for cell in p.cells:
+            cell.form = merge_nun(cell.form)
 
     return p

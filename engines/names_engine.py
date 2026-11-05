@@ -23,6 +23,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 from core.types import RootType, Baab
 from core.support import check_supported
 from engines.derivation_engine import _gen_ism_faail_I, _gen_ism_mafuul_I, _apply_wazn
+from engines.rubai_engine import check_rubai, derive_rubai
 
 
 class Transitivity(str, Enum):
@@ -52,7 +53,8 @@ HARF_PRONOUN = {
 }
 
 # أوزان لا تكون إلا لازمة (حكم قطعي): انْفَعَلَ، اِفْعَلَّ
-ALWAYS_LAZIM_WAZN = {"VII": "انْفَعَلَ", "IX": "اِفْعَلَّ"}
+ALWAYS_LAZIM_WAZN = {"VII": "انْفَعَلَ", "IX": "اِفْعَلَّ",
+                     "Q2": "تَفَعْلَلَ", "Q3": "اِفْعَنْلَلَ", "Q4": "اِفْعَلَلَّ"}   # مزيد الرباعي لازم
 
 
 @dataclass(frozen=True)
@@ -97,8 +99,11 @@ def derive_names(letters: str, root_type: RootType, wazn: str = "I",
                  transitivity=None, harf: Optional[str] = None,
                  baab: Optional[Baab] = None) -> Names:
     """اسما الفاعل والمفعول لفعلٍ واحد بشرط تعدّيه. يرفع خطأً صريحاً لما لا يُقاس."""
-    # الحقل الخامس؛ المهموز السالم مفتوح في المجرّد وحده (ملاحظة ahdath ١، المالك 2026-11-05)
-    check_supported(letters, root_type, allow_sound_mahmuz=(wazn == "I"))
+    if wazn.startswith("Q"):                                     # الرباعي (rubai_engine)
+        check_rubai(letters, wazn)
+    else:
+        # الحقل الخامس؛ المهموز السالم مفتوح في المجرّد وحده (ملاحظة ahdath ١، المالك 2026-11-05)
+        check_supported(letters, root_type, allow_sound_mahmuz=(wazn == "I"))
     letters = letters.translate(_SEATS)
     t = _transitivity(transitivity)
     if t is not Transitivity.LAZIM and harf:
@@ -111,12 +116,16 @@ def derive_names(letters: str, root_type: RootType, wazn: str = "I",
         if wazn == "I" and baab == Baab.FAU_YAF_U:
             raise TransitivityConflict(f"فَعُلَ لا يكون إلا لازماً: {letters} موسوم {t.value}")
 
-    r1, r2, r3 = letters
-    if wazn == "I" and "ء" in letters:
-        verb, (faail, mafuul) = None, _mahmuz_names_I(r1, r2, r3)
+    if wazn.startswith("Q"):
+        f = derive_rubai(letters, wazn)
+        verb, faail, mafuul = f["verb"], f["ism_faail"], f["ism_mafuul"]
+    elif wazn == "I" and "ء" in letters:
+        verb, (faail, mafuul) = None, _mahmuz_names_I(*letters)
     elif wazn == "I":
+        r1, r2, r3 = letters
         verb, faail, mafuul = None, _gen_ism_faail_I(r1, r2, r3, root_type), _gen_ism_mafuul_I(r1, r2, r3, root_type)
     else:
+        r1, r2, r3 = letters
         f = _apply_wazn(wazn, r1, r2, r3, root_type)           # يرفع لمفتاح وزن مجهول
         verb, faail, mafuul = f["verb"], f["i_faail"], f["i_mafuul"]
 

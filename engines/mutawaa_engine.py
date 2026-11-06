@@ -9,7 +9,7 @@ mutawaa_engine.py — الحقل الثاني: صلة الفعل بمطاوعه�
   R1_QABILIYYAT  0.964 (gold_R1_MUTAWAA، qabiliyyat)
   LEX_FORMULA    56/59 = 0.949، ويلسون الأدنى 0.861 (عيّنة 60 ببذرة 20261105، قارئ مستقل من Claude)؛
                  الأخطاء الثلاثة (شدّة فَعَّلَ) أُصلحت في البناء.
-  R1W_WASIT      «X: مطاوع Yه» في الوسيط (ahdath): 0.898، ويلسون 0.795 (2026-11-06). الأصل يُقبل إذا وافق وزنُه وزنَ المطاوع؛
+  R1W_WASIT      «X: مطاوع Yه» في الوسيط (ahdath R1W v2، صيغة الأصل من شكل النصّ): 0.930، ويلسون 0.833 (2026-11-06؛ v1 كان 0.795). الأصل يُقبل إذا وافق وزنُه وزنَ المطاوع؛
                  وإلا base فارغ وbase_status=BASE_UNRESOLVED (يُعرف من base_of بنصّ الوسيط في evidence، ولا يظهر في mutawaa_of).
 كل مخرَج CANDIDATE حتى يحكم DR_HUSSEIN.
 """
@@ -17,7 +17,7 @@ from __future__ import annotations
 import csv, os, re, unicodedata
 from dataclasses import dataclass
 
-TABLE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "mutawaa_v2.tsv")   # v2: + R1W_WASIT
+TABLE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "mutawaa_v3.tsv")   # v3: R1W_WASIT من ahdath R1W v2 (v2 محفوظ)
 _SUKUN = re.compile("ْ")
 
 

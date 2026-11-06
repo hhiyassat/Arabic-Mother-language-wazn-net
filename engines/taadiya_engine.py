@@ -15,7 +15,8 @@ import csv, os, unicodedata
 from dataclasses import dataclass
 
 AHDATH = os.path.expanduser("~/arabic-net/Arabic-Mother-language-net/ahdath")
-ROUTE_FILES = {"T": "taadiya_T_pool.tsv", "T_JAL": "taadiya_T_JAL.tsv"}
+ROUTE_FILES = {"T": "taadiya_T_pool.tsv", "T_JAL": "taadiya_T_JAL.tsv",
+               "T_TAD": "taadiya_T_TAD.tsv"}   # T_TAD (فعّل بنصّ جعله/صيّره) محجوب: 18/28، ويلسون 0.458
 ACCEPTED_ROUTES: dict = {"T_JAL": "25/25 wilson 0.867 (ahdath، نصّ الوسيط «جعله <اللازم>»، 2026-11-06)"}
 
 

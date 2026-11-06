@@ -17,7 +17,7 @@ from __future__ import annotations
 import csv, os, re, unicodedata
 from dataclasses import dataclass
 
-TABLE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "mutawaa_v3.tsv")   # v3: R1W_WASIT من ahdath R1W v2 (v2 محفوظ)
+TABLE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "mutawaa_v4.tsv")   # v4: تشكيل v3 من حدث HFN المربوط (v3 محفوظ)
 _SUKUN = re.compile("ْ")
 
 

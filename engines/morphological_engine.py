@@ -9,7 +9,7 @@ from typing import Optional
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 from core.types import RootType, Baab
-from core.support import check_supported
+from core.support import check_supported, rasm_wasl, ibtida
 
 
 # ══════════════════════════════════════════════════════════════════════
@@ -26,6 +26,7 @@ class ConjugationCell:
     voice:   str   # معلوم / مجهول
     mood:    str   # ماضٍ / مضارع مرفوع / منصوب / مجزوم / أمر
     rule:    str = ""   # القاعدة الصوتية المطبَّقة
+    ibtida:  str = ""   # حركة البدء بهمزة الوصل (ِ أو ُ) — الصورة نفسها ترسمها ٱ برسم المصحف (حكم المالك 2026-11-07)
 
 
 @dataclass
@@ -750,11 +751,20 @@ def merge_nun(form: str) -> str:
     return form
 
 
+def _rasm(f):
+    """كلّ وجهٍ من وجوه الخلية (C5 «/») يُرسم بهمزة الوصل ٱ."""
+    return "/".join(rasm_wasl(x) for x in f.split("/")) if isinstance(f, str) else f
+
+
+def _ibtida(f):
+    return ibtida(f.split("/")[0]) if isinstance(f, str) else ""
+
+
 def _cells(pairs: list[tuple], mood: str, voice: str) -> list[ConjugationCell]:
     return [
         ConjugationCell(
-            form=f, person=pgn[0], number=pgn[1], gender=pgn[2],
-            voice=voice, mood=mood
+            form=_rasm(f), person=pgn[0], number=pgn[1], gender=pgn[2],
+            voice=voice, mood=mood, ibtida=_ibtida(f)
         )
         for f, pgn in pairs
     ]

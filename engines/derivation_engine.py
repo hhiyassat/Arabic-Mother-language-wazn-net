@@ -9,7 +9,7 @@ from typing import Optional
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 from core.types import RootType, Baab
-from core.support import check_supported
+from core.support import check_supported, rasm_wasl
 
 # حركات مختصرة
 F  = "َ"   # فتحة
@@ -294,6 +294,12 @@ def _ilal_mazid(forms: dict, wazn, r1, r2, r3, root_type) -> dict:
 # ══════════════════════════════════════════════════════════════════════
 
 def _apply_wazn(wazn: str, r1: str, r2: str, r3: str, root_type: RootType) -> dict:
+    """_apply_wazn_raw بهمزة الوصل ٱ برسم المصحف (حكم المالك 2026-11-07)."""
+    return {k: ("/".join(rasm_wasl(x) for x in v.split("/")) if isinstance(v, str) else v)
+            for k, v in _apply_wazn_raw(wazn, r1, r2, r3, root_type).items()}
+
+
+def _apply_wazn_raw(wazn: str, r1: str, r2: str, r3: str, root_type: RootType) -> dict:
     """
     يُولِّد: فعل الوزن المزيد + مصدره القياسي + اسم فاعله + اسم مفعوله.
     يطبّق الإعلال الأساسي للأنواع الأربعة: مثال واوي / أجوف / ناقص.

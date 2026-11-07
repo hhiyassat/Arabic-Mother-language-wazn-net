@@ -6,11 +6,11 @@ from engines.mutawaa_engine import mutawaa_of, base_of, NoSamaa, TABLE
 
 
 @pytest.mark.parametrize("base,mut,athar", [
-    ("كَسَرَ", "انْكَسَرَ", "انْكِسَار"),
+    ("كَسَرَ", "ٱنْكَسَرَ", "ٱنْكِسَار"),
     ("حَرَّكَ", "تَحَرَّكَ", "تَحَرُّك"),
-    ("رَزَقَ", "ارْتَزَقَ", "ارْتِزَاق"),
+    ("رَزَقَ", "ٱرْتَزَقَ", "ٱرْتِزَاق"),
     ("أَفْرَحَ", "فَرِحَ", "فَرَح"),
-    ("عَطَفَ", "انْعَطَفَ", "انْعِطَاف"),
+    ("عَطَفَ", "ٱنْعَطَفَ", "ٱنْعِطَاف"),
 ])
 def test_known_pairs(base, mut, athar):
     got = {(m.mutawaa, m.athar) for m in mutawaa_of(base)}
@@ -22,9 +22,9 @@ def test_sukun_optional_in_lookup():
     assert mutawaa_of("كَسَرَ") == mutawaa_of("كَسَرَ ")
 
 
-@pytest.mark.parametrize("verb", ["اكْتَسَبَ", "كَتَبَ", "غير_فعل"])
+@pytest.mark.parametrize("verb", ["ٱكْتَسَبَ", "كَتَبَ", "غير_فعل"])
 def test_not_heard_is_rejected(verb):
-    """ليس كل افتعل مطاوعاً: اكْتَسَبَ لا مطاوَع له في الجدول، فيُرفض ولا يُخمَّن."""
+    """ليس كل افتعل مطاوعاً: ٱكْتَسَبَ لا مطاوَع له في الجدول، فيُرفض ولا يُخمَّن."""
     with pytest.raises(NoSamaa):
         base_of(verb) if verb.startswith("ا") else mutawaa_of(verb)
 

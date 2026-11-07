@@ -15,7 +15,7 @@ from __future__ import annotations
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 from core.types import RootType, Baab
-from core.support import Unsupported, HAMZA
+from core.support import Unsupported, HAMZA, rasm_wasl
 from engines.morphological_engine import (ConjugationParadigm, _cells, PAST_ACT_SFX, PRES_PREFIX,
                                           PRES_MARFUU, PRES_MANSUB, PRES_MAJZUM, IMP_SFX, F, D, K, S, SH, A,
                                           merge_nun)
@@ -138,7 +138,11 @@ def conjugate_rubai(letters: str, wazn: str = "Q1") -> ConjugationParadigm:
 
 
 def derive_rubai(letters: str, wazn: str = "Q1") -> dict:
-    """الفعل، والمصدر (بدائل بـ /)، واسم الفاعل، واسم المفعول — قياسية كلها."""
+    """الفعل، والمصدر (بدائل بـ /)، واسم الفاعل، واسم المفعول — قياسية كلها. همزة الوصل ٱ (حكم المالك 2026-11-07)."""
+    return {k: "/".join(rasm_wasl(x) for x in v.split("/")) for k, v in _derive_rubai_raw(letters, wazn).items()}
+
+
+def _derive_rubai_raw(letters: str, wazn: str = "Q1") -> dict:
     check_rubai(letters, wazn)
     a, b, c, d = letters
     if wazn == "Q1":

@@ -13,6 +13,7 @@ taadiya_engine.py — الحقل الثالث: صلة التعدية (لازم �
 from __future__ import annotations
 import csv, os, unicodedata
 from dataclasses import dataclass
+from core.support import rasm_wasl
 
 AHDATH = os.path.expanduser("~/arabic-net/Arabic-Mother-language-net/ahdath")
 ROUTE_FILES = {"T": "taadiya_T_pool.tsv", "T_JAL": "taadiya_T_JAL.tsv",
@@ -42,7 +43,7 @@ class Taadiya:
 
 
 def _k(v):
-    return unicodedata.normalize("NFC", v or "").replace("ْ", "").strip()
+    return unicodedata.normalize("NFC", v or "").replace("ْ", "").strip().replace("ٱ", "ا")
 
 
 def _rows(route):
@@ -64,7 +65,7 @@ def taadiya_of(lazim: str, routes=None) -> list[Taadiya]:
             continue
         for r in _rows(route):
             if _k(r.get("base")) == _k(lazim):
-                out.append(Taadiya(r["base"], r["verb"], r["form"], r.get("sifa", ""), r.get("sifa_kind", ""),
+                out.append(Taadiya(rasm_wasl(r["base"]), rasm_wasl(r["verb"]), r["form"], r.get("sifa", ""), r.get("sifa_kind", ""),
                                    r.get("maful", ""), route, ACCEPTED_ROUTES[route]))
     if not out:
         raise NoSamaa(f"لا زوج تعدية مسموعاً للفعل {lazim!r} في {sorted(ACCEPTED_ROUTES)}")

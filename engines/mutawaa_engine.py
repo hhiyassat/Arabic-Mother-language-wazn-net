@@ -16,6 +16,7 @@ mutawaa_engine.py — الحقل الثاني: صلة الفعل بمطاوعه�
 from __future__ import annotations
 import csv, os, re, unicodedata
 from dataclasses import dataclass
+from core.support import rasm_wasl
 
 TABLE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "mutawaa_v4.tsv")   # v4: تشكيل v3 من حدث HFN المربوط (v3 محفوظ)
 _SUKUN = re.compile("ْ")
@@ -42,7 +43,7 @@ class Mutawaa:
 
 def _key(verb: str) -> str:
     """مفتاح المطابقة: NFC، والسكون اختياري (C2)، ورسم الهمزة على حاله."""
-    return _SUKUN.sub("", unicodedata.normalize("NFC", verb.strip()))
+    return _SUKUN.sub("", unicodedata.normalize("NFC", verb.strip())).replace("ٱ", "ا")   # همزة الوصل: ٱ = ا للمطابقة
 
 
 _by_base: dict = {}
@@ -53,7 +54,7 @@ def _load():
     if _by_base:
         return
     for r in csv.DictReader(open(TABLE, encoding="utf-8"), delimiter="\t"):
-        m = Mutawaa(r["root"], r["base"], r["base_form"], r["mutawaa"], r["mutawaa_form"], r["athar"],
+        m = Mutawaa(r["root"], rasm_wasl(r["base"]), r["base_form"], rasm_wasl(r["mutawaa"]), r["mutawaa_form"], rasm_wasl(r["athar"]),   # ٱ برسم المصحف (حكم المالك 2026-11-07)؛ الجدول على حاله
                     r["route"], int(r["n_lex"] or 0), r["lexicons"], r["evidence"], r["rank"])
         if m.base:
             _by_base.setdefault(_key(m.base), []).append(m)

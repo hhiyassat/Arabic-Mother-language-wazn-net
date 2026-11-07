@@ -3,6 +3,9 @@ support.py — الحقل الخامس: الرفض الصريح (fail-closed) ل
 ما لا مُصرِّف له يُرفض بخطأ صريح، لا يُعامَل بصمت كالصحيح ولا يُخمَّن.
 خطة الحقول الخمسة، المالك 2026-11-05. CANDIDATE.
 """
+import re
+import unicodedata
+
 from core.types import RootType
 
 HAMZA = set("ءأإؤئآ")
@@ -32,3 +35,21 @@ def check_supported(letters: str, root_type: RootType, allow_sound_mahmuz: bool 
         # رسم الهمزة (أَخَذَ لا ءَخَذَ، آخِذ، يَسْأَلُ، قَارِئ) وتخفيفها (يَرَى، خُذْ) غير مبنيَّين.
         # يشمل المهموز المعتلّ (رَأَى) والمزيد المهموز (أَطْفَأَ).
         raise Unsupported("MAHMUZ", f"المهموز غير مدعوم (رسم الهمزة وتخفيفها غير مبنيَّين): {letters}")
+
+
+# ── همزة الوصل برسم المصحف (حكم المالك 2026-11-07: «نستخدم ٱ كما في المصحف … غيّره wazn-net») ──
+# ألف أوّل الكلمة (مجرّدة أو بحركة البدء) يليها حرفٌ ساكن أو مشدّد ← ٱ. حركة البدء لا تُرسم؛ تُحفظ في ibtida() عند الحاجة.
+_WASL = re.compile("(?:^|(?<=[\\s/]))ا([\u064f\u0650]?)(?=[\u0621-\u064a](?:\u0652|[\u064b-\u0650]?\u0651))")
+
+
+def rasm_wasl(s):
+    """اِسْتَفْعَلَ ← ٱسْتَفْعَلَ، اُكْتُبْ ← ٱكْتُبْ، اتَّبَعَ ← ٱتَّبَعَ. غير النصّ يُعاد كما هو."""
+    if not isinstance(s, str):
+        return s
+    return _WASL.sub("ٱ", unicodedata.normalize("NFC", s))
+
+
+def ibtida(s):
+    """حركة البدء بهمزة الوصل كما كتبها المحرك قبل الرسم ('ِ' أو 'ُ')، أو '' إن لم تكن."""
+    m = _WASL.search(unicodedata.normalize("NFC", s or ""))
+    return m.group(1) if m else ""

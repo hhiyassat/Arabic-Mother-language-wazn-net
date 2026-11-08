@@ -18,7 +18,7 @@ import csv, os, re, unicodedata
 from dataclasses import dataclass
 from core.support import rasm_wasl
 
-TABLE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "mutawaa_v5.tsv")   # v5: v4 + 7 أزواج تفعلل على HFN v45 قرأها قارئان (v4 محفوظ)
+TABLE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "mutawaa_v6.tsv")   # v6: v5 والمطاوع السبعة من أحداث HFN v46 (v5 محفوظ)
 _SUKUN = re.compile("ْ")
 
 

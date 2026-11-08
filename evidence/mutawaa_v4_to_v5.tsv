@@ -1,0 +1,40 @@
+root	base	mutawaa	change	v4	on_v45
+جعب	جَعَبَ	انْجَعَبَ	PROVENANCE_ONLY:route,merged_v3_line	R1_QABILIYYAT | 	R1_QABILIYYAT+R1W_WASIT | 311
+جفل	جَفَلَ	انْجَفَلَ	PROVENANCE_ONLY:merged_v3_line	312	314
+جلب	جَلَبَ	انْجَلَبَ	PROVENANCE_ONLY:merged_v3_line	314	316
+حطم	حَطَمَ	انْحَطَمَ	PROVENANCE_ONLY:merged_v3_line	324	326
+حفظ	أَحْفَظَ	احْتَفَظَ	PROVENANCE_ONLY:route,merged_v3_line	LEX_FORMULA | 	LEX_FORMULA+R1W_WASIT | 328
+درج	دَرَجَ	انْدَرَجَ	PROVENANCE_ONLY:route,merged_v3_line	R1_QABILIYYAT | 	R1_QABILIYYAT+R1W_WASIT | 348
+درس	دَرَسَ	انْدَرَسَ	PROVENANCE_ONLY:merged_v3_line	343	351
+دفع	دَفَعَ	انْدَفَعَ	PROVENANCE_ONLY:route,merged_v3_line	R1_QABILIYYAT | 	R1_QABILIYYAT+R1W_WASIT | 355
+دفق	دَفَقَ	انْدَفَقَ	PROVENANCE_ONLY:route,merged_v3_line	R1_QABILIYYAT | 	R1_QABILIYYAT+R1W_WASIT | 356
+زعج	أَزْعَجَ	زَعَجَ	PROVENANCE_ONLY:athar,athar_src	 | MISSING	زَعَج | HFN_MASDAR
+سلق	سَلَقَ	انْسَلَقَ	PROVENANCE_ONLY:route,merged_v3_line	R1_QABILIYYAT | 	R1_QABILIYYAT+R1W_WASIT | 365
+شرح	شَرَحَ	انْشَرَحَ	PROVENANCE_ONLY:merged_v3_line	357	368
+شمر	شَمَرَ	انْشَمَرَ	PROVENANCE_ONLY:route,merged_v3_line	R1_QABILIYYAT | 	R1_QABILIYYAT+R1W_WASIT | 371
+صفق	صَفَقَ	انْصَفَقَ	PROVENANCE_ONLY:route,merged_v3_line	R1_QABILIYYAT+LEX_FORMULA | 	R1_QABILIYYAT+LEX_FORMULA+R1W_WASIT | 376
+ضرح	ضَرَحَ	انْضَرَحَ	PROVENANCE_ONLY:route,base_event,merged_v3_line	R1_QABILIYYAT |  | 	R1_QABILIYYAT+R1W_WASIT | HFN-E-84bd24d659 | 384
+عتل	عَتَلَ	انْعَتَلَ	PROVENANCE_ONLY:route,merged_v3_line	R1_QABILIYYAT | 	R1_QABILIYYAT+R1W_WASIT | 401
+عقد	عَقَدَ	انْعَقَدَ	PROVENANCE_ONLY:route,merged_v3_line	R1_QABILIYYAT | 	R1_QABILIYYAT+R1W_WASIT | 405
+عمد	عَمَدَ	انْعَمَدَ	PROVENANCE_ONLY:route,merged_v3_line	R1_QABILIYYAT | 	R1_QABILIYYAT+R1W_WASIT | 406
+فتح	فَتَحَ	انْفَتَحَ	PROVENANCE_ONLY:merged_v3_line	393	411
+فتل	فَتَلَ	انْفَتَلَ	PROVENANCE_ONLY:route,merged_v3_line	R1_QABILIYYAT | 	R1_QABILIYYAT+R1W_WASIT | 412
+فجر	فَجَرَ	انْفَجَرَ	PROVENANCE_ONLY:route,merged_v3_line	R1_QABILIYYAT | 	R1_QABILIYYAT+R1W_WASIT | 413
+قلب	قَلَبَ	انْقَلَبَ	PROVENANCE_ONLY:merged_v3_line	398	418
+قلع	قَلَعَ	انْقَلَعَ	PROVENANCE_ONLY:route,merged_v3_line	R1_QABILIYYAT | 	R1_QABILIYYAT+R1W_WASIT | 419
+كبت	كَبَتَ	انْكَبَتَ	PROVENANCE_ONLY:merged_v3_line	402	423
+كسر	كَسَرَ	انْكَسَرَ	PROVENANCE_ONLY:route,merged_v3_line	R1_QABILIYYAT+LEX_FORMULA | 	R1_QABILIYYAT+LEX_FORMULA+R1W_WASIT | 424
+كشط	كَشَطَ	انْكَشَطَ	PROVENANCE_ONLY:route,merged_v3_line	R1_QABILIYYAT | 	R1_QABILIYYAT+R1W_WASIT | 425
+هشم	هَشَمَ	انْهَشَمَ	PROVENANCE_ONLY:merged_v3_line	409	433
+بلبل	بَلْبَلَ	تبَلْبَلَ	NEW_ON_v45:ADDED_READ2		R1W_WASIT
+جلع	جَلَعَ	انْجَلَعَ	PROVENANCE_ONLY:mutawaa_v3_text,vowel_src	 | 	انْجَلَعَ | mutawaa=HFN:HFN-E-05d281e701
+خضخض	خَضْخَضَ	تَخَضْخَضَ	NEW_ON_v45:ADDED_READ2		R1W_WASIT
+خلخل	خَلْخَلَ	تَخَلْخَلَ	NEW_ON_v45:ADDED_READ2		R1W_WASIT
+دخدخ	دَخْدَخَ	تَدخْدَخَ	NEW_ON_v45:ADDED_READ2		R1W_WASIT
+دردر	دَرْدَرَ	تَدَرْدَرَ	NEW_ON_v45:ADDED_READ2		R1W_WASIT
+طحطح	طَحْطَحَ	تَطَحْطَحَ	NEW_ON_v45:ADDED_READ2		R1W_WASIT
+غمل	غَمَلَ	انْغَمَلَ	PROVENANCE_ONLY:mutawaa_v3_text,vowel_src	 | 	انْغَمَلَ | mutawaa=HFN:HFN-E-e203370602
+غيظ	غَاظَ	اغْتَاظَ	PROVENANCE_ONLY:mutawaa_v3_text,vowel_src	 | 	اغْتَاظَ | mutawaa=HFN:HFN-E-99d3b4a7a2
+فعل	فَعَلَ	انْفَعَلَ	PROVENANCE_ONLY:mutawaa_v3_text,vowel_src	 | 	انْفَعَلَ | mutawaa=HFN:HFN-E-b6c5c29bf2
+نشنش	نَشْنَشَ	تَنَشْنَشَ	NEW_ON_v45:ADDED_READ2		R1W_WASIT
+نصب	نَصَبَ	انْتَصَبَ	PROVENANCE_ONLY:mutawaa_v3_text,vowel_src	 | 	انْتَصَبَ | mutawaa=HFN:HFN-E-8df1578a07

@@ -1,0 +1,12 @@
+rows	290
+scope_layer_agree	285
+scope_layer_wilson	0.9603
+scope_layer_published	YES
+conditions_layer_agree	193
+conditions_layer_wilson	0.6094
+conditions_layer_published	NO
+info_all_fields_agree	191
+info_all_fields_wilson	0.6023
+info_conditions_agree_without_VOCALIZATION_NOTE	268
+info_conditions_wilson_without_VOCALIZATION_NOTE	0.8878
+gate	0.78

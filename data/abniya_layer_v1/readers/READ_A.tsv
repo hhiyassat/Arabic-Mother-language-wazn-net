@@ -1,0 +1,291 @@
+id	scope	in_fil	conditions	inherit_from	quote	note
+S003	NOT_ABOUT_SCOPE	UNSTATED	PAGE_SPAN	—	—	—
+S008	NOT_ABOUT_SCOPE	UNSTATED	PAGE_SPAN	—	—	—
+S009	ISM_SIFA	UNSTATED	FEW_WORDS;RARE_SIFA	—	«قومٌ عدىً»	adjective use only in the set expression quoted
+S010	ISM_SIFA	UNSTATED	FEW_WORDS;RARE_ISM	—	«قليل، لا نعلم في الأسماء والصفات غيره»	rare; one word known in nouns and adjectives
+S011	ISM_SIFA	YES	NONE	—	«ليس في الأسماء والصفات فعل ولا يكون إلا في الفعل»	denied in nouns and adjectives; occurs only in verbs
+S012	KALAM_ALL	UNSTATED	NONE	—	«وليس في الكلام فعل»	—
+S013	NOT_ABOUT_SCOPE	UNSTATED	OTHER	—	«باب ما لحقته الزوائد من بنات الثلاثة من غير الفعل»	chapter heading opening the augmented-triliteral section (من غير الفعل)
+S014	ISM_ONLY	UNSTATED	NONE	—	«ولا نعلمه جاء صفة»	not known as adjective
+S015	ISM_ONLY	UNSTATED	NONE	—	«ولا نعلمه جاء صفة»	not known as adjective
+S016	ISM_ONLY	UNSTATED	RARE_ISM	—	«وهو قليل… ولا نعلمه جاء صفة»	rare; not known as adjective
+S017	ISM_ONLY	UNSTATED	RARE_ISM	—	«وهو قليل… ولا نعلمه جاء صفة»	rare; not known as adjective
+S018	EXCEPT_JAM	UNSTATED	PLURAL_RELATED	—	«لا يكون في الأسماء والصفات أفعل إلا أن يكسر عليه الاسم للجمع»	denied in nouns and adjectives except as broken plural
+S019	ISM_SIFA	UNSTATED	NONE	—	«وليس في شيء من الأسماء والصفات أفعل»	denied in nouns and adjectives
+S020	KALAM_ALL	UNSTATED	NONE	—	«وليس في الكلام إفعل»	—
+S021	ISM_SIFA	UNSTATED	RARE_SIFA	—	«وهو في الصفة قليل»	rare as adjective
+S022	ISM_SIFA	UNSTATED	FEW_WORDS	—	«ولا نعلمه جاء اسماً ولا صفةً غير هذا»	no other noun or adjective known
+S024	NOT_ABOUT_SCOPE	UNSTATED	PAGE_SPAN	—	—	—
+S025	ISM_SIFA	UNSTATED	RARE_SIFA	—	«وهو في الصفة قليل»	rare as adjective
+S026	NOT_ABOUT_SCOPE	UNSTATED	OTHER	—	«إِزْمَوْلَةً»	cites a witness word only
+S027	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	«وليس في الكلام أفعيل، ولا أفعول، ولا أفعال، ولا أفعيل، ولا أفعال إلا أن تكسر عليه اسماً للجمع»	first item of list; the plural exception is assigned to S029 in the packet
+S028	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S027	—	—
+S029	EXCEPT_JAM	UNSTATED	PLURAL_RELATED;SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S027	—	remark marks this item as the one excepted for plural
+S030	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S027	—	—
+S031	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S027	—	last item; the plural exception textually follows it but the packet assigns it to S029
+S032	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM;RARE_SIFA	—	«وهو قليل»	bare rarity; class اسم+صفة
+S033	NOT_ABOUT_SCOPE	UNSTATED	FEW_WORDS	—	«ولا نعلم غيرهما»	only two words known
+S034	NOT_ABOUT_SCOPE	UNSTATED	FEW_WORDS	—	«ولا نعلم إلا أجفلى»	only أجفلى known
+S035	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S037	NOT_ABOUT_SCOPE	UNSTATED	FEW_WORDS	—	—	one example (not Sibawayh wording)
+S038	SIFA_ONLY	UNSTATED	NONE	—	«في الوصف لا غير»	—
+S040	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM;RARE_SIFA	—	«وهو قليل»	bare rarity; class اسم+صفة
+S041	NOT_ABOUT_SCOPE	UNSTATED	RARE_SIFA	—	«وهو قليل»	bare rarity; class صفة
+S042	NOT_ABOUT_SCOPE	UNSTATED	FEW_WORDS	—	«لا نعلمه جاء إلا في الإربعاء»	only الإربعاء known
+S043	NOT_ABOUT_SCOPE	UNSTATED	OTHER	—	—	marked singular, in contrast with the plural row S044
+S044	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	«وأما الأفعلاء مكسراً… وهو كثير»	frequent as broken plural
+S045	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	«ولا نعلم في الكلام إفعلان، ولا أفعلان»	—
+S046	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S045	—	—
+S048	ISM_ONLY	UNSTATED	NONE	—	«ولا نعلمه صفة»	not known as adjective
+S052	ISM_ONLY	UNSTATED	NONE	—	«ولا نعلمه جاء صفة»	not known as adjective
+S053	ISM_ONLY	UNSTATED	NONE	—	«ولا نعلمه جاء صفة»	not known as adjective
+S054	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S055	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	«وليس في الكلام فاعل، ولا فاعيل، ولا فاعول، ولا فاعلاء»	—
+S056	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S055	—	—
+S057	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S055	—	—
+S058	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S055	—	—
+S059	SIFA_ONLY	UNSTATED	NONE	—	«ولا نعلمه جاء اسماً»	not known as noun
+S060	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S061	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S062	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S063	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S064	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S065	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S066	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S067	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S068	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S069	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S070	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S071	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S072	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S073	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S074	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S075	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S076	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S077	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S078	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S079	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S080	JAM_ONLY	UNSTATED	OTHER;PLURAL_RELATED	—	«وهذا قليل»	rare even as plural
+S081	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S082	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S083	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	—	PLURAL_ONLY tag
+S084	JAM_ONLY	UNSTATED	PLURAL_RELATED	—	«لا يكون إلا للجمع»	—
+S086	KALAM_ALL	UNSTATED	FEW_WORDS	—	«ولا نعلم في الكلام غيره»	affirms one word only in all speech
+S088	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S089	NOT_ABOUT_SCOPE	UNSTATED	OTHER	—	—	marked singular (not plural)
+S090	ISM_ONLY	UNSTATED	NONE	—	«ولم يجئ صفة»	not found as adjective
+S093	EXCEPT_JAM	UNSTATED	PLURAL_RELATED;VOCALIZATION_NOTE	—	«وليس في الكلام شيء على فعالى ولا فعالى إلا للجمع»	denied in all speech except as plural
+S094	EXCEPT_JAM	UNSTATED	PLURAL_RELATED;SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S093	—	—
+S095	ISM_ONLY	UNSTATED	FEM_MARK_REQUIRED	—	«ولا نعلمه جاء وصفاً إلا بالهاء»	adjective use only with ة
+S097	TANITH_DEPENDENT	UNSTATED	FEM_MARK_REQUIRED	—	«ولا يكون فعلى والألف لغير التأنيث»	denied when the alif is not feminine
+S099	ISM_ONLY	UNSTATED	FEM_MARK_REQUIRED	—	«ولم يجئ صفة إلا بالهاء»	adjective use only with ة
+S102	KALAM_ALL	UNSTATED	RARE_ISM	—	«وهو قليل في الكلام»	rare in all speech; class اسم
+S103	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	«ولا نعلم في الكلام فعلى، ولا فعلى، ولا فعلى»	—
+S104	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S103	—	—
+S105	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S103	—	—
+S107	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S109	ISM_ONLY	UNSTATED	NONE	—	«ولا نعلمه جاء وصفاً»	not known as adjective
+S112	ISM_ONLY	UNSTATED	NONE	—	—	not known as adjective; wording without «»
+S113	ISM_ONLY	UNSTATED	NONE	—	—	not known as adjective; wording without «»
+S114	TANITH_DEPENDENT	UNSTATED	FEM_MARK_REQUIRED;VOCALIZATION_NOTE	—	—	only with feminine ending; wording without «»
+S115	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S117	ISM_ONLY	UNSTATED	OTHER	—	—	not known as adjective; possible duplicate flagged
+S118	OTHER	UNSTATED	PLURAL_RELATED	—	—	frequent as broken plural; singular use not stated
+S119	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S120	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S121	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S126	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S127	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S128	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	—	wording without «»
+S129	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S128	—	continues the sentence «ولا ...»
+S130	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S134	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S135	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	—	wording without «»
+S136	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S135	—	continues the sentence
+S137	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	pattern reading uncertain (يفعال printed)
+S138	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S142	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S143	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S144	NOT_ABOUT_SCOPE	UNSTATED	OTHER	—	—	possible duplicate of فُعَالَى
+S145	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	—	wording without «»
+S146	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S145	—	continues the sentence
+S147	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S148	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S149	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S150	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S151	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S152	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S153	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	two readings دِفِقَّى/دِفَقَّى
+S154	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S155	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S158	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	—	wording without «»
+S159	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S158	—	continues the sentence
+S160	NOT_ABOUT_SCOPE	UNSTATED	OTHER;VOCALIZATION_NOTE	—	—	possible duplicate flagged
+S163	OTHER	UNSTATED	OTHER;VOCALIZATION_NOTE	—	—	denied only in sound (non-weak) roots; الكلام not named
+S166	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	—	wording without «»
+S167	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S169	ISM_ONLY	UNSTATED	OTHER	—	—	examples are proper nouns (معارف)
+S170	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM;RARE_SIFA	—	—	bare rarity; class اسم+صفة
+S171	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S173	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	—	wording without «»
+S174	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S173	—	continues the sentence
+S175	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S173	—	continues the sentence
+S177	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S178	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S179	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S180	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S181	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S182	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S183	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S184	OTHER	UNSTATED	NONE	—	—	occurs only as masdar
+S187	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S188	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S189	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S190	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S193	OTHER	UNSTATED	VOCALIZATION_NOTE	—	—	denial with no stated domain (الكلام not named)
+S196	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	—	wording without «»
+S197	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S196	—	continues the sentence
+S198	OTHER	UNSTATED	OTHER;VOCALIZATION_NOTE	—	—	possible duplicate restating a denial on ص265; no scope wording
+S199	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM;RARE_SIFA	—	—	bare rarity; class اسم+صفة
+S201	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	—	wording without «»
+S202	KALAM_ALL	UNSTATED	OTHER;SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S201	—	adds restriction: in non-weak roots only
+S204	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S207	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	—	wording without «»
+S208	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM;RARE_SIFA	—	—	bare rarity; class اسم+صفة
+S209	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S211	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S212	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S214	KALAM_ALL	UNSTATED	FEM_MARK_REQUIRED;VOCALIZATION_NOTE	—	—	denied in all speech except with ة; wording without «»
+S215	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S214	—	continues the sentence; whether إلا بالهاء applies is unclear
+S216	KALAM_ALL	UNSTATED	FEM_MARK_REQUIRED;SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S214	—	continues the sentence with its own إلا بالهاء
+S218	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	—	wording without «»
+S219	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM;RARE_SIFA	—	—	bare rarity; class اسم+صفة
+S221	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	—	wording without «»
+S223	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	—	wording without «»
+S224	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S223	—	continues the sentence
+S225	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S223	—	continues the sentence
+S227	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	—	wording without «»
+S228	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S227	—	continues the sentence
+S230	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	—	wording without «»
+S231	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S230	—	continues the sentence
+S232	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S230	—	continues the sentence
+S233	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S234	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S236	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S238	NOT_ABOUT_SCOPE	UNSTATED	RARE_SIFA	—	—	bare rarity; class صفة
+S240	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S244	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S245	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	—	wording without «»
+S246	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S245	—	continues the sentence
+S249	NOT_ABOUT_SCOPE	UNSTATED	RARE_SIFA	—	—	bare rarity; class صفة
+S250	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S253	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S254	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S255	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S256	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S258	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S261	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	—	bare rarity; class اسم
+S262	NOT_ABOUT_SCOPE	UNSTATED	DIALECT_OR_VARIANT;VOCALIZATION_NOTE	—	—	uncertain variant
+S263	NOT_ABOUT_SCOPE	UNSTATED	DIALECT_OR_VARIANT;VOCALIZATION_NOTE	—	—	uncertain variant
+S264	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S265	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S266	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S269	NOT_ABOUT_SCOPE	UNSTATED	OTHER	—	—	possible duplicate of تَفْعَلُوت
+S270	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	«ولا نعلم في الكلام تفعل ولا تفعل»	—
+S271	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S270	—	—
+S272	SIFA_ONLY	UNSTATED	NONE	—	«ولا نعلمه جاء اسما»	not known as noun
+S275	ISM_SIFA	UNSTATED	RARE_SIFA	—	«وهو في الصفة قليل»	rare as adjective
+S277	ISM_ONLY	UNSTATED	NONE	—	«ولا نعلمه صفة»	not known as adjective
+S279	KALAM_ALL	UNSTATED	FEM_MARK_REQUIRED	—	«ليس في الكلام مفعل بغير الهاء»	denied without ة
+S280	NOT_ABOUT_SCOPE	UNSTATED	OTHER;RARE_ISM	—	«غريب شاذ»	rare and anomalous (شاذ); class اسم
+S281	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	low confidence
+S284	OTHER	UNSTATED	VOCALIZATION_NOTE	—	«مفعل ولا شيء من هذا النحو»	fragment of a denial; domain not stated
+S285	NOT_ABOUT_SCOPE	UNSTATED	RARE_SIFA	—	«وهو قليل»	bare rarity; class صفة
+S287	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	«ليس في الكلام فوعل ولا فوعل»	—
+S288	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S287	—	—
+S289	NOT_ABOUT_SCOPE	UNSTATED	RARE_SIFA	—	«وهو قليل»	bare rarity; class صفة
+S295	OTHER	UNSTATED	VOCALIZATION_NOTE	—	—	denial of two patterns; scope wording not given
+S296	OTHER	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S295	—	second of the two denied patterns; scope wording not given
+S297	OTHER	UNSTATED	OTHER;PLURAL_RELATED;RARE_ISM	—	«قليل… إلا أن يكون مصدراً أو جمعاً»	rare except as masdar or plural
+S299	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S301	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	low confidence
+S302	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S305	NOT_ABOUT_SCOPE	UNSTATED	DIALECT_OR_VARIANT	—	—	another reading
+S306	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	«ليس في الكلام فعول»	—
+S308	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	low confidence
+S312	NOT_ABOUT_SCOPE	UNSTATED	OTHER;VOCALIZATION_NOTE	—	—	order unverified
+S313	NOT_ABOUT_SCOPE	UNSTATED	OTHER;VOCALIZATION_NOTE	—	—	order unverified
+S314	NOT_ABOUT_SCOPE	UNSTATED	RARE_SIFA	—	«وهو قليل»	bare rarity; class صفة
+S315	OTHER	UNSTATED	VOCALIZATION_NOTE	—	—	denial of two patterns; scope wording not given
+S316	OTHER	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S315	—	second of the two denied patterns
+S317	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM;RARE_SIFA	—	«وهو قليل»	bare rarity; class اسم+صفة
+S324	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	low confidence
+S325	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S326	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S329	OTHER	UNSTATED	VOCALIZATION_NOTE	—	—	denial of two patterns; scope wording not given
+S330	OTHER	UNSTATED	OTHER;SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S329	«ولا نعلم أنه جاء… من بنات الثلاثة… سوى ما ذكرنا»	second denied pattern; plus closing statement that triliteral list is complete
+S331	NOT_ABOUT_SCOPE	UNSTATED	NONE	—	—	section label (bare quadriliteral)
+S332	NOT_ABOUT_SCOPE	UNSTATED	NONE	—	—	section label (bare quadriliteral)
+S333	NOT_ABOUT_SCOPE	UNSTATED	NONE	—	—	section label (bare quadriliteral)
+S334	NOT_ABOUT_SCOPE	UNSTATED	NONE	—	—	section label (bare quadriliteral)
+S335	NOT_ABOUT_SCOPE	UNSTATED	NONE	—	—	section label (bare quadriliteral)
+S336	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	«فليس في الكلام من بنات الأربعة على مثال فعللٍ ولا فعللٍ»	in all speech, within بنات الأربعة
+S337	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S336	—	—
+S339	OTHER	UNSTATED	VOCALIZATION_NOTE	—	«ولا نعلم في بنات الأربعة على مثال فعوللٍ ولا فعوللٍ»	denial within بنات الأربعة; الكلام not named
+S340	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S342	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM;RARE_SIFA	—	«وهو قليل»	bare rarity; class اسم+صفة
+S343	NOT_ABOUT_SCOPE	UNSTATED	FEW_WORDS	—	«ولا نعلم لهما نظيراً»	two words, no parallel known
+S347	OTHER	UNSTATED	VOCALIZATION_NOTE	—	«ولا نعلم في بنات الأربعة فعليولاً»	denial within بنات الأربعة; الكلام not named
+S348	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S351	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM;RARE_SIFA	—	«وهو قليل»	bare rarity; class اسم+صفة
+S352	SIFA_ONLY	UNSTATED	NONE	—	«ولا نعلمه جاء إلا صفةً»	—
+S354	OTHER	UNSTATED	VOCALIZATION_NOTE	—	«ولا نعلم في بنات الأربعة شيئاً على فعيللٍ»	denial within بنات الأربعة; الكلام not named
+S356	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S357	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	«ولا نعلم في الكلام فعليل»	—
+S358	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S359	NOT_ABOUT_SCOPE	UNSTATED	OTHER;VOCALIZATION_NOTE	—	—	possible duplicate flagged
+S360	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S361	KALAM_ALL	UNSTATED	VOCALIZATION_NOTE	—	«ولا نعلم في الكلام فنعليل ولا فعاليل»	—
+S362	KALAM_ALL	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S361	—	—
+S363	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S365	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S366	JAM_ONLY	UNSTATED	PLURAL_RELATED;VOCALIZATION_NOTE	—	—	plural-only tag marked uncertain
+S368	OTHER	UNSTATED	OTHER	—	«إلا المضاعف»	only in doubled (مضاعف) roots
+S371	NOT_ABOUT_SCOPE	UNSTATED	RARE_SIFA	—	«وهو قليل»	bare rarity; class صفة
+S372	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S374	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S375	NOT_ABOUT_SCOPE	UNSTATED	RARE_SIFA	—	«وهو قليل»	bare rarity; class صفة
+S376	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S377	OTHER	UNSTATED	VOCALIZATION_NOTE	—	«ولا نعلم مثال فعللاء ولا فعللال ولا فعليلال»	denial with no stated domain (الكلام not named)
+S378	OTHER	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S377	—	—
+S379	OTHER	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S377	—	—
+S381	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S382	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM;RARE_SIFA	—	«وهو قليل»	bare rarity; class اسم+صفة
+S384	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S385	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S386	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«وهو قليل»	bare rarity; class اسم
+S387	NOT_ABOUT_SCOPE	UNSTATED	OTHER;VOCALIZATION_NOTE	—	—	may duplicate #47
+S388	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S389	TANITH_DEPENDENT	UNSTATED	VOCALIZATION_NOTE	—	«ولا نعلم فعللاء ولا فعللاء والألف للتأنيث»	denied when the alif is feminine
+S390	TANITH_DEPENDENT	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S389	—	—
+S391	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM;RARE_SIFA	—	«وهو قليل»	bare rarity; class اسم+صفة
+S392	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S394	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM	—	«قليل»	bare rarity; class اسم
+S395	OTHER	UNSTATED	VOCALIZATION_NOTE	—	«ولا نعلم فعنلل ولا فعنلل»	denial with no stated domain (الكلام not named)
+S396	OTHER	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S395	—	—
+S397	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S398	NOT_ABOUT_SCOPE	UNSTATED	RARE_ISM;RARE_SIFA	—	«وهو قليل»	bare rarity; class اسم+صفة
+S400	NOT_ABOUT_SCOPE	UNSTATED	OTHER	—	«وهو قليل»	bare rarity; class unknown (?)
+S402	OTHER	UNSTATED	VOCALIZATION_NOTE	—	«ولا نعلم على مثال فعلٍّ»	denial with no stated domain (الكلام not named)
+S403	NOT_ABOUT_SCOPE	UNSTATED	VOCALIZATION_NOTE	—	—	—
+S406	OTHER	UNSTATED	VOCALIZATION_NOTE	—	«ولا نعلم على مثال فعللٍّ ولا فعللٍّ»	denial with no stated domain (الكلام not named)
+S407	OTHER	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S406	—	—
+S408	NOT_ABOUT_SCOPE	UNSTATED	NONE	—	—	section label (bare quinqueliteral)
+S409	NOT_ABOUT_SCOPE	UNSTATED	NONE	—	—	section label (bare quinqueliteral)
+S410	NOT_ABOUT_SCOPE	UNSTATED	NONE	—	—	section label (bare quinqueliteral)
+S411	NOT_ABOUT_SCOPE	UNSTATED	NONE	—	—	section label (bare quinqueliteral)
+S415	NOT_ABOUT_SCOPE	UNSTATED	RARE_SIFA	—	«وهو قليل»	bare rarity; class صفة
+S416	NOT_ABOUT_SCOPE	UNSTATED	RARE_SIFA	—	«وهو قليل»	bare rarity; class صفة
+S417	OTHER	UNSTATED	VOCALIZATION_NOTE	—	«ولا نعلم على مثال فعللٍ ولا فعللٍ ولا فعللٍ»	denial with no stated domain (الكلام not named)
+S418	OTHER	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S417	—	—
+S419	OTHER	UNSTATED	SAME_LIST_AS_PREV;VOCALIZATION_NOTE	S417	—	—

@@ -1,0 +1,910 @@
+id	ex_no	group	group_label	example_src	template	projected	projection_basis	radicals	root_K	hfn_root_id	bb_v21_row	ref_maqayis	projection_status	note	rank
+S001	1	1	اسم	صفر	فَعْلٌ	صَفْرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ف ر	صفر	HFN-R02879	4233	M02#ROOT_SOURCE_DISPLAY:2172	PROJECTED		CANDIDATE
+S001	2	1	اسم	فهد	فَعْلٌ	فَهْدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ه د	فهد	HFN-R03921	296	M02#ROOT_SOURCE_DISPLAY:2984	PROJECTED		CANDIDATE
+S001	3	1	اسم	كلب	فَعْلٌ	كَلْبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ل ب	كلب	HFN-R04375	680	M02#ROOT_SOURCE_DISPLAY:3332	PROJECTED		CANDIDATE
+S001	4	2	صفة	صعب	فَعْلٌ	صَعْبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ع ب	صعب	HFN-R02862	4221	M02#ROOT_SOURCE_DISPLAY:2159	PROJECTED		CANDIDATE
+S001	5	2	صفة	ضخم	فَعْلٌ	ضَخْمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض خ م	ضخم	HFN-R02999	4411	M02#ROOT_SOURCE_DISPLAY:2266	PROJECTED		CANDIDATE
+S001	6	2	صفة	خدل	فَعْلٌ	خَدْلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ د ل	خدل	HFN-R01282	204	M02#ROOT_SOURCE_DISPLAY:0956	PROJECTED		CANDIDATE
+S002	1	1	اسم	العكم	فِعْلٌ	العِكْمُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ك م	عكم	HFN-R03462	4578	M02#ROOT_SOURCE_DISPLAY:2619	PROJECTED	ال محذوفة	CANDIDATE
+S002	2	1	اسم	الجذع	فِعْلٌ	الجِذْعُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ذ ع	جذع	HFN-R00807	3536	M02#ROOT_SOURCE_DISPLAY:0569	PROJECTED	ال محذوفة	CANDIDATE
+S002	3	1	اسم	العذق	فِعْلٌ	العِذْقُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ذ ق	عذق	HFN-R03337	4699	M02#ROOT_SOURCE_DISPLAY:2510	PROJECTED	ال محذوفة	CANDIDATE
+S002	4	2	صفة	نقض	فِعْلٌ	نِقْضٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ق ض	نقض	HFN-R05273	1476	M02#ROOT_SOURCE_DISPLAY:4025	PROJECTED		CANDIDATE
+S002	5	2	صفة	جلف	فِعْلٌ	جِلْفٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ل ف	جلف	HFN-R00898	3601	M02#ROOT_SOURCE_DISPLAY:0640	PROJECTED		CANDIDATE
+S002	6	2	صفة	نضو	فِعْلٌ	نِضْوٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ض و	نضو	HFN-R05195	1402		PROJECTED		CANDIDATE
+S002	7	2	صفة	هرط	فِعْلٌ	هِرْطٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ر ط	هرط	HFN-R05444	1632	M02#ROOT_SOURCE_DISPLAY:4162	PROJECTED		CANDIDATE
+S002	8	2	صفة	صنع	فِعْلٌ	صِنْعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ن ع	صنع	HFN-R02923	4264	M02#ROOT_SOURCE_DISPLAY:2211	PROJECTED		CANDIDATE
+S003	1	1	اسم	البرد	فُعْلٌ	البُرْدُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ر د	برد	HFN-R00315	3222	M02#ROOT_SOURCE_DISPLAY:0223	PROJECTED	ال محذوفة	CANDIDATE
+S003	2	1	اسم	القرط … الحرض	فُعْلٌ								PHRASE	أكثر من كلمة	CANDIDATE
+S003	3	2	صفة	العبر (صفة في ص243)	فُعْلٌ	العُبْرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ب ر	عبر	HFN-R03283	4659	M02#ROOT_SOURCE_DISPLAY:2465	PROJECTED	ال محذوفة	CANDIDATE
+S004	1	1	اسم	جبل	فَعَلٌ	جَبَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ب ل	جبل	HFN-R00764	3665	M02#ROOT_SOURCE_DISPLAY:0537	PROJECTED		CANDIDATE
+S004	2	1	اسم	جمل	فَعَلٌ	جَمَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج م ل	جمل	HFN-R00913	3613	M02#ROOT_SOURCE_DISPLAY:0654	PROJECTED		CANDIDATE
+S004	3	1	اسم	حمل	فَعَلٌ	حَمَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح م ل	حمل	HFN-R01178	3811	M02#ROOT_SOURCE_DISPLAY:0875	PROJECTED		CANDIDATE
+S004	4	2	صفة	حدث	فَعَلٌ	حَدَثٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح د ث	حدث	HFN-R01019	3699	M02#ROOT_SOURCE_DISPLAY:0744	PROJECTED		CANDIDATE
+S004	5	2	صفة	بطل	فَعَلٌ	بَطَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ط ل	بطل	HFN-R00377	3247	M02#ROOT_SOURCE_DISPLAY:0270	PROJECTED		CANDIDATE
+S004	6	2	صفة	حسن	فَعَلٌ	حَسَنٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح س ن	حسن	HFN-R01073	3731	M02#ROOT_SOURCE_DISPLAY:0787	PROJECTED		CANDIDATE
+S004	7	2	صفة	عزب	فَعَلٌ	عَزَبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ز ب	عزب	HFN-R03360	4723	M02#ROOT_SOURCE_DISPLAY:2530	PROJECTED		CANDIDATE
+S004	8	2	صفة	وقل	فَعَلٌ	وَقَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	و ق ل	وقل	HFN-R05826	1937	M02#ROOT_SOURCE_DISPLAY:4457	PROJECTED		CANDIDATE
+S005	1	1	اسم	كتف	فَعِلٌ	كَتِفٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ت ف	كتف	HFN-R04250	578	M02#ROOT_SOURCE_DISPLAY:3247	PROJECTED		CANDIDATE
+S005	2	1	اسم	كبد	فَعِلٌ	كَبِدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ب د	كبد	HFN-R04235	566	M02#ROOT_SOURCE_DISPLAY:3234	PROJECTED		CANDIDATE
+S005	3	1	اسم	فخذ	فَعِلٌ	فَخِذٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف خ ذ	فخذ	HFN-R03768	168	M02#ROOT_SOURCE_DISPLAY:2861	PROJECTED		CANDIDATE
+S005	4	2	صفة	حذر	فَعِلٌ	حَذِرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ذ ر	حذر	HFN-R01029	3701	M02#ROOT_SOURCE_DISPLAY:0752	PROJECTED		CANDIDATE
+S005	5	2	صفة	وجع	فَعِلٌ	وَجِعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	و ج ع	وجع	HFN-R05639	1776	M02#ROOT_SOURCE_DISPLAY:4312	PROJECTED		CANDIDATE
+S005	6	2	صفة	حصر	فَعِلٌ	حَصِرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ص ر	حصر	HFN-R01089	3752	M02#ROOT_SOURCE_DISPLAY:0801	PROJECTED		CANDIDATE
+S006	1	1	اسم	رجل	فَعُلٌ	رَجُلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ج ل	رجل	HFN-R01855	2417	M02#ROOT_SOURCE_DISPLAY:1376	PROJECTED		CANDIDATE
+S006	2	1	اسم	سبع	فَعُلٌ	سَبُعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ب ع	سبع	HFN-R02306	2790	M02#ROOT_SOURCE_DISPLAY:1736	PROJECTED		CANDIDATE
+S006	3	1	اسم	عضد	فَعُلٌ	عَضُدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ض د	عضد	HFN-R03402	4754	M02#ROOT_SOURCE_DISPLAY:2567	PROJECTED		CANDIDATE
+S006	4	1	اسم	ضبع	فَعُلٌ	ضَبُعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض ب ع	ضبع	HFN-R02984	4401	M02#ROOT_SOURCE_DISPLAY:2254	PROJECTED		CANDIDATE
+S006	5	2	صفة	حدث	فَعُلٌ	حَدُثٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح د ث	حدث	HFN-R01019	3699	M02#ROOT_SOURCE_DISPLAY:0744	PROJECTED		CANDIDATE
+S006	6	2	صفة	حذر	فَعُلٌ	حَذُرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ذ ر	حذر	HFN-R01029	3701	M02#ROOT_SOURCE_DISPLAY:0752	PROJECTED		CANDIDATE
+S006	7	2	صفة	خلط	فَعُلٌ	خَلُطٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ل ط	خلط	HFN-R01394	2052	M02#ROOT_SOURCE_DISPLAY:1046	PROJECTED		CANDIDATE
+S006	8	2	صفة	ندس	فَعُلٌ	نَدُسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن د س	ندس	HFN-R05108	1324	M02#ROOT_SOURCE_DISPLAY:3888	PROJECTED		CANDIDATE
+S007	1	1	اسم	صرد	فُعَلٌ	صُرَدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ر د	صرد	HFN-R02853	4325	M02#ROOT_SOURCE_DISPLAY:2152	PROJECTED		CANDIDATE
+S007	2	1	اسم	نغر	فُعَلٌ	نُغَرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن غ ر	نغر	HFN-R05228	1433	M02#ROOT_SOURCE_DISPLAY:3985	PROJECTED		CANDIDATE
+S007	3	1	اسم	ربع	فُعَلٌ	رُبَعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ب ع	ربع	HFN-R01819	2384	M02#ROOT_SOURCE_DISPLAY:1352	PROJECTED		CANDIDATE
+S007	4	2	صفة	حطم	فُعَلٌ	حُطَمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ط م	حطم	HFN-R01108	3758	M02#ROOT_SOURCE_DISPLAY:0817	PROJECTED		CANDIDATE
+S007	5	2	صفة	لبد	فُعَلٌ	لُبَدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ل ب د	لبد	HFN-R04470	760	M02#ROOT_SOURCE_DISPLAY:3404	PROJECTED		CANDIDATE
+S008	1	1	اسم	الطنب	فُعُلٌ	الطُنُبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ط ن ب	طنب	HFN-R03216	4466	M02#ROOT_SOURCE_DISPLAY:2415	PROJECTED	ال محذوفة	CANDIDATE
+S008	2	1	اسم	العنق	فُعُلٌ	العُنُقُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ن ق	عنق	HFN-R03509	4625	M02#ROOT_SOURCE_DISPLAY:2661	PROJECTED	ال محذوفة	CANDIDATE
+S008	3	1	اسم	العضد	فُعُلٌ	العُضُدُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ض د	عضد	HFN-R03402	4754	M02#ROOT_SOURCE_DISPLAY:2567	PROJECTED	ال محذوفة	CANDIDATE
+S008	4	1	اسم	الجمد	فُعُلٌ	الجُمُدُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج م د	جمد	HFN-R00907	3607	M02#ROOT_SOURCE_DISPLAY:0648	PROJECTED	ال محذوفة	CANDIDATE
+S008	5	2	صفة	الجنب	فُعُلٌ	الجُنُبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ن ب	جنب	HFN-R00918	3617	M02#ROOT_SOURCE_DISPLAY:0659	PROJECTED	ال محذوفة	CANDIDATE
+S008	6	2	صفة	الأجد	فُعُلٌ	الأُجُدُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	أ ج د	ءجد	HFN-R00042	3019	M02#ROOT_SOURCE_DISPLAY:0030	PROJECTED	ال محذوفة	CANDIDATE
+S008	7	2	صفة	نضد	فُعُلٌ	نُضُدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ض د	نضد	HFN-R05190	1397		PROJECTED		CANDIDATE
+S008	8	2	صفة	نكر	فُعُلٌ	نُكُرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ك ر	نكر	HFN-R05290	1493	M02#ROOT_SOURCE_DISPLAY:4037	PROJECTED		CANDIDATE
+S009	1	1	اسم	الضلع	فِعَلٌ	الضِلَعُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض ل ع	ضلع	HFN-R03044	4358	M02#ROOT_SOURCE_DISPLAY:2305	PROJECTED	ال محذوفة	CANDIDATE
+S009	2	1	اسم	العوض	فِعَلٌ	العِوَضُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع و ض	عوض	HFN-R03531	4642	M02#ROOT_SOURCE_DISPLAY:2680	PROJECTED	ال محذوفة	CANDIDATE
+S009	3	1	اسم	الصغر	فِعَلٌ	الصِغَرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص غ ر	صغر	HFN-R02872	4226	M02#ROOT_SOURCE_DISPLAY:2167	PROJECTED	ال محذوفة	CANDIDATE
+S009	4	1	اسم	العنب	فِعَلٌ	العِنَبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ن ب	عنب	HFN-R03499	4616	M02#ROOT_SOURCE_DISPLAY:2651	PROJECTED	ال محذوفة	CANDIDATE
+S010	1	1	اسم	إبل	فِعِلٌ	إِبِلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	إ ب ل	ءبل	HFN-R00017	3001	M02#ROOT_SOURCE_DISPLAY:0011	PROJECTED		CANDIDATE
+S013	1	1	اسم	أفكل	أَفْعَلُ	أَفْكَلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ك ل	فكل	HFN-R03889	4799	M02#ROOT_SOURCE_DISPLAY:2956	PROJECTED		CANDIDATE
+S013	2	1	اسم	أيدع	أَفْعَلُ	أَيْدَعُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ي د ع	يدع	HFN-R05913	4954	M02#ROOT_SOURCE_DISPLAY:4518	PROJECTED		CANDIDATE
+S013	3	1	اسم	أجدل	أَفْعَلُ	أَجْدَلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج د ل	جدل	HFN-R00799	3528	M02#ROOT_SOURCE_DISPLAY:0563	PROJECTED		CANDIDATE
+S013	4	2	صفة	أبيض	أَفْعَلُ	أَبْيَضُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ي ض	بيض	HFN-R00511	3344	M02#ROOT_SOURCE_DISPLAY:0369	PROJECTED		CANDIDATE
+S013	5	2	صفة	أسود	أَفْعَلُ	أَسْوَدُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س و د	سود	HFN-R02514	2961	M02#ROOT_SOURCE_DISPLAY:1902	PROJECTED		CANDIDATE
+S013	6	2	صفة	أحمر	أَفْعَلُ	أَحْمَرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح م ر	حمر	HFN-R01169	3803	M02#ROOT_SOURCE_DISPLAY:0867	PROJECTED		CANDIDATE
+S014	1	1	اسم	إثمد	إِفْعِلٌ	إِثْمِدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ث م د	ثمد	HFN-R00718	3471	M02#ROOT_SOURCE_DISPLAY:0508	PROJECTED		CANDIDATE
+S014	2	1	اسم	إصبع	إِفْعِلٌ	إِصْبِعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ب ع	صبع	HFN-R02817	4295	M02#ROOT_SOURCE_DISPLAY:2119	PROJECTED		CANDIDATE
+S014	3	1	اسم	إجرد	إِفْعِلٌ	إِجْرِدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ر د	جرد	HFN-R00817	3557	M02#ROOT_SOURCE_DISPLAY:0577	PROJECTED		CANDIDATE
+S015	1	1	اسم	إصبع	إِفْعَلٌ	إِصْبَعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ب ع	صبع	HFN-R02817	4295	M02#ROOT_SOURCE_DISPLAY:2119	PROJECTED		CANDIDATE
+S015	2	1	اسم	إبرم	إِفْعَلٌ	إِبْرَمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ر م	برم	HFN-R00326	3214	M02#ROOT_SOURCE_DISPLAY:0232	PROJECTED		CANDIDATE
+S015	3	1	اسم	إبين	إِفْعَلٌ	إِبْيَنٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ي ن	بين	HFN-R00517	3348	M02#ROOT_SOURCE_DISPLAY:0373	PROJECTED		CANDIDATE
+S015	4	1	اسم	إشفى	إِفْعَلٌ	إِشْفَىٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ف ى	شفي	HFN-R02697	4056	M02#ROOT_SOURCE_DISPLAY:2043	PROJECTED		CANDIDATE
+S015	5	1	اسم	إنفحة	إِفْعَلٌ	إِنْفَحٌة	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ف ح	نفح	HFN-R05241	1446	M02#ROOT_SOURCE_DISPLAY:3997	PROJECTED	تاء زائدة على القالب	CANDIDATE
+S016	1	1	اسم	أصبع	أُفْعَلٌ	أُصْبَعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ب ع	صبع	HFN-R02817	4295	M02#ROOT_SOURCE_DISPLAY:2119	PROJECTED		CANDIDATE
+S017	1	1	اسم	أبلم	أُفْعُلٌ	أُبْلُمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ل م	بلم	HFN-R00444	3286	M02#ROOT_SOURCE_DISPLAY:0321	PROJECTED		CANDIDATE
+S017	2	1	اسم	أصبع	أُفْعُلٌ	أُصْبُعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ب ع	صبع	HFN-R02817	4295	M02#ROOT_SOURCE_DISPLAY:2119	PROJECTED		CANDIDATE
+S021	1	1	اسم	الإعطاء	إِفْعَالٌ	الإِعْطَاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ط ء	عطو	HFN-R03417	4758	M02#ROOT_SOURCE_DISPLAY:2581	PROJECTED_ROOT_VIA_WEAK_VARIANT	ال محذوفة؛ الحرف الظاهر عطء ← الأصل عطو (حرف علّة أو همزة منقلبة)	CANDIDATE
+S021	2	1	اسم	الإسلام	إِفْعَالٌ	الإِسْلَامُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ل م	سلم	HFN-R02463	2918	M02#ROOT_SOURCE_DISPLAY:1859	PROJECTED	ال محذوفة	CANDIDATE
+S021	3	1	اسم	الإعصار	إِفْعَالٌ	الإِعْصَارُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ص ر	عصر	HFN-R03395	4748	M02#ROOT_SOURCE_DISPLAY:2560	PROJECTED	ال محذوفة	CANDIDATE
+S021	4	2	صفة	الإسكاف	إِفْعَالٌ	الإِسْكَافُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ك ف	سكف	HFN-R02445	2900	M02#ROOT_SOURCE_DISPLAY:1843	PROJECTED	ال محذوفة	CANDIDATE
+S022	1	1	اسم	الأسحار	أَفْعَالٌ	الأَسْحَارُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ح ر	سحر	HFN-R02336	2813	M02#ROOT_SOURCE_DISPLAY:1760	PROJECTED	ال محذوفة	CANDIDATE
+S023	1	1	اسم	إخريط	إِفْعِيلٌ	إِخْرِيطٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ر ط	خرط	HFN-R01306	842	M02#ROOT_SOURCE_DISPLAY:0976	PROJECTED		CANDIDATE
+S023	2	1	اسم	إسليح	إِفْعِيلٌ	إِسْلِيحٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ل ح	سلح	HFN-R02453	2908	M02#ROOT_SOURCE_DISPLAY:1850	PROJECTED		CANDIDATE
+S023	3	1	اسم	إكليل	إِفْعِيلٌ	إِكْلِيلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ل ل	كلل	HFN-R04385	688	M02#ROOT_SOURCE_DISPLAY:3330	PROJECTED		CANDIDATE
+S023	4	2	صفة	إصليت	إِفْعِيلٌ	إِصْلِيتٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ل ت	صلت	HFN-R02893	4242	M02#ROOT_SOURCE_DISPLAY:2184	PROJECTED		CANDIDATE
+S023	5	2	صفة	إجفيل	إِفْعِيلٌ	إِجْفِيلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ف ل	جفل	HFN-R00882	3584	M02#ROOT_SOURCE_DISPLAY:0628	PROJECTED		CANDIDATE
+S023	6	2	صفة	إخليج	إِفْعِيلٌ	إِخْلِيجٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ل ج	خلج	HFN-R01389	2048	M02#ROOT_SOURCE_DISPLAY:1042	PROJECTED		CANDIDATE
+S024	1	1	اسم	أسلوب	أُفْعُولٌ	أُسْلُوبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ل ب	سلب	HFN-R02450	2905	M02#ROOT_SOURCE_DISPLAY:1847	PROJECTED		CANDIDATE
+S024	2	1	اسم	الأخدود	أُفْعُولٌ	الأُخْدُودُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ د د	خدد	HFN-R01277	120	M02#ROOT_SOURCE_DISPLAY:0949	PROJECTED	ال محذوفة	CANDIDATE
+S024	3	1	اسم	أركوب	أُفْعُولٌ	أُرْكُوبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ك ب	ركب	HFN-R02017	2555	M02#ROOT_SOURCE_DISPLAY:1516	PROJECTED		CANDIDATE
+S024	4	2	صفة	أملود	أُفْعُولٌ	أُمْلُودٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	م ل د	ملد	HFN-R04931	1159	M02#ROOT_SOURCE_DISPLAY:3753	PROJECTED		CANDIDATE
+S024	5	2	صفة	أسكوب	أُفْعُولٌ	أُسْكُوبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ك ب	سكب	HFN-R02441	2896	M02#ROOT_SOURCE_DISPLAY:1840	PROJECTED		CANDIDATE
+S024	6	2	صفة	أثعوب	أُفْعُولٌ	أُثْعُوبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ث ع ب	ثعب	HFN-R00682	3450	M02#ROOT_SOURCE_DISPLAY:0481	PROJECTED		CANDIDATE
+S025	1	1	اسم	أدابر	أُفَاعِلٌ	أُدَابِرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ب ر	دبر	HFN-R01482	2116	M02#ROOT_SOURCE_DISPLAY:1107	PROJECTED		CANDIDATE
+S025	2	1	اسم	أجارد	أُفَاعِلٌ	أُجَارِدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ر د	جرد	HFN-R00817	3557	M02#ROOT_SOURCE_DISPLAY:0577	PROJECTED		CANDIDATE
+S025	3	1	اسم	أحامر	أُفَاعِلٌ	أُحَامِرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح م ر	حمر	HFN-R01169	3803	M02#ROOT_SOURCE_DISPLAY:0867	PROJECTED		CANDIDATE
+S025	4	2	صفة	رجل أباتر	أُفَاعِلٌ								PHRASE	أكثر من كلمة	CANDIDATE
+S026	1	1	اسم	الإدرون	إِفْعَوْلٌ	الإِدْرَوْنُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ر ن	درن	HFN-R01546	2166	M02#ROOT_SOURCE_DISPLAY:1155	PROJECTED	ال محذوفة	CANDIDATE
+S026	2	2	صفة	الإسحوف	إِفْعَوْلٌ	الإِسْحَوْفُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ح ف	سحف	HFN-R02338	2815	M02#ROOT_SOURCE_DISPLAY:1762	PROJECTED	ال محذوفة	CANDIDATE
+S026	3	2	صفة	الإزمول	إِفْعَوْلٌ	الإِزْمَوْلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز م ل	زمل	HFN-R02232	2729	M02#ROOT_SOURCE_DISPLAY:1686	PROJECTED	ال محذوفة	CANDIDATE
+S032	1	1	اسم	ألنجج	أَفَنْعَلٌ	أَلَنْجَجٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ل ج ج	لجج	HFN-R04496	784	M02#ROOT_SOURCE_DISPLAY:3421	PROJECTED		CANDIDATE
+S032	2	1	اسم	أبنيم	أَفَنْعَلٌ	أَبَنْيَمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ي م	بوم	HFN-R00497	3337	M02#ROOT_SOURCE_DISPLAY:0361	PROJECTED_ROOT_VIA_WEAK_VARIANT	الحرف الظاهر بيم ← الأصل بوم (حرف علّة أو همزة منقلبة)	CANDIDATE
+S032	3	2	صفة	ألندد	أَفَنْعَلٌ	أَلَنْدَدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ل د د	لدد	HFN-R04530	814	M02#ROOT_SOURCE_DISPLAY:3450	PROJECTED		CANDIDATE
+S033	1	1	اسم	إهجيرى	إِفْعِيلَى	إِهْجِيرَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ج ر	هجر	HFN-R05403	1593	M02#ROOT_SOURCE_DISPLAY:4130	PROJECTED		CANDIDATE
+S033	2	1	اسم	إجريا	إِفْعِيلَى								LENGTH_MISMATCH	حروف المثال 5 وحروف القالب 6	CANDIDATE
+S034	1	1	اسم	أجفلى	أَفْعَلَى	أَجْفَلَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ف ل	جفل	HFN-R00882	3584	M02#ROOT_SOURCE_DISPLAY:0628	PROJECTED		CANDIDATE
+S035	1	1	اسم	أسكفة	أُفْعُلَّةٌ	أُسْكُفَّةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ك ف	سكف	HFN-R02445	2900	M02#ROOT_SOURCE_DISPLAY:1843	PROJECTED		CANDIDATE
+S035	2	1	اسم	أترج	أُفْعُلَّةٌ								LENGTH_MISMATCH	حروف المثال 4 وحروف القالب 5	CANDIDATE
+S035	3	1	اسم	أسطمة	أُفْعُلَّةٌ	أُسْطُمَّةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ط م	سطم	HFN-R02397	2861	M02#ROOT_SOURCE_DISPLAY:1805	PROJECTED		CANDIDATE
+S036	1	1	اسم	إرزب	إِفْعَلٌّ	إِرْزَبٌّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ز ب	رزب	HFN-R01898	2450	M02#ROOT_SOURCE_DISPLAY:1413	PROJECTED		CANDIDATE
+S036	2	1	اسم	إزفلة	إِفْعَلٌّ	إِزْفَلٌّة	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز ف ل	زفل	HFN-R02189	3978	M02#ROOT_SOURCE_DISPLAY:1654	PROJECTED	تاء زائدة على القالب	CANDIDATE
+S037	1	1	اسم	إيحلى	إِفْعَلَى	إِيْحَلَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ي ح ل	وحل	HFN-R05653	1789	M02#ROOT_SOURCE_DISPLAY:4321	PROJECTED_ROOT_VIA_WEAK_VARIANT	الحرف الظاهر يحل ← الأصل وحل (حرف علّة أو همزة منقلبة)	CANDIDATE
+S038	1	1	صفة	إنقحل	إِنْفَعْلٌ	إِنْقَحْلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ح ل	قحل	HFN-R03998	360	M02#ROOT_SOURCE_DISPLAY:3050	PROJECTED		CANDIDATE
+S039	1	1	اسم	أفعوان	أُفْعُلَانٌ	أُفْعُوَانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ع و	فعي	HFN-R03868	4820	M02#ROOT_SOURCE_DISPLAY:2940	PROJECTED_ROOT_VIA_WEAK_VARIANT	الحرف الظاهر فعو ← الأصل فعي (حرف علّة أو همزة منقلبة)	CANDIDATE
+S039	2	1	اسم	الأرجوان	أُفْعُلَانٌ	الأُرْجُوَانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ج و	رجو	HFN-R01858	2420		PROJECTED	ال محذوفة	CANDIDATE
+S039	3	1	اسم	الأقحوان	أُفْعُلَانٌ	الأُقْحُوَانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ح و	قحو	HFN-R04000	362	M02#ROOT_SOURCE_DISPLAY:3052	PROJECTED	ال محذوفة	CANDIDATE
+S039	4	2	صفة	الأسحلان	أُفْعُلَانٌ	الأُسْحُلَانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ح ل	سحل	HFN-R02340	2817	M02#ROOT_SOURCE_DISPLAY:1764	PROJECTED	ال محذوفة	CANDIDATE
+S039	5	2	صفة	الألعبان	أُفْعُلَانٌ	الأُلْعُبَانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ل ع ب	لعب	HFN-R04581	858	M02#ROOT_SOURCE_DISPLAY:3487	PROJECTED	ال محذوفة	CANDIDATE
+S040	1	1	اسم	الإسحمان	إِفْعِلَانٌ	الإِسْحِمَانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ح م	سحم	HFN-R02341	2818	M02#ROOT_SOURCE_DISPLAY:1765	PROJECTED	ال محذوفة	CANDIDATE
+S040	2	1	اسم	الإمدان	إِفْعِلَانٌ								LENGTH_MISMATCH	حروف المثال 7 وحروف القالب 6	CANDIDATE
+S040	3	2	صفة	ليلة إضحيانة	إِفْعِلَانٌ								PHRASE	أكثر من كلمة	CANDIDATE
+S041	1	1	صفة	أنبجان	أَفْعَلَانٌ	أَنْبَجَانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ب ج	نبج	HFN-R05015	1227	M02#ROOT_SOURCE_DISPLAY:3813	PROJECTED		CANDIDATE
+S041	2	1	صفة	أرونان	أَفْعَلَانٌ	أَرْوَنَانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر و ن	رون	HFN-R02096	2619	M02#ROOT_SOURCE_DISPLAY:1583	PROJECTED		CANDIDATE
+S042	1	1	اسم	الإربعاء	إِفْعِلَاءُ	الإِرْبِعَاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ب ع	ربع	HFN-R01819	2384	M02#ROOT_SOURCE_DISPLAY:1352	PROJECTED	ال محذوفة	CANDIDATE
+S043	1	1	اسم	الأربعاء	أَفْعِلَاءُ	الأَرْبِعَاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ب ع	ربع	HFN-R01819	2384	M02#ROOT_SOURCE_DISPLAY:1352	PROJECTED	ال محذوفة	CANDIDATE
+S044	1	1	اسم	أنصباء	أَفْعِلَاءُ	أَنْصِبَاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ص ب	نصب	HFN-R05176	1384	M02#ROOT_SOURCE_DISPLAY:3941	PROJECTED		CANDIDATE
+S044	2	1	اسم	أصدقاء	أَفْعِلَاءُ	أَصْدِقَاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص د ق	صدق	HFN-R02844	4313	M02#ROOT_SOURCE_DISPLAY:2143	PROJECTED		CANDIDATE
+S044	3	1	اسم	أصفياء	أَفْعِلَاءُ	أَصْفِيَاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ف ي	صفو	HFN-R02885	4230	M02#ROOT_SOURCE_DISPLAY:2175	PROJECTED_ROOT_VIA_WEAK_VARIANT	الحرف الظاهر صفي ← الأصل صفو (حرف علّة أو همزة منقلبة)	CANDIDATE
+S047	1	1	اسم	كاهل	فَاعِلٌ	كَاهِلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ه ل	كهل	HFN-R04423	4838	M02#ROOT_SOURCE_DISPLAY:3370	PROJECTED		CANDIDATE
+S047	2	1	اسم	غارب	فَاعِلٌ	غَارِبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	غ ر ب	غرب	HFN-R03590	1	M02#ROOT_SOURCE_DISPLAY:2723	PROJECTED		CANDIDATE
+S047	3	1	اسم	ساعد	فَاعِلٌ	سَاعِدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ع د	سعد	HFN-R02401	2863	M02#ROOT_SOURCE_DISPLAY:1808	PROJECTED		CANDIDATE
+S047	4	2	صفة	ضارب	فَاعِلٌ	ضَارِبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض ر ب	ضرب	HFN-R03001	4419	M02#ROOT_SOURCE_DISPLAY:2269	PROJECTED		CANDIDATE
+S047	5	2	صفة	قاتل	فَاعِلٌ	قَاتِلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ت ل	قتل	HFN-R03982	346	M02#ROOT_SOURCE_DISPLAY:3035	PROJECTED		CANDIDATE
+S047	6	2	صفة	جالس	فَاعِلٌ	جَالِسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ل س	جلس	HFN-R00894	3598	M02#ROOT_SOURCE_DISPLAY:0637	PROJECTED		CANDIDATE
+S048	1	1	اسم	طابق	فَاعَلٌ	طَابَقٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ط ب ق	طبق	HFN-R03106	4495	M02#ROOT_SOURCE_DISPLAY:2345	PROJECTED		CANDIDATE
+S048	2	1	اسم	خاتم	فَاعَلٌ	خَاتَمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ت م	ختم	HFN-R01260	60	M02#ROOT_SOURCE_DISPLAY:0939	PROJECTED		CANDIDATE
+S049	1	1	اسم	حمار	فِعَالٌ	حِمَارٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح م ر	حمر	HFN-R01169	3803	M02#ROOT_SOURCE_DISPLAY:0867	PROJECTED		CANDIDATE
+S049	2	1	اسم	إكاف	فِعَالٌ	إِكَافٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	إ ك ف	ءكف	HFN-R00156	3091	M02#ROOT_SOURCE_DISPLAY:0110	PROJECTED		CANDIDATE
+S049	3	1	اسم	ركاب	فِعَالٌ	رِكَابٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ك ب	ركب	HFN-R02017	2555	M02#ROOT_SOURCE_DISPLAY:1516	PROJECTED		CANDIDATE
+S049	4	2	صفة	كناز	فِعَالٌ	كِنَازٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ن ز	كنز	HFN-R04409	710	M02#ROOT_SOURCE_DISPLAY:3358	PROJECTED		CANDIDATE
+S049	5	2	صفة	ضناك	فِعَالٌ	ضِنَاكٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض ن ك	ضنك	HFN-R03058	4366	M02#ROOT_SOURCE_DISPLAY:2314	PROJECTED		CANDIDATE
+S049	6	2	صفة	دلاث	فِعَالٌ	دِلَاثٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ل ث	دلث	HFN-R01615	2220	M02#ROOT_SOURCE_DISPLAY:1209	PROJECTED		CANDIDATE
+S050	1	1	اسم	غراب	فُعَالٌ	غُرَابٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	غ ر ب	غرب	HFN-R03590	1	M02#ROOT_SOURCE_DISPLAY:2723	PROJECTED		CANDIDATE
+S050	2	1	اسم	غلام	فُعَالٌ	غُلَامٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	غ ل م	غلم	HFN-R03660	62	M02#ROOT_SOURCE_DISPLAY:2782	PROJECTED		CANDIDATE
+S050	3	1	اسم	قراد	فُعَالٌ	قُرَادٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر د	قرد	HFN-R04025	386	M02#ROOT_SOURCE_DISPLAY:3071	PROJECTED		CANDIDATE
+S050	4	1	اسم	فؤاد	فُعَالٌ	فُؤَادٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ؤ د	فءد	HFN-R03719	122	M02#ROOT_SOURCE_DISPLAY:2823	PROJECTED		CANDIDATE
+S050	5	2	صفة	شجاع	فُعَالٌ	شُجَاعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ج ع	شجع	HFN-R02576	4150	M02#ROOT_SOURCE_DISPLAY:1951	PROJECTED		CANDIDATE
+S050	6	2	صفة	طوال	فُعَالٌ	طُوَالٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ط و ل	طول	HFN-R03243	4484	M02#ROOT_SOURCE_DISPLAY:2435	PROJECTED		CANDIDATE
+S050	7	2	صفة	خفاف	فُعَالٌ	خُفَافٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ف ف	خفف	HFN-R01380	2041	M02#ROOT_SOURCE_DISPLAY:1031	PROJECTED		CANDIDATE
+S051	1	1	اسم	عاقول	فَاعُولٌ	عَاقُولٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ق ل	عقل	HFN-R03448	4569	M02#ROOT_SOURCE_DISPLAY:2606	PROJECTED		CANDIDATE
+S051	2	1	اسم	ناموس	فَاعُولٌ	نَامُوسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن م س	نمس	HFN-R05306	1506	M02#ROOT_SOURCE_DISPLAY:4049	PROJECTED		CANDIDATE
+S051	3	1	اسم	عاطوس	فَاعُولٌ	عَاطُوسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ط س	عطس	HFN-R03411	4761	M02#ROOT_SOURCE_DISPLAY:2576	PROJECTED		CANDIDATE
+S051	4	1	اسم	طاووس	فَاعُولٌ	طَاوُوسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ط و س	طوس	HFN-R03238	4480	M02#ROOT_SOURCE_DISPLAY:2430	PROJECTED		CANDIDATE
+S051	5	2	صفة	حاطوم	فَاعُولٌ	حَاطُومٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ط م	حطم	HFN-R01108	3758	M02#ROOT_SOURCE_DISPLAY:0817	PROJECTED		CANDIDATE
+S051	6	2	صفة	جاروف	فَاعُولٌ	جَارُوفٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ر ف	جرف	HFN-R00825	3547	M02#ROOT_SOURCE_DISPLAY:0585	PROJECTED		CANDIDATE
+S051	7	2	صفة	فاتور	فَاعُولٌ	فَاتُورٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ت ر	فتر	HFN-R03731	133	M02#ROOT_SOURCE_DISPLAY:2832	PROJECTED		CANDIDATE
+S052	1	1	اسم	ساباط	فَاعَالٌ	سَابَاطٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ب ط	سبط	HFN-R02305	2789	M02#ROOT_SOURCE_DISPLAY:1735	PROJECTED		CANDIDATE
+S052	2	1	اسم	خاتام	فَاعَالٌ	خَاتَامٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ت م	ختم	HFN-R01260	60	M02#ROOT_SOURCE_DISPLAY:0939	PROJECTED		CANDIDATE
+S052	3	1	اسم	داناق	فَاعَالٌ	دَانَاقٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ن ق	دنق	HFN-R01656	2255	M02#ROOT_SOURCE_DISPLAY:1242	PROJECTED		CANDIDATE
+S053	1	1	اسم	القاصعاء	فَاعِلَاءُ	القَاصِعَاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ص ع	قصع	HFN-R04072	430	M02#ROOT_SOURCE_DISPLAY:3108	PROJECTED	ال محذوفة	CANDIDATE
+S053	2	1	اسم	النافقاء	فَاعِلَاءُ	النَافِقَاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ف ق	نفق	HFN-R05255	1460	M02#ROOT_SOURCE_DISPLAY:4009	PROJECTED	ال محذوفة	CANDIDATE
+S053	3	1	اسم	السابياء	فَاعِلَاءُ	السَابِيَاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ب ي	سبي	HFN-R02313	2794	M02#ROOT_SOURCE_DISPLAY:1742	PROJECTED	ال محذوفة	CANDIDATE
+S054	1	1	اسم	عاشوراء	فَاعُولَاءُ	عَاشُورَاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ش ر	عشر	HFN-R03385	4740	M02#ROOT_SOURCE_DISPLAY:2551	PROJECTED		CANDIDATE
+S059	1	1	صفة	مقاتل	مُفَاعِلٌ	مُقَاتِلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ت ل	قتل	HFN-R03982	346	M02#ROOT_SOURCE_DISPLAY:3035	PROJECTED		CANDIDATE
+S059	2	1	صفة	مسافر	مُفَاعِلٌ	مُسَافِرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ف ر	سفر	HFN-R02419	2876	M02#ROOT_SOURCE_DISPLAY:1823	PROJECTED		CANDIDATE
+S059	3	1	صفة	مجاهد	مُفَاعِلٌ	مُجَاهِدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ه د	جهد	HFN-R00932	3625	M02#ROOT_SOURCE_DISPLAY:0670	PROJECTED		CANDIDATE
+S060	1	1	اسم	مساجد	مَفَاعِلُ	مَسَاجِدُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ج د	سجد	HFN-R02323	2800	M02#ROOT_SOURCE_DISPLAY:1748	PROJECTED		CANDIDATE
+S060	2	1	اسم	مكاريم	مَفَاعِيلُ	مَكَارِيمُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ر م	كرم	HFN-R04309	627	M02#ROOT_SOURCE_DISPLAY:3287	PROJECTED		CANDIDATE
+S061	1	1	اسم	حوائط	فَوَاعِلُ	حَوَائِطُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ئ ط	حءط				PROJECTED_ROOT_AMBIGUOUS	أكثر من أصل محتمل: حوط | حيط	CANDIDATE
+S061	2	1	اسم	حواجز	فَوَاعِلُ	حَوَاجِزُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ج ز	حجز	HFN-R01011	3877	M02#ROOT_SOURCE_DISPLAY:0735	PROJECTED		CANDIDATE
+S061	3	1	اسم	جوائز	فَوَاعِلُ	جَوَائِزُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ئ ز	جءز	HFN-R00746	3657	M02#ROOT_SOURCE_DISPLAY:0527	PROJECTED		CANDIDATE
+S061	4	1	اسم	توابل	فَوَاعِلُ	تَوَابِلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ت ب ل	تبل	HFN-R00531	3422	M02#ROOT_SOURCE_DISPLAY:0378	PROJECTED		CANDIDATE
+S061	5	2	صفة	حواسر	فَوَاعِلُ	حَوَاسِرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح س ر	حسر	HFN-R01067	3736	M02#ROOT_SOURCE_DISPLAY:0782	PROJECTED		CANDIDATE
+S061	6	2	صفة	ضوارب	فَوَاعِلُ	ضَوَارِبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض ر ب	ضرب	HFN-R03001	4419	M02#ROOT_SOURCE_DISPLAY:2269	PROJECTED		CANDIDATE
+S061	7	2	صفة	قواتل	فَوَاعِلُ	قَوَاتِلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ت ل	قتل	HFN-R03982	346	M02#ROOT_SOURCE_DISPLAY:3035	PROJECTED		CANDIDATE
+S062	1	1	اسم	خواتيم	فَوَاعِيلُ	خَوَاتِيمُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ت م	ختم	HFN-R01260	60	M02#ROOT_SOURCE_DISPLAY:0939	PROJECTED		CANDIDATE
+S062	2	1	اسم	سوابيط	فَوَاعِيلُ	سَوَابِيطُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ب ط	سبط	HFN-R02305	2789	M02#ROOT_SOURCE_DISPLAY:1735	PROJECTED		CANDIDATE
+S062	3	1	اسم	قوارير	فَوَاعِيلُ	قَوَارِيرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ر	قرر	HFN-R04026	387	M02#ROOT_SOURCE_DISPLAY:3067	PROJECTED		CANDIDATE
+S063	1	1	اسم	السلاليم	فَعَاعِيلُ	السَلَالِيمُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ل م	سلم	HFN-R02463	2918	M02#ROOT_SOURCE_DISPLAY:1859	PROJECTED	ال محذوفة	CANDIDATE
+S063	2	1	اسم	البلاليط	فَعَاعِيلُ	البَلَالِيطُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ل ط	بلط	HFN-R00438	3298	M02#ROOT_SOURCE_DISPLAY:0317	PROJECTED	ال محذوفة	CANDIDATE
+S063	3	2	صفة	العواوير	فَعَاعِيلُ	العَوَاوِيرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع و ر	عور	HFN-R03527	4638	M02#ROOT_SOURCE_DISPLAY:2676	PROJECTED	ال محذوفة	CANDIDATE
+S063	4	2	صفة	الجبابير	فَعَاعِيلُ	الجَبَابِيرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ب ر	جبر	HFN-R00760	3661	M02#ROOT_SOURCE_DISPLAY:0533	PROJECTED	ال محذوفة	CANDIDATE
+S064	1	1	اسم	السلالم	فَعَاعِلُ	السَلَالِمُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ل م	سلم	HFN-R02463	2918	M02#ROOT_SOURCE_DISPLAY:1859	PROJECTED	ال محذوفة	CANDIDATE
+S064	2	1	اسم	الذرارح	فَعَاعِلُ	الذَرَارِحُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ذ ر ح	ذرح	HFN-R01733	2312	M02#ROOT_SOURCE_DISPLAY:1290	PROJECTED	ال محذوفة	CANDIDATE
+S064	3	1	اسم	الزرارق	فَعَاعِلُ	الزَرَارِقُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز ر ق	زرق	HFN-R02165	2673		PROJECTED	ال محذوفة	CANDIDATE
+S065	1	1	اسم	صحارى	فَعَالَى	صَحَارَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ح ر	صحر	HFN-R02827	4299	M02#ROOT_SOURCE_DISPLAY:2126	PROJECTED		CANDIDATE
+S065	2	1	اسم	ذفارى	فَعَالَى	ذَفَارَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ذ ف ر	ذفر	HFN-R01748	2326	M02#ROOT_SOURCE_DISPLAY:1302	PROJECTED		CANDIDATE
+S065	3	2	صفة	كسالى	فَعَالَى	كَسَالَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك س ل	كسل	HFN-R04328	643	M02#ROOT_SOURCE_DISPLAY:3302	PROJECTED		CANDIDATE
+S065	4	2	صفة	حبالى	فَعَالَى	حَبَالَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ب ل	حبل	HFN-R00988	3862	M02#ROOT_SOURCE_DISPLAY:0714	PROJECTED		CANDIDATE
+S065	5	2	صفة	سكارى	فَعَالَى	سَكَارَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ك ر	سكر	HFN-R02443	2898	M02#ROOT_SOURCE_DISPLAY:1842	PROJECTED		CANDIDATE
+S066	1	1	اسم	صحار	فَعَالٍ	صَحَارٍ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ح ر	صحر	HFN-R02827	4299	M02#ROOT_SOURCE_DISPLAY:2126	PROJECTED		CANDIDATE
+S066	2	1	اسم	ذفار	فَعَالٍ	ذَفَارٍ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ذ ف ر	ذفر	HFN-R01748	2326	M02#ROOT_SOURCE_DISPLAY:1302	PROJECTED		CANDIDATE
+S066	3	1	اسم	فياف	فَعَالٍ	فَيَافٍ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ي ف	فيف	HFN-R03956	4809	M02#ROOT_SOURCE_DISPLAY:3011	PROJECTED		CANDIDATE
+S066	4	2	صفة	عذار	فَعَالٍ	عَذَارٍ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ذ ر	عذر	HFN-R03335	4698	M02#ROOT_SOURCE_DISPLAY:2509	PROJECTED		CANDIDATE
+S066	5	2	صفة	سعال	فَعَالٍ	سَعَالٍ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ع ل	سعل	HFN-R02406	2867	M02#ROOT_SOURCE_DISPLAY:1812	PROJECTED		CANDIDATE
+S067	1	1	اسم	بخاتي	فَعَالِيُّ	بَخَاتِيُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب خ ت	بخت	HFN-R00274	3189	M02#ROOT_SOURCE_DISPLAY:0191	PROJECTED		CANDIDATE
+S067	2	1	اسم	قماري	فَعَالِيُّ	قَمَارِيُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق م ر	قمر	HFN-R04156	499	M02#ROOT_SOURCE_DISPLAY:3177	PROJECTED		CANDIDATE
+S067	3	1	اسم	دباسي	فَعَالِيُّ	دَبَاسِيُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ب س	دبس	HFN-R01483	3934	M02#ROOT_SOURCE_DISPLAY:1108	PROJECTED		CANDIDATE
+S067	4	2	صفة	الحوالي	فَعَالِيُّ	الحَوَالِيُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح و ل	حول	HFN-R01217	3838	M02#ROOT_SOURCE_DISPLAY:0902	PROJECTED	ال محذوفة	CANDIDATE
+S067	5	2	صفة	الدراري	فَعَالِيُّ	الدَرَارِيُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ر ر	درر	HFN-R01537	2160	M02#ROOT_SOURCE_DISPLAY:1143	PROJECTED	ال محذوفة	CANDIDATE
+S068	1	1	اسم	الظنابيب	فَعَالِيلُ	الظَنَابِيبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ظ ن ب	ظنب	HFN-R03274	4533	M02#ROOT_SOURCE_DISPLAY:2458	PROJECTED	ال محذوفة	CANDIDATE
+S068	2	1	اسم	الفساطيط	فَعَالِيلُ	الفَسَاطِيطُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف س ط	فسط	HFN-R03822	4818	M02#ROOT_SOURCE_DISPLAY:2908	PROJECTED	ال محذوفة	CANDIDATE
+S068	3	1	اسم	الجلابيب	فَعَالِيلُ	الجَلَابِيبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ل ب	جلب	HFN-R00886	3592	M02#ROOT_SOURCE_DISPLAY:0631	PROJECTED	ال محذوفة	CANDIDATE
+S068	4	2	صفة	الشماليل	فَعَالِيلُ	الشَمَالِيلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش م ل	شمل	HFN-R02743	4084	M02#ROOT_SOURCE_DISPLAY:2073	PROJECTED	ال محذوفة	CANDIDATE
+S068	5	2	صفة	الرعاديد	فَعَالِيلُ	الرَعَادِيدُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ع د	رعد	HFN-R01960	2504	M02#ROOT_SOURCE_DISPLAY:1465	PROJECTED	ال محذوفة	CANDIDATE
+S069	1	1	اسم	القرادد	فَعَالِلُ	القَرَادِدُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر د	قرد	HFN-R04025	386	M02#ROOT_SOURCE_DISPLAY:3071	PROJECTED	ال محذوفة	CANDIDATE
+S069	2	2	صفة	الرعابب	فَعَالِلُ	الرَعَابِبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ع ب	رعب	HFN-R01957	2501	M02#ROOT_SOURCE_DISPLAY:1463	PROJECTED	ال محذوفة	CANDIDATE
+S069	3	2	صفة	القعادد	فَعَالِلُ	القَعَادِدُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ع د	قعد	HFN-R04098	453	M02#ROOT_SOURCE_DISPLAY:3130	PROJECTED	ال محذوفة	CANDIDATE
+S070	1	1	اسم	سراحين	فَعَالِينُ	سَرَاحِينُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ر ح	سرح	HFN-R02376	2846	M02#ROOT_SOURCE_DISPLAY:1793	PROJECTED		CANDIDATE
+S070	2	1	اسم	ضباعين	فَعَالِينُ	ضَبَاعِينُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض ب ع	ضبع	HFN-R02984	4401	M02#ROOT_SOURCE_DISPLAY:2254	PROJECTED		CANDIDATE
+S070	3	1	اسم	فرازين	فَعَالِينُ	فَرَازِينُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ر ز	فرز	HFN-R03797	191	M02#ROOT_SOURCE_DISPLAY:2885	PROJECTED		CANDIDATE
+S070	4	1	اسم	قرابين	فَعَالِينُ	قَرَابِينُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ب	قرب	HFN-R04021	382	M02#ROOT_SOURCE_DISPLAY:3068	PROJECTED		CANDIDATE
+S071	1	1	صفة	رعاشن	فَعَالِنُ	رَعَاشِنُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ع ش	رعش	HFN-R01963	2507	M02#ROOT_SOURCE_DISPLAY:1468	PROJECTED		CANDIDATE
+S071	2	1	صفة	علاجن	فَعَالِنُ	عَلَاجِنُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ل ج	علج	HFN-R03468	4595	M02#ROOT_SOURCE_DISPLAY:2625	PROJECTED		CANDIDATE
+S071	3	1	صفة	ضيافن	فَعَالِنُ	ضَيَافِنُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض ي ف	ضيف	HFN-R03091	4387	M02#ROOT_SOURCE_DISPLAY:2335	PROJECTED		CANDIDATE
+S072	1	1	اسم	جداول	فَعَاوِلُ	جَدَاوِلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج د ل	جدل	HFN-R00799	3528	M02#ROOT_SOURCE_DISPLAY:0563	PROJECTED		CANDIDATE
+S072	2	1	اسم	جراول	فَعَاوِلُ	جَرَاوِلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ر ل	جرل	HFN-R00826	3548	M02#ROOT_SOURCE_DISPLAY:0586	PROJECTED		CANDIDATE
+S072	3	2	صفة	القساور	فَعَاوِلُ	القَسَاوِرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق س ر	قسر	HFN-R04052	411	M02#ROOT_SOURCE_DISPLAY:3093	PROJECTED	ال محذوفة	CANDIDATE
+S072	4	2	صفة	الحشاور	فَعَاوِلُ	الحَشَاوِرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ش ر	حشر	HFN-R01079	3744	M02#ROOT_SOURCE_DISPLAY:0793	PROJECTED	ال محذوفة	CANDIDATE
+S073	1	1	اسم	العثاير	فَعَايِلُ	العَثَايِرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ث ر	عثر	HFN-R03303	4675	M02#ROOT_SOURCE_DISPLAY:2482	PROJECTED	ال محذوفة	CANDIDATE
+S073	2	1	اسم	الحثايل	فَعَايِلُ	الحَثَايِلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ث ل	حثل	HFN-R01004	3874	M02#ROOT_SOURCE_DISPLAY:0729	PROJECTED	ال محذوفة	CANDIDATE
+S074	1	1	اسم	غرائر	فَعَائِلُ	غَرَائِرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	غ ر ر	غرر	HFN-R03593	4	M02#ROOT_SOURCE_DISPLAY:2722	PROJECTED		CANDIDATE
+S074	2	1	اسم	رسائل	فَعَائِلُ	رَسَائِلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر س ل	رسل	HFN-R01915	2466	M02#ROOT_SOURCE_DISPLAY:1427	PROJECTED		CANDIDATE
+S074	3	2	صفة	ظرائف	فَعَائِلُ	ظَرَائِفُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ظ ر ف	ظرف	HFN-R03264	4539	M02#ROOT_SOURCE_DISPLAY:2449	PROJECTED		CANDIDATE
+S074	4	2	صفة	صحائح	فَعَائِلُ	صَحَائِحُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ح ح	صحح	HFN-R02826	4212	M02#ROOT_SOURCE_DISPLAY:2124	PROJECTED		CANDIDATE
+S075	1	1	اسم	غيالم	فَيَاعِلُ	غَيَالِمُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	غ ل م	غلم	HFN-R03660	62	M02#ROOT_SOURCE_DISPLAY:2782	PROJECTED		CANDIDATE
+S075	2	1	اسم	غياطل	فَيَاعِلُ	غَيَاطِلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	غ ط ل	غطل	HFN-R03636	43	M02#ROOT_SOURCE_DISPLAY:2763	PROJECTED		CANDIDATE
+S075	3	1	اسم	الدياسق	فَيَاعِلُ	الدَيَاسِقُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د س ق	دسق	HFN-R01555	2172	M02#ROOT_SOURCE_DISPLAY:1162	PROJECTED	ال محذوفة	CANDIDATE
+S075	4	2	صفة	عيالم	فَيَاعِلُ	عَيَالِمُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ل م	علم	HFN-R03480	4589	M02#ROOT_SOURCE_DISPLAY:2635	PROJECTED		CANDIDATE
+S075	5	2	صفة	الصيافل	فَيَاعِلُ	الصَيَافِلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ف ل	صفل				PROJECTED_ROOT_NOT_IN_BANK	ال محذوفة	CANDIDATE
+S076	1	1	اسم	الدياميس	فَيَاعِيلُ	الدَيَامِيسُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د م س	دمس	HFN-R01636	2238	M02#ROOT_SOURCE_DISPLAY:1227	PROJECTED	ال محذوفة	CANDIDATE
+S076	2	1	اسم	الدياميم	فَيَاعِيلُ	الدَيَامِيمُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د م م	دمم	HFN-R01643	2245	M02#ROOT_SOURCE_DISPLAY:1222	PROJECTED	ال محذوفة	CANDIDATE
+S076	3	2	صفة	الضياريف	فَيَاعِيلُ	الضَيَارِيفُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض ر ف	ضرف	HFN-R03009	4415	M02#ROOT_SOURCE_DISPLAY:2275	PROJECTED	ال محذوفة	CANDIDATE
+S076	4	2	صفة	البياطير	فَيَاعِيلُ	البَيَاطِيرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ط ر	بطر	HFN-R00372	3252	M02#ROOT_SOURCE_DISPLAY:0267	PROJECTED	ال محذوفة	CANDIDATE
+S077	1	1	اسم	التجافيف	تَفَاعِيلُ	التَجَافِيفُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ف ف	جفف	HFN-R00881	3506	M02#ROOT_SOURCE_DISPLAY:0627	PROJECTED	ال محذوفة	CANDIDATE
+S077	2	1	اسم	التماثيل	تَفَاعِيلُ	التَمَاثِيلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	م ث ل	مثل	HFN-R04742	988	M02#ROOT_SOURCE_DISPLAY:3596	PROJECTED	ال محذوفة	CANDIDATE
+S078	1	1	اسم	التتافل	تَفَاعِلُ	التَتَافِلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ت ف ل	تفل	HFN-R00579	3382	M02#ROOT_SOURCE_DISPLAY:0408	PROJECTED	ال محذوفة	CANDIDATE
+S078	2	1	اسم	التناضب	تَفَاعِلُ	التَنَاضِبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ض ب	نضب	HFN-R05186	1393	M02#ROOT_SOURCE_DISPLAY:3950	PROJECTED	ال محذوفة	CANDIDATE
+S079	1	1	اسم	يرابيع	يَفَاعِيلُ	يَرَابِيعُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ب ع	ربع	HFN-R01819	2384	M02#ROOT_SOURCE_DISPLAY:1352	PROJECTED		CANDIDATE
+S079	2	1	اسم	يعاقيب	يَفَاعِيلُ	يَعَاقِيبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ق ب	عقب	HFN-R03439	4571	M02#ROOT_SOURCE_DISPLAY:2600	PROJECTED		CANDIDATE
+S079	3	1	اسم	يعاسيب	يَفَاعِيلُ	يَعَاسِيبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع س ب	عسب	HFN-R03371	4732	M02#ROOT_SOURCE_DISPLAY:2538	PROJECTED		CANDIDATE
+S079	4	2	صفة	اليحاميم	يَفَاعِيلُ	اليَحَامِيمُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح م م	حمم	HFN-R01179	3685	M02#ROOT_SOURCE_DISPLAY:0865	PROJECTED	ال محذوفة	CANDIDATE
+S080	1	1	اسم	اليحامد	يَفَاعِلُ	اليَحَامِدُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح م د	حمد	HFN-R01168	3802	M02#ROOT_SOURCE_DISPLAY:0866	PROJECTED	ال محذوفة	CANDIDATE
+S080	2	1	اسم	اليرامع	يَفَاعِلُ	اليَرَامِعُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر م ع	رمع	HFN-R02041	2578	M02#ROOT_SOURCE_DISPLAY:1539	PROJECTED	ال محذوفة	CANDIDATE
+S081	1	1	صفة	القراويح	فَعَاوِيلُ	القَرَاوِيحُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ح	قرح	HFN-R04024	385	M02#ROOT_SOURCE_DISPLAY:3070	PROJECTED	ال محذوفة	CANDIDATE
+S081	2	1	صفة	الجلاويخ	فَعَاوِيلُ	الجَلَاوِيخُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ل خ	جلخ	HFN-R00890	3595		PROJECTED	ال محذوفة	CANDIDATE
+S082	1	1	اسم	كراييس	فَعَايِيلُ	كَرَايِيسُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ر س	كرس	HFN-R04302	621	M02#ROOT_SOURCE_DISPLAY:3282	PROJECTED		CANDIDATE
+S083	1	1	صفة	عفاريت	فَعَالِيتُ	عَفَارِيتُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ف ر	عفر	HFN-R03427	4564	M02#ROOT_SOURCE_DISPLAY:2589	PROJECTED		CANDIDATE
+S084	1	1	اسم	جنادب	فَنَاعِلُ	جَنَادِبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج د ب	جدب	HFN-R00791	3532	M02#ROOT_SOURCE_DISPLAY:0556	PROJECTED		CANDIDATE
+S084	2	1	اسم	خنافس	فَنَاعِلُ	خَنَافِسُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ف س	خفس	HFN-R01376	2037		PROJECTED		CANDIDATE
+S084	3	1	اسم	عناكب	فَنَاعِلُ	عَنَاكِبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ك ب	عكب	HFN-R03451	4581	M02#ROOT_SOURCE_DISPLAY:2610	PROJECTED		CANDIDATE
+S084	4	2	صفة	عنابس	فَنَاعِلُ	عَنَابِسُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ب س	عبس	HFN-R03284	4660	M02#ROOT_SOURCE_DISPLAY:2466	PROJECTED		CANDIDATE
+S084	5	2	صفة	عناسل	فَنَاعِلُ	عَنَاسِلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع س ل	عسل	HFN-R03379	4728	M02#ROOT_SOURCE_DISPLAY:2545	PROJECTED		CANDIDATE
+S085	1	1	اسم	حبارى	فُعَالَى	حُبَارَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ب ر	حبر	HFN-R00980	3854	M02#ROOT_SOURCE_DISPLAY:0706	PROJECTED		CANDIDATE
+S085	2	1	اسم	سمانى	فُعَالَى	سُمَانَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س م ن	سمن	HFN-R02479	2933	M02#ROOT_SOURCE_DISPLAY:1873	PROJECTED		CANDIDATE
+S085	3	1	اسم	لبادى	فُعَالَى	لُبَادَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ل ب د	لبد	HFN-R04470	760	M02#ROOT_SOURCE_DISPLAY:3404	PROJECTED		CANDIDATE
+S086	1	1	صفة	ماء سخاخين	فُعَاعِيلٌ								PHRASE	أكثر من كلمة	CANDIDATE
+S087	1	1	اسم	ثلاثاء	فَعَالَاءُ	ثَلَاثَاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ث ل ث	ثلث	HFN-R00708	3466	M02#ROOT_SOURCE_DISPLAY:0502	PROJECTED		CANDIDATE
+S087	2	1	اسم	براكاء	فَعَالَاءُ	بَرَاكَاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ر ك	برك	HFN-R00325	3213	M02#ROOT_SOURCE_DISPLAY:0231	PROJECTED		CANDIDATE
+S087	3	1	اسم	عجاساء	فَعَالَاءُ	عَجَاسَاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ج س	عجس	HFN-R03315	4682	M02#ROOT_SOURCE_DISPLAY:2491	PROJECTED		CANDIDATE
+S087	4	2	صفة	عياياء	فَعَالَاءُ	عَيَايَاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ي ي	عيي	HFN-R03557	5028		PROJECTED		CANDIDATE
+S087	5	2	صفة	طباقاء	فَعَالَاءُ	طَبَاقَاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ط ب ق	طبق	HFN-R03106	4495	M02#ROOT_SOURCE_DISPLAY:2345	PROJECTED		CANDIDATE
+S088	1	1	اسم	سلامان	فَعَالَانٌ	سَلَامَانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ل م	سلم	HFN-R02463	2918	M02#ROOT_SOURCE_DISPLAY:1859	PROJECTED		CANDIDATE
+S088	2	1	اسم	حماطان	فَعَالَانٌ	حَمَاطَانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح م ط	حمط	HFN-R01175	3809	M02#ROOT_SOURCE_DISPLAY:0873	PROJECTED		CANDIDATE
+S089	1	1	اسم	صواعق	فُوَاعِلٌ	صُوَاعِقٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ع ق	صعق	HFN-R02868	4217	M02#ROOT_SOURCE_DISPLAY:2163	PROJECTED		CANDIDATE
+S089	2	1	اسم	عوارض	فُوَاعِلٌ	عُوَارِضٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ر ض	عرض	HFN-R03351	4708	M02#ROOT_SOURCE_DISPLAY:2523	PROJECTED		CANDIDATE
+S089	3	2	صفة	دواسر	فُوَاعِلٌ	دُوَاسِرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د س ر	دسر	HFN-R01551	2169	M02#ROOT_SOURCE_DISPLAY:1160	PROJECTED		CANDIDATE
+S090	1	1	اسم	الزعارة	فَعَالَّةٌ	الزَعَارَّةُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز ع ر	زعر	HFN-R02172	2678	M02#ROOT_SOURCE_DISPLAY:1638	PROJECTED	ال محذوفة	CANDIDATE
+S090	2	1	اسم	الحمارة	فَعَالَّةٌ	الحَمَارَّةُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح م ر	حمر	HFN-R01169	3803	M02#ROOT_SOURCE_DISPLAY:0867	PROJECTED	ال محذوفة	CANDIDATE
+S090	3	1	اسم	العبالة	فَعَالَّةٌ	العَبَالَّةُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ب ل	عبل	HFN-R03289	4664	M02#ROOT_SOURCE_DISPLAY:2470	PROJECTED	ال محذوفة	CANDIDATE
+S091	1	1	اسم	الهبارية	فُعَالِيَةٌ	الهُبَارِيَةُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ب ر	هبر	HFN-R05378	1568	M02#ROOT_SOURCE_DISPLAY:4108	PROJECTED	ال محذوفة	CANDIDATE
+S091	2	1	اسم	الصراحية	فُعَالِيَةٌ	الصُرَاحِيَةُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ر ح	صرح	HFN-R02851	4323	M02#ROOT_SOURCE_DISPLAY:2150	PROJECTED	ال محذوفة	CANDIDATE
+S091	3	2	صفة	العفارية	فُعَالِيَةٌ	العُفَارِيَةُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ف ر	عفر	HFN-R03427	4564	M02#ROOT_SOURCE_DISPLAY:2589	PROJECTED	ال محذوفة	CANDIDATE
+S091	4	2	صفة	القراسية	فُعَالِيَةٌ	القُرَاسِيَةُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر س	قرس	HFN-R04028	388	M02#ROOT_SOURCE_DISPLAY:3072	PROJECTED	ال محذوفة	CANDIDATE
+S092	1	1	اسم	الكراهية	فَعَالِيَةٌ	الكَرَاهِيَةُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ر ه	كره	HFN-R04311	628	M02#ROOT_SOURCE_DISPLAY:3289	PROJECTED	ال محذوفة	CANDIDATE
+S092	2	1	اسم	الرفاهية	فَعَالِيَةٌ	الرَفَاهِيَةُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ف ه	رفه	HFN-R02001	2540	M02#ROOT_SOURCE_DISPLAY:1500	PROJECTED	ال محذوفة	CANDIDATE
+S092	3	2	صفة	العباقية	فَعَالِيَةٌ	العَبَاقِيَةُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ب ق	عبق	HFN-R03287	4662	M02#ROOT_SOURCE_DISPLAY:2468	PROJECTED	ال محذوفة	CANDIDATE
+S092	4	2	صفة	حزابية	فَعَالِيَةٌ	حَزَابِيَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ز ب	حزب	HFN-R01056	3725	M02#ROOT_SOURCE_DISPLAY:0771	PROJECTED		CANDIDATE
+S095	1	1	اسم	علقى	فَعْلَى	عَلْقَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ل ق	علق	HFN-R03477	4603	M02#ROOT_SOURCE_DISPLAY:2633	PROJECTED		CANDIDATE
+S095	2	1	اسم	تترى	فَعْلَى	تَتْرَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ت ت ر	تتر				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S095	3	1	اسم	أرطى	فَعْلَى	أَرْطَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	أ ر ط	ءرط	HFN-R00080	3040	M02#ROOT_SOURCE_DISPLAY:0058	PROJECTED		CANDIDATE
+S096	1	1	اسم	ذفرى	فِعْلَى	ذِفْرَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ذ ف ر	ذفر	HFN-R01748	2326	M02#ROOT_SOURCE_DISPLAY:1302	PROJECTED		CANDIDATE
+S096	2	1	اسم	معزى	فِعْلَى	مِعْزَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	م ع ز	معز	HFN-R04882	1115	M02#ROOT_SOURCE_DISPLAY:3713	PROJECTED		CANDIDATE
+S097	1	1		(بهماة)	فُعْلَى								LENGTH_MISMATCH	حروف المثال 0 وحروف القالب 4	CANDIDATE
+S098	1	1	اسم	سلمى	فَعْلَى	سَلْمَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ل م	سلم	HFN-R02463	2918	M02#ROOT_SOURCE_DISPLAY:1859	PROJECTED		CANDIDATE
+S098	2	1	اسم	رضوى	فَعْلَى	رَضْوَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ض و	رضو	HFN-R01944	2492		PROJECTED		CANDIDATE
+S098	3	2	صفة	عبرى	فَعْلَى	عَبْرَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ب ر	عبر	HFN-R03283	4659	M02#ROOT_SOURCE_DISPLAY:2465	PROJECTED		CANDIDATE
+S098	4	2	صفة	عطشى	فَعْلَى	عَطْشَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ط ش	عطش	HFN-R03412	4762	M02#ROOT_SOURCE_DISPLAY:2577	PROJECTED		CANDIDATE
+S099	1	1	اسم	ذفرى	فِعْلَى	ذِفْرَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ذ ف ر	ذفر	HFN-R01748	2326	M02#ROOT_SOURCE_DISPLAY:1302	PROJECTED		CANDIDATE
+S099	2	1	اسم	ذكرى	فِعْلَى	ذِكْرَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ذ ك ر	ذكر	HFN-R01754	2331	M02#ROOT_SOURCE_DISPLAY:1306	PROJECTED		CANDIDATE
+S100	1	1	اسم	البهمى	فُعْلَى	البُهْمَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ه م	بهم	HFN-R00473	3321	M02#ROOT_SOURCE_DISPLAY:0343	PROJECTED	ال محذوفة	CANDIDATE
+S100	2	1	اسم	الحمى	فُعْلَى								LENGTH_MISMATCH	حروف المثال 5 وحروف القالب 4	CANDIDATE
+S100	3	1	اسم	الرؤيا	فُعْلَى	الرُؤْيَا	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ؤ ي	رءي	HFN-R01804	2369	M02#ROOT_SOURCE_DISPLAY:1339	PROJECTED	ال محذوفة	CANDIDATE
+S100	4	2	صفة	حبلى	فُعْلَى	حُبْلَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ب ل	حبل	HFN-R00988	3862	M02#ROOT_SOURCE_DISPLAY:0714	PROJECTED		CANDIDATE
+S100	5	2	صفة	أنثى	فُعْلَى	أُنْثَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	أ ن ث	ءنث	HFN-R00192	3114	M02#ROOT_SOURCE_DISPLAY:0135	PROJECTED		CANDIDATE
+S101	1	1	اسم	قلهى	فَعَلَى	قَلَهَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ل ه	قله	HFN-R04149	4821	M02#ROOT_SOURCE_DISPLAY:3171	PROJECTED		CANDIDATE
+S101	2	1	اسم	أجلى	فَعَلَى	أَجَلَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	أ ج ل	ءجل	HFN-R00046	4968		PROJECTED		CANDIDATE
+S101	3	1	اسم	دقرى	فَعَلَى	دَقَرَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ق ر	دقر	HFN-R01597	2206	M02#ROOT_SOURCE_DISPLAY:1195	PROJECTED		CANDIDATE
+S101	4	2	صفة	جمزى	فَعَلَى	جَمَزَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج م ز	جمز	HFN-R00909	3609	M02#ROOT_SOURCE_DISPLAY:0650	PROJECTED		CANDIDATE
+S101	5	2	صفة	بشكى	فَعَلَى	بَشَكَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ش ك	بشك	HFN-R00356	3238	M02#ROOT_SOURCE_DISPLAY:0253	PROJECTED		CANDIDATE
+S101	6	2	صفة	مرطى	فَعَلَى	مَرَطَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	م ر ط	مرط	HFN-R04808	1046	M02#ROOT_SOURCE_DISPLAY:3652	PROJECTED		CANDIDATE
+S102	1	1	اسم	شعبى	فُعَلَى	شُعَبَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ع ب	شعب	HFN-R02668	4043	M02#ROOT_SOURCE_DISPLAY:2022	PROJECTED		CANDIDATE
+S102	2	1	اسم	الأربى	فُعَلَى	الأُرَبَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	أ ر ب	ءرب	HFN-R00070	3046	M02#ROOT_SOURCE_DISPLAY:0050	PROJECTED	ال محذوفة	CANDIDATE
+S102	3	1	اسم	الأدمى	فُعَلَى	الأُدَمَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	أ د م	ءدم	HFN-R00063	3031	M02#ROOT_SOURCE_DISPLAY:0045	PROJECTED	ال محذوفة	CANDIDATE
+S106	1	1	اسم	جلباب	فِعْلَالٌ	جِلْبَابٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ل ب	جلب	HFN-R00886	3592	M02#ROOT_SOURCE_DISPLAY:0631	PROJECTED		CANDIDATE
+S106	2	1	اسم	قرطاط	فِعْلَالٌ	قِرْطَاطٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ط	قرط	HFN-R04032	392	M02#ROOT_SOURCE_DISPLAY:3076	PROJECTED		CANDIDATE
+S106	3	1	اسم	سنداد	فِعْلَالٌ	سِنْدَادٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ن د	سند	HFN-R02487	2939	M02#ROOT_SOURCE_DISPLAY:1882	PROJECTED		CANDIDATE
+S106	4	2	صفة	شملال	فِعْلَالٌ	شِمْلَالٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش م ل	شمل	HFN-R02743	4084	M02#ROOT_SOURCE_DISPLAY:2073	PROJECTED		CANDIDATE
+S106	5	2	صفة	طملال	فِعْلَالٌ	طِمْلَالٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ط م ل	طمل	HFN-R03210	4464	M02#ROOT_SOURCE_DISPLAY:2411	PROJECTED		CANDIDATE
+S107	1	1	اسم	قرطاط	فُعْلَالٌ	قُرْطَاطٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ط	قرط	HFN-R04032	392	M02#ROOT_SOURCE_DISPLAY:3076	PROJECTED		CANDIDATE
+S107	2	1	اسم	فسطاط	فُعْلَالٌ	فُسْطَاطٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف س ط	فسط	HFN-R03822	4818	M02#ROOT_SOURCE_DISPLAY:2908	PROJECTED		CANDIDATE
+S108	1	1	اسم	منقار	مِفْعَالٌ	مِنْقَارٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ق ر	نقر	HFN-R05268	1471	M02#ROOT_SOURCE_DISPLAY:4020	PROJECTED		CANDIDATE
+S108	2	1	اسم	مصباح	مِفْعَالٌ	مِصْبَاحٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ب ح	صبح	HFN-R02814	4293	M02#ROOT_SOURCE_DISPLAY:2117	PROJECTED		CANDIDATE
+S108	3	1	اسم	محراب	مِفْعَالٌ	مِحْرَابٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ر ب	حرب	HFN-R01036	3714	M02#ROOT_SOURCE_DISPLAY:0755	PROJECTED		CANDIDATE
+S108	4	2	صفة	مفساد	مِفْعَالٌ	مِفْسَادٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف س د	فسد	HFN-R03820	212	M02#ROOT_SOURCE_DISPLAY:2906	PROJECTED		CANDIDATE
+S108	5	2	صفة	مضحاك	مِفْعَالٌ	مِضْحَاكٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض ح ك	ضحك	HFN-R02993	4410	M02#ROOT_SOURCE_DISPLAY:2262	PROJECTED		CANDIDATE
+S109	1	1	اسم	تجفاف	تِفْعَالٌ	تِجْفَافٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ف ف	جفف	HFN-R00881	3506	M02#ROOT_SOURCE_DISPLAY:0627	PROJECTED		CANDIDATE
+S109	2	1	اسم	تمثال	تِفْعَالٌ	تِمْثَالٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	م ث ل	مثل	HFN-R04742	988	M02#ROOT_SOURCE_DISPLAY:3596	PROJECTED		CANDIDATE
+S109	3	1	اسم	تلقاء	تِفْعَالٌ	تِلْقَاءٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ل ق ء	لقء				PROJECTED_ROOT_AMBIGUOUS	أكثر من أصل محتمل: لقو | لقي	CANDIDATE
+S109	4	1	اسم	تبيان	تِفْعَالٌ	تِبْيَانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ي ن	بين	HFN-R00517	3348	M02#ROOT_SOURCE_DISPLAY:0373	PROJECTED		CANDIDATE
+S110	1	1	اسم	الكلاء	فَعَّالٌ	الكَلَّاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ل ء	كلء	HFN-R04374	679	M02#ROOT_SOURCE_DISPLAY:3331	PROJECTED	ال محذوفة	CANDIDATE
+S110	2	1	اسم	القذاف	فَعَّالٌ	القَذَّافُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ذ ف	قذف	HFN-R04016	377	M02#ROOT_SOURCE_DISPLAY:3063	PROJECTED	ال محذوفة	CANDIDATE
+S110	3	1	اسم	الجبان	فَعَّالٌ	الجَبَّانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ب ن	جبن	HFN-R00765	3666	M02#ROOT_SOURCE_DISPLAY:0538	PROJECTED	ال محذوفة	CANDIDATE
+S110	4	2	صفة	شراب	فَعَّالٌ	شَرَّابٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ر ب	شرب	HFN-R02620	4191	M02#ROOT_SOURCE_DISPLAY:1985	PROJECTED		CANDIDATE
+S110	5	2	صفة	لباس	فَعَّالٌ	لَبَّاسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ل ب س	لبس	HFN-R04472	762	M02#ROOT_SOURCE_DISPLAY:3406	PROJECTED		CANDIDATE
+S110	6	2	صفة	ركاب	فَعَّالٌ	رَكَّابٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ك ب	ركب	HFN-R02017	2555	M02#ROOT_SOURCE_DISPLAY:1516	PROJECTED		CANDIDATE
+S111	1	1	اسم	خطاف	فُعَّالٌ	خُطَّافٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ط ف	خطف	HFN-R01363	2028	M02#ROOT_SOURCE_DISPLAY:1026	PROJECTED		CANDIDATE
+S111	2	1	اسم	كلاب	فُعَّالٌ	كُلَّابٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ل ب	كلب	HFN-R04375	680	M02#ROOT_SOURCE_DISPLAY:3332	PROJECTED		CANDIDATE
+S111	3	1	اسم	نساف	فُعَّالٌ	نُسَّافٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن س ف	نسف	HFN-R05150	1358	M02#ROOT_SOURCE_DISPLAY:3917	PROJECTED		CANDIDATE
+S111	4	2	صفة	حسان	فُعَّالٌ	حُسَّانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح س ن	حسن	HFN-R01073	3731	M02#ROOT_SOURCE_DISPLAY:0787	PROJECTED		CANDIDATE
+S111	5	2	صفة	عوار	فُعَّالٌ	عُوَّارٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع و ر	عور	HFN-R03527	4638	M02#ROOT_SOURCE_DISPLAY:2676	PROJECTED		CANDIDATE
+S111	6	2	صفة	كرام	فُعَّالٌ	كُرَّامٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ر م	كرم	HFN-R04309	627	M02#ROOT_SOURCE_DISPLAY:3287	PROJECTED		CANDIDATE
+S112	1	1	اسم	الحناء	فِعَّالٌ	الحِنَّاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ن ء	حنء	HFN-R01182	5670		PROJECTED	ال محذوفة	CANDIDATE
+S112	2	1	اسم	القثاء	فِعَّالٌ	القِثَّاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ث ء	قثء	HFN-R03986	5030		PROJECTED	ال محذوفة	CANDIDATE
+S112	3	1	اسم	الكذاب	فِعَّالٌ	الكِذَّابُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ذ ب	كذب	HFN-R04289	612	M02#ROOT_SOURCE_DISPLAY:3274	PROJECTED	ال محذوفة	CANDIDATE
+S113	1	1	اسم	علباء	فِعْلاءٌ	عِلْباءٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ل ب	علب	HFN-R03465	4593	M02#ROOT_SOURCE_DISPLAY:2623	PROJECTED		CANDIDATE
+S113	2	1	اسم	خرشاء	فِعْلاءٌ	خِرْشاءٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ر ش	خرش	HFN-R01303	773	M02#ROOT_SOURCE_DISPLAY:0973	PROJECTED		CANDIDATE
+S113	3	1	اسم	حرباء	فِعْلاءٌ	حِرْباءٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ر ب	حرب	HFN-R01036	3714	M02#ROOT_SOURCE_DISPLAY:0755	PROJECTED		CANDIDATE
+S115	1	1	اسم	قوباء	فُعْلاءٌ	قُوْباءٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق و ب	قوب	HFN-R04192	532	M02#ROOT_SOURCE_DISPLAY:3207	PROJECTED		CANDIDATE
+S116	1	1	اسم	طرفاء	فَعْلاءُ	طَرْفاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ط ر ف	طرف	HFN-R03143	4513	M02#ROOT_SOURCE_DISPLAY:2371	PROJECTED		CANDIDATE
+S116	2	1	اسم	حلفاء	فَعْلاءُ	حَلْفاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ل ف	حلف	HFN-R01158	3799	M02#ROOT_SOURCE_DISPLAY:0859	PROJECTED		CANDIDATE
+S116	3	1	اسم	قصباء	فَعْلاءُ	قَصْباءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ص ب	قصب	HFN-R04068	426	M02#ROOT_SOURCE_DISPLAY:3105	PROJECTED		CANDIDATE
+S116	4	2	صفة	خضراء	فَعْلاءُ	خَضْراءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ض ر	خضر	HFN-R01352	2018	M02#ROOT_SOURCE_DISPLAY:1017	PROJECTED		CANDIDATE
+S116	5	2	صفة	سوداء	فَعْلاءُ	سَوْداءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س و د	سود	HFN-R02514	2961	M02#ROOT_SOURCE_DISPLAY:1902	PROJECTED		CANDIDATE
+S116	6	2	صفة	صفراء	فَعْلاءُ	صَفْراءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ف ر	صفر	HFN-R02879	4233	M02#ROOT_SOURCE_DISPLAY:2172	PROJECTED		CANDIDATE
+S117	1	1	اسم	خضارى	فُعَالَى	خُضَارَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ض ر	خضر	HFN-R01352	2018	M02#ROOT_SOURCE_DISPLAY:1017	PROJECTED		CANDIDATE
+S117	2	1	اسم	شقارى	فُعَالَى	شُقَارَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ق ر	شقر	HFN-R02702	4064	M02#ROOT_SOURCE_DISPLAY:2048	PROJECTED		CANDIDATE
+S117	3	1	اسم	حوارى	فُعَالَى	حُوَارَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح و ر	حور	HFN-R01207	3829	M02#ROOT_SOURCE_DISPLAY:0893	PROJECTED		CANDIDATE
+S118	1	1	اسم	القوباء	فُعَلاءُ	القُوَباءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق و ب	قوب	HFN-R04192	532	M02#ROOT_SOURCE_DISPLAY:3207	PROJECTED	ال محذوفة	CANDIDATE
+S118	2	1	اسم	الرخصاء	فُعَلاءُ	الرُخَصاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر خ ص	رخص	HFN-R01870	2429	M02#ROOT_SOURCE_DISPLAY:1389	PROJECTED	ال محذوفة	CANDIDATE
+S118	3	1	اسم	الخيلاء	فُعَلاءُ	الخُيَلاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ي ل	خيل	HFN-R01466	2104	M02#ROOT_SOURCE_DISPLAY:1096	PROJECTED	ال محذوفة	CANDIDATE
+S118	4	2	صفة	العشراء	فُعَلاءُ	العُشَراءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ش ر	عشر	HFN-R03385	4740	M02#ROOT_SOURCE_DISPLAY:2551	PROJECTED	ال محذوفة	CANDIDATE
+S118	5	2	صفة	النفساء	فُعَلاءُ	النُفَساءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ف س	نفس	HFN-R05247	1452	M02#ROOT_SOURCE_DISPLAY:4003	PROJECTED	ال محذوفة	CANDIDATE
+S119	1	1	اسم	الخيلاء	فِعَلاءُ	الخِيَلاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ي ل	خيل	HFN-R01466	2104	M02#ROOT_SOURCE_DISPLAY:1096	PROJECTED	ال محذوفة	CANDIDATE
+S119	2	1	اسم	السيراء	فِعَلاءُ	السِيَراءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ي ر	سير	HFN-R02532	2975	M02#ROOT_SOURCE_DISPLAY:1917	PROJECTED	ال محذوفة	CANDIDATE
+S120	1	1	اسم	قرماء	فَعَلاءُ	قَرَماءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر م	قرم	HFN-R04037	398	M02#ROOT_SOURCE_DISPLAY:3080	PROJECTED		CANDIDATE
+S120	2	1	اسم	جنفاء	فَعَلاءُ	جَنَفاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ن ف	جنف	HFN-R00925	3623	M02#ROOT_SOURCE_DISPLAY:0665	PROJECTED		CANDIDATE
+S121	1	1	اسم	طومار	فُوعَالٌ	طُومَارٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ط م ر	طمر	HFN-R03206	4460	M02#ROOT_SOURCE_DISPLAY:2407	PROJECTED		CANDIDATE
+S121	2	1	اسم	سولاف	فُوعَالٌ	سُولَافٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ل ف	سلف	HFN-R02459	2914	M02#ROOT_SOURCE_DISPLAY:1856	PROJECTED		CANDIDATE
+S122	1	1	اسم	السعدان	فَعْلانُ	السَعْدانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ع د	سعد	HFN-R02401	2863	M02#ROOT_SOURCE_DISPLAY:1808	PROJECTED	ال محذوفة	CANDIDATE
+S122	2	1	اسم	الضمران	فَعْلانُ	الضَمْرانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض م ر	ضمر	HFN-R03049	4360	M02#ROOT_SOURCE_DISPLAY:2308	PROJECTED	ال محذوفة	CANDIDATE
+S122	3	2	صفة	الريان	فَعْلانُ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 5	CANDIDATE
+S122	4	2	صفة	العطشان	فَعْلانُ	العَطْشانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ط ش	عطش	HFN-R03412	4762	M02#ROOT_SOURCE_DISPLAY:2577	PROJECTED	ال محذوفة	CANDIDATE
+S123	1	1	اسم	الكروان	فَعَلانٌ	الكَرَوانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ر و	كرو	HFN-R04312	629		PROJECTED	ال محذوفة	CANDIDATE
+S123	2	1	اسم	الورشان	فَعَلانٌ	الوَرَشانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	و ر ش	ورش	HFN-R05698	1828	M02#ROOT_SOURCE_DISPLAY:4354	PROJECTED	ال محذوفة	CANDIDATE
+S123	3	1	اسم	العلجان	فَعَلانٌ	العَلَجانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ل ج	علج	HFN-R03468	4595	M02#ROOT_SOURCE_DISPLAY:2625	PROJECTED	ال محذوفة	CANDIDATE
+S123	4	2	صفة	الصميان	فَعَلانٌ	الصَمَيانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص م ي	صمي	HFN-R02918	4251	M02#ROOT_SOURCE_DISPLAY:2206	PROJECTED	ال محذوفة	CANDIDATE
+S123	5	2	صفة	القطوان	فَعَلانٌ	القَطَوانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ط و	قطو	HFN-R04095	451	M02#ROOT_SOURCE_DISPLAY:3127	PROJECTED	ال محذوفة	CANDIDATE
+S124	1	1	اسم	عثمان	فُعْلانٌ	عُثْمانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ث م	عثم	HFN-R03306	4676	M02#ROOT_SOURCE_DISPLAY:2483	PROJECTED		CANDIDATE
+S124	2	1	اسم	دكان	فُعْلانٌ								LENGTH_MISMATCH	حروف المثال 4 وحروف القالب 5	CANDIDATE
+S124	3	1	اسم	ذبيان	فُعْلانٌ	ذُبْيانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ذ ب ي	ذبي	HFN-R01724	5923		PROJECTED		CANDIDATE
+S124	4	2	صفة	عريان	فُعْلانٌ	عُرْيانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ر ي	عري	HFN-R03359	5011		PROJECTED		CANDIDATE
+S124	5	2	صفة	خمصان	فُعْلانٌ	خُمْصانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ م ص	خمص	HFN-R01410	2064	M02#ROOT_SOURCE_DISPLAY:1058	PROJECTED		CANDIDATE
+S125	1	1	اسم	ضبعان	فِعْلانٌ	ضِبْعانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض ب ع	ضبع	HFN-R02984	4401	M02#ROOT_SOURCE_DISPLAY:2254	PROJECTED		CANDIDATE
+S125	2	1	اسم	سرحان	فِعْلانٌ	سِرْحانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ر ح	سرح	HFN-R02376	2846	M02#ROOT_SOURCE_DISPLAY:1793	PROJECTED		CANDIDATE
+S125	3	1	اسم	إنسان	فِعْلانٌ	إِنْسانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	إ ن س	ءنس	HFN-R00194	3116	M02#ROOT_SOURCE_DISPLAY:0137	PROJECTED		CANDIDATE
+S126	1	1	اسم	الظربان	فَعِلانٌ	الظَرِبانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ظ ر ب	ظرب	HFN-R03262	4540	M02#ROOT_SOURCE_DISPLAY:2448	PROJECTED	ال محذوفة	CANDIDATE
+S126	2	1	اسم	القطران	فَعِلانٌ	القَطِرانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ط ر	قطر	HFN-R04087	443	M02#ROOT_SOURCE_DISPLAY:3121	PROJECTED	ال محذوفة	CANDIDATE
+S126	3	1	اسم	الشقران	فَعِلانٌ	الشَقِرانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ق ر	شقر	HFN-R02702	4064	M02#ROOT_SOURCE_DISPLAY:2048	PROJECTED	ال محذوفة	CANDIDATE
+S127	1	1	اسم	السبعان	فَعُلانٌ	السَبُعانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ب ع	سبع	HFN-R02306	2790	M02#ROOT_SOURCE_DISPLAY:1736	PROJECTED	ال محذوفة	CANDIDATE
+S130	1	1	اسم	السلطان	فُعُلانٌ	السُلُطانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ل ط	سلط	HFN-R02456	2911	M02#ROOT_SOURCE_DISPLAY:1853	PROJECTED	ال محذوفة	CANDIDATE
+S131	1	1	اسم	جلواخ	فِعْوالٌ	جِلْواخٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ل خ	جلخ	HFN-R00890	3595		PROJECTED		CANDIDATE
+S131	2	1	اسم	قرواح	فِعْوالٌ	قِرْواحٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ح	قرح	HFN-R04024	385	M02#ROOT_SOURCE_DISPLAY:3070	PROJECTED		CANDIDATE
+S131	3	1	اسم	درواس	فِعْوالٌ	دِرْواسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ر س	درس	HFN-R01539	2162	M02#ROOT_SOURCE_DISPLAY:1149	PROJECTED		CANDIDATE
+S131	4	2	صفة	عصواد	فِعْوالٌ	عِصْوادٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ص د	عصد	HFN-R03394	6584		PROJECTED		CANDIDATE
+S131	5	2	صفة	قرواش	فِعْوالٌ	قِرْواشٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ش	قرش	HFN-R04029	389	M02#ROOT_SOURCE_DISPLAY:3073	PROJECTED		CANDIDATE
+S132	1	1	اسم	جريال	فِعْيالٌ	جِرْيالٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ر ل	جرل	HFN-R00826	3548	M02#ROOT_SOURCE_DISPLAY:0586	PROJECTED		CANDIDATE
+S132	2	1	اسم	كرياس	فِعْيالٌ	كِرْياسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ر س	كرس	HFN-R04302	621	M02#ROOT_SOURCE_DISPLAY:3282	PROJECTED		CANDIDATE
+S133	1	1	اسم	الخيتام	فَيْعالٌ	الخَيْتامُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ت م	ختم	HFN-R01260	60	M02#ROOT_SOURCE_DISPLAY:0939	PROJECTED	ال محذوفة	CANDIDATE
+S133	2	1	اسم	الديماس	فَيْعالٌ	الدَيْماسُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د م س	دمس	HFN-R01636	2238	M02#ROOT_SOURCE_DISPLAY:1227	PROJECTED	ال محذوفة	CANDIDATE
+S133	3	1	اسم	الشيطان	فَيْعالٌ	الشَيْطانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ط ن	شطن	HFN-R02662	4032	M02#ROOT_SOURCE_DISPLAY:2016	PROJECTED	ال محذوفة	CANDIDATE
+S133	4	2	صفة	البيطار	فَيْعالٌ	البَيْطارُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ط ر	بطر	HFN-R00372	3252	M02#ROOT_SOURCE_DISPLAY:0267	PROJECTED	ال محذوفة	CANDIDATE
+S133	5	2	صفة	الغيداق	فَيْعالٌ	الغَيْداقُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	غ د ق	غدق	HFN-R03582	4791	M02#ROOT_SOURCE_DISPLAY:2716	PROJECTED	ال محذوفة	CANDIDATE
+S134	1	1	اسم	عصواد	فُعْوالٌ	عُصْوادٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ص د	عصد	HFN-R03394	6584		PROJECTED		CANDIDATE
+S134	2	1	اسم	عنوان	فُعْوالٌ	عُنْوانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ن ن	عنن	HFN-R03512	4545	M02#ROOT_SOURCE_DISPLAY:2650	PROJECTED		CANDIDATE
+S134	3	1	اسم	عتوارة	فُعْوالٌ	عُتْوارٌة	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ت ر	عتر	HFN-R03294	4668	M02#ROOT_SOURCE_DISPLAY:2475	PROJECTED	تاء زائدة على القالب	CANDIDATE
+S137	1	1	اسم	ديماس	فِيعالٌ	دِيماسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د م س	دمس	HFN-R01636	2238	M02#ROOT_SOURCE_DISPLAY:1227	PROJECTED		CANDIDATE
+S137	2	1	اسم	ديوان	فِيعالٌ	دِيوانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د و ن	دون	HFN-R01691	2283	M02#ROOT_SOURCE_DISPLAY:1266	PROJECTED		CANDIDATE
+S138	1	1	اسم	توارب	فَوْعالٌ								AUG_MISMATCH	الزائد «ا» قابله «ر»	CANDIDATE
+S139	1	1	صفة	قنعاس	فُنْعالٌ	قُنْعاسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ع س	قعس	HFN-R04101	456	M02#ROOT_SOURCE_DISPLAY:3133	PROJECTED		CANDIDATE
+S140	1	1	صفة	فرناس	فِعْنالٌ	فِرْناسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ر س	فرس	HFN-R03798	192	M02#ROOT_SOURCE_DISPLAY:2886	PROJECTED		CANDIDATE
+S141	1	1	اسم	القرنبى	فَعَنْلَى	القَرَنْبَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ب	قرب	HFN-R04021	382	M02#ROOT_SOURCE_DISPLAY:3068	PROJECTED	ال محذوفة	CANDIDATE
+S141	2	1	اسم	العلندى	فَعَنْلَى	العَلَنْدَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ل د	علد	HFN-R03469	4596	M02#ROOT_SOURCE_DISPLAY:2626	PROJECTED	ال محذوفة	CANDIDATE
+S141	3	2	صفة	الحبنطى	فَعَنْلَى	الحَبَنْطَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ب ط	حبط	HFN-R00985	3859	M02#ROOT_SOURCE_DISPLAY:0711	PROJECTED	ال محذوفة	CANDIDATE
+S141	4	2	صفة	السبندى	فَعَنْلَى	السَبَنْدَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ب د	سبد	HFN-R02302	2787	M02#ROOT_SOURCE_DISPLAY:1733	PROJECTED	ال محذوفة	CANDIDATE
+S142	1	1	صفة	عفرى	فِعِلْنًى								LENGTH_MISMATCH	حروف المثال 4 وحروف القالب 5	CANDIDATE
+S143	1	1	صفة	علدنى	فِعْلَنًى	عِلْدَنًى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ل د	علد	HFN-R03469	4596	M02#ROOT_SOURCE_DISPLAY:2626	PROJECTED		CANDIDATE
+S144	1	1	اسم	علادى	فُعَالَى	عُلَادَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ل د	علد	HFN-R03469	4596	M02#ROOT_SOURCE_DISPLAY:2626	PROJECTED		CANDIDATE
+S147	1	1	اسم	عنصلاء	فُنْعُلاءُ	عُنْصُلاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ص ل	عصل	HFN-R03397	4743	M02#ROOT_SOURCE_DISPLAY:2562	PROJECTED		CANDIDATE
+S148	1	1	اسم	حنفساء	فُنْعَلاءُ	حُنْفَساءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ف س	حفس	HFN-R01123	3773	M02#ROOT_SOURCE_DISPLAY:0828	PROJECTED		CANDIDATE
+S148	2	1	اسم	عنصلاء	فُنْعَلاءُ	عُنْصَلاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ص ل	عصل	HFN-R03397	4743	M02#ROOT_SOURCE_DISPLAY:2562	PROJECTED		CANDIDATE
+S148	3	1	اسم	حنظباء	فُنْعَلاءُ	حُنْظَباءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ظ ب	حظب	HFN-R01110	5646		PROJECTED		CANDIDATE
+S149	1	1	اسم	حوصلاء	فَوْعَلاءُ	حَوْصَلاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ص ل	حصل	HFN-R01092	3746	M02#ROOT_SOURCE_DISPLAY:0803	PROJECTED		CANDIDATE
+S150	1	1	اسم	الزمكى	فِعِلَّى	الزِمِكَّى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز م ك	زمك	HFN-R02231	2728	M02#ROOT_SOURCE_DISPLAY:1685	PROJECTED	ال محذوفة	CANDIDATE
+S150	2	1	اسم	الجرشى	فِعِلَّى	الجِرِشَّى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ر ش	جرش	HFN-R00822	3544	M02#ROOT_SOURCE_DISPLAY:0582	PROJECTED	ال محذوفة	CANDIDATE
+S150	3	1	اسم	العبدى	فِعِلَّى	العِبِدَّى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ب د	عبد	HFN-R03282	4658	M02#ROOT_SOURCE_DISPLAY:2464	PROJECTED	ال محذوفة	CANDIDATE
+S150	4	2	صفة	الكمرى	فِعِلَّى	الكِمِرَّى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك م ر	كمر	HFN-R04395	697	M02#ROOT_SOURCE_DISPLAY:3345	PROJECTED	ال محذوفة	CANDIDATE
+S151	1	1	اسم	العرضنى	فِعَلْنَى	العِرَضْنَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ر ض	عرض	HFN-R03351	4708	M02#ROOT_SOURCE_DISPLAY:2523	PROJECTED	ال محذوفة	CANDIDATE
+S152	1	1	اسم	عرضى	فِعَلَّى	عِرَضَّى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ر ض	عرض	HFN-R03351	4708	M02#ROOT_SOURCE_DISPLAY:2523	PROJECTED		CANDIDATE
+S153	1	1	اسم	دفقى									NO_TEMPLATE	القالب غير محدَّد في المصدر	CANDIDATE
+S154	1	1	اسم	جلندى	فُعَنْلَى	جُلَنْدَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ل د	جلد	HFN-R00891	3596	M02#ROOT_SOURCE_DISPLAY:0635	PROJECTED		CANDIDATE
+S155	1	1	اسم	الخيزلى	فَيْعَلَى	الخَيْزَلَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ز ل	خزل	HFN-R01319	1335	M02#ROOT_SOURCE_DISPLAY:0986	PROJECTED	ال محذوفة	CANDIDATE
+S156	1	1	اسم	الخوزلى	فَوْعَلَى	الخَوْزَلَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ز ل	خزل	HFN-R01319	1335	M02#ROOT_SOURCE_DISPLAY:0986	PROJECTED	ال محذوفة	CANDIDATE
+S157	1	1	اسم	بلنصى	فِعَنْلَى	بِلَنْصَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ل ص	بلص	HFN-R00437	3297	M02#ROOT_SOURCE_DISPLAY:0316	PROJECTED		CANDIDATE
+S160	1	1	اسم	حذرى	فِعِلَّى	حِذِرَّى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ذ ر	حذر	HFN-R01029	3701	M02#ROOT_SOURCE_DISPLAY:0752	PROJECTED		CANDIDATE
+S160	2	1	اسم	نذرى	فِعِلَّى	نِذِرَّى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ذ ر	نذر	HFN-R05119	1333	M02#ROOT_SOURCE_DISPLAY:3896	PROJECTED		CANDIDATE
+S161	1	1	اسم	الضيمران	فَيْعُلانٌ	الضَيْمُرانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض م ر	ضمر	HFN-R03049	4360	M02#ROOT_SOURCE_DISPLAY:2308	PROJECTED	ال محذوفة	CANDIDATE
+S161	2	1	اسم	الأيهقان	فَيْعُلانٌ	الأَيْهُقانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	أ ه ق	ءهق	HFN-R00205	5191		PROJECTED	ال محذوفة	CANDIDATE
+S161	3	1	اسم	الخيزران	فَيْعُلانٌ	الخَيْزُرانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ز ر	خزر	HFN-R01314	1213	M02#ROOT_SOURCE_DISPLAY:0983	PROJECTED	ال محذوفة	CANDIDATE
+S161	4	2	صفة	كيذبان	فَيْعُلانٌ	كَيْذُبانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ذ ب	كذب	HFN-R04289	612	M02#ROOT_SOURCE_DISPLAY:3274	PROJECTED		CANDIDATE
+S161	5	2	صفة	هيثمان	فَيْعُلانٌ	هَيْثُمانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ث م	هثم	HFN-R05399	1588	M02#ROOT_SOURCE_DISPLAY:4126	PROJECTED		CANDIDATE
+S162	1	1	اسم	قيقبان	فَيْعَلانٌ	قَيْقَبانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ق ب	ققب	HFN-R04128	6919		PROJECTED		CANDIDATE
+S162	2	1	اسم	سيسبان	فَيْعَلانٌ	سَيْسَبانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س س ب	سسب				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S162	3	2	صفة	الهيبان	فَيْعَلانٌ								LENGTH_MISMATCH	حروف المثال 7 وحروف القالب 6	CANDIDATE
+S164	1	1	اسم	الصليان	فِعْلِيانٌ								LENGTH_MISMATCH	حروف المثال 7 وحروف القالب 6	CANDIDATE
+S164	2	1	اسم	البليان	فِعْلِيانٌ								LENGTH_MISMATCH	حروف المثال 7 وحروف القالب 6	CANDIDATE
+S164	3	2	صفة	العنظيان	فِعْلِيانٌ	العِنْظِيانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ن ظ	عنظ				PROJECTED_ROOT_NOT_IN_BANK	ال محذوفة	CANDIDATE
+S165	1	1	اسم	العنظوان	فُعْلُوانٌ	العُنْظُوانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ن ظ	عنظ				PROJECTED_ROOT_NOT_IN_BANK	ال محذوفة	CANDIDATE
+S165	2	1	اسم	العنفوان	فُعْلُوانٌ	العُنْفُوانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ن ف	عنف	HFN-R03508	4624	M02#ROOT_SOURCE_DISPLAY:2660	PROJECTED	ال محذوفة	CANDIDATE
+S167	1	1	اسم	الحومان	فُعُلّانٌ	الحُوُمّانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح و م	حوم	HFN-R01218	3839	M02#ROOT_SOURCE_DISPLAY:0903	PROJECTED	ال محذوفة	CANDIDATE
+S167	2	2	صفة	عمدان	فُعُلّانٌ	عُمُدّانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع م د	عمد	HFN-R03487	4609	M02#ROOT_SOURCE_DISPLAY:2642	PROJECTED		CANDIDATE
+S167	3	2	صفة	الجلبان	فُعُلّانٌ	الجُلُبّانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ل ب	جلب	HFN-R00886	3592	M02#ROOT_SOURCE_DISPLAY:0631	PROJECTED	ال محذوفة	CANDIDATE
+S168	1	1	اسم	فركان	فِعِلّانٌ	فِرِكّانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ر ك	فرك	HFN-R03806	200	M02#ROOT_SOURCE_DISPLAY:2894	PROJECTED		CANDIDATE
+S168	2	1	اسم	عرفان	فِعِلّانٌ	عِرِفّانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ر ف	عرف	HFN-R03353	4709	M02#ROOT_SOURCE_DISPLAY:2524	PROJECTED		CANDIDATE
+S169	1	1	اسم	مكرمان	مَفْعَلانُ	مَكْرَمانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ر م	كرم	HFN-R04309	627	M02#ROOT_SOURCE_DISPLAY:3287	PROJECTED		CANDIDATE
+S169	2	1	اسم	ملأمان	مَفْعَلانُ	مَلْأَمانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ل أ م	لءم	HFN-R04461	752	M02#ROOT_SOURCE_DISPLAY:3394	PROJECTED		CANDIDATE
+S170	1	1	اسم	كبرياء	فِعْلِياءُ	كِبْرِياءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ب ر	كبر	HFN-R04236	567	M02#ROOT_SOURCE_DISPLAY:3235	PROJECTED		CANDIDATE
+S170	2	1	اسم	سيمياء	فِعْلِياءُ	سِيْمِياءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ي م	سيم	HFN-R02537	6171		PROJECTED		CANDIDATE
+S170	3	2	صفة	جربياء	فِعْلِياءُ	جِرْبِياءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ر ب	جرب	HFN-R00813	3554	M02#ROOT_SOURCE_DISPLAY:0574	PROJECTED		CANDIDATE
+S171	1	1	اسم	دبوقاء	فَعُولاءُ	دَبُوقاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ب ق	دبق	HFN-R01486	2119	M02#ROOT_SOURCE_DISPLAY:1111	PROJECTED		CANDIDATE
+S171	2	1	اسم	بروكاء	فَعُولاءُ	بَرُوكاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ر ك	برك	HFN-R00325	3213	M02#ROOT_SOURCE_DISPLAY:0231	PROJECTED		CANDIDATE
+S171	3	1	اسم	جلولاء	فَعُولاءُ	جَلُولاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ل ل	جلل	HFN-R00900	3507	M02#ROOT_SOURCE_DISPLAY:0642	PROJECTED		CANDIDATE
+S172	1	1	اسم	عشورى	فَعُولَى	عَشُورَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ش ر	عشر	HFN-R03385	4740	M02#ROOT_SOURCE_DISPLAY:2551	PROJECTED		CANDIDATE
+S176	1	1	اسم	الحلبلاب	فَعَلْعالٌ	الحَلَبْلابُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ل ب	حلب	HFN-R01151	3793	M02#ROOT_SOURCE_DISPLAY:0853	PROJECTED	ال محذوفة	CANDIDATE
+S176	2	2	صفة	السرطراط	فَعَلْعالٌ	السَرَطْراطُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ر ط	سرط	HFN-R02380	2850	M02#ROOT_SOURCE_DISPLAY:1795	PROJECTED	ال محذوفة	CANDIDATE
+S177	1	1	اسم	الفرنداد	فَعَنْلالٌ	الفَرَنْدادُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ر د	فرد	HFN-R03795	188	M02#ROOT_SOURCE_DISPLAY:2884	PROJECTED	ال محذوفة	CANDIDATE
+S178	1	1	اسم	عجيساء	فُعَيْلاءُ	عُجَيْساءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ج س	عجس	HFN-R03315	4682	M02#ROOT_SOURCE_DISPLAY:2491	PROJECTED		CANDIDATE
+S178	2	1	اسم	قريثاء	فُعَيْلاءُ	قُرَيْثاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ث	قرث	HFN-R04023	384		PROJECTED		CANDIDATE
+S179	1	1	اسم	قمحان	فُعَّلانٌ	قُمَّحانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق م ح	قمح	HFN-R04153	497	M02#ROOT_SOURCE_DISPLAY:3175	PROJECTED		CANDIDATE
+S180	1	1	اسم	السمهى	فُعَّلَى	السُمَّهَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س م ه	سمه	HFN-R02480	2934	M02#ROOT_SOURCE_DISPLAY:1874	PROJECTED	ال محذوفة	CANDIDATE
+S180	2	1	اسم	البدرى	فُعَّلَى	البُدَّرَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب د ر	بدر	HFN-R00291	3190	M02#ROOT_SOURCE_DISPLAY:0203	PROJECTED	ال محذوفة	CANDIDATE
+S181	1	1	اسم	حوتنان	فَوْعَلانٌ	حَوْتَنانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ت ن	حتن	HFN-R00999	3868	M02#ROOT_SOURCE_DISPLAY:0725	PROJECTED		CANDIDATE
+S181	2	1	اسم	حوفزان	فَوْعَلانٌ	حَوْفَزانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ف ز	حفز	HFN-R01122	3772	M02#ROOT_SOURCE_DISPLAY:0827	PROJECTED		CANDIDATE
+S182	1	1	اسم	مرعزاء	مِفْعِلّاءُ	مِرْعِزّاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ع ز	رعز	HFN-R01961	2505	M02#ROOT_SOURCE_DISPLAY:1466	PROJECTED		CANDIDATE
+S183	1	1	اسم	تئفان	فَعِلّانٌ	تَئِفّانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ت ئ ف	توف	HFN-R00626	5414		PROJECTED_ROOT_VIA_WEAK_VARIANT	الحرف الظاهر تءف ← الأصل توف (حرف علّة أو همزة منقلبة)	CANDIDATE
+S184	1	1	اسم	هجيرى	فِعِّيلَى	هِجِّيرَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ج ر	هجر	HFN-R05403	1593	M02#ROOT_SOURCE_DISPLAY:4130	PROJECTED		CANDIDATE
+S184	2	1	اسم	قتيتى	فِعِّيلَى	قِتِّيتَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ت ت	قتت	HFN-R03978	342	M02#ROOT_SOURCE_DISPLAY:3030	PROJECTED		CANDIDATE
+S184	3	1	اسم	حثيثى	فِعِّيلَى	حِثِّيثَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ث ث	حثث	HFN-R01002	3689	M02#ROOT_SOURCE_DISPLAY:0727	PROJECTED		CANDIDATE
+S185	1	1	اسم	معيوراء	مَفْعُولاءُ	مَعْيُوراءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ي ر	عير	HFN-R03545	4647	M02#ROOT_SOURCE_DISPLAY:2687	PROJECTED		CANDIDATE
+S185	2	2	صفة	المعلوجاء	مَفْعُولاءُ	المَعْلُوجاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ل ج	علج	HFN-R03468	4595	M02#ROOT_SOURCE_DISPLAY:2625	PROJECTED	ال محذوفة	CANDIDATE
+S185	3	2	صفة	المشيوخاء	مَفْعُولاءُ	المَشْيُوخاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ي خ	شيخ	HFN-R02795	4117	M02#ROOT_SOURCE_DISPLAY:2107	PROJECTED	ال محذوفة	CANDIDATE
+S186	1	1	اسم	لغيزى	فُعَّيْلَى	لُغَّيْزَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ل غ ز	لغز	HFN-R04596	869	M02#ROOT_SOURCE_DISPLAY:3498	PROJECTED		CANDIDATE
+S186	2	1	اسم	بقيرى	فُعَّيْلَى	بُقَّيْرَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ق ر	بقر	HFN-R00411	4979		PROJECTED		CANDIDATE
+S186	3	1	اسم	خليطى	فُعَّيْلَى	خُلَّيْطَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ل ط	خلط	HFN-R01394	2052	M02#ROOT_SOURCE_DISPLAY:1046	PROJECTED		CANDIDATE
+S187	1	1	اسم	يهيرى	يَفْعَلَّى	يَهْيَرَّى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ي ر	هير	HFN-R05575	7269		PROJECTED		CANDIDATE
+S188	1	1	اسم	المرحيا	فَعْلَيّا	المَرْحَيّا	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	م ر ح	مرح	HFN-R04799	1037	M02#ROOT_SOURCE_DISPLAY:3645	PROJECTED	ال محذوفة	CANDIDATE
+S188	2	1	اسم	برديا	فَعْلَيّا	بَرْدَيّا	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ر د	برد	HFN-R00315	3222	M02#ROOT_SOURCE_DISPLAY:0223	PROJECTED		CANDIDATE
+S188	3	1	اسم	قلهيا	فَعْلَيّا	قَلْهَيّا	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ل ه	قله	HFN-R04149	4821	M02#ROOT_SOURCE_DISPLAY:3171	PROJECTED		CANDIDATE
+S189	1	1	اسم	رغبوتى	فَعَلُوتَى	رَغَبُوتَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر غ ب	رغب	HFN-R01974	2518	M02#ROOT_SOURCE_DISPLAY:1478	PROJECTED		CANDIDATE
+S189	2	1	اسم	رهبوتى	فَعَلُوتَى	رَهَبُوتَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ه ب	رهب	HFN-R02064	2592	M02#ROOT_SOURCE_DISPLAY:1558	PROJECTED		CANDIDATE
+S190	1	1	صفة	مكورى	مَفْعَلَّى	مَكْوَرَّى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك و ر	كور	HFN-R04435	730	M02#ROOT_SOURCE_DISPLAY:3375	PROJECTED		CANDIDATE
+S191	1	1	اسم	مرعزى	مِفْعِلَّى	مِرْعِزَّى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ع ز	رعز	HFN-R01961	2505	M02#ROOT_SOURCE_DISPLAY:1466	PROJECTED		CANDIDATE
+S192	1	1	اسم	اليرمع	يَفْعَلٌ	اليَرْمَعُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر م ع	رمع	HFN-R02041	2578	M02#ROOT_SOURCE_DISPLAY:1539	PROJECTED	ال محذوفة	CANDIDATE
+S192	2	1	اسم	اليعمل	يَفْعَلٌ	اليَعْمَلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع م ل	عمل	HFN-R03494	4614	M02#ROOT_SOURCE_DISPLAY:2647	PROJECTED	ال محذوفة	CANDIDATE
+S192	3	1	اسم	اليلمق	يَفْعَلٌ	اليَلْمَقُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ل م ق	لمق	HFN-R04652	917	M02#ROOT_SOURCE_DISPLAY:3535	PROJECTED	ال محذوفة	CANDIDATE
+S194	1	1	اسم	يربوع	يَفْعُولٌ	يَرْبُوعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ب ع	ربع	HFN-R01819	2384	M02#ROOT_SOURCE_DISPLAY:1352	PROJECTED		CANDIDATE
+S194	2	1	اسم	يعقوب	يَفْعُولٌ	يَعْقُوبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ق ب	عقب	HFN-R03439	4571	M02#ROOT_SOURCE_DISPLAY:2600	PROJECTED		CANDIDATE
+S194	3	1	اسم	يعسوب	يَفْعُولٌ	يَعْسُوبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع س ب	عسب	HFN-R03371	4732	M02#ROOT_SOURCE_DISPLAY:2538	PROJECTED		CANDIDATE
+S194	4	2	صفة	اليحموم	يَفْعُولٌ	اليَحْمُومُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح م م	حمم	HFN-R01179	3685	M02#ROOT_SOURCE_DISPLAY:0865	PROJECTED	ال محذوفة	CANDIDATE
+S194	5	2	صفة	اليخضور	يَفْعُولٌ	اليَخْضُورُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ض ر	خضر	HFN-R01352	2018	M02#ROOT_SOURCE_DISPLAY:1017	PROJECTED	ال محذوفة	CANDIDATE
+S195	1	1	اسم	يقطين	يَفْعِيلٌ	يَقْطِينٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ط ن	قطن	HFN-R04094	450	M02#ROOT_SOURCE_DISPLAY:3126	PROJECTED		CANDIDATE
+S195	2	1	اسم	يعضيد	يَفْعِيلٌ	يَعْضِيدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ض د	عضد	HFN-R03402	4754	M02#ROOT_SOURCE_DISPLAY:2567	PROJECTED		CANDIDATE
+S199	1	1	اسم	يلندد	يَفَنْعَلٌ	يَلَنْدَدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ل د د	لدد	HFN-R04530	814	M02#ROOT_SOURCE_DISPLAY:3450	PROJECTED		CANDIDATE
+S199	2	1	اسم	يلنجج	يَفَنْعَلٌ	يَلَنْجَجٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ل ج ج	لجج	HFN-R04496	784	M02#ROOT_SOURCE_DISPLAY:3421	PROJECTED		CANDIDATE
+S200	1	1	اسم	زينب	فَيْعَلٌ	زَيْنَبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز ن ب	زنب	HFN-R02237	2734		PROJECTED		CANDIDATE
+S200	2	1	اسم	خيعل	فَيْعَلٌ	خَيْعَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ع ل	خعل	HFN-R01370	5746		PROJECTED		CANDIDATE
+S200	3	1	اسم	غيلم	فَيْعَلٌ	غَيْلَمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	غ ل م	غلم	HFN-R03660	62	M02#ROOT_SOURCE_DISPLAY:2782	PROJECTED		CANDIDATE
+S200	4	2	صفة	الضيغم	فَيْعَلٌ	الضَيْغَمُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض غ م	ضغم	HFN-R03028	4346	M02#ROOT_SOURCE_DISPLAY:2291	PROJECTED	ال محذوفة	CANDIDATE
+S200	5	2	صفة	الصيرف	فَيْعَلٌ	الصَيْرَفُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ر ف	صرف	HFN-R02857	4319	M02#ROOT_SOURCE_DISPLAY:2155	PROJECTED	ال محذوفة	CANDIDATE
+S203	1	1	اسم	قيصوم	فَيْعُولٌ	قَيْصُومٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ص م	قصم	HFN-R04075	433	M02#ROOT_SOURCE_DISPLAY:3111	PROJECTED		CANDIDATE
+S203	2	1	اسم	الخيشوم	فَيْعُولٌ	الخَيْشُومُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ش م	خشم	HFN-R01338	1822	M02#ROOT_SOURCE_DISPLAY:1003	PROJECTED	ال محذوفة	CANDIDATE
+S203	3	1	اسم	الحيزوم	فَيْعُولٌ	الحَيْزُومُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ز م	حزم	HFN-R01061	3721	M02#ROOT_SOURCE_DISPLAY:0776	PROJECTED	ال محذوفة	CANDIDATE
+S203	4	2	صفة	عيثوم	فَيْعُولٌ	عَيْثُومٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ث م	عثم	HFN-R03306	4676	M02#ROOT_SOURCE_DISPLAY:2483	PROJECTED		CANDIDATE
+S203	5	2	صفة	قيوم	فَيْعُولٌ								LENGTH_MISMATCH	حروف المثال 4 وحروف القالب 5	CANDIDATE
+S203	6	2	صفة	ديموم	فَيْعُولٌ	دَيْمُومٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د م م	دمم	HFN-R01643	2245	M02#ROOT_SOURCE_DISPLAY:1222	PROJECTED		CANDIDATE
+S204	1	1	صفة	حيفس	فِيَعْلٌ	حِيَفْسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ف س	حفس	HFN-R01123	3773	M02#ROOT_SOURCE_DISPLAY:0828	PROJECTED		CANDIDATE
+S204	2	1	صفة	صيهم	فِيَعْلٌ	صِيَهْمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ه م	صهم	HFN-R02934	4273	M02#ROOT_SOURCE_DISPLAY:2219	PROJECTED		CANDIDATE
+S205	1	1	اسم	بعير	فَعِيلٌ	بَعِيرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ع ر	بعر	HFN-R00387	3263	M02#ROOT_SOURCE_DISPLAY:0278	PROJECTED		CANDIDATE
+S205	2	1	اسم	قضيب	فَعِيلٌ	قَضِيبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ض ب	قضب	HFN-R04079	436	M02#ROOT_SOURCE_DISPLAY:3114	PROJECTED		CANDIDATE
+S205	3	2	صفة	سعيد	فَعِيلٌ	سَعِيدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ع د	سعد	HFN-R02401	2863	M02#ROOT_SOURCE_DISPLAY:1808	PROJECTED		CANDIDATE
+S205	4	2	صفة	شديد	فَعِيلٌ	شَدِيدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش د د	شدد	HFN-R02606	4025	M02#ROOT_SOURCE_DISPLAY:1972	PROJECTED		CANDIDATE
+S205	5	2	صفة	ظريف	فَعِيلٌ	ظَرِيفٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ظ ر ف	ظرف	HFN-R03264	4539	M02#ROOT_SOURCE_DISPLAY:2449	PROJECTED		CANDIDATE
+S206	1	1	اسم	عثير	فِعْيَلٌ	عِثْيَرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ث ر	عثر	HFN-R03303	4675	M02#ROOT_SOURCE_DISPLAY:2482	PROJECTED		CANDIDATE
+S206	2	1	اسم	حمير	فِعْيَلٌ	حِمْيَرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح م ر	حمر	HFN-R01169	3803	M02#ROOT_SOURCE_DISPLAY:0867	PROJECTED		CANDIDATE
+S206	3	1	اسم	حثيل	فِعْيَلٌ	حِثْيَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ث ل	حثل	HFN-R01004	3874	M02#ROOT_SOURCE_DISPLAY:0729	PROJECTED		CANDIDATE
+S206	4	2	صفة	طريم	فِعْيَلٌ	طِرْيَمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ط ر م	طرم	HFN-R03145	4515	M02#ROOT_SOURCE_DISPLAY:2373	PROJECTED		CANDIDATE
+S208	1	1	اسم	حفيلل	فَعَيْلَلٌ	حَفَيْلَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ف ل	حفل	HFN-R01129	3765	M02#ROOT_SOURCE_DISPLAY:0833	PROJECTED		CANDIDATE
+S208	2	2	صفة	خفيدد	فَعَيْلَلٌ	خَفَيْدَدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ف د	خفد	HFN-R01374	2035	M02#ROOT_SOURCE_DISPLAY:1034	PROJECTED		CANDIDATE
+S209	1	1	صفة	هبيخ	فَعَيَّلٌ	هَبَيَّخٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ب خ	هبخ	HFN-R05375	4909	M02#ROOT_SOURCE_DISPLAY:4105	PROJECTED		CANDIDATE
+S209	2	1	صفة	الهبيغ	فَعَيَّلٌ	الهَبَيَّغُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ب غ	هبغ	HFN-R05384	1574	M02#ROOT_SOURCE_DISPLAY:4114	PROJECTED	ال محذوفة	CANDIDATE
+S210	1	1	صفة	خفيفد	فَعَيْعَلٌ	خَفَيْفَدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ف د	خفد	HFN-R01374	2035	M02#ROOT_SOURCE_DISPLAY:1034	PROJECTED		CANDIDATE
+S211	1	1	اسم	كديون	فِعْيَوْلٌ	كِدْيَوْنٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك د ن	كدن	HFN-R04285	608	M02#ROOT_SOURCE_DISPLAY:3270	PROJECTED		CANDIDATE
+S211	2	1	اسم	ذهيوط	فِعْيَوْلٌ	ذِهْيَوْطٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ذ ه ط	ذهط	HFN-R01772	5931		PROJECTED		CANDIDATE
+S212	1	1	اسم	عليب	فُعَيِّلٌ	عُلَيِّبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ل ب	علب	HFN-R03465	4593	M02#ROOT_SOURCE_DISPLAY:2623	PROJECTED		CANDIDATE
+S213	1	1	اسم	حذرية	فِعْلِيَةٌ	حِذْرِيَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ذ ر	حذر	HFN-R01029	3701	M02#ROOT_SOURCE_DISPLAY:0752	PROJECTED		CANDIDATE
+S213	2	1	اسم	هبرية	فِعْلِيَةٌ	هِبْرِيَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ب ر	هبر	HFN-R05378	1568	M02#ROOT_SOURCE_DISPLAY:4108	PROJECTED		CANDIDATE
+S213	3	2	صفة	الزبنية	فِعْلِيَةٌ	الزِبْنِيَةُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز ب ن	زبن	HFN-R02132	2646	M02#ROOT_SOURCE_DISPLAY:1610	PROJECTED	ال محذوفة	CANDIDATE
+S213	4	2	صفة	العفرية	فِعْلِيَةٌ	العِفْرِيَةُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ف ر	عفر	HFN-R03427	4564	M02#ROOT_SOURCE_DISPLAY:2589	PROJECTED	ال محذوفة	CANDIDATE
+S217	1	1	اسم	السكين	فِعِّيلٌ	السِكِّينُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ك ن	سكن	HFN-R02448	2903	M02#ROOT_SOURCE_DISPLAY:1845	PROJECTED	ال محذوفة	CANDIDATE
+S217	2	1	اسم	البطيخ	فِعِّيلٌ	البِطِّيخُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ط خ	بطخ	HFN-R00371	3251	M02#ROOT_SOURCE_DISPLAY:0266	PROJECTED	ال محذوفة	CANDIDATE
+S217	3	2	صفة	الشريب	فِعِّيلٌ	الشِرِّيبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ر ب	شرب	HFN-R02620	4191	M02#ROOT_SOURCE_DISPLAY:1985	PROJECTED	ال محذوفة	CANDIDATE
+S217	4	2	صفة	الفسيق	فِعِّيلٌ	الفِسِّيقُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف س ق	فسق	HFN-R03823	214	M02#ROOT_SOURCE_DISPLAY:2909	PROJECTED	ال محذوفة	CANDIDATE
+S219	1	1	اسم	المريق	فُعِّيلٌ	المُرِّيقُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	م ر ق	مرق	HFN-R04811	1049	M02#ROOT_SOURCE_DISPLAY:3655	PROJECTED	ال محذوفة	CANDIDATE
+S219	2	2	صفة	كوكب دريء	فُعِّيلٌ								PHRASE	أكثر من كلمة	CANDIDATE
+S220	1	1	اسم	العليق	فُعَّيْلٌ	العُلَّيْقُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ل ق	علق	HFN-R03477	4603	M02#ROOT_SOURCE_DISPLAY:2633	PROJECTED	ال محذوفة	CANDIDATE
+S220	2	1	اسم	القبيط	فُعَّيْلٌ	القُبَّيْطُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ب ط	قبط	HFN-R03972	336	M02#ROOT_SOURCE_DISPLAY:3025	PROJECTED	ال محذوفة	CANDIDATE
+S220	3	2	صفة	الزميل	فُعَّيْلٌ	الزُمَّيْلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز م ل	زمل	HFN-R02232	2729	M02#ROOT_SOURCE_DISPLAY:1686	PROJECTED	ال محذوفة	CANDIDATE
+S220	4	2	صفة	السكيت	فُعَّيْلٌ	السُكَّيْتُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ك ت	سكت	HFN-R02442	2897	M02#ROOT_SOURCE_DISPLAY:1841	PROJECTED	ال محذوفة	CANDIDATE
+S222	1	1	اسم	منديل	مِفْعِيلٌ	مِنْدِيلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن د ل	ندل	HFN-R05114	1329	M02#ROOT_SOURCE_DISPLAY:3892	PROJECTED		CANDIDATE
+S222	2	1	اسم	مشريق	مِفْعِيلٌ	مِشْرِيقٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ر ق	شرق	HFN-R02636	4187	M02#ROOT_SOURCE_DISPLAY:1997	PROJECTED		CANDIDATE
+S222	3	2	صفة	منطيق	مِفْعِيلٌ	مِنْطِيقٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ط ق	نطق	HFN-R05204	1410	M02#ROOT_SOURCE_DISPLAY:3962	PROJECTED		CANDIDATE
+S222	4	2	صفة	مسكين	مِفْعِيلٌ	مِسْكِينٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ك ن	سكن	HFN-R02448	2903	M02#ROOT_SOURCE_DISPLAY:1845	PROJECTED		CANDIDATE
+S226	1	1	اسم	حلتيت	فِعْلِيلٌ	حِلْتِيتٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ل ت	حلت	HFN-R01152	3794	M02#ROOT_SOURCE_DISPLAY:0854	PROJECTED		CANDIDATE
+S226	2	1	اسم	خنزير	فِعْلِيلٌ								RADICAL_CONFLICT	R3: «ز» و«ر»	CANDIDATE
+S226	3	2	صفة	صهميم	فِعْلِيلٌ	صِهْمِيمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ه م	صهم	HFN-R02934	4273	M02#ROOT_SOURCE_DISPLAY:2219	PROJECTED		CANDIDATE
+S226	4	2	صفة	صنديد	فِعْلِيلٌ	صِنْدِيدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ن د	صند	HFN-R02922	4263	M02#ROOT_SOURCE_DISPLAY:2209	PROJECTED		CANDIDATE
+S226	5	2	صفة	شمليل	فِعْلِيلٌ	شِمْلِيلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش م ل	شمل	HFN-R02743	4084	M02#ROOT_SOURCE_DISPLAY:2073	PROJECTED		CANDIDATE
+S229	1	1	اسم	عفريت	فِعْلِيتٌ	عِفْرِيتٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ف ر	عفر	HFN-R03427	4564	M02#ROOT_SOURCE_DISPLAY:2589	PROJECTED		CANDIDATE
+S229	2	2	صفة	عزويت	فِعْلِيتٌ	عِزْوِيتٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ز و	عزو	HFN-R03370	4722	M01#row=4722	PROJECTED		CANDIDATE
+S233	1	1	اسم	غسلين	فِعْلِينٌ	غِسْلِينٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	غ س ل	غسل	HFN-R03611	21	M02#ROOT_SOURCE_DISPLAY:2744	PROJECTED		CANDIDATE
+S234	1	1	اسم	حمصيص	فُعَلِيلٌ	حُمَصِيصٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح م ص	حمص	HFN-R01173	3807	M02#ROOT_SOURCE_DISPLAY:0871	PROJECTED		CANDIDATE
+S234	2	2	صفة	صمكيك	فُعَلِيلٌ	صُمَكِيكٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص م ك	صمك	HFN-R02915	4260	M02#ROOT_SOURCE_DISPLAY:2204	PROJECTED		CANDIDATE
+S235	1	1	اسم	بلهنية	فَعَلْنِيَةٌ	بَلَهْنِيَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ل ه	بله	HFN-R00445	3287	M02#ROOT_SOURCE_DISPLAY:0322	PROJECTED		CANDIDATE
+S236	1	1	اسم	قلنسية	فَعَنْلِيَةٌ	قَلَنْسِيَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ل س	قلس	HFN-R04140	487	M02#ROOT_SOURCE_DISPLAY:3164	PROJECTED		CANDIDATE
+S237	1	1	اسم	مرمريس	فَعْفَعِيلٌ	مَرْمَرِيسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	م ر س	مرس	HFN-R04804	1042	M02#ROOT_SOURCE_DISPLAY:3649	PROJECTED		CANDIDATE
+S238	1	1	صفة	خنفقيق	فَنْعَلِيلٌ	خَنْفَقِيقٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ف ق	خفق	HFN-R01381	2042	M02#ROOT_SOURCE_DISPLAY:1037	PROJECTED		CANDIDATE
+S238	2	1	صفة	خنشليل	فَنْعَلِيلٌ	خَنْشَلِيلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ش ل	خشل	HFN-R01337	1783	M02#ROOT_SOURCE_DISPLAY:1002	PROJECTED		CANDIDATE
+S239	1	1	اسم	قنبر	فُنْعُلٌ	قُنْبُرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ب ر	قبر	HFN-R03967	331	M02#ROOT_SOURCE_DISPLAY:3021	PROJECTED		CANDIDATE
+S239	2	1	اسم	عنطب	فُنْعُلٌ	عُنْطُبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ط ب	عطب	HFN-R03409	4759	M02#ROOT_SOURCE_DISPLAY:2573	PROJECTED		CANDIDATE
+S239	3	1	اسم	عنصل	فُنْعُلٌ	عُنْصُلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ص ل	عصل	HFN-R03397	4743	M02#ROOT_SOURCE_DISPLAY:2562	PROJECTED		CANDIDATE
+S240	1	1	اسم	جندب	فُنْعَلٌ	جُنْدَبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج د ب	جدب	HFN-R00791	3532	M02#ROOT_SOURCE_DISPLAY:0556	PROJECTED		CANDIDATE
+S241	1	1	صفة	عنسل	فَنْعَلٌ	عَنْسَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع س ل	عسل	HFN-R03379	4728	M02#ROOT_SOURCE_DISPLAY:2545	PROJECTED		CANDIDATE
+S241	2	1	صفة	عنبس	فَنْعَلٌ	عَنْبَسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ب س	عبس	HFN-R03284	4660	M02#ROOT_SOURCE_DISPLAY:2466	PROJECTED		CANDIDATE
+S242	1	1	صفة	حنظأو	فِنْعَلْوٌ	حِنْظَأْوٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ظ أ	حظء	HFN-R01109	5645		PROJECTED		CANDIDATE
+S242	2	1	صفة	كندأو	فِنْعَلْوٌ	كِنْدَأْوٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك د أ	كدء	HFN-R04275	600		PROJECTED		CANDIDATE
+S242	3	1	صفة	سندأو	فِنْعَلْوٌ	سِنْدَأْوٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س د أ	سدء	HFN-R02356	6070		PROJECTED		CANDIDATE
+S242	4	1	صفة	قندأو	فِنْعَلْوٌ	قِنْدَأْوٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق د أ	قدء	HFN-R04003	6841		PROJECTED		CANDIDATE
+S243	1	1	صفة	رعشن	فَعْلَنٌ	رَعْشَنٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ع ش	رعش	HFN-R01963	2507	M02#ROOT_SOURCE_DISPLAY:1468	PROJECTED		CANDIDATE
+S243	2	1	صفة	ضيفن	فَعْلَنٌ	ضَيْفَنٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض ي ف	ضيف	HFN-R03091	4387	M02#ROOT_SOURCE_DISPLAY:2335	PROJECTED		CANDIDATE
+S243	3	1	صفة	علجن	فَعْلَنٌ	عَلْجَنٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ل ج	علج	HFN-R03468	4595	M02#ROOT_SOURCE_DISPLAY:2625	PROJECTED		CANDIDATE
+S244	1	1	اسم	فرسن	فِعْلِنٌ	فِرْسِنٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ر س	فرس	HFN-R03798	192	M02#ROOT_SOURCE_DISPLAY:2886	PROJECTED		CANDIDATE
+S247	1	1	اسم	عقنقل	فَعَنْعَلٌ	عَقَنْقَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ق ل	عقل	HFN-R03448	4569	M02#ROOT_SOURCE_DISPLAY:2606	PROJECTED		CANDIDATE
+S247	2	1	اسم	عصنصر	فَعَنْعَلٌ	عَصَنْصَرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ص ر	عصر	HFN-R03395	4748	M02#ROOT_SOURCE_DISPLAY:2560	PROJECTED		CANDIDATE
+S248	1	1	صفة	ضفندد	فَعَنْلَلٌ	ضَفَنْدَدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض ف د	ضفد	HFN-R03031	6373		PROJECTED		CANDIDATE
+S248	2	1	صفة	عفنجج	فَعَنْلَلٌ	عَفَنْجَجٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ف ج	عفج	HFN-R03425	4563	M02#ROOT_SOURCE_DISPLAY:2588	PROJECTED		CANDIDATE
+S249	1	1	صفة	عرند	فُعُنْلٌ	عُرُنْدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ر د	عرد	HFN-R03345	4717	M02#ROOT_SOURCE_DISPLAY:2518	PROJECTED		CANDIDATE
+S250	1	1	اسم	جرنبة	فُعُنْلَةٌ	جُرُنْبَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ر ب	جرب	HFN-R00813	3554	M02#ROOT_SOURCE_DISPLAY:0574	PROJECTED		CANDIDATE
+S251	1	1	اسم	تنضب	تَفْعُلٌ	تَنْضُبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ض ب	نضب	HFN-R05186	1393	M02#ROOT_SOURCE_DISPLAY:3950	PROJECTED		CANDIDATE
+S251	2	1	اسم	تتفل	تَفْعُلٌ	تَتْفُلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ت ف ل	تفل	HFN-R00579	3382	M02#ROOT_SOURCE_DISPLAY:0408	PROJECTED		CANDIDATE
+S252	1	1	اسم	تدرأ	تُفْعَلٌ	تُدْرَأٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ر أ	درء	HFN-R01532	2155		PROJECTED		CANDIDATE
+S252	2	1	اسم	ترتب	تُفْعَلٌ	تُرْتَبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ت ب	رتب	HFN-R01827	2391		PROJECTED		CANDIDATE
+S252	3	2	صفة	أمر ترتب	تُفْعَلٌ								PHRASE	أكثر من كلمة	CANDIDATE
+S253	1	1	اسم	تتفل	تُفْعُلٌ	تُتْفُلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ت ف ل	تفل	HFN-R00579	3382	M02#ROOT_SOURCE_DISPLAY:0408	PROJECTED		CANDIDATE
+S254	1	1	اسم	تحلئ	تِفْعِلٌ	تِحْلِئٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ل ئ	حلء	HFN-R01150	5656		PROJECTED		CANDIDATE
+S255	1	1	اسم	تتفلة	تُفْعُلَةٌ	تُتْفُلَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ت ف ل	تفل	HFN-R00579	3382	M02#ROOT_SOURCE_DISPLAY:0408	PROJECTED		CANDIDATE
+S256	1	1	اسم	ترنموت	تَفْعَلُوتٌ	تَرْنَمُوتٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ن م	رنم	HFN-R02060	2589	M02#ROOT_SOURCE_DISPLAY:1554	PROJECTED		CANDIDATE
+S257	1	1	اسم	التمتين	تَفْعِيلٌ	التَمْتِينُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	م ت ن	متن	HFN-R04734	980	M02#ROOT_SOURCE_DISPLAY:3591	PROJECTED	ال محذوفة	CANDIDATE
+S257	2	1	اسم	التنبيت	تَفْعِيلٌ	التَنْبِيتُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ب ت	نبت	HFN-R05013	1225	M02#ROOT_SOURCE_DISPLAY:3811	PROJECTED	ال محذوفة	CANDIDATE
+S258	1	1	صفة	ترعية	تِفْعِيلَةٌ								LENGTH_MISMATCH	حروف المثال 5 وحروف القالب 6	CANDIDATE
+S259	1	1	اسم	تعضوض	تَفْعُولٌ	تَعْضُوضٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ض ض	عضض	HFN-R03404	4554	M02#ROOT_SOURCE_DISPLAY:2565	PROJECTED		CANDIDATE
+S259	2	1	اسم	التخموت	تَفْعُولٌ	التَخْمُوتُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ م ت	خمت	HFN-R01403	5756		PROJECTED	ال محذوفة	CANDIDATE
+S259	3	1	اسم	التذنوب	تَفْعُولٌ	التَذْنُوبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ذ ن ب	ذنب	HFN-R01768	2345	M02#ROOT_SOURCE_DISPLAY:1316	PROJECTED	ال محذوفة	CANDIDATE
+S260	1	1	اسم	تدورة	تَفْعِلَةٌ	تَدْوِرَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د و ر	دور	HFN-R01682	2274	M02#ROOT_SOURCE_DISPLAY:1258	PROJECTED		CANDIDATE
+S260	2	1	اسم	تنهية	تَفْعِلَةٌ	تَنْهِيَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ه ي	نهي	HFN-R05335	1531	M02#ROOT_SOURCE_DISPLAY:4074	PROJECTED		CANDIDATE
+S260	3	1	اسم	تودية	تَفْعِلَةٌ	تَوْدِيَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	و د ي	ودي	HFN-R05681	1813	M02#ROOT_SOURCE_DISPLAY:4343	PROJECTED		CANDIDATE
+S261	1	1	اسم	تؤثور	تُفْعُولٌ	تُؤْثُورٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ؤ ث ر	ءثر	HFN-R00033	3012	M02#ROOT_SOURCE_DISPLAY:0022	PROJECTED		CANDIDATE
+S262	1	1	صفة	تحلبة									NO_TEMPLATE	القالب غير محدَّد في المصدر	CANDIDATE
+S263	1	1	صفة	تحلبة									NO_TEMPLATE	القالب غير محدَّد في المصدر	CANDIDATE
+S264	1	1	اسم	التهبط	تُفُعِّلٌ	التُهُبِّطُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ب ط	هبط	HFN-R05382	1572	M02#ROOT_SOURCE_DISPLAY:4112	PROJECTED	ال محذوفة	CANDIDATE
+S265	1	1	اسم	تبشر	تُفُعِّلٌ	تُبُشِّرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ش ر	بشر	HFN-R00352	3240	M02#ROOT_SOURCE_DISPLAY:0251	PROJECTED		CANDIDATE
+S266	1	1	اسم	التنوط	تِفِعِّلٌ	التِنِوِّطُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن و ط	نوط	HFN-R05347	1542	M02#ROOT_SOURCE_DISPLAY:4084	PROJECTED	ال محذوفة	CANDIDATE
+S267	1	1	اسم	سنبتة	فَعْلَتَةٌ	سَنْبَتَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ن ب	سنب	HFN-R02482	3994	M02#ROOT_SOURCE_DISPLAY:1877	PROJECTED		CANDIDATE
+S268	1	1	اسم	رغبوت	فَعَلُوتٌ	رَغَبُوتٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر غ ب	رغب	HFN-R01974	2518	M02#ROOT_SOURCE_DISPLAY:1478	PROJECTED		CANDIDATE
+S268	2	1	اسم	رهبوت	فَعَلُوتٌ	رَهَبُوتٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ه ب	رهب	HFN-R02064	2592	M02#ROOT_SOURCE_DISPLAY:1558	PROJECTED		CANDIDATE
+S268	3	1	اسم	جبروت	فَعَلُوتٌ	جَبَرُوتٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ب ر	جبر	HFN-R00760	3661	M02#ROOT_SOURCE_DISPLAY:0533	PROJECTED		CANDIDATE
+S268	4	1	اسم	ملكوت	فَعَلُوتٌ	مَلَكُوتٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	م ل ك	ملك	HFN-R04941	1168	M02#ROOT_SOURCE_DISPLAY:3761	PROJECTED		CANDIDATE
+S268	5	2	صفة	خلبوت	فَعَلُوتٌ	خَلَبُوتٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ل ب	خلب	HFN-R01387	2047	M02#ROOT_SOURCE_DISPLAY:1041	PROJECTED		CANDIDATE
+S269	1	1	اسم	ترنموت	تَفَعَلُوتٌ	تَرَنَمُوتٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ن م	رنم	HFN-R02060	2589	M02#ROOT_SOURCE_DISPLAY:1554	PROJECTED		CANDIDATE
+S272	1	1	صفة	مضروب	مَفْعُولٌ	مَضْرُوبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ض ر ب	ضرب	HFN-R03001	4419	M02#ROOT_SOURCE_DISPLAY:2269	PROJECTED		CANDIDATE
+S273	1	1	اسم	المحلب	مَفْعَلٌ	المَحْلَبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ل ب	حلب	HFN-R01151	3793	M02#ROOT_SOURCE_DISPLAY:0853	PROJECTED	ال محذوفة	CANDIDATE
+S273	2	1	اسم	المقتل	مَفْعَلٌ	المَقْتَلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ت ل	قتل	HFN-R03982	346	M02#ROOT_SOURCE_DISPLAY:3035	PROJECTED	ال محذوفة	CANDIDATE
+S273	3	2	صفة	المشتى	مَفْعَلٌ	المَشْتَىُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ت ى	شتو	HFN-R02569	4146	M02#ROOT_SOURCE_DISPLAY:1944	PROJECTED_ROOT_VIA_WEAK_VARIANT	ال محذوفة؛ الحرف الظاهر شتي ← الأصل شتو (حرف علّة أو همزة منقلبة)	CANDIDATE
+S273	4	2	صفة	المولى	مَفْعَلٌ	المَوْلَىُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	و ل ى	ولي	HFN-R05861	1969	M02#ROOT_SOURCE_DISPLAY:4488	PROJECTED	ال محذوفة	CANDIDATE
+S274	1	1	اسم	المنبر	مِفْعَلٌ	المِنْبَرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ب ر	نبر	HFN-R05020	1231	M02#ROOT_SOURCE_DISPLAY:3817	PROJECTED	ال محذوفة	CANDIDATE
+S274	2	1	اسم	مرفق	مِفْعَلٌ	مِرْفَقٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ف ق	رفق	HFN-R01998	2538	M02#ROOT_SOURCE_DISPLAY:1498	PROJECTED		CANDIDATE
+S274	3	2	صفة	مدعس	مِفْعَلٌ	مِدْعَسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ع س	دعس	HFN-R01570	2183	M02#ROOT_SOURCE_DISPLAY:1172	PROJECTED		CANDIDATE
+S274	4	2	صفة	مطعن	مِفْعَلٌ	مِطْعَنٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ط ع ن	طعن	HFN-R03171	4436	M02#ROOT_SOURCE_DISPLAY:2382	PROJECTED		CANDIDATE
+S275	1	1	اسم	المجلس	مَفْعِلٌ	المَجْلِسُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ل س	جلس	HFN-R00894	3598	M02#ROOT_SOURCE_DISPLAY:0637	PROJECTED	ال محذوفة	CANDIDATE
+S275	2	1	اسم	المسجد	مَفْعِلٌ	المَسْجِدُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ج د	سجد	HFN-R02323	2800	M02#ROOT_SOURCE_DISPLAY:1748	PROJECTED	ال محذوفة	CANDIDATE
+S275	3	2	صفة	منكب	مَفْعِلٌ	مَنْكِبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ك ب	نكب	HFN-R05284	1487	M02#ROOT_SOURCE_DISPLAY:4032	PROJECTED		CANDIDATE
+S276	1	1	اسم	مصحف	مُفْعَلٌ	مُصْحَفٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ح ف	صحف	HFN-R02828	4300	M02#ROOT_SOURCE_DISPLAY:2127	PROJECTED		CANDIDATE
+S276	2	1	اسم	مخدع	مُفْعَلٌ	مُخْدَعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ د ع	خدع	HFN-R01280	171	M02#ROOT_SOURCE_DISPLAY:0954	PROJECTED		CANDIDATE
+S276	3	1	اسم	موسى	مُفْعَلٌ	مُوْسَىٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	و س ى	وسي	HFN-R05732	1856		PROJECTED		CANDIDATE
+S276	4	2	صفة	مكرم	مُفْعَلٌ	مُكْرَمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ر م	كرم	HFN-R04309	627	M02#ROOT_SOURCE_DISPLAY:3287	PROJECTED		CANDIDATE
+S276	5	2	صفة	مدخل	مُفْعَلٌ	مُدْخَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د خ ل	دخل	HFN-R01524	2152	M02#ROOT_SOURCE_DISPLAY:1139	PROJECTED		CANDIDATE
+S277	1	1	اسم	منخل	مُفْعُلٌ	مُنْخُلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن خ ل	نخل	HFN-R05099	1314	M02#ROOT_SOURCE_DISPLAY:3882	PROJECTED		CANDIDATE
+S277	2	1	اسم	مسعط	مُفْعُلٌ	مُسْعُطٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ع ط	سعط	HFN-R02403	2865	M02#ROOT_SOURCE_DISPLAY:1810	PROJECTED		CANDIDATE
+S277	3	1	اسم	مدق	مُفْعُلٌ								LENGTH_MISMATCH	حروف المثال 3 وحروف القالب 4	CANDIDATE
+S277	4	1	اسم	منصل	مُفْعُلٌ	مُنْصُلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ن ص ل	نصل	HFN-R05183	1391	M02#ROOT_SOURCE_DISPLAY:3947	PROJECTED		CANDIDATE
+S278	1	1	اسم	مزرعة	مَفْعُلَةٌ	مَزْرُعَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز ر ع	زرع	HFN-R02163	2671	M02#ROOT_SOURCE_DISPLAY:1630	PROJECTED		CANDIDATE
+S278	2	1	اسم	المشرقة	مَفْعُلَةٌ	المَشْرُقَةُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ر ق	شرق	HFN-R02636	4187	M02#ROOT_SOURCE_DISPLAY:1997	PROJECTED	ال محذوفة	CANDIDATE
+S278	3	1	اسم	مقبرة	مَفْعُلَةٌ	مَقْبُرَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ب ر	قبر	HFN-R03967	331	M02#ROOT_SOURCE_DISPLAY:3021	PROJECTED		CANDIDATE
+S280	1	1	اسم	معلوق	مُفْعُولٌ	مُعْلُوقٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ل ق	علق	HFN-R03477	4603	M02#ROOT_SOURCE_DISPLAY:2633	PROJECTED		CANDIDATE
+S281	1	1	اسم	مرعز	مِفْعِلٌّ	مِرْعِزٌّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر ع ز	رعز	HFN-R01961	2505	M02#ROOT_SOURCE_DISPLAY:1466	PROJECTED		CANDIDATE
+S282	1	1	صفة	زرقم	فُعْلُمٌ	زُرْقُمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز ر ق	زرق	HFN-R02165	2673		PROJECTED		CANDIDATE
+S282	2	1	صفة	ستهم	فُعْلُمٌ	سُتْهُمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ت ه	سته	HFN-R02320	2797		PROJECTED		CANDIDATE
+S283	1	1	صفة	دلقم	فِعْلِمٌ	دِلْقِمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ل ق	دلق	HFN-R01624	2228	M02#ROOT_SOURCE_DISPLAY:1217	PROJECTED		CANDIDATE
+S283	2	1	صفة	دقعم	فِعْلِمٌ	دِقْعِمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ق ع	دقع	HFN-R01600	2208	M02#ROOT_SOURCE_DISPLAY:1197	PROJECTED		CANDIDATE
+S283	3	1	صفة	دردم	فِعْلِمٌ	دِرْدِمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ر د	درد	HFN-R01536	2159	M02#ROOT_SOURCE_DISPLAY:1147	PROJECTED		CANDIDATE
+S285	1	1	صفة	الدلامص	فُعَامِلٌ	الدُلَامِصُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ل ص	دلص	HFN-R01620	2224	M02#ROOT_SOURCE_DISPLAY:1213	PROJECTED	ال محذوفة	CANDIDATE
+S286	1	1	اسم	كوكب	فَوْعَلٌ	كَوْكَبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ك ب	ككب				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S286	2	1	اسم	عوسج	فَوْعَلٌ	عَوْسَجٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع س ج	عسج	HFN-R03372	4733	M02#ROOT_SOURCE_DISPLAY:2539	PROJECTED		CANDIDATE
+S286	3	2	صفة	حومل	فَوْعَلٌ	حَوْمَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح م ل	حمل	HFN-R01178	3811	M02#ROOT_SOURCE_DISPLAY:0875	PROJECTED		CANDIDATE
+S286	4	2	صفة	هوزب	فَوْعَلٌ	هَوْزَبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ز ب	هزب	HFN-R05453	4915	M02#ROOT_SOURCE_DISPLAY:4170	PROJECTED		CANDIDATE
+S289	1	1	صفة	كوألل	فَوَعْلَلٌ	كَوَأْلَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك أ ل	كءل	HFN-R04229	560		PROJECTED		CANDIDATE
+S290	1	1	اسم	عتود	فَعُولٌ	عَتُودٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ت د	عتد	HFN-R03293	4667	M02#ROOT_SOURCE_DISPLAY:2474	PROJECTED		CANDIDATE
+S290	2	1	اسم	خروف	فَعُولٌ	خَرُوفٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ر ف	خرف	HFN-R01308	966	M02#ROOT_SOURCE_DISPLAY:0978	PROJECTED		CANDIDATE
+S290	3	2	صفة	صدوق	فَعُولٌ	صَدُوقٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص د ق	صدق	HFN-R02844	4313	M02#ROOT_SOURCE_DISPLAY:2143	PROJECTED		CANDIDATE
+S291	1	1	اسم	جدول	فَعْوَلٌ	جَدْوَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج د ل	جدل	HFN-R00799	3528	M02#ROOT_SOURCE_DISPLAY:0563	PROJECTED		CANDIDATE
+S291	2	1	اسم	جرول	فَعْوَلٌ	جَرْوَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ر ل	جرل	HFN-R00826	3548	M02#ROOT_SOURCE_DISPLAY:0586	PROJECTED		CANDIDATE
+S291	3	2	صفة	جهور	فَعْوَلٌ	جَهْوَرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ه ر	جهر	HFN-R00933	3626	M02#ROOT_SOURCE_DISPLAY:0671	PROJECTED		CANDIDATE
+S291	4	2	صفة	حشور	فَعْوَلٌ	حَشْوَرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ش ر	حشر	HFN-R01079	3744	M02#ROOT_SOURCE_DISPLAY:0793	PROJECTED		CANDIDATE
+S292	1	1	اسم	خروع	فِعْوَلٌ	خِرْوَعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ر ع	خرع	HFN-R01307	902	M02#ROOT_SOURCE_DISPLAY:0977	PROJECTED		CANDIDATE
+S292	2	1	اسم	علود	فِعْوَلٌ	عِلْوَدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ل د	علد	HFN-R03469	4596	M02#ROOT_SOURCE_DISPLAY:2626	PROJECTED		CANDIDATE
+S293	1	1	اسم	عثول	فِعْوَلٌّ	عِثْوَلٌّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ث ل	عثل	HFN-R03305	6509		PROJECTED		CANDIDATE
+S293	2	1	اسم	القشوف	فِعْوَلٌّ	القِشْوَفُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ش ف	قشف	HFN-R04065	423	M02#ROOT_SOURCE_DISPLAY:3102	PROJECTED	ال محذوفة	CANDIDATE
+S293	3	2	صفة	العسود	فِعْوَلٌّ	العِسْوَدُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع س د	عسد	HFN-R03373	4734	M02#ROOT_SOURCE_DISPLAY:2540	PROJECTED	ال محذوفة	CANDIDATE
+S294	1	1	صفة	عطود	فَعَوَّلٌ	عَطَوَّدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ط د	عطد	HFN-R08111		M02#ROOT_SOURCE_DISPLAY:2574	PROJECTED		CANDIDATE
+S294	2	1	صفة	كروس	فَعَوَّلٌ	كَرَوَّسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ر س	كرس	HFN-R04302	621	M02#ROOT_SOURCE_DISPLAY:3282	PROJECTED		CANDIDATE
+S297	1	1	اسم	أتي	فُعُولٌ								LENGTH_MISMATCH	حروف المثال 3 وحروف القالب 4	CANDIDATE
+S297	2	1	اسم	السدوس	فُعُولٌ	السُدُوسُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س د س	سدس	HFN-R02362	2834	M02#ROOT_SOURCE_DISPLAY:1782	PROJECTED	ال محذوفة	CANDIDATE
+S298	1	1	صفة	عثوثل	فَعَوْعَلٌ	عَثَوْثَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ث ل	عثل	HFN-R03305	6509		PROJECTED		CANDIDATE
+S298	2	1	صفة	قطوطى	فَعَوْعَلٌ	قَطَوْطَىٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ط ى	قطو	HFN-R04095	451	M02#ROOT_SOURCE_DISPLAY:3127	PROJECTED_ROOT_VIA_WEAK_VARIANT	الحرف الظاهر قطي ← الأصل قطو (حرف علّة أو همزة منقلبة)	CANDIDATE
+S298	3	1	صفة	غدودن	فَعَوْعَلٌ	غَدَوْدَنٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	غ د ن	غدن	HFN-R03583	4789	M02#ROOT_SOURCE_DISPLAY:2717	PROJECTED		CANDIDATE
+S299	1	1	اسم	حبونن	فَعَوْلَلٌ	حَبَوْنَنٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ب ن	حبن	HFN-R00989	3863	M02#ROOT_SOURCE_DISPLAY:0715	PROJECTED		CANDIDATE
+S300	1	1	اسم	ترقوة	فَعْلُوَةٌ	تَرْقُوَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ت ر ق	ترق	HFN-R00557	3372	M02#ROOT_SOURCE_DISPLAY:0395	PROJECTED		CANDIDATE
+S300	2	1	اسم	عرقوة	فَعْلُوَةٌ	عَرْقُوَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ر ق	عرق	HFN-R03354	4710	M02#ROOT_SOURCE_DISPLAY:2525	PROJECTED		CANDIDATE
+S300	3	1	اسم	قرنوة	فَعْلُوَةٌ	قَرْنُوَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ن	قرن	HFN-R04038	399	M02#ROOT_SOURCE_DISPLAY:3081	PROJECTED		CANDIDATE
+S301	1	1	اسم	الحنذوة	فُعْلُوَةٌ	الحُنْذُوَةُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ن ذ	حنذ	HFN-R01188	3816	M02#ROOT_SOURCE_DISPLAY:0880	PROJECTED	ال محذوفة	CANDIDATE
+S301	2	1	اسم	العنصوة	فُعْلُوَةٌ	العُنْصُوَةُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ن ص	عنص	HFN-R08106		M02#ROOT_SOURCE_DISPLAY:2658	PROJECTED	ال محذوفة	CANDIDATE
+S302	1	1	اسم	حنذوة	فِعْلُوَةٌ	حِنْذُوَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ن ذ	حنذ	HFN-R01188	3816	M02#ROOT_SOURCE_DISPLAY:0880	PROJECTED		CANDIDATE
+S303	1	1	اسم	عجول	فِعَّوْلٌ	عِجَّوْلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ج ل	عجل	HFN-R03317	4684	M02#ROOT_SOURCE_DISPLAY:2493	PROJECTED		CANDIDATE
+S303	2	1	اسم	سنور	فِعَّوْلٌ	سِنَّوْرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ن ر	سنر	HFN-R02488	6157		PROJECTED		CANDIDATE
+S303	3	1	اسم	القلوب	فِعَّوْلٌ	القِلَّوْبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ل ب	قلب	HFN-R04133	480	M02#ROOT_SOURCE_DISPLAY:3158	PROJECTED	ال محذوفة	CANDIDATE
+S303	4	2	صفة	خنوص	فِعَّوْلٌ	خِنَّوْصٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ن ص	خنص	HFN-R01425	5778		PROJECTED		CANDIDATE
+S303	5	2	صفة	سروط	فِعَّوْلٌ	سِرَّوْطٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ر ط	سرط	HFN-R02380	2850	M02#ROOT_SOURCE_DISPLAY:1795	PROJECTED		CANDIDATE
+S304	1	1	اسم	سفود	فُعُّولٌ	سُفُّودٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ف د	سفد	HFN-R02418	2875	M02#ROOT_SOURCE_DISPLAY:1822	PROJECTED		CANDIDATE
+S304	2	1	اسم	كلوب	فُعُّولٌ	كُلُّوبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ل ب	كلب	HFN-R04375	680	M02#ROOT_SOURCE_DISPLAY:3332	PROJECTED		CANDIDATE
+S304	3	2	صفة	سبوح	فُعُّولٌ	سُبُّوحٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ب ح	سبح	HFN-R02300	2785	M02#ROOT_SOURCE_DISPLAY:1731	PROJECTED		CANDIDATE
+S304	4	2	صفة	قدوس	فُعُّولٌ	قُدُّوسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق د س	قدس	HFN-R04007	368	M02#ROOT_SOURCE_DISPLAY:3055	PROJECTED		CANDIDATE
+S305	1	1	صفة	سبوح	فَعُّولٌ	سَبُّوحٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ب ح	سبح	HFN-R02300	2785	M02#ROOT_SOURCE_DISPLAY:1731	PROJECTED		CANDIDATE
+S305	2	1	صفة	قدوس	فَعُّولٌ	قَدُّوسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق د س	قدس	HFN-R04007	368	M02#ROOT_SOURCE_DISPLAY:3055	PROJECTED		CANDIDATE
+S307	1	1	اسم	طخرور	فُعْلُولٌ	طُخْرُورٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ط خ ر	طخر	HFN-R03125	4506	M02#ROOT_SOURCE_DISPLAY:2358	PROJECTED		CANDIDATE
+S307	2	1	اسم	الهذلول	فُعْلُولٌ	الهُذْلُولُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ذ ل	هذل	HFN-R05430	4913	M02#ROOT_SOURCE_DISPLAY:4151	PROJECTED	ال محذوفة	CANDIDATE
+S307	3	1	اسم	الشؤبوب	فُعْلُولٌ	الشُؤْبُوبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ؤ ب	شءب	HFN-R02540	6173		PROJECTED	ال محذوفة	CANDIDATE
+S307	4	2	صفة	بهلول	فُعْلُولٌ	بُهْلُولٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ه ل	بهل	HFN-R00472	3320	M02#ROOT_SOURCE_DISPLAY:0342	PROJECTED		CANDIDATE
+S308	1	1	اسم	البلصوص	فِعَلُّولٌ	البِلَصُّوصُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ل ص	بلص	HFN-R00437	3297	M02#ROOT_SOURCE_DISPLAY:0316	PROJECTED	ال محذوفة	CANDIDATE
+S308	2	1	اسم	البعكوك	فِعَلُّولٌ	البِعَكُّوكُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ع ك	بعك	HFN-R00393	3256	M02#ROOT_SOURCE_DISPLAY:0283	PROJECTED	ال محذوفة	CANDIDATE
+S308	3	2	صفة	الحلكوك	فِعَلُّولٌ	الحِلَكُّوكُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ل ك	حلك	HFN-R01160	3801	M02#ROOT_SOURCE_DISPLAY:0861	PROJECTED	ال محذوفة	CANDIDATE
+S310	1	1	اسم	قلنسوة	فَعَنْلُوَةٌ	قَلَنْسُوَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ل س	قلس	HFN-R04140	487	M02#ROOT_SOURCE_DISPLAY:3164	PROJECTED		CANDIDATE
+S311	1	1	اسم	قردد	فَعْلَلٌ	قَرْدَدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر د	قرد	HFN-R04025	386	M02#ROOT_SOURCE_DISPLAY:3071	PROJECTED		CANDIDATE
+S311	2	1	اسم	مهدد	فَعْلَلٌ	مَهْدَدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	م ه د	مهد	HFN-R04958	1179	M02#ROOT_SOURCE_DISPLAY:3769	PROJECTED		CANDIDATE
+S312	1	1	اسم	سردد	فُعْلُلٌ	سُرْدُدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ر د	سرد	HFN-R02377	2847	M02#ROOT_SOURCE_DISPLAY:1794	PROJECTED		CANDIDATE
+S312	2	1	اسم	دعبب	فُعْلُلٌ	دُعْبُبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ع ب	دعب	HFN-R01564	2177	M02#ROOT_SOURCE_DISPLAY:1166	PROJECTED		CANDIDATE
+S312	3	2	صفة	قعدد	فُعْلُلٌ	قُعْدُدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ع د	قعد	HFN-R04098	453	M02#ROOT_SOURCE_DISPLAY:3130	PROJECTED		CANDIDATE
+S312	4	2	صفة	دخلل	فُعْلُلٌ	دُخْلُلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د خ ل	دخل	HFN-R01524	2152	M02#ROOT_SOURCE_DISPLAY:1139	PROJECTED		CANDIDATE
+S313	1	1	اسم	عندد	فُعْلَلٌ	عُنْدَدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ن د	عند	HFN-R03503	4619	M02#ROOT_SOURCE_DISPLAY:2654	PROJECTED		CANDIDATE
+S313	2	1	اسم	عنبب	فُعْلَلٌ	عُنْبَبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ن ب	عنب	HFN-R03499	4616	M02#ROOT_SOURCE_DISPLAY:2651	PROJECTED		CANDIDATE
+S314	1	1	صفة	رماد رمدد	فِعْلِلٌ								PHRASE	أكثر من كلمة	CANDIDATE
+S317	1	1	اسم	شربة	فَعَلٌّ	شَرَبٌّة	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ر ب	شرب	HFN-R02620	4191	M02#ROOT_SOURCE_DISPLAY:1985	PROJECTED	تاء زائدة على القالب	CANDIDATE
+S317	2	1	اسم	معد	فَعَلٌّ	مَعَدٌّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	م ع د	معد	HFN-R04880	1113	M02#ROOT_SOURCE_DISPLAY:3711	PROJECTED		CANDIDATE
+S317	3	2	صفة	الهبي	فَعَلٌّ	الهَبَيُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ب ي	هبي				PROJECTED_ROOT_AMBIGUOUS	ال محذوفة؛ أكثر من أصل محتمل: هبء | هبو	CANDIDATE
+S318	1	1	اسم	جدب	فِعَلٌّ	جِدَبٌّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج د ب	جدب	HFN-R00791	3532	M02#ROOT_SOURCE_DISPLAY:0556	PROJECTED		CANDIDATE
+S318	2	2	صفة	خدب	فِعَلٌّ	خِدَبٌّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ د ب	خدب	HFN-R01275	118	M02#ROOT_SOURCE_DISPLAY:0950	PROJECTED		CANDIDATE
+S318	3	2	صفة	هجف	فِعَلٌّ	هِجَفٌّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ج ف	هجف	HFN-R05407	1596	M02#ROOT_SOURCE_DISPLAY:4133	PROJECTED		CANDIDATE
+S318	4	2	صفة	هقب	فِعَلٌّ	هِقَبٌّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ق ب	هقب	HFN-R05488	4920	M02#ROOT_SOURCE_DISPLAY:4199	PROJECTED		CANDIDATE
+S320	1	1	اسم	جبن	فُعُلٌّ	جُبُنٌّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ب ن	جبن	HFN-R00765	3666	M02#ROOT_SOURCE_DISPLAY:0538	PROJECTED		CANDIDATE
+S320	2	1	اسم	الفلج	فُعُلٌّ	الفُلُجُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ل ج	فلج	HFN-R03893	277	M02#ROOT_SOURCE_DISPLAY:2961	PROJECTED	ال محذوفة	CANDIDATE
+S320	3	1	اسم	الدجن	فُعُلٌّ	الدُجُنُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ج ن	دجن	HFN-R01501	2130	M02#ROOT_SOURCE_DISPLAY:1122	PROJECTED	ال محذوفة	CANDIDATE
+S320	4	2	صفة	القمد	فُعُلٌّ	القُمُدُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق م د	قمد	HFN-R04155	498	M02#ROOT_SOURCE_DISPLAY:3176	PROJECTED	ال محذوفة	CANDIDATE
+S320	5	2	صفة	العتل	فُعُلٌّ	العُتُلُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ت ل	عتل	HFN-R03297	4671	M02#ROOT_SOURCE_DISPLAY:2478	PROJECTED	ال محذوفة	CANDIDATE
+S322	1	1	اسم	الحبر	فِعِلٌّ	الحِبِرُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ب ر	حبر	HFN-R00980	3854	M02#ROOT_SOURCE_DISPLAY:0706	PROJECTED	ال محذوفة	CANDIDATE
+S322	2	1	اسم	الفلز	فِعِلٌّ	الفِلِزُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ل ز	فلز	HFN-R03897	4802	M02#ROOT_SOURCE_DISPLAY:2964	PROJECTED	ال محذوفة	CANDIDATE
+S322	3	2	صفة	الطمر	فِعِلٌّ	الطِمِرُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ط م ر	طمر	HFN-R03206	4460	M02#ROOT_SOURCE_DISPLAY:2407	PROJECTED	ال محذوفة	CANDIDATE
+S322	4	2	صفة	الهبر	فِعِلٌّ	الهِبِرُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ب ر	هبر	HFN-R05378	1568	M02#ROOT_SOURCE_DISPLAY:4108	PROJECTED	ال محذوفة	CANDIDATE
+S324	1	1	اسم	تئفة	فِعِلَّةٌ	تِئِفَّةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ت ئ ف	توف	HFN-R00626	5414		PROJECTED_ROOT_VIA_WEAK_VARIANT	الحرف الظاهر تءف ← الأصل توف (حرف علّة أو همزة منقلبة)	CANDIDATE
+S325	1	1	اسم	درجة	فُعَلَّةٌ	دُرَجَّةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ر ج	درج	HFN-R01534	2157	M02#ROOT_SOURCE_DISPLAY:1145	PROJECTED		CANDIDATE
+S326	1	1	اسم	تلنة	فُعُلَّةٌ	تُلُنَّةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ت ل ن	تلن	HFN-R00597	5401		PROJECTED		CANDIDATE
+S327	1	1	اسم	حبربر	فَعَلْعَلٌ	حَبَرْبَرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ب ر	حبر	HFN-R00980	3854	M02#ROOT_SOURCE_DISPLAY:0706	PROJECTED		CANDIDATE
+S327	2	1	اسم	حورور	فَعَلْعَلٌ	حَوَرْوَرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح و ر	حور	HFN-R01207	3829	M02#ROOT_SOURCE_DISPLAY:0893	PROJECTED		CANDIDATE
+S327	3	2	صفة	صمحمح	فَعَلْعَلٌ	صَمَحْمَحٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص م ح	صمح	HFN-R02909	4254	M02#ROOT_SOURCE_DISPLAY:2198	PROJECTED		CANDIDATE
+S327	4	2	صفة	دمكمك	فَعَلْعَلٌ	دَمَكْمَكٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د م ك	دمك	HFN-R01641	2243	M02#ROOT_SOURCE_DISPLAY:1232	PROJECTED		CANDIDATE
+S328	1	1	اسم	ذرحرح	فُعَلْعِلٌ	ذُرَحْرِحٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ذ ر ح	ذرح	HFN-R01733	2312	M02#ROOT_SOURCE_DISPLAY:1290	PROJECTED		CANDIDATE
+S328	2	1	اسم	جلعلع	فُعَلْعِلٌ	جُلَعْلِعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ل ع	جلع	HFN-R00897	3600	M02#ROOT_SOURCE_DISPLAY:0639	PROJECTED		CANDIDATE
+S331	1	1	اسم	جعفر	فَعْلَلٌ	جَعْفَرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ع ف ر	جعفر	HFN-R06117	5526		PROJECTED		CANDIDATE
+S331	2	1	اسم	عنبر	فَعْلَلٌ	عَنْبَرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ن ب ر	عنبر	HFN-R06825	6658		PROJECTED		CANDIDATE
+S331	3	1	اسم	جندل	فَعْلَلٌ	جَنْدَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ن د ل	جندل	HFN-R06153	5574		PROJECTED		CANDIDATE
+S331	4	2	صفة	سلهب	فَعْلَلٌ	سَلْهَبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ل ه ب	سلهب	HFN-R06517	6126		PROJECTED		CANDIDATE
+S331	5	2	صفة	خلجم	فَعْلَلٌ	خَلْجَمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ل ج م	خلجم	HFN-R06260	5753		PROJECTED		CANDIDATE
+S331	6	2	صفة	شجعم	فَعْلَلٌ	شَجْعَمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ج ع م	شجعم				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S332	1	1	اسم	البرثن	فُعْلُلٌ	البُرْثُنُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ر ث ن	برثن	HFN-R05977	5239		PROJECTED	ال محذوفة	CANDIDATE
+S332	2	1	اسم	الحبرج	فُعْلُلٌ	الحُبْرُجُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ب ر ج	حبرج				PROJECTED_ROOT_NOT_IN_BANK	ال محذوفة	CANDIDATE
+S332	3	2	صفة	الجرشع	فُعْلُلٌ	الجُرْشُعُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ر ش ع	جرشع	HFN-R06096	5497		PROJECTED	ال محذوفة	CANDIDATE
+S332	4	2	صفة	الصنتع	فُعْلُلٌ	الصُنْتُعُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ن ت ع	صنتع	HFN-R06638	6339		PROJECTED	ال محذوفة	CANDIDATE
+S332	5	2	صفة	الكندر	فُعْلُلٌ	الكُنْدُرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ن د ر	كندر	HFN-R07108	7057		PROJECTED	ال محذوفة	CANDIDATE
+S333	1	1	اسم	الزبرج	فِعْلِلٌ	الزِبْرِجُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز ب ر ج	زبرج	HFN-R06401	5979		PROJECTED	ال محذوفة	CANDIDATE
+S333	2	1	اسم	الزئبر	فِعْلِلٌ	الزِئْبِرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز ئ ب ر	زءبر	HFN-R06399	5975		PROJECTED	ال محذوفة	CANDIDATE
+S333	3	1	اسم	الحفرد	فِعْلِلٌ	الحِفْرِدُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ف ر د	حفرد	HFN-R06195	5650		PROJECTED	ال محذوفة	CANDIDATE
+S333	4	2	صفة	عنفص	فِعْلِلٌ	عِنْفِصٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ن ف ص	عنفص				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S333	5	2	صفة	الدلقم	فِعْلِلٌ	الدِلْقِمُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ل ق م	دلقم				PROJECTED_ROOT_NOT_IN_BANK	ال محذوفة	CANDIDATE
+S333	6	2	صفة	خرمل	فِعْلِلٌ	خِرْمِلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ر م ل	خرمل	HFN-R06241	5725		PROJECTED		CANDIDATE
+S334	1	1	اسم	قلعم	فِعْلَلٌ	قِلْعَمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ل ع م	قلعم	HFN-R07023	6934		PROJECTED		CANDIDATE
+S334	2	1	اسم	درهم	فِعْلَلٌ	دِرْهَمٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ر ه م	درهم	HFN-R06316	5037		PROJECTED		CANDIDATE
+S334	3	2	صفة	هجرع	فِعْلَلٌ	هِجْرَعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ج ر ع	هجرع				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S334	4	2	صفة	هبلع	فِعْلَلٌ	هِبْلَعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ب ل ع	هبلع				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S335	1	1	اسم	الفطحل	فِعَلٌّ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 3	CANDIDATE
+S335	2	1	اسم	الصقعل	فِعَلٌّ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 3	CANDIDATE
+S335	3	1	اسم	الهدملة	فِعَلٌّ								LENGTH_MISMATCH	حروف المثال 7 وحروف القالب 3	CANDIDATE
+S335	4	2	صفة	الهزبر	فِعَلٌّ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 3	CANDIDATE
+S335	5	2	صفة	السبطر	فِعَلٌّ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 3	CANDIDATE
+S335	6	2	صفة	القمطر	فِعَلٌّ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 3	CANDIDATE
+S338	1	1	اسم	حبوكر	فَعَوْلَلٌ	حَبَوْكَرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ب ك ر	حبكر	HFN-R06164	5600		PROJECTED		CANDIDATE
+S338	2	1	اسم	فدوكس	فَعَوْلَلٌ	فَدَوْكَسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف د ك س	فدكس	HFN-R06888	6755		PROJECTED		CANDIDATE
+S338	3	1	اسم	صنوبر	فَعَوْلَلٌ	صَنَوْبَرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ن ب ر	صنبر	HFN-R06637	6337		PROJECTED		CANDIDATE
+S338	4	2	صفة	السرومط	فَعَوْلَلٌ	السَرَوْمَطُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ر م ط	سرمط	HFN-R06489	6088		PROJECTED	ال محذوفة	CANDIDATE
+S338	5	2	صفة	العشوزن	فَعَوْلَلٌ	العَشَوْزَنُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ش ز ن	عشزن	HFN-R06763	6578		PROJECTED	ال محذوفة	CANDIDATE
+S340	1	1	اسم	عبوثران	فَعَوْلَلانٌ	عَبَوْثَرانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ب ث ر	عبثر	HFN-R06694	6497		PROJECTED		CANDIDATE
+S341	1	1	اسم	حبوكرى	فَعَوْلَلَى	حَبَوْكَرَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ب ك ر	حبكر	HFN-R06164	5600		PROJECTED		CANDIDATE
+S342	1	1	اسم	كنهور	فَعَلْوَلٌ	كَنَهْوَرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ن ه ر	كنهر	HFN-R07116	7066		PROJECTED		CANDIDATE
+S342	2	1	اسم	بلهور	فَعَلْوَلٌ	بَلَهْوَرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ل ه ر	بلهر	HFN-R06032	5317		PROJECTED		CANDIDATE
+S343	1	1	اسم	قندويل	فَعْلَوِيلٌ	قَنْدَوِيلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ن د ل	قندل	HFN-R07041	6957		PROJECTED		CANDIDATE
+S343	2	1	اسم	هندويل	فَعْلَوِيلٌ	هَنْدَوِيلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ن د ل	هندل				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S344	1	1	اسم	عنقود	فُعْلُولٌ	عُنْقُودٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ن ق د	عنقد	HFN-R06840	6676		PROJECTED		CANDIDATE
+S344	2	1	اسم	عصفور	فُعْلُولٌ	عُصْفُورٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ص ف ر	عصفر	HFN-R06766	6585		PROJECTED		CANDIDATE
+S344	3	1	اسم	زنبور	فُعْلُولٌ	زُنْبُورٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز ن ب ر	زنبر	HFN-R06440	6025		PROJECTED		CANDIDATE
+S344	4	2	صفة	شنحوط	فُعْلُولٌ	شُنْحُوطٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ن ح ط	شنحط				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S344	5	2	صفة	سرحوب	فُعْلُولٌ	سُرْحُوبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ر ح ب	سرحب	HFN-R06479	6078		PROJECTED		CANDIDATE
+S345	1	1	اسم	قربوس	فَعَلُولٌ	قَرَبُوسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ب س	قربس	HFN-R06954	6850		PROJECTED		CANDIDATE
+S345	2	1	اسم	زرجون	فَعَلُولٌ	زَرَجُونٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز ر ج ن	زرجن	HFN-R06412	5993		PROJECTED		CANDIDATE
+S345	3	1	اسم	قلمون	فَعَلُولٌ	قَلَمُونٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ل م ن	قلمن				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S345	4	2	صفة	قرقوس	فَعَلُولٌ	قَرَقُوسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ق س	قرقس	HFN-R06977	6876		PROJECTED		CANDIDATE
+S346	1	1	اسم	فردوس	فِعْلَوْلٌ	فِرْدَوْسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ر د س	فردس	HFN-R06894	6762		PROJECTED		CANDIDATE
+S346	2	1	اسم	برذون	فِعْلَوْلٌ	بِرْذَوْنٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ر ذ ن	برذن	HFN-R05983	5245		PROJECTED		CANDIDATE
+S346	3	1	اسم	حرذون	فِعْلَوْلٌ	حِرْذَوْنٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ر ذ ن	حرذن	HFN-R08020			PROJECTED		CANDIDATE
+S346	4	2	صفة	علطوس	فِعْلَوْلٌ	عِلْطَوْسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ل ط س	علطس	HFN-R06801	6630		PROJECTED		CANDIDATE
+S348	1	1	اسم	قمحدوة	فُعَلْلُوَةٌ	قُمَحْدُوَةٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق م ح د	قمحد	HFN-R07028	6942		PROJECTED		CANDIDATE
+S349	1	1	اسم	خيتعور	فَيْعَلُولٌ	خَيْتَعُورٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ت ع ر	ختعر	HFN-R06217	5698		PROJECTED		CANDIDATE
+S349	2	1	اسم	خيسفوج	فَيْعَلُولٌ	خَيْسَفُوجٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ س ف ج	خسفج	HFN-R06249	5735		PROJECTED		CANDIDATE
+S349	3	2	صفة	عيسجور	فَيْعَلُولٌ	عَيْسَجُورٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع س ج ر	عسجر	HFN-R06752	6566		PROJECTED		CANDIDATE
+S349	4	2	صفة	عيضموز	فَيْعَلُولٌ	عَيْضَمُوزٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ض م ز	عضمز	HFN-R06773	6592		PROJECTED		CANDIDATE
+S350	1	1	اسم	عنكبوت	فَعْلَلُوتٌ	عَنْكَبُوتٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ن ك ب	عنكب	HFN-R06845	5026		PROJECTED		CANDIDATE
+S350	2	1	اسم	تخربوت	فَعْلَلُوتٌ	تَخْرَبُوتٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ت خ ر ب	تخرب	HFN-R06050	5372		PROJECTED		CANDIDATE
+S351	1	1	اسم	منجنون	فَعْلَلُولٌ	مَنْجَنُونٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	م ن ج ن ن	منجنن				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S351	2	1	اسم	حندقوق	فَعْلَلُولٌ	حَنْدَقُوقٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ن د ق ق	حندقق				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S352	1	1	صفة	سميدع	فَعَيْلَلٌ	سَمَيْدَعٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س م د ع	سمدع	HFN-R06523	6132		PROJECTED		CANDIDATE
+S352	2	1	صفة	العميثل	فَعَيْلَلٌ	العَمَيْثَلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع م ث ل	عمثل	HFN-R06815	6646		PROJECTED	ال محذوفة	CANDIDATE
+S353	1	1	اسم	عريقصان	فُعَيْلِلانٌ	عُرَيْقِصانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ر ق ص	عرقص	HFN-R06741	6553		PROJECTED		CANDIDATE
+S353	2	1	اسم	عبيثران	فُعَيْلِلانٌ	عُبَيْثِرانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ب ث ر	عبثر	HFN-R06694	6497		PROJECTED		CANDIDATE
+S355	1	1	اسم	قنديل	فِعْلِيلٌ	قِنْدِيلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ن د ل	قندل	HFN-R07041	6957		PROJECTED		CANDIDATE
+S355	2	1	اسم	برطيل	فِعْلِيلٌ	بِرْطِيلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ر ط ل	برطل	HFN-R05990	5076		PROJECTED		CANDIDATE
+S355	3	1	اسم	كندير	فِعْلِيلٌ	كِنْدِيرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ن د ر	كندر	HFN-R07108	7057		PROJECTED		CANDIDATE
+S355	4	2	صفة	شنظير	فِعْلِيلٌ	شِنْظِيرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ن ظ ر	شنظر	HFN-R06600	6270		PROJECTED		CANDIDATE
+S355	5	2	صفة	حربيش	فِعْلِيلٌ	حِرْبِيشٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ر ب ش	حربش				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S356	1	1	صفة	غرنيق	فُعْلِيلٌ	غُرْنِيقٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	غ ر ن ق	غرنق	HFN-R06858	5125		PROJECTED		CANDIDATE
+S358	1	1	اسم	سلحفية	فُعَلِّيَةٌ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 5	CANDIDATE
+S358	2	1	اسم	سحفنية	فُعَلِّيَةٌ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 5	CANDIDATE
+S359	1	1	اسم	منجنيق	فَنْعَلِيلٌ	مَنْجَنِيقٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	م ج ن ق	مجنق	HFN-R07130	7113		PROJECTED		CANDIDATE
+S359	2	2	صفة	عنتريس	فَنْعَلِيلٌ	عَنْتَرِيسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ت ر س	عترس	HFN-R06701	6504		PROJECTED		CANDIDATE
+S360	1	1	اسم	كنابيل	فُعَالِيلٌ	كُنَابِيلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ن ب ل	كنبل				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S363	1	1	صفة	عرطليل	فَعْلَلِيلٌ	عَرْطَلِيلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ر ط ل ل	عرطلل				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S363	2	1	صفة	عفشليل	فَعْلَلِيلٌ	عَفْشَلِيلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ف ش ل ل	عفشلل				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S363	3	1	صفة	قمطرير	فَعْلَلِيلٌ	قَمْطَرِيرٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق م ط ر ر	قمطرر				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S364	1	1	اسم	برائل	فُعَالِلٌ	بُرَائِلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ر ئ ل	برءل	HFN-R05973	5235		PROJECTED		CANDIDATE
+S364	2	1	اسم	الخجادب	فُعَالِلٌ	الخُجَادِبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ج د ب	خجدب				PROJECTED_ROOT_NOT_IN_BANK	ال محذوفة	CANDIDATE
+S364	3	1	اسم	عتائد	فُعَالِلٌ	عُتَائِدٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ت ئ د	عتءد				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S364	4	2	صفة	الفرافص	فُعَالِلٌ	الفُرَافِصُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ر ف ص	فرفص				PROJECTED_ROOT_NOT_IN_BANK	ال محذوفة	CANDIDATE
+S364	5	2	صفة	العذافر	فُعَالِلٌ	العُذَافِرُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ذ ف ر	عذفر	HFN-R06715	6526		PROJECTED	ال محذوفة	CANDIDATE
+S365	1	1	اسم	جخادبى	فُعَالِلَى	جُخَادِبَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج خ د ب	جخدب	HFN-R06084	5483		PROJECTED		CANDIDATE
+S366	1	1	اسم	قراشب	فَعَالِلُ	قَرَاشِبُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ش ب	قرشب	HFN-R06961	6859		PROJECTED		CANDIDATE
+S366	2	1	اسم	حبارج	فَعَالِلُ	حَبَارِجُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ب ر ج	حبرج				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S366	3	1	اسم	قناديل	فَعَالِيلُ	قَنَادِيلُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ن د ل	قندل	HFN-R07041	6957		PROJECTED		CANDIDATE
+S366	4	1	اسم	غرانيق	فَعَالِيلُ	غَرَانِيقُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	غ ر ن ق	غرنق	HFN-R06858	5125		PROJECTED		CANDIDATE
+S367	1	1	اسم	حملاق	فِعْلالٌ	حِمْلاقٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح م ل ق	حملق	HFN-R06205	5668		PROJECTED		CANDIDATE
+S367	2	1	اسم	قنطار	فِعْلالٌ	قِنْطارٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ن ط ر	قنطر	HFN-R07045	4996		PROJECTED		CANDIDATE
+S367	3	1	اسم	شنعاف	فِعْلالٌ	شِنْعافٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ن ع ف	شنعف				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S367	4	2	صفة	سرداح	فِعْلالٌ	سِرْداحٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ر د ح	سردح	HFN-R06480	6079		PROJECTED		CANDIDATE
+S367	5	2	صفة	هلباج	فِعْلالٌ	هِلْباجٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ل ب ج	هلبج	HFN-R07196	7239		PROJECTED		CANDIDATE
+S368	1	1	اسم	الزلزال	فَعْلالٌ	الزَلْزالُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز ل ز ل	زلزل	HFN-R07906			PROJECTED	ال محذوفة	CANDIDATE
+S368	2	1	اسم	الجثجاث	فَعْلالٌ	الجَثْجاثُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ث ج ث	جثجث				PROJECTED_ROOT_NOT_IN_BANK	ال محذوفة	CANDIDATE
+S368	3	1	اسم	الرمرام	فَعْلالٌ	الرَمْرامُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ر م ر م	رمرم	HFN-R07709			PROJECTED	ال محذوفة	CANDIDATE
+S368	4	2	صفة	الحثحاث	فَعْلالٌ	الحَثْحاثُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ث ح ث	حثحث				PROJECTED_ROOT_NOT_IN_BANK	ال محذوفة	CANDIDATE
+S369	1	1	اسم	قرطاس	فُعْلالٌ	قُرْطاسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ط س	قرطس	HFN-R06968	5017		PROJECTED		CANDIDATE
+S369	2	1	اسم	قرناس	فُعْلالٌ	قُرْناسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ن س	قرنس	HFN-R06987	6886		PROJECTED		CANDIDATE
+S370	1	1	اسم	الجنبار	فِعِلّالٌ	الجِنِبّارُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ن ب ر	جنبر	HFN-R06145	5566		PROJECTED	ال محذوفة	CANDIDATE
+S370	2	1	اسم	السنمار	فِعِلّالٌ	السِنِمّارُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ن م ر	سنمر	HFN-R06549	6162		PROJECTED	ال محذوفة	CANDIDATE
+S370	3	2	صفة	الطرماح	فِعِلّالٌ	الطِرِمّاحُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ط ر م ح	طرمح	HFN-R06673	6431		PROJECTED	ال محذوفة	CANDIDATE
+S370	4	2	صفة	الشقراق	فِعِلّالٌ	الشِقِرّاقُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ق ر ق	شقرق	HFN-R06587	6236		PROJECTED	ال محذوفة	CANDIDATE
+S371	1	1	صفة	الجحنبار	فَعَنْلالٌ	الجَحَنْبارُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ح ب ر	جحبر				PROJECTED_ROOT_NOT_IN_BANK	ال محذوفة	CANDIDATE
+S371	2	1	صفة	الجعنبار	فَعَنْلالٌ	الجَعَنْبارُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ع ب ر	جعبر	HFN-R06110	5517		PROJECTED	ال محذوفة	CANDIDATE
+S372	1	1	اسم	برناساء	فَعْلالاءُ	بَرْناساءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ر ن س	برنس	HFN-R06006	5267		PROJECTED		CANDIDATE
+S373	1	1	اسم	برنساء	فَعْلَلاءُ	بَرْنَساءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ب ر ن س	برنس	HFN-R06006	5267		PROJECTED		CANDIDATE
+S373	2	1	اسم	عقرباء	فَعْلَلاءُ	عَقْرَباءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ق ر ب	عقرب	HFN-R06788	6611		PROJECTED		CANDIDATE
+S373	3	1	اسم	حرملاء	فَعْلَلاءُ	حَرْمَلاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ر م ل	حرمل	HFN-R06185	5630		PROJECTED		CANDIDATE
+S374	1	1	اسم	القرفصاء	فُعْلُلاءُ	القُرْفُصاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ف ص	قرفص	HFN-R06975	6874		PROJECTED	ال محذوفة	CANDIDATE
+S375	1	1	صفة	طرمساء	فِعْلِلاءُ	طِرْمِساءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ط ر م س	طرمس	HFN-R06675	6433		PROJECTED		CANDIDATE
+S375	2	1	صفة	جلحطاء	فِعْلِلاءُ	جِلْحِطاءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ل ح ط	جلحط				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S376	1	1	اسم	هندباء	فِعْلَلاءُ	هِنْدَباءُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ن د ب	هندب	HFN-R07209	7258		PROJECTED		CANDIDATE
+S380	1	1	اسم	عقربان	فُعْلُلانٌ	عُقْرُبانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ق ر ب	عقرب	HFN-R06788	6611		PROJECTED		CANDIDATE
+S380	2	1	اسم	قردمان	فُعْلُلانٌ	قُرْدُمانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر د م	قردم	HFN-R06957	6854		PROJECTED		CANDIDATE
+S380	3	2	صفة	العردمان	فُعْلُلانٌ	العُرْدُمانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ر د م	عردم	HFN-R06726	6537		PROJECTED	ال محذوفة	CANDIDATE
+S381	1	1	اسم	الحنذمان	فِعْلِلانٌ	الحِنْذِمانُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ن ذ م	حنذم				PROJECTED_ROOT_NOT_IN_BANK	ال محذوفة	CANDIDATE
+S381	2	1	اسم	حدرجان	فِعْلِلانٌ	حِدْرِجانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح د ر ج	حدرج	HFN-R06171	5612		PROJECTED		CANDIDATE
+S382	1	1	اسم	زعفران	فَعْلَلانٌ	زَعْفَرانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز ع ف ر	زعفر	HFN-R06422	6005		PROJECTED		CANDIDATE
+S382	2	2	صفة	شعشعان	فَعْلَلانٌ	شَعْشَعانٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ع ش ع	شعشع	HFN-R07734			PROJECTED		CANDIDATE
+S383	1	1	اسم	جحجبى	فَعْلَلَى	جَحْجَبَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ح ج ب	جحجب	HFN-R07621			PROJECTED		CANDIDATE
+S383	2	1	اسم	قرقرى	فَعْلَلَى	قَرْقَرَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ق ر	قرقر	HFN-R07821			PROJECTED		CANDIDATE
+S383	3	1	اسم	القهقرى	فَعْلَلَى	القَهْقَرَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ه ق ر	قهقر	HFN-R07054	6972		PROJECTED	ال محذوفة	CANDIDATE
+S384	1	1	اسم	الهندبى	فِعْلَلَى	الهِنْدَبَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ن د ب	هندب	HFN-R07209	7258		PROJECTED	ال محذوفة	CANDIDATE
+S385	1	1	اسم	الهربذى	فِعْلِلَى	الهِرْبِذَى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ر ب ذ	هربذ	HFN-R08002			PROJECTED	ال محذوفة	CANDIDATE
+S386	1	1	اسم	السبطرى	فَعَلَّى								LENGTH_MISMATCH	حروف المثال 7 وحروف القالب 4	CANDIDATE
+S386	2	1	اسم	الضبغطى	فَعَلَّى								LENGTH_MISMATCH	حروف المثال 7 وحروف القالب 4	CANDIDATE
+S387	1	1	اسم	الصنفى									NO_TEMPLATE	القالب غير محدَّد في المصدر	CANDIDATE
+S388	1	1	اسم	الصفقى	فِعَلَّى	الصِفَقَّى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ف ق	صفق	HFN-R02883	4228	M02#ROOT_SOURCE_DISPLAY:2173	PROJECTED	ال محذوفة	CANDIDATE
+S388	2	2	صفة	الدفقى	فِعَلَّى	الدِفَقَّى	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ف ق	دفق	HFN-R01593	2203	M02#ROOT_SOURCE_DISPLAY:1191	PROJECTED	ال محذوفة	CANDIDATE
+S391	1	1	اسم	خنثعبة	فَنْعَلٌّ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 4	CANDIDATE
+S391	2	2	صفة	كنتأل	فَنْعَلٌّ								LENGTH_MISMATCH	حروف المثال 5 وحروف القالب 4	CANDIDATE
+S391	3	2	صفة	قنفخر	فَنْعَلٌّ								LENGTH_MISMATCH	حروف المثال 5 وحروف القالب 4	CANDIDATE
+S392	1	1	اسم	كنهبل	فَنَعْلُلٌ	كَنَهْبُلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ك ه ب ل	كهبل	HFN-R07117	7067		PROJECTED		CANDIDATE
+S393	1	1	صفة	حزنبل	فَعَنْلَلٌ	حَزَنْبَلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ح ز ب ل	حزبل				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S393	2	1	صفة	عبنقس	فَعَنْلَلٌ	عَبَنْقَسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ب ق س	عبقس	HFN-R06698	6501		PROJECTED		CANDIDATE
+S393	3	1	صفة	فلنقس	فَعَنْلَلٌ	فَلَنْقَسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ف ل ق س	فلقس	HFN-R06926	6806		PROJECTED		CANDIDATE
+S394	1	1	اسم	عرنتن	فُعُنْلُلٌ	عُرُنْتُنٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ر ت ن	عرتن	HFN-R06722	6533		PROJECTED		CANDIDATE
+S394	2	1	اسم	قرنفل	فُعُنْلُلٌ	قُرُنْفُلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ف ل	قرفل	HFN-R07979			PROJECTED		CANDIDATE
+S397	1	1	صفة	العلكد	فُعَّلٌّ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 3	CANDIDATE
+S397	2	1	صفة	الهلقس	فُعَّلٌّ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 3	CANDIDATE
+S397	3	1	صفة	الشنغم	فُعَّلٌّ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 3	CANDIDATE
+S398	1	1	اسم	الهمقع	فُعَّلِلٌ	الهُمَّقِعُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه م ق ع	همقع				PROJECTED_ROOT_NOT_IN_BANK	ال محذوفة	CANDIDATE
+S398	2	1	اسم	الزملق	فُعَّلِلٌ	الزُمَّلِقُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز م ل ق	زملق	HFN-R06438	6024		PROJECTED	ال محذوفة	CANDIDATE
+S398	3	1	اسم	دملص	فُعَّلِلٌ	دُمَّلِصٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د م ل ص	دملص				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S399	1	1	صفة	الشمخر	فِعَّلٌّ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 3	CANDIDATE
+S399	2	1	صفة	الضمخر	فِعَّلٌّ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 3	CANDIDATE
+S399	3	1	صفة	الدبخس	فِعَّلٌّ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 3	CANDIDATE
+S400	1	1		الهمرش	فَعَّلِلٌ	الهَمَّرِشُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه م ر ش	همرش	HFN-R07203	7251		PROJECTED	ال محذوفة	CANDIDATE
+S401	1	1	اسم	الشفلح	فَعَلَّلٌ	الشَفَلَّحُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ش ف ل ح	شفلح	HFN-R06586	6233		PROJECTED	ال محذوفة	CANDIDATE
+S401	2	1	اسم	الهمرجة	فَعَلَّلٌ								LENGTH_MISMATCH	حروف المثال 7 وحروف القالب 4	CANDIDATE
+S401	3	1	اسم	الغطمش	فَعَلَّلٌ	الغَطَمَّشُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	غ ط م ش	غطمش	HFN-R06870	6722		PROJECTED	ال محذوفة	CANDIDATE
+S401	4	2	صفة	العدبس	فَعَلَّلٌ	العَدَبَّسُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع د ب س	عدبس				PROJECTED_ROOT_NOT_IN_BANK	ال محذوفة	CANDIDATE
+S401	5	2	صفة	العملس	فَعَلَّلٌ	العَمَلَّسُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع م ل س	عملس	HFN-R06821	6654		PROJECTED	ال محذوفة	CANDIDATE
+S403	1	1	اسم	الصفرق	فُعَلِّلٌ	الصُفَرِّقُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ف ر ق	صفرق				PROJECTED_ROOT_NOT_IN_BANK	ال محذوفة	CANDIDATE
+S403	2	1	اسم	الزمرد	فُعَلِّلٌ	الزُمَرِّدُ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ز م ر د	زمرد	HFN-R08031			PROJECTED	ال محذوفة	CANDIDATE
+S404	1	1	اسم	عربد	فِعْلَلٌّ	عِرْبَدٌّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ر ب د	عربد	HFN-R06718	6529		PROJECTED		CANDIDATE
+S404	2	2	صفة	قرشب	فِعْلَلٌّ	قِرْشَبٌّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ش ب	قرشب	HFN-R06961	6859		PROJECTED		CANDIDATE
+S404	3	2	صفة	الهرشف	فِعْلَلٌّ	الهِرْشَفُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ه ر ش ف	هرشف	HFN-R07179	7215		PROJECTED	ال محذوفة	CANDIDATE
+S404	4	2	صفة	القهقب	فِعْلَلٌّ	القِهْقَبُّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ه ق ب	قهقب	HFN-R07053	6971		PROJECTED	ال محذوفة	CANDIDATE
+S405	1	1	صفة	قسعب	فُعْلُلٌّ	قُسْعُبٌّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق س ع ب	قسعب				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S405	2	1	صفة	قسحب	فُعْلُلٌّ	قُسْحُبٌّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق س ح ب	قسحب	HFN-R06991	6891		PROJECTED		CANDIDATE
+S405	3	1	صفة	طرطب	فُعْلُلٌّ	طُرْطُبٌّ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ط ر ط ب	طرطب	HFN-R06667	6424		PROJECTED		CANDIDATE
+S408	1	1	اسم	سفرجل	فَعَلَّلٌ								LENGTH_MISMATCH	حروف المثال 5 وحروف القالب 4	CANDIDATE
+S408	2	1	اسم	فرزدق	فَعَلَّلٌ								LENGTH_MISMATCH	حروف المثال 5 وحروف القالب 4	CANDIDATE
+S408	3	1	اسم	زبرجد	فَعَلَّلٌ								LENGTH_MISMATCH	حروف المثال 5 وحروف القالب 4	CANDIDATE
+S408	4	2	صفة	شمردل	فَعَلَّلٌ								LENGTH_MISMATCH	حروف المثال 5 وحروف القالب 4	CANDIDATE
+S408	5	2	صفة	همرجل	فَعَلَّلٌ								LENGTH_MISMATCH	حروف المثال 5 وحروف القالب 4	CANDIDATE
+S409	1	1	صفة	قهبلس	فَعْلَلِلٌ	قَهْبَلِسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ه ب ل س	قهبلس				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S409	2	1	صفة	جحمرش	فَعْلَلِلٌ	جَحْمَرِشٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ج ح م ر ش	جحمرش				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S409	3	1	صفة	صهصلق	فَعْلَلِلٌ	صَهْصَلِقٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ص ه ص ل ق	صهصلق	HFN-R07244	6343		PROJECTED		CANDIDATE
+S410	1	1	اسم	قذعمل	فُعَلِّلٌ								LENGTH_MISMATCH	حروف المثال 5 وحروف القالب 4	CANDIDATE
+S410	2	1	اسم	خبعثن	فُعَلِّلٌ								LENGTH_MISMATCH	حروف المثال 5 وحروف القالب 4	CANDIDATE
+S411	1	1	اسم	قرطعب	فِعْلَلٌّ								LENGTH_MISMATCH	حروف المثال 5 وحروف القالب 4	CANDIDATE
+S411	2	1	اسم	حنبتر	فِعْلَلٌّ								LENGTH_MISMATCH	حروف المثال 5 وحروف القالب 4	CANDIDATE
+S411	3	1	اسم	جردحل	فِعْلَلٌّ								LENGTH_MISMATCH	حروف المثال 5 وحروف القالب 4	CANDIDATE
+S412	1	1	اسم	سلسبيل	فَعْلَلِيلٌ	سَلْسَبِيلٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	س ل س ب ل	سلسبل				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S412	2	1	اسم	خندريس	فَعْلَلِيلٌ	خَنْدَرِيسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	خ ن د ر س	خندرس	HFN-R07227	5769		PROJECTED		CANDIDATE
+S412	3	1	اسم	عندليب	فَعْلَلِيلٌ	عَنْدَلِيبٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ن د ل ب	عندلب	HFN-R07250	6668		PROJECTED		CANDIDATE
+S412	4	2	صفة	دردبيس	فَعْلَلِيلٌ	دَرْدَبِيسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	د ر د ب س	دردبس	HFN-R07229	5822		PROJECTED		CANDIDATE
+S413	1	1	اسم	خزعبيل	فُعَلِّيلٌ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 5	CANDIDATE
+S413	2	2	صفة	قذعميل	فُعَلِّيلٌ								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 5	CANDIDATE
+S414	1	1	اسم	عضرفوط	فَعْلَلُولٌ	عَضْرَفُوطٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ع ض ر ف ط	عضرفط				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S414	2	1	اسم	يستعور	فَعْلَلُولٌ	يَسْتَعُورٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ي س ت ع ر	يستعر				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
+S415	1	1	صفة	قبعثرى	فَعَلَّلَى								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 5	CANDIDATE
+S415	2	1	صفة	ضبغطرى	فَعَلَّلَى								LENGTH_MISMATCH	حروف المثال 6 وحروف القالب 5	CANDIDATE
+S416	1	1	صفة	قرطبوس	فِعْلَلُولٌ	قِرْطَبُوسٌ	INFERRED_FROM_TEMPLATE (حركات القالب أُسقطت على حروف المثال؛ ليست ضبطاً منقولاً)	ق ر ط ب س	قرطبس				PROJECTED_ROOT_NOT_IN_BANK		CANDIDATE
